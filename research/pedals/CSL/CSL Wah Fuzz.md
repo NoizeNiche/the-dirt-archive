@@ -26,9 +26,8 @@ CSL's CSL Wah Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Published on January 28, 2009 CSL fuzz-wah foot-controlled treadle Reviews myFXDB user reviews No reviews yet + Add your review Related Sola Sound Wow Pedal Colorsound Wow Pedal Colorsound Wow Pedal (Castledine Reissue) Colorsound Wah-Wah Colorsound Supa Wah Wah Colorsound Wah-Wah Supremo AMP Wah Wah B&M Champion Wah Wah Carlsbro Wah-Wah CMI Wah Wah CSL Wah Wah Euro-Music Wah Wah Eurotec Wah Wah Fairytale Wah Wah G.B.
-Wah Wah Vox "Hastings" Wah-Wah Vox (by Sola Sound) Wah-Wah West Wood Wah Wah Sola Sound Swell Pedal Colorsound Swell Colorsound Supa-Swell B&M Champion Swell Pedal Carlsbro Swell Euro-Music Swell G.B.
-Swell Musikbörsen Swell Vox (by Sola Sound) Swell Pedal West Wood Swell Colorsound Wah-Swell Colorsound Supa Wah-Swell Colorsound Organ Wah-Swell Carlsbro Wah-Swell Evans Wah-Swell G.B.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. CSL Wah Fuzz | Effects Database: https://www.effectsdatabase.com/model/csl/wahfuzz

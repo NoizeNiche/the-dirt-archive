@@ -28,9 +28,8 @@ Red Snapper 4 Knob — Menatone Overdrive Pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Red Snapper 4 Knob — Menatone Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone Red Snapper 4 Knob Back to results Menatone Red Snapper 4 Knob Overdrive The transparent, touch-sensitive Red Snapper overdrive with an added hi-cut control.
-The Red Snapper is Menatone's flagship overdrive, a touch-sensitive drive that debuted in 1996 and became a template for transparent, amp-like overdrive.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Red Snapper 4 Knob PTP | menatone: https://www.menatone.com/product-page/red-snapper-original

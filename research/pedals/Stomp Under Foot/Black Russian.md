@@ -28,9 +28,8 @@ Featuring the original BC547 Transistors, and the exact same vintage capacitors 
 - **Exact part:** Unknown.
 
 ## Sound
-Featuring the original BC547 Transistors, and the exact same vintage capacitors as the original eight screw version, this Black Russian delivers on this particular Russian muff tone.
-Loads of fat, gritty fuzz that to our earstotally hangs with the original inspiration.
-True-bypass, through-hole components and NOS parts round outthis handmade pedal Related products -58% Heavy Electronics – Radio Havana Lo-fi Fuzz $ 88.20 Original price was: $88.20.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Stomp Under Foot Black Russian Fuzz Distortion 2010's - Black: https://reverb.com/item/88906034-stomp-under-foot-black-russian-fuzz-distortion-2010-s-black

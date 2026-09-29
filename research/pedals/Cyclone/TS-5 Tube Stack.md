@@ -7,7 +7,8 @@
 - **Identity:** Cyclone's TS-5 Tube Stack.
 
 ## What this pedal is
-Published on December 15, 2010 Cyclone distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Audioworks F.E.T.
+
+Cyclone's TS-5 Tube Stack is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,8 +27,8 @@ Published on December 15, 2010 Cyclone distortion pedal Reviews myFXDB user revi
 - **Exact part:** Unknown.
 
 ## Sound
-Published on December 15, 2010 Cyclone distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Audioworks F.E.T.
-Distortion Washburn A-D3 Stack In A Box Washburn SX:3 Stack In A Box Digiplay TS-5 Tube Stack (identical, except for the switch) Panther TS-5 Tube Stack (identical, except for the switch) Stinger TS-5 Tube Stack (identical, except for the switch) Cyclone TS-5 Tube Stack (plastic enclosure) Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Cyclone TS-5 Tube Stack | Effects Database: https://www.effectsdatabase.com/model/cyclone/ts5

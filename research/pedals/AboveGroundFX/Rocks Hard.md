@@ -7,7 +7,8 @@
 - **Identity:** AboveGroundFX's Rocks Hard.
 
 ## What this pedal is
-AboveGroundFX browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2010 Summer NAMM 2010 AboveGroundFX Rocks Hard Published on June 19, 2010 AboveGroundFX distortion pedal Summer NAMM 2010 Summer NAMM 2010 picture by What's That Dude Play?
+
+AboveGroundFX's Rocks Hard is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ AboveGroundFX browse by type distortion/fuzz/overdrive distortion browse by encl
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-AboveGroundFX browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal events 2010 Summer NAMM 2010 AboveGroundFX Rocks Hard Published on June 19, 2010 AboveGroundFX distortion pedal Summer NAMM 2010 Summer NAMM 2010 picture by What's That Dude Play?
-SNAMM 2010 Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2010-06-29 Premier Guitar Summer NAMM '10 - AboveGround FX Rocks Hard Distortion, Ropez PH Phaser & Tap Tremolo Demos 10:38 2010-06-20 What's That Dude Play?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. AboveGroundFX Rocks Hard | Effects Database: https://www.effectsdatabase.com/model/aboveground/rockshard

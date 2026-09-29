@@ -7,7 +7,8 @@
 - **Identity:** Dwarfcraft Devices's Gears.
 
 ## What this pedal is
-Dwarfcraft Devices browse by type eq/excite/filter/wah filter browse by type pitch/octave octaver octaver (1 octave down) browse by enclosure pedal Dwarfcraft Devices Gears Published on February 9, 2015 Dwarfcraft Devices filter octaver (1 octave down) foot-controlled pedal Information Dwarfcraft Devices (press release, February 9, 2015) Gears is the second coming of the Robot Devil, with 100% more synth love.
+
+Dwarfcraft Devices's Gears is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

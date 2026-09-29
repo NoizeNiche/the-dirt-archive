@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-☰ Connect My Gear Lists My Pedalboards Settings Logout Gear Catalog Pedalboards Pedalboard Planner ← Gear Catalog Fuzz Add To My Pedalboard Add To List Daredevil Pedals Northern Creeper Report incorrect information The Northern Creeper Fuzz is a medium to high gain silicon fuzz built for classic, vintage tone.
+Daredevil Pedals's Northern Creeper is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

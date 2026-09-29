@@ -7,7 +7,8 @@
 - **Identity:** CrockettDial Productions's The Kwaker.
 
 ## What this pedal is
-Published on August 20, 2013 CrockettDial Productions fuzz pedal Information CrockettDial Productions The Kwaker (pronounced much in the same fashion that a fine feathered friend might) immaculately embodies that elusive and mystical enigma that is fuzz.
+
+CrockettDial Productions's The Kwaker is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on August 20, 2013 CrockettDial Productions fuzz pedal Information Cro
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on August 20, 2013 CrockettDial Productions fuzz pedal Information CrockettDial Productions The Kwaker (pronounced much in the same fashion that a fine feathered friend might) immaculately embodies that elusive and mystical enigma that is fuzz.
-Dipping into the voodoo and mojo of late 60's fuzz effects, the Kwaker faithfully delivers that seemingly magical tone that is so reverently sought after in reproduction after reproduction.
-Incorporating novel approaches and vintage roots, the Kwaker deals out that creamy and deliciously textured fuzz that once dwelt only within obsolete transistors and burnt out tubes.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. CrockettDial Productions The Kwaker | Effects Database: https://www.effectsdatabase.com/model/crockettdial/kwaker

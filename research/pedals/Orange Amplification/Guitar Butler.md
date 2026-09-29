@@ -7,7 +7,8 @@
 - **Identity:** Orange Amplification's Guitar Butler.
 
 ## What this pedal is
-Orange Amplification Guitar Butler: Practical Setup Tone Guide | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / guitars guitars Orange Amplification Guitar Butler: Practical Setup Tone Guide By liam-carter June 4, 2026 Orange Amplification Introduces The Guitar Butler: What Guitarists Need to Know The Orange Amplification Guitar Butler is not an amplifier, pedal, or effects unit — it is a passive, analog signal management device designed to solve real-world impedance and level mismatches between guitars, pedals, and amplifiers.
+
+Orange Amplification's Guitar Butler is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Orange Amplification Guitar Butler: Practical Setup Tone Guide | GearStrings GEA
 - **Exact part:** Unknown.
 
 ## Sound
-Orange Amplification Guitar Butler: Practical Setup Tone Guide | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / guitars guitars Orange Amplification Guitar Butler: Practical Setup Tone Guide By liam-carter June 4, 2026 Orange Amplification Introduces The Guitar Butler: What Guitarists Need to Know The Orange Amplification Guitar Butler is not an amplifier, pedal, or effects unit — it is a passive, analog signal management device designed to solve real-world impedance and level mismatches between guitars, pedals, and amplifiers.
-For guitarists seeking consistent tone when switching between high-impedance passive pickups and low-impedance pedalboard inputs, the Guitar Butler provides transparent buffering, level matching, and ground-lift isolation without coloration.
-Its relevance lies in resolving common tone-suck, noise, and volume drop issues that occur when chaining multiple true-bypass pedals or using long cable runs — especially with vintage-style single-coils or high-output humbuckers.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Orange Amplification Guitar Butler: Practical Setup Tone Guide | GearStrings: https://gearstrings.com/guitars/orange-guitar-butler-guide

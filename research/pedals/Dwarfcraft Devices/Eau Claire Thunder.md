@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / guitars guitars Dwarfcraft Devices Releases Limited Edition Eau Claire Thunder: A Deep Dive for Guitarists and Tone Connoisseurs By Marcus Reeve July 14, 2026 What Is the Eau Claire Thunder—and Why Should Guitarists Care?
+Dwarfcraft Devices's Eau Claire Thunder is cataloged in the archive as a Distortion / Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

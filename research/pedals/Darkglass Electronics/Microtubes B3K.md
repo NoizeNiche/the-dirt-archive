@@ -7,7 +7,8 @@
 - **Identity:** Darkglass Electronics's Microtubes B3K.
 
 ## What this pedal is
-Darkglass Electronics browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Darkglass Electronics Microtubes B3K - CMOS Bass Overdrive Published on September 12, 2010 Darkglass Electronics overdrive pedal 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2011, Finland 2011, Finland 2011, Finland 2011, Finland 2012, USA 2012, USA 2012, USA 2012, USA 2012, USA 2012, USA v2 v2 v2 v2 Information The Darkglass Electronics Microtubes B3K is a compact bass overdrive pedal that uses a hybrid JFET and CMOS gain structure to produce a wide range of saturated tones while maintaining the fundamental character and low frequency content of the instrument.
+
+Darkglass Electronics's Microtubes B3K is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +28,8 @@ Darkglass Electronics browse by type distortion/fuzz/overdrive overdrive browse 
 - **Exact part:** Unknown.
 
 ## Sound
-Darkglass Electronics Microtubes B3K - CMOS Bass Overdrive | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Darkglass Electronics browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Darkglass Electronics Microtubes B3K - CMOS Bass Overdrive Published on September 12, 2010 Darkglass Electronics overdrive pedal 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2010, Finland 2011, Finland 2011, Finland 2011, Finland 2011, Finland 2012, USA 2012, USA 2012, USA 2012, USA 2012, USA 2012, USA v2 v2 v2 v2 Information The Darkglass Electronics Microtubes B3K is a compact bass overdrive pedal that uses a hybrid JFET and CMOS gain structure to produce a wide range of saturated tones while maintaining the fundamental character and low frequency content of the instrument.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Darkglass Electronics Microtubes B3K CMOS Bass Overdrive: https://reverb.com/p/darkglass-electronics-microtubes-b3k-cmos-bass-overdrive

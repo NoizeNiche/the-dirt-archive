@@ -7,7 +7,8 @@
 - **Identity:** Wampler Pedals's tcd.
 
 ## What this pedal is
-Published on November 28, 2025 Wampler Pedals overdrive pedal Information The Compulsion Drive (TCD) by Wampler Pedals is a high-performance overdrive and distortion pedal designed by Brian Wampler as a refined reinterpretation of one of the most iconic distortion circuits in modern guitar history.
+
+Wampler Pedals's tcd is cataloged in the archive as a Distortion / Overdrive pedal.
 
 ## Colorways
 - Constructed in the USA using high-grade components, The Compulsion Drive features a rugged, road-ready enclosure with a premium metallic finish.
@@ -27,9 +28,8 @@ Published on November 28, 2025 Wampler Pedals overdrive pedal Information The Co
 - **Exact part:** Unknown.
 
 ## Sound
-Published on November 28, 2025 Wampler Pedals overdrive pedal Information The Compulsion Drive (TCD) by Wampler Pedals is a high-performance overdrive and distortion pedal designed by Brian Wampler as a refined reinterpretation of one of the most iconic distortion circuits in modern guitar history.
-Built to capture the dynamic response, harmonic richness, and amp-like feel of the original design, The Compulsion Drive merges raw tonal aggression with sophisticated EQ control.
-Its circuit architecture allows for a wide range of gain textures, from articulate low-gain crunch to harmonically dense high-gain distortion, while retaining exceptional touch sensitivity and note definition.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. tcd | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tcd/

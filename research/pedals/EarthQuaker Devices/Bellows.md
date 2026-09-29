@@ -26,9 +26,8 @@ Devices Dealers Blog About Studios OnomatoPedal Merch EarthQuaker Devices Info E
 - **Exact part:** Unknown.
 
 ## Sound
-Bellows Fuzz Driver — EarthQuaker Devices Contact Us Use the form on the right to contact us.
-Devices Dealers Blog About Studios OnomatoPedal Merch EarthQuaker Devices Info Email Search Menu EarthQuaker Devices Info Email Search Devices Dealers Blog About Studios OnomatoPedal Merch Bellows Fuzz Driver THIS DEVICE IS NO LONGER IN PRODUCTION Bellows® Fuzz Driver Greetings, dungeon masters!
-Stoke the fires in the seventh circle of tone with the Bellows!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Bellows Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/bellows

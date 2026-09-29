@@ -7,7 +7,8 @@
 - **Identity:** Crock's SD-2 Super Over Drive.
 
 ## What this pedal is
-Published on March 4, 2007 Crock overdrive pedal grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's SD-2 Super Over Drive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - Published on March 4, 2007 Crock overdrive pedal grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
@@ -26,8 +27,8 @@ Published on March 4, 2007 Crock overdrive pedal grey, blue print grey, blue pri
 - **Exact part:** Unknown.
 
 ## Sound
-Published on March 4, 2007 Crock overdrive pedal grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print grey, blue print Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
-This site contains affiliate links for which I may be compensated Crock SD-2 Super Over Drive for sale on eBay:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock SD-2 Super Over Drive | Effects Database: https://www.effectsdatabase.com/model/crock/sd2

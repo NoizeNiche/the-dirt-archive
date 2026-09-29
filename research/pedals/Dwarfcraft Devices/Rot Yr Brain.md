@@ -26,9 +26,8 @@ Each of the Rot Yr Brain's joysticks controls a pair of square wave oscillators 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Dwarfcraft Devices browse by type sound source noise browse by type sound source oscillator browse by enclosure pedal Dwarfcraft Devices Rot Yr Brain Published on July 30, 2009 Dwarfcraft Devices noise oscillator pedal Information Dwarfcraft Devices The Dwarfcraft Rot Yr Brain guitar effects volume pedal functions as a 4-oscillator square-wave synthesizer.
-Features: Two joysticks Two volume knobs Two LED lights Wide range of cool noises to control and customize Video all | by manufacturer | not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2009-12-15 MagicLawnChair rot yr brain with i love fuzz friends a murf and dmm fun!!!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Dwarfcraft Devices Rot Yr Brain - What To Know Where To Buy: https://equipboard.com/items/dwarfcraft-devices-rot-yr-brain

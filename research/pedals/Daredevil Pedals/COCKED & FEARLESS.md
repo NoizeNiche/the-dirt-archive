@@ -25,9 +25,8 @@ Daredevil Pedals's COCKED & FEARLESS is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Daredevil Pedals browse by type distortion/fuzz/overdrive distortion browse by type eq/excite/filter/wah wah wah browse by enclosure pedal events 2017 Summer NAMM 2017 Daredevil Pedals Cocked Fearless Published on July 18, 2017 Daredevil Pedals distortion wah wah manual pedal Summer NAMM 2017 Information Daredevil Pedals 2 great circuits.
-The Fearless distortion boasts dual channel gain with Hi and Low settings, coupled with the classic fixed wah tones of the Atomic Cock.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Daredevil Pedals Cocked Fearless - What To Know Where To Buy: https://equipboard.com/items/cocked-fearless

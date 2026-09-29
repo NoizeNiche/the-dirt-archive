@@ -7,7 +7,8 @@
 - **Identity:** Crown's Super Fuzz.
 
 ## What this pedal is
-Crown browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Super Fuzz Published on August 30, 2009 Crown fuzz pedal Information The Crown Super Fuzz is one of several rebranded versions of the Japanese OEM fuzz circuit sold under different names in the late 1960s and early 1970s.
+
+Crown's Super Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - 9540 Fuzz Master Mica-Tone Fuzz Master Oscar FY-6 Fuzz Master Rands FY-6 Fuzz Zenta FY-6 Fuzz Master Shaftesbury Duo Fuzz Shaftesbury 2025 Duo Fuzz Shaftesbury 2025 Duo Fuzz - Heritage Edition Teisco TF-1 Fuzz Tempo TR-6 Fuzz (v1: Honey) Univox U-1095 Super-Fuzz (v1: Honey, v2: ?) 73 Effects Super-Fuzz Analog Fox Super Fuzz Animal Factory Chemical Burn - Octave Fuzz Black Candy Effects SuperFuzz Deluxe Bla
@@ -27,9 +28,8 @@ Crown browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Cr
 - **Exact part:** Unknown.
 
 ## Sound
-Crown Super Fuzz | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Crown browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Crown Super Fuzz Published on August 30, 2009 Crown fuzz pedal Information The Crown Super Fuzz is one of several rebranded versions of the Japanese OEM fuzz circuit sold under different names in the late 1960s and early 1970s.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crown Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/crown/superfuzz

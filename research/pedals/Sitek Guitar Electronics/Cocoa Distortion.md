@@ -7,7 +7,8 @@
 - **Identity:** Sitek Guitar Electronics's Cocoa Distortion.
 
 ## What this pedal is
-Published on August 29, 2018 Sitek Guitar Electronics distortion overdrive pedal Information Sitek Guitar Electronics Cocoa is a versatile gain pedal, offering anything from a clean boost, smooth overdrive to harmonic-rich distortion.
+
+Sitek Guitar Electronics's Cocoa Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

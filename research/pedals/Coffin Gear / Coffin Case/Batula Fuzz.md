@@ -18,9 +18,8 @@ The surviving public product documentation reviewed for this pass does not provi
 Audiofanzine's technical sheet likewise states that no technical specifications were available for the product at the time of its catalog entry.
 
 ## Sound
-The exact-model sources establish the pedal as a fuzz, but do not provide enough reliable model-specific description to characterize its voicing without adding unsupported interpretation.
 
-A Guitar World demonstration titled **Coffin Case Batfuzz Distortion Pedal** was published on June 1, 2009 and explicitly presents the pedal's features. Because the surviving video title uses **Batfuzz** while the archive model is **Batula Fuzz**, the archive treats the video as supporting historical visual/demo context rather than using it to invent circuit or tonal details.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Versions and factory options
 - Effects Database published the Batula Fuzz record on October 15, 2008.

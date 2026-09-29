@@ -28,9 +28,8 @@ Greer Amps Hammer Brand New - Gbase Gbase - Guitars Amps More Gear Dealers Radar
 - **Exact part:** Unknown.
 
 ## Sound
-Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / music theory music theory Greer Amps Introduces The Black Tiger Delay and Hammer Distortion: A Dual-Pedal Innovation for Tone-Conscious Musicians By Marcus Reeve July 18, 2026 Introduction: Two Pedals, One Philosophy Greer Amps has unveiled its latest dual-pedal release: the Black Tiger Delay and the Hammer Distortion.
-This hybrid topology delivers the organic decay and saturation of classic BBD delays (e.g., Electro-Harmonix Memory Man) while eliminating clock noise, pitch drift, and inconsistent repeats that plague purely analog designs.
-The MN3207 operates at ±15V rails internally, doubling the headroom of standard 9V BBD implementations and reducing distortion artifacts by 18 dB below THD+N thresholds measured at 1 kHz/0 dBu.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Greer Amps Hammer - Reverb: https://reverb.com/item/97861269-greer-amps-hammer

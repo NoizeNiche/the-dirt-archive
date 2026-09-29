@@ -26,9 +26,8 @@ The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP
 - **Exact part:** Unknown.
 
 ## Sound
-A rich and full sound with natural compression without any high-end loss and a thick saturated tone.
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Vemuram Karen Back to results Vemuram Karen Overdrive Brass-body overdrive voiced after cranked Marshall JMP and JCM amps.
-The Karen is a Vemuram overdrive that captures the sound of cranked Marshall JMP and JCM amplifiers, from crunchy rhythm to fuller lead gain, built into the brand's machined brass body.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Vemuram Karen Overdrive - What To Know & Where To Buy: https://equipboard.com/items/vemuram-karen-overdrive

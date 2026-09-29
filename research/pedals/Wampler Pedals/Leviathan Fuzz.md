@@ -7,7 +7,8 @@
 - **Identity:** Wampler Pedals's Leviathan Fuzz.
 
 ## What this pedal is
-Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview preview Information Wampler Pedals A consistent and versatile fuzz that unleashes your sound's inner monster.
+
+Wampler Pedals's Leviathan Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +28,8 @@ Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview previ
 - **Exact part:** Unknown.
 
 ## Sound
-Published on March 5, 2011 Wampler Pedals fuzz pedal design design preview preview Information Wampler Pedals A consistent and versatile fuzz that unleashes your sound's inner monster.
-What Wampler Pedals does is make pedals that retain your tone and add to it, not smash it into a million pieces.
-Once they had got over the sheer brutality of it, they noticed something strange, something about the sound.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Wampler Pedals Leviathan Fuzz | Effects Database: https://www.effectsdatabase.com/model/wampler/leviathan

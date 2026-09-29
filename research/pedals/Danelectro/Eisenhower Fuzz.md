@@ -7,7 +7,8 @@
 - **Identity:** Danelectro's Eisenhower Fuzz.
 
 ## What this pedal is
-intheblues 29,385 views 08:50 Danelectro The Breakdown Overdrive Pedal
+
+Danelectro's Eisenhower Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

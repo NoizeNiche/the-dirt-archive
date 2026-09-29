@@ -7,7 +7,8 @@
 - **Identity:** Cyclone's OD-30 Overdrive.
 
 ## What this pedal is
-Published on January 19, 2005 Cyclone overdrive pedal picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister Reviews myFXDB user reviews No reviews yet + Add your review Related Austin AE-10 Over Drive Cutec OD-01 Over Drive Loco Box OD-01 Over Drive Redson Overdrive 12 Studio Series OD-01 Over Drive Digiplay OD-30 Overdrive (identical, except for the switch) Panther OD-30 Overdrive (identical, except for the switch) Rayder OD-30 Overdrive (identical, except for the switch) Stinger OD-30 Overdrive (identical, except for the switch) Cyclone OD-30 Overdrive (plastic) Epiphone EP-OD-30 Overdrive (plastic) Where to find one?
+
+Cyclone's OD-30 Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,8 +27,8 @@ Published on January 19, 2005 Cyclone overdrive pedal picture by Electric Mister
 - **Exact part:** Unknown.
 
 ## Sound
-Published on January 19, 2005 Cyclone overdrive pedal picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister picture by Electric Mister Reviews myFXDB user reviews No reviews yet + Add your review Related Austin AE-10 Over Drive Cutec OD-01 Over Drive Loco Box OD-01 Over Drive Redson Overdrive 12 Studio Series OD-01 Over Drive Digiplay OD-30 Overdrive (identical, except for the switch) Panther OD-30 Overdrive (identical, except for the switch) Rayder OD-30 Overdrive (identical, except for the switch) Stinger OD-30 Overdrive (identical, except for the switch) Cyclone OD-30 Overdrive (plastic) Epiphone EP-OD-30 Overdrive (plastic) Where to find one?
-This site contains affiliate links for which I may be compensated Cyclone OD-30 Overdrive for sale on eBay:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Cyclone OD-30 Overdrive | Effects Database: https://www.effectsdatabase.com/model/cyclone/od30

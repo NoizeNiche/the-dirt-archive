@@ -27,9 +27,8 @@ In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics,
 - **Exact part:** Unknown.
 
 ## Sound
-Its 3 gain stages and powerful post-distortion EQ controls deliver a flexible high gain experience that is reminiscent of big hair and pointy guitars.
-In other words, the Hot-British V9 is a Plexi-in-a-box packed full of harmonics, sustain and balls to the wall distortion.
-Plexi-Drive Deluxe V2 Overdrive Back To Top Sugaree Licks About Us Special thanks to: Gianca at FA Chords for amazing chord images Contact Us at Shawn@SugareeLicks.com © Sugaree Licks 2026 Website Design & Hosting by AO Johnson Design
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Radial ToneBone Hot-British V9 Distortion - Reverb: https://reverb.com/p/radial-tonebone-hot-british-v9-distortion

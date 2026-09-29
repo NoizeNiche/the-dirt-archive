@@ -7,7 +7,8 @@
 - **Identity:** Dwarfcraft Devices's Hair of the Dog.
 
 ## What this pedal is
-Dwarfcraft Devices browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Dwarfcraft Devices Hair Of The Dog Published on October 1, 2009 Dwarfcraft Devices fuzz pedal Video all | by manufacturer | not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2012-06-18 Dwarfcraft Devices Dwarfcraft Hair of the Dog 2012 10:53 2011-08-07 grindingmass Dwarfcraft Devices Hair of the dog Guitar Demo 8:37 2011-08-07 grindingmass Dwarfcraft Devices Hair of the dog Bass demo 5:09 2010-11-21 MagicLawnChair im coming for you, motherfucker dwarfcraft devices demo 10:01 2009-08-01 Dwarfcraft Devices Hair of the Dog 9:58 Reviews myFXDB user reviews No reviews yet + Add your review Links Dwarfcraft Devices Dwarfcraft Devices Hair Of The Dog Where to find one?
+
+Dwarfcraft Devices's Hair of the Dog is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - Only 3 available - due to the hand made nature of this process, finish/design may vary slightly from pedal to pedal.

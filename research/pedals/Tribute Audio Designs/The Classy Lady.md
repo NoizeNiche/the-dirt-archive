@@ -7,7 +7,8 @@
 - **Identity:** Tribute Audio Designs's The Classy Lady.
 
 ## What this pedal is
-Published on September 4, 2012 Tribute Audio Designs overdrive pedal Information Tribute Audio Designs The Classy Lady is a tribute to the classic TS-808 Tube Screamer, and to Jack Orman 's Son of Screamer.
+
+Tribute Audio Designs's The Classy Lady is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - Features: Handmade in Canada - one at a time Die Cast Aluminum Enclosure Rugged Powder coat Finish Neutrik Jacks 2.1mm (Boss Style) DC power jack - Negative ground for easy daisy-chaining Filtered Power Supply for quiet operation Circuit Protection True Mechanical Bypass Switching Unbelievably amazing tone Controls: Volume Tone Drive Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2015-09-14 Tribute Audio Designs Tribute Audio - Classy Lady/Fresh Squeeze, El Verbo 3:58 2015-09-14 Tribute Audio Designs Classy Lady Overdrive - Tribute Audio Designs 2:05 Reviews myFXDB user reviews No reviews yet + Add your review Links Tribute Audio Designs Tribute Audio Designs Classy Lady - Classic Overdrive Related Maxon OD-801 D & S Distortion/Sustainer Maxon OD-802 D & S II Distortion/Sustainer Ibanez Distortion Sustainer (never in production?) Ibanez OD-850 Overdrive (circuit based on Big Muff Pi) Ibanez OD-850 Overdrive (reissue) (2016 reissue with LED) Ibanez OD-850 Overdrive El Musico Loco 74 Overdrive (copy of '74 Ibanez Overdrive) Hudson Electronics UK Overdrive Eight Fifty Black Cat D&S (based on Maxon D&S?) Ibanez OD-855 Overdrive II (brand unknown) no.
@@ -29,9 +30,8 @@ Published on September 4, 2012 Tribute Audio Designs overdrive pedal Information
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on September 4, 2012 Tribute Audio Designs overdrive pedal Information Tribute Audio Designs The Classy Lady is a tribute to the classic TS-808 Tube Screamer, and to Jack Orman 's Son of Screamer.
-Arguably one of the most versatile and popular pedals of all time, the Tube Screamer is known for its tube like breakup, while retaining the clarity of the original signal.
-This pedal gives you the grit without ever getting muddy, even when playing chords.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Tribute Audio Designs Classy Lady - Classic Overdrive | Effects Database: https://www.effectsdatabase.com/model/tribute/classylady

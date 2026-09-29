@@ -7,7 +7,8 @@
 - **Identity:** Fjord Fuzz's Gjallarhorn.
 
 ## What this pedal is
-Listen online for free on SoundCloud SoundCloud JavaScript is disabled You need to enable JavaScript to use SoundCloud Show me how to enable it Fjord Fuzz GJALLARHORN on BASS by Fuzzonaut published on 2019-12-06T12:43:47Z Same lame bass loop going through the Fjord Fuzz GJALLARHORN while mindlessly turning knobs.
+
+Fjord Fuzz's Gjallarhorn is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +28,8 @@ Listen online for free on SoundCloud SoundCloud JavaScript is disabled You need 
 - **Exact part:** Unknown.
 
 ## Sound
-Stream Fjord Fuzz GJALLARHORN on BASS by Fuzzonaut
-Listen online for free on SoundCloud SoundCloud JavaScript is disabled You need to enable JavaScript to use SoundCloud Show me how to enable it Fjord Fuzz GJALLARHORN on BASS by Fuzzonaut published on 2019-12-06T12:43:47Z Same lame bass loop going through the Fjord Fuzz GJALLARHORN while mindlessly turning knobs.
-Genre Bass Demo Users who like Fjord Fuzz GJALLARHORN on BASS Users who reposted Fjord Fuzz GJALLARHORN on BASS Playlists containing Fjord Fuzz GJALLARHORN on BASS More tracks like Fjord Fuzz GJALLARHORN on BASS License: all-rights-reserved Your current browser isn't compatible with SoundCloud.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Fjord Fuzz Gjallarhorn 2019 - Reverb: https://reverb.com/item/31268215-fjord-fuzz-gjallarhorn-2019

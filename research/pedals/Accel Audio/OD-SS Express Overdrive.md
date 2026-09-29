@@ -7,7 +7,8 @@
 - **Identity:** Accel Audio's OD-SS Express Overdrive.
 
 ## What this pedal is
-Accel Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Accel OD-SS Express Overdrive Published on September 24, 2014 Accel Audio overdrive pedal Information Accel Audio Accel's OD-SS Express Overdrive, delivers those traditional overdrive tones using the classic JRC 4558 chip, at a fraction of the cost.
+
+Accel Audio's OD-SS Express Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Accel Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosu
 - **Exact part:** Unknown.
 
 ## Sound
-Accel OD-SS Express Overdrive | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Accel Audio browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Accel OD-SS Express Overdrive Published on September 24, 2014 Accel Audio overdrive pedal Information Accel Audio Accel's OD-SS Express Overdrive, delivers those traditional overdrive tones using the classic JRC 4558 chip, at a fraction of the cost.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Accel OD-SS Express Overdrive | Effects Database: https://www.effectsdatabase.com/model/accel/od

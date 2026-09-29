@@ -26,9 +26,8 @@ Each Chelsea is handmade at EarthQuaker Devices headquarters in always sunny Akr
 - **Exact part:** Unknown.
 
 ## Sound
-EarthQuaker Devices Info Email Search Menu EarthQuaker Devices Info Email Search Devices Dealers Blog About Studios OnomatoPedal Merch Chelsea Low End Fuzz Driver Sometimes pedals can change.
-In this case, we’re pretty sure all the above happened to the fuzz pedal that made its way to James Murphy and ended up finding a forever home with LCD Soundsystem.
-It still retains the familiar foundation of the classic fuzz it was intended to be but something special happened to it over the years and it has very much grown into its own thing.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Chelsea Low End Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/chelsea

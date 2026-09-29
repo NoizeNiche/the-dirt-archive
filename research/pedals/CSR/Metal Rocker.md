@@ -7,7 +7,8 @@
 - **Identity:** CSR's Metal Rocker.
 
 ## What this pedal is
-Published on April 28, 2006 CSR distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Century SHM-8 Heavy Metal Music-Son SHM-8 Heavy Metal Century Metal Rocker CSR Metal Rocker Denio MR-70 Metal Rocker Dixon EP-70 Heavy Metal Dixon EP-70 Metal Rocker Lazer LE-024 Metal Rocker Maxtone MR-70 Metal Rocker Maxtone Soundtank Metal Rocker Maxx MR-70 Metal Rocker Rockson MR-70 Metal Rocker Session Heavy Metal VShock HM-70 Heavy Metal Denio Soundtank STMR-10 Metal Rocker Lazer Soundtank LE-036 Metal Rocker Where to find one?
+
+CSR's Metal Rocker is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,7 +27,8 @@ Published on April 28, 2006 CSR distortion pedal Reviews myFXDB user reviews No 
 - **Exact part:** Unknown.
 
 ## Sound
-Published on April 28, 2006 CSR distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Related Century SHM-8 Heavy Metal Music-Son SHM-8 Heavy Metal Century Metal Rocker CSR Metal Rocker Denio MR-70 Metal Rocker Dixon EP-70 Heavy Metal Dixon EP-70 Metal Rocker Lazer LE-024 Metal Rocker Maxtone MR-70 Metal Rocker Maxtone Soundtank Metal Rocker Maxx MR-70 Metal Rocker Rockson MR-70 Metal Rocker Session Heavy Metal VShock HM-70 Heavy Metal Denio Soundtank STMR-10 Metal Rocker Lazer Soundtank LE-036 Metal Rocker Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. CSR Metal Rocker | Effects Database: https://www.effectsdatabase.com/model/csr/metalrocker

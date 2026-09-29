@@ -7,7 +7,8 @@
 - **Identity:** Absolutely Analog's Ratzo.
 
 ## What this pedal is
-Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
+
+Absolutely Analog's Ratzo is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
@@ -28,9 +29,8 @@ Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Absolutely Analog browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal Absolutely Analog Ratzo Published on March 19, 2008 Absolutely Analog distortion pedal Information Absolutely Analog Absolutely Analog's "Ratzo" - Picture the original black box with some major improvements.
-The tone of legends in a brand new box!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Absolutely Analog Ratzo | Effects Database: https://www.effectsdatabase.com/model/absolutelyanalog/rat

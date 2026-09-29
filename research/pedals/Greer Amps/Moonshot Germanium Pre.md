@@ -26,9 +26,8 @@
 - **Exact part:** Unknown.
 
 ## Sound
-Featuring two controls, the Moonshot has a great tonal range, and can provide wonderful texture, when pushing the front end of an amplifier.
-The Master Volume control allows the user to push an amp into snarly overdrive.
-Media Videos Official Product Video (EN) Demo by Ikebe Channel｜池部楽器店 (JA) Reviews Review by reddit /guitarpedals (EN) Review by The Gear Page (EN) Links Product Page Technical data Width 000.00 mm Depth 000.00 mm Height 000.00 mm Circuit type analog Voltage 9V DC, center negative Current 5mA More pedals from Greer Amps PREAMP OVERDRIVE PREAMP OVERDRIVE Greer Amps Soma 63 BOOSTER OVERDRIVE BOOSTER OVERDRIVE Greer Amps Sure Shot Clipping Boost PREAMP OVERDRIVE PREAMP OVERDRIVE Greer Amps Royal Velvet DISTORTION DISTORTION Greer Amps Gorilla Warfare MKII All Greer Amps Pedals Products Pedalboards All-In-One Patchbays QuickMount PedalSafe Power Supplies and Power Cables and Connections Accessories Gear Build your own board Board Configurator PedalPedia Pedalboard Gallery QuickMount Finder Services Find a dealer Find a distributor Frequently Asked Questions Contact Current catalog News Community RockBoard Artists Achievements Your Activity Overview ©2026 Warwick GmbH Co.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Moonshot Germanium Pre by Greer Amps | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Greer-Amps/Moonshot-Germanium-Pre/68979541/

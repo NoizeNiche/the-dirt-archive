@@ -26,9 +26,8 @@ Prescription Electronics's Face Lift is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Forums Specialty Area The Tone Zone and Gig Rigs JavaScript is disabled.
-Prescription Electronics Face Lift report Thread starter Thread starter frisco Start date Start date Sep 15, 2003 Sep 15, 2003 #1 frisco Formerly greeny Joined Jun 21, 2002 Messages 801 i have borrowed for a couple of days a friend's fuzz face clone, the FACE LIFT from prescription electronics.
-The pedal comes with 2 switches one for fuzz and the other with octave fuzz ala octavia.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Prescription Electronics Face Lift 1990s - Early 3 Knob | Reverb: https://reverb.com/item/92037850-prescription-electronics-face-lift-1990s-early-3-knob-version-white

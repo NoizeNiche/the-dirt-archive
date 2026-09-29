@@ -26,9 +26,8 @@ The Torn's Peaker (the name is a spoonerism of 'Torn Speaker') is a silicon-base
 - **Exact part:** Unknown.
 
 ## Sound
-Torn's Peaker (125B) — Devi Ever: FX Fuzz Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Devi Ever: FX Torn's Peaker (125B) Back to results Devi Ever: FX Torn's Peaker (125B) Fuzz Silicon fuzz with crunchy overdrive character in larger 125B enclosure, ideal for shoegaze and stoner metal.
-Devi Ever has been building boutique guitar pedals by hand since 2003, creating some of the most sought-after fuzz tones used by artists like My Bloody Valentine, Nine Inch Nails, and Wilco.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Torn's Peaker (125B) — Devi Ever: FX Fuzz Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/devi-ever-fx/torn-s-peaker-125b

@@ -7,7 +7,8 @@
 - **Identity:** TC Electronic's Röttweiler Distortion.
 
 ## What this pedal is
-TC Electronic browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal TC Electronic Röttweiler - Metal Distortion Published on October 31, 2011 TC Electronic distortion pedal Information TC Electronic press release (October 31, 2011) TC Electronic Announces the Ultimate High-gain Guitar Pedal - Röttweiler Distortion From classic power metal over ultra-tight thrash riffs to a complete riot of unleashed power, this pedal is the ultimate one-stop station for all things heavy!
+
+TC Electronic's Röttweiler Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ TC Electronic browse by type distortion/fuzz/overdrive distortion browse by encl
 - **Exact part:** Unknown.
 
 ## Sound
-TC Electronic Röttweiler - Metal Distortion | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-TC Electronic browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal TC Electronic Röttweiler - Metal Distortion Published on October 31, 2011 TC Electronic distortion pedal Information TC Electronic press release (October 31, 2011) TC Electronic Announces the Ultimate High-gain Guitar Pedal - Röttweiler Distortion From classic power metal over ultra-tight thrash riffs to a complete riot of unleashed power, this pedal is the ultimate one-stop station for all things heavy!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. TC Electronic Röttweiler Distortion - What To Know Where To Buy: https://equipboard.com/items/tc-electronic-rottweiler-distortion

@@ -7,7 +7,8 @@
 - **Identity:** Crushsound's Farmer's Mill.
 
 ## What this pedal is
-Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal Information The Crushsound Farmer's Mill is a handmade analog guitar effects pedal developed to produce controlled "broken sound" textures by introducing irregular signal degradation, interruption, and instability.
+
+Crushsound's Farmer's Mill is cataloged in the archive as a Distortion / Fuzz / Overdrive pedal.
 
 ## Colorways
 - The pedal is constructed as a heavy-duty unit with a steel enclosure, powder-coated finish, and true bypass switching.
@@ -28,9 +29,8 @@ Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Crushsound Farmer's Mill / Music by Crushsound 2013-09-23T18:52:22Z Music: Jedrzej Lewandowski Arrangement: Jedrzej Lewandowski & Jakub Nowak Gear used: -Mac, Logic X Pro, Harrison Mixbus -Crushsound Farmer's Mill -Crushsound Ceramic Slides -Fender Hot Rod Deluxe (drive channel 6/12) -MXL Microphone -Gibson Les Paul Standard Genre Mill Contains tracks Crushsound Farmer's Mill & Ceramic Slides - Commercial Soundtrack by Crushsound published on 2013-09-23T17:37:47Z Crushsound Farmer's Mill - Electric Mud (Full Mill, Mix&Rate 3.
-Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal Information The Crushsound Farmer's Mill is a handmade analog guitar effects pedal developed to produce controlled "broken sound" textures by introducing irregular signal degradation, interruption, and instability.
-It functions as a stompbox with a footswitch that activates the effect during engagement, at which point the input signal is subjected to crushing, stuttering, and fragmentation processes referred to as "The Mill." The pedal combines multiple forms of signal alteration, including distortion-like saturation, bit reduction characteristics, and non-periodic modulation, resulting in a wide range of textures from subtle lo-fi artifacts to heavily disrupted output.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Stream Crushsound | Listen to Crushsound Farmer's Mill / Music playlist online for free on SoundCloud: https://soundcloud.com/crushsound/sets/crushsound-farmers-mill

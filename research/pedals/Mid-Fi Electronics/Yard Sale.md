@@ -26,8 +26,8 @@ The Yard Sale pedal delivers the raw, unpredictable charm of old-school consumer
 - **Exact part:** Unknown.
 
 ## Sound
-Controls for: "Mic" (Gain), and overall volume all content © 2026 Doug Tuttle Effects
-Designed with a pair of Soviet-era silicon transistors, it produces a blown-out, saggy tone that reacts beautifully to your guitars volume knob.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Mid-Fi Electronics ::: Yard Sale: https://www.midfielectronics.com/yard-sale-

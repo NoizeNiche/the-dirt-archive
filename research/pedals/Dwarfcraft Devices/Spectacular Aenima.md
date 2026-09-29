@@ -7,7 +7,8 @@
 - **Identity:** Dwarfcraft Devices's Spectacular Aenima.
 
 ## What this pedal is
-Dwarfcraft Devices browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Dwarfcraft Devices Spectacular Aenima Published on December 6, 2009 Dwarfcraft Devices boost / preamp overdrive pedal Information Dwarfcraft Devices The Dwarfcraft Spectacular Aenima distortortion pedal delivers a zillion wicked tones that can now be yours.
+
+Dwarfcraft Devices's Spectacular Aenima is cataloged in the archive as a Fuzz / Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Dwarfcraft Devices browse by type volume/amplification amplification preamp / cl
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Dwarfcraft Devices browse by type volume/amplification amplification preamp / clean boost browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Dwarfcraft Devices Spectacular Aenima Published on December 6, 2009 Dwarfcraft Devices boost / preamp overdrive pedal Information Dwarfcraft Devices The Dwarfcraft Spectacular Aenima distortortion pedal delivers a zillion wicked tones that can now be yours.
-The 5-knob fuzz pedal is equipped with a toggle for a glitching mode, and a bypass footswitch, which you can put into the feedback loop controlling the intensity with the feedback dial.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Dwarfcraft Devices Spectacular Aenima - RARE!!! | Reverb: https://reverb.com/item/88885577-dwarfcraft-devices-spectacular-aenima-rare

@@ -7,7 +7,8 @@
 - **Identity:** Crysta Professional's DS-1 Distortion.
 
 ## What this pedal is
-Published on June 15, 2012 Crysta Professional distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links KI Sound Related Rocktek DIR-01 Distortion Monkee Music Satan Distortion Omnitek DIR-01 Distortion Omnitek KDI-11 Distortion Tronix DIR-01 Distortion Crysta Professional DS-1 Distortion (metal enclsore, Rocktek PCB) Where to find one?
+
+Crysta Professional's DS-1 Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,8 +27,8 @@ Published on June 15, 2012 Crysta Professional distortion pedal Reviews myFXDB u
 - **Exact part:** Unknown.
 
 ## Sound
-Published on June 15, 2012 Crysta Professional distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Links KI Sound Related Rocktek DIR-01 Distortion Monkee Music Satan Distortion Omnitek DIR-01 Distortion Omnitek KDI-11 Distortion Tronix DIR-01 Distortion Crysta Professional DS-1 Distortion (metal enclsore, Rocktek PCB) Where to find one?
-This site contains affiliate links for which I may be compensated Crysta Professional DS-1 Distortion for sale on eBay:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crysta Professional DS-1 Distortion | Effects Database: https://www.effectsdatabase.com/model/crysta/ds1

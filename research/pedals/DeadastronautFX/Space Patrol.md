@@ -26,8 +26,8 @@ DeadastronautFX's Space Patrol is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Guitar FX Layouts: DeadAstronautFX Space Patrol Fuzz Guitar FX Layouts Here's a collection of vero (stripboard) and tagboard guitar and bass effect layouts that we have put together covering many classic and popular effects in growing numbers.
-Enjoy the builds and please also visit us on Facebook and Twitter Pages Home Layout Guide Components Build Guide Offboard Faults Kits Forum Site Map NEW Wednesday, 25 January 2017 DeadAstronautFX Space Patrol Fuzz Deadastronaut's version of the Big Muff.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Space patrol fuzz by deadastronautfx: https://deadastronaut.wixsite.com/effects/spacepatrolfuzz

@@ -26,9 +26,8 @@ Ovaltone's GD-XIII is cataloged as an overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Ovaltone GD-XIII Back to results Ovaltone GD-XIII Overdrive Multi-stage overdrive with complex gain architecture.
-GD-XIII provides multi-stage overdrive with complex gain architecture.
-Gain, tone, and level shape the complex drive.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Gd-xiii | Ovaltone'S Garage Shop: https://ovaltone.shop/items/65080d7545c7bd2ebd4b13a0

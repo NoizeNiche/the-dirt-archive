@@ -7,7 +7,8 @@
 - **Identity:** Cultco's 001 Medium Overdrive.
 
 ## What this pedal is
-Published on September 19, 2015 Cultco overdrive pedal Information Cultco As heard on almost every track of Joywave's "How Do You Feel Now?", this pedal shines on guitar, bass, and synth.
+
+Cultco's 001 Medium Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - Specifications: 9V center negative power supply Power consumption: (around) ~25mA Weight: ~ 1 lb Dimensions: 4.77" x 2.6" x 1.39" Blue LED IMPORTANT NOTE: The Cultco 001 does not include a power supply.
@@ -26,9 +27,8 @@ Published on September 19, 2015 Cultco overdrive pedal Information Cultco As hea
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on September 19, 2015 Cultco overdrive pedal Information Cultco As heard on almost every track of Joywave's "How Do You Feel Now?", this pedal shines on guitar, bass, and synth.
-A collaboration with Adventure Audio, the unit ranges from a subtle "always on" overdrive to a ratty, metallic distortion.
-The single EQ knob allows for a wider range than traditional guitar pedal "tone" knobs.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Cultco 001 Medium Overdrive | Effects Database: https://www.effectsdatabase.com/model/cultco/001

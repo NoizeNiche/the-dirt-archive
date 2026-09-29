@@ -26,9 +26,8 @@ IdiotBox Effects's Hobo Santa Fuzz is cataloged as a Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Hobo Santa Fuzz | IdiotBox Effects 0 $ 0.00 Cart 0 $ 0.00 Search Home Products All PEDALS BASS PEDALS DELAY/MODULATION FUZZ/DISTORTION/OVERDRIVE BAND PEDALS STAR WARS PICKUPS T-SHIRTS/HOODIES PRE-ORDERS EXCLUSIVES NOISE COLLABORATIONS B-STOCK About Retailers !Cool!Bands!Down!With!The!Sound!
-Shipping MAILING LIST Contact Back to site Hobo Santa Fuzz $ 139.00 Sold out The Hobo Santa started off as a fun one off for a friend who made the raddest Santa image for a band flier.
-The circuit is a muff style fuzz using old Russian germanium transistors.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Hobo Santa Fuzz | IdiotBox Effects: https://www.idiotboxeffects.com/product/hobo-santa-fuzz

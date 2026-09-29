@@ -27,8 +27,8 @@
 - **Exact part:** Unknown.
 
 ## Sound
-A favorite among guitarists and bass players alike, its simple three-knob layout lets you dial in everything from wooly breakup to a massive wall of fuzz.
-Rest assured that your order will make as small of a footprint as possible.* Related products Keeley Fuzz Head $ 99.00 Electro-Harmonix Big Muff Pi V3 (Red & Black) $ 479.00 EarthQuaker Devices Hoof Hybrid Fuzz $ 114.00 Dunlop JH-3S Jimi Hendrix Signature System Octave Fuzz $ 99.00 Bucket List Guitars
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Green Russian – Stomp Under Foot: https://stompunderfoot.com/products/green-russian

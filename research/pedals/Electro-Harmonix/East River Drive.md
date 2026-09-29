@@ -7,7 +7,8 @@
 - **Identity:** Electro-Harmonix's East River Drive.
 
 ## What this pedal is
-Related products Sale Boss WL-20 Guitar Wireless System w/Cable Tone Simulation (WL20) $113.85 $227.70 Sale Way Huge SMALLS Aqua-Puss Analog Delay MkIII Pedal $110.55 $221.10 Sale MXR Sugar Drive MINI Overdrive Pedal $78.87 $157.74 Sale Friedman Power Grid 10 Pedal Power Supply $128.37 $256.74 Sale!
+
+Electro-Harmonix's East River Drive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

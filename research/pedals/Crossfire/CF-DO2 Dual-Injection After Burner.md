@@ -7,7 +7,8 @@
 - **Identity:** Crossfire's CF-DO2 Dual-Injection After Burner.
 
 ## What this pedal is
-Published on March 1, 2011 Crossfire distortion overdrive pedal Information The Crossfire Dual-Injection After Burner is a dual-channel drive pedal combining overdrive and distortion circuits in one housing, modeled on the Belcat "The Do" and other Belcat-made dual-drive designs.
+
+Crossfire's CF-DO2 Dual-Injection After Burner is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on March 1, 2011 Crossfire distortion overdrive pedal Information The 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on March 1, 2011 Crossfire distortion overdrive pedal Information The Crossfire Dual-Injection After Burner is a dual-channel drive pedal combining overdrive and distortion circuits in one housing, modeled on the Belcat "The Do" and other Belcat-made dual-drive designs.
-Each circuit operates independently or in series, offering a flexible range of gain textures from subtle warmth to full, saturated drive.
-The left channel delivers a distortion voice with a broad gain range and strong midrange focus, while the right channel provides a dynamic overdrive tuned for clarity and touch sensitivity.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crossfire CF-DO2 Dual-Injection After Burner | Effects Database: https://www.effectsdatabase.com/model/crossfire/dualinjection

@@ -27,9 +27,8 @@ J Mascis Garbage Face — Wren And Cuff Fuzz Pedal
 - **Exact part:** Unknown.
 
 ## Sound
-We know you’ll love this collaboration with one of the best masters of fuzz that has ever lived.
-J Mascis Garbage Face — Wren And Cuff Fuzz Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Wren And Cuff J Mascis Garbage Face Back to results Wren And Cuff J Mascis Garbage Face Fuzz J Mascis signature fuzz based on his personal pedal.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. J Mascis Garbage Face — Wren and Cuff: https://www.wrenandcuff.com/products/j-garbage-face

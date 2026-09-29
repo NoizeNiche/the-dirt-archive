@@ -26,9 +26,8 @@
 - **Exact part:** Unknown.
 
 ## Sound
-The heaviest-sounding pedal in the ZVEX lineup, the BOM has a massive amount of distortion with great thump and excellent tone control, and includes a very effective noise-silencing gate feature which can be turned off and on with a footswitch.
-Pedal Dimensions (LxWxH): 4.70" x 2.38" x 1.82" Instructions (PDF) More from ZVEX Effects ZVEX Effects '59 SOUND VERTICAL $249.00 ZVEX Effects Basstortion $219.00 ZVEX Effects Box of Rock Vertical $249.00 ZVEX Effects Box of Rock Vexter $249.00 Instagram Facebook X Axe...
-39 EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 79 $42.99 $ 42 .
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Zvex Effects Box Of Metal Vexter Series Distortion Gate Guitar ... - eBay: https://www.ebay.com/itm/326891593392

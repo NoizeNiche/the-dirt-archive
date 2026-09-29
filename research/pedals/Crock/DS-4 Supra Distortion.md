@@ -7,7 +7,8 @@
 - **Identity:** Crock's DS-4 Supra Distortion.
 
 ## What this pedal is
-Published on April 6, 2020 Crock distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's DS-4 Supra Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,8 +27,8 @@ Published on April 6, 2020 Crock distortion pedal Reviews myFXDB user reviews No
 - **Exact part:** Unknown.
 
 ## Sound
-Published on April 6, 2020 Crock distortion pedal Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
-This site contains affiliate links for which I may be compensated Crock DS-4 Supra Distortion for sale on eBay:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock DS-4 Supra Distortion | Effects Database: https://www.effectsdatabase.com/model/crock/ds4

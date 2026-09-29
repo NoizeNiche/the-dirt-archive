@@ -7,7 +7,8 @@
 - **Identity:** BOSS's DS-1-4A 40th Anniversary Distortion.
 
 ## What this pedal is
-Related products Barber LTD SR $ 194.00 Electro-Harmonix Hell Melter Advanced Metal Distortion 2023 – Present – Black / Flames Graphic $ 114.00 TC Electronic Dark Matter Distortion Pedal $ 34.00 Pigtronix Philosopher’s Gold $ 59.00 Bucket List Guitars
+
+BOSS's DS-1-4A 40th Anniversary Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - The same three controls for distortion, level, and tone afford the full landscape of light snap to full-on saturated snarl in a black-and-gold chassis available only in a limited run.
@@ -27,8 +28,8 @@ Related products Barber LTD SR $ 194.00 Electro-Harmonix Hell Melter Advanced Me
 - **Exact part:** Unknown.
 
 ## Sound
-The same three controls for distortion, level, and tone afford the full landscape of light snap to full-on saturated snarl in a black-and-gold chassis available only in a limited run.
-Related products Barber LTD SR $ 194.00 Electro-Harmonix Hell Melter Advanced Metal Distortion 2023 – Present – Black / Flames Graphic $ 114.00 TC Electronic Dark Matter Distortion Pedal $ 34.00 Pigtronix Philosopher’s Gold $ 59.00 Bucket List Guitars
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Boss DS-1-4A 40th Anniversary Distortion - Equipboard: https://equipboard.com/items/boss-ds-1-4a-40th-anniversary-distortion-pedal

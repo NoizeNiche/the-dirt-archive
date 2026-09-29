@@ -7,7 +7,8 @@
 - **Identity:** VFE Pedals's Fiery Red Horse.
 
 ## What this pedal is
-Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
+
+VFE Pedals's Fiery Red Horse is cataloged in the archive as a Distortion / Fuzz pedal.
 
 ## Colorways
 - Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
@@ -29,9 +30,8 @@ Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle)
 - **Exact part:** Unknown.
 
 ## Sound
-Published on July 23, 2010 VFE Pedals fuzz pedal Controls Sustain A/L/S (toggle) Tone Level Power Mid Information VonRutter The Fiery Red Horse was designed to extend the tonal range of the original BMP.
-Includes a power control to simulate a dying battery, plus dual toggle switches for clipping & EQ frequency response.
-From a gritty overdrive to sputtering fuzz goodness, this fuzz has it all!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. VFE Pedals Fiery Red Horse | Effects Database: https://www.effectsdatabase.com/model/vfe/fieryredhorse

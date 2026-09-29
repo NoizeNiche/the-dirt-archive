@@ -7,7 +7,8 @@
 - **Identity:** VFE Pedals's Triumvirate.
 
 ## What this pedal is
-Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
+
+VFE Pedals's Triumvirate is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,9 +28,8 @@ Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals Th
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on July 31, 2011 VFE Pedals distortion pedal Information VFE Pedals The Triumvirate is a unique take on an distortion box.
-Next, each part goes through its own distortion engine.
-Finally, each band is mixed together at the end...and you have full control over the volume & distortion of each band.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Triumvirate by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Triumvirate/68986107/

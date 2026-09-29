@@ -7,7 +7,8 @@
 - **Identity:** Add+ Pedals's Ratortion 2.
 
 ## What this pedal is
-Ratortion 2 is listed by Effects Database as a distinct Add+ Pedals distortion pedal. The surviving entry was published on March 31, 2011. [1]
+
+Add+ Pedals's Ratortion 2 is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

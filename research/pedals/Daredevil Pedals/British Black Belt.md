@@ -7,7 +7,8 @@
 - **Identity:** Daredevil Pedals's British Black Belt.
 
 ## What this pedal is
-Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gold edition Information Daredevil Pedals This is the Daredevil British Black Belt Drive Electric Guitar Effect Pedal.
+
+Daredevil Pedals's British Black Belt is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gold edition Information Daredevil Pedals This is the Daredevil British Black Belt Drive Electric Guitar Effect Pedal.
@@ -28,9 +29,8 @@ Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gol
 - **Exact part:** Unknown.
 
 ## Sound
-Published on December 20, 2023 Daredevil Pedals overdrive pedal gold edition gold edition Information Daredevil Pedals This is the Daredevil British Black Belt Drive Electric Guitar Effect Pedal.
-Mini amp style gain tones in a pedal 2 channels: Mini and Full range gain great for driving your amp or getting unique recording tones Behold!
-The FULL channel is a single-stage gain circuit very similar to the one found in a common "belt loop" mini amp, which when run through a proper rig sounds massive and dynamic.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Daredevil Pedals British Black Belt | Effects Database: https://www.effectsdatabase.com/model/daredevil/britishblackbelt

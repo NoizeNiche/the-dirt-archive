@@ -7,7 +7,8 @@
 - **Identity:** Add+ Pedals's Der Fuzzer.
 
 ## What this pedal is
-Add+ Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Add+ Der Fuzzer Published on March 31, 2011 Add+ Pedals fuzz pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Der Fuzzer Where to find one?
+
+Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Add+ Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pe
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Add+ Pedals browse by type distortion/fuzz/overdrive fuzz browse by enclosure pedal Add+ Der Fuzzer Published on March 31, 2011 Add+ Pedals fuzz pedal Reviews myFXDB user reviews No reviews yet + Add your review Links Add+ Pedals Add+ Der Fuzzer Where to find one?
-fx pedal stompbox stomp box guitar effects pedal fuzz distortion/fuzz/overdrive dirt grit Searching...
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Add+ Der Fuzzer | Effects Database: https://www.effectsdatabase.com/model/addplus/derfuzzer

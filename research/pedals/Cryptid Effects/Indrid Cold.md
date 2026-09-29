@@ -7,7 +7,8 @@
 - **Identity:** Cryptid Effects's Indrid Cold.
 
 ## What this pedal is
-Published on February 10, 2026 Cryptid Effects fuzz pedal Information Indrid Cold is a high-gain fuzz pedal from Cryptid Effects, designed to deliver an aggressive yet controllable fuzz voice that balances familiarity with unconventional character.
+
+Cryptid Effects's Indrid Cold is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on February 10, 2026 Cryptid Effects fuzz pedal Information Indrid Col
 - **Exact part:** Unknown.
 
 ## Sound
-Published on February 10, 2026 Cryptid Effects fuzz pedal Information Indrid Cold is a high-gain fuzz pedal from Cryptid Effects, designed to deliver an aggressive yet controllable fuzz voice that balances familiarity with unconventional character.
-The circuit combines a transistor-based fuzz core with an asymmetric soft-clipping op amp gain stage, resulting in a wide dynamic range that responds closely to pick attack and playing nuance.
-Despite its high-gain structure, Indrid Cold is engineered to remain exceptionally quiet when no signal is present and performs consistently with all pickup types.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Indrid Cold – Cryptid Effects American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa: https://www.cryptideffects.com/products/indrid-cold

@@ -7,7 +7,8 @@
 - **Identity:** Guyatone's HD-2 Harmonic Distortion.
 
 ## What this pedal is
-Quantity: Guyatone HD-2 Harmonic Distortion Pedal The Guyatone HD-2 Harmonic Distortion offers a faithful replication of that classic tone, with some added benefits to boot.
+
+Guyatone's HD-2 Harmonic Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Quantity: Guyatone HD-2 Harmonic Distortion Pedal The Guyatone HD-2 Harmonic Dis
 - **Exact part:** Unknown.
 
 ## Sound
-Quantity: Guyatone HD-2 Harmonic Distortion Pedal The Guyatone HD-2 Harmonic Distortion offers a faithful replication of that classic tone, with some added benefits to boot.
-The HD-2 is a transistor distortion based on the most popular vintage designs.
-Its dual clipping stages provide a considerable amount of distortion yet with a note-to-note definition and dynamic responsiveness not found in other current market pedals.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Guyatone HD-2 Harmonic Distortion Pedal | Equipboard: https://equipboard.com/items/guyatone-hd-2-harmonic-distortion

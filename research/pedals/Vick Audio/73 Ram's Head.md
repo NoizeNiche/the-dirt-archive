@@ -27,9 +27,8 @@ The 73 Ram's Head is Vick Audio's most acclaimed Big Muff reproduction, faithful
 - **Exact part:** Unknown.
 
 ## Sound
-73 Ram's Head — Vick Audio Fuzz Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Vick Audio 73 Ram's Head Back to results Vick Audio 73 Ram's Head Fuzz 1973 Ram's Head Big Muff clone with sweet sustain—3-position mid switch adds tonal flexibility.
-The sustain control allows you to optimize long sustain with a hint of harmonic distortion.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Vick Audio 73 Ram's Head Fuzz Pedal - Reverb: https://reverb.com/p/vick-audio-73-rams-head-fuzz

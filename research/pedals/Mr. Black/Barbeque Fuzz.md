@@ -27,9 +27,8 @@ Mr. Black's Barbeque Fuzz is cataloged as a fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Black Barbeque - Fuzz Published on June 30, 2017 Mr.
-Black Get cookin with the hot, firey fuzz of our lusty Darling Fuzz!
-The Dirt Archive currently catalogs **Barbeque Fuzz** by **Mr.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Mr. Black Barbeque - Fuzz | Effects Database: https://www.effectsdatabase.com/model/mrblack/barbeque

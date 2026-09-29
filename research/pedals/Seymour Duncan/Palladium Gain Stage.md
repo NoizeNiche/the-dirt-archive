@@ -7,7 +7,8 @@
 - **Identity:** Seymour Duncan's Palladium Gain Stage.
 
 ## What this pedal is
-GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / bass bass Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist’s Deep Dive Into Tone, Control, and Circuit Integrity By Marcus Reeve July 9, 2026 What Is the Palladium Gain Stage—and Why Does It Matter for Bass?
+
+Seymour Duncan's Palladium Gain Stage is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - These transistors deliver ultra-low noise (0.85 nV/√Hz input-referred), symmetrical clipping characteristics, and a natural compression curve that responds authentically to picking dynamics.
@@ -26,9 +27,8 @@ GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / bass ba
 - **Exact part:** Unknown.
 
 ## Sound
-Review: Seymour Duncan Palladium Gain Stage Pedal
-Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist’s Deep Dive Into Tone, Control, and Circuit Integrity
-GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / bass bass Seymour Duncan Unveils The Palladium Gain Stage Pedal: A Bassist’s Deep Dive Into Tone, Control, and Circuit Integrity By Marcus Reeve July 9, 2026 What Is the Palladium Gain Stage—and Why Does It Matter for Bass?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Seymour Duncan Palladium Gain Stage - Reverb: https://reverb.com/p/seymour-duncan-palladium-gain-stage

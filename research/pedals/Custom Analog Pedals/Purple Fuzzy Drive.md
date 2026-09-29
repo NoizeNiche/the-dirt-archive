@@ -7,7 +7,8 @@
 - **Identity:** Custom Analog Pedals's Purple Fuzzy Drive.
 
 ## What this pedal is
-Published on May 26, 2013 Custom Analog Pedals boost / preamp fuzz overdrive pedal Information A pedal for aggressive, mid-gain, fuzz like clipping drive tone fans.
+
+Custom Analog Pedals's Purple Fuzzy Drive is cataloged in the archive as a Fuzz / Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on May 26, 2013 Custom Analog Pedals boost / preamp fuzz overdrive ped
 - **Exact part:** Unknown.
 
 ## Sound
-Published on May 26, 2013 Custom Analog Pedals boost / preamp fuzz overdrive pedal Information A pedal for aggressive, mid-gain, fuzz like clipping drive tone fans.
-It also acts as a clean boost, when drive knob is all the way down.
-Controls: Volume, Fine, Gain (6 position rotary switch) Reviews myFXDB user reviews No reviews yet + Add your review Links Custom Analog Pedals Custom Analog Pedals Purple Fuzzy Drive Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Custom Analog Pedals Purple Fuzzy Drive | Effects Database: https://www.effectsdatabase.com/model/customanalog/purplefuzzydrive

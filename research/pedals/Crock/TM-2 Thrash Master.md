@@ -7,7 +7,8 @@
 - **Identity:** Crock's TM-2 Thrash Master.
 
 ## What this pedal is
-Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome black, yellow print black, yellow print black, yellow print black, yellow print black, yellow print Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-02-16 Maya Devices Crock trash master demo 2:19 Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's TM-2 Thrash Master is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome black, yellow print black, yellow print black, yellow print black, yellow print black, yellow print Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-02-16 Maya Devices Crock trash master demo 2:19 Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
@@ -26,7 +27,8 @@ Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture
 - **Exact part:** Unknown.
 
 ## Sound
-Published on April 23, 2019 Crock distortion pedal picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome picture by Audiodrome black, yellow print black, yellow print black, yellow print black, yellow print black, yellow print Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-02-16 Maya Devices Crock trash master demo 2:19 Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock TM-2 Thrash Master | Effects Database: https://www.effectsdatabase.com/model/crock/tm2

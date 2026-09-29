@@ -27,9 +27,8 @@ It is important to note that both the Tonebone Classic and the Tonebone Hot Brit
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Constructed to emulate the sound of a classic Marshall double Plexi, this effect is a one-stop shop for any metal-oriented pedalboard or an excellent tone-sculpter for experimental noise rock.
-Related products DigiTech Bad Monkey Tube Overdrive $ 89.00 Mooer Pure Boost $ 34.00 Mosky Audio Plexi-m Distortion $ 24.00 Jet City Shockwave Distortion $ 34.00 Bucket List Guitars
-Introduction: Congratulations on your purchase of the Radial Tonebone Tonebone pedals bring forth a level of quality and performance never before realized in a tube distortion pedal.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Radial Tonebone Hot British - Reverb: https://reverb.com/p/radial-tonebone-hot-british

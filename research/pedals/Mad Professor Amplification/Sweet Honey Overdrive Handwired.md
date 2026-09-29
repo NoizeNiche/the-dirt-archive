@@ -26,9 +26,8 @@ Sweet Honey Overdrive (Handwired) — Mad Professor Overdrive Pedal
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Sweet Honey Overdrive (Handwired) — Mad Professor Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Mad Professor Sweet Honey Overdrive (Handwired) Back to results Mad Professor Sweet Honey Overdrive (Handwired) Overdrive Hand-wired version of the BJF Honey Bee-based overdrive.
-Born from a collaboration between Mad Professor and pedal legend Bjorn Juhl, the Sweet Honey Overdrive is based on his acclaimed Honey Bee circuit.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Sweet Honey Overdrive (Handwired) — Mad Professor Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/mad-professor/sweet-honey-overdrive-handwired

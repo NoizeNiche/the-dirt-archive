@@ -7,7 +7,8 @@
 - **Identity:** VFE Pedals's Pale Horse.
 
 ## What this pedal is
-Published on July 23, 2010 VFE Pedals overdrive pedal Information VonRutter The Pale Horse started as an electrical theory.
+
+VFE Pedals's Pale Horse is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on July 23, 2010 VFE Pedals overdrive pedal Information VonRutter The 
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Published on July 23, 2010 VFE Pedals overdrive pedal Information VonRutter The Pale Horse started as an electrical theory.
-How could the most classic overdrive pedal in history be improved?
-It boasts extended gain range, extended tonal range, triple the internal headroom, audiophile OPA2134 op amp (with NPN transistors biased into class A), LED or true Mosfet clipping, and more.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. VFE Pedals Pale Horse | Effects Database: https://www.effectsdatabase.com/model/vfe/palehorse

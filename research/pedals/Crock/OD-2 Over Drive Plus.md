@@ -7,7 +7,8 @@
 - **Identity:** Crock's OD-2 Over Drive Plus.
 
 ## What this pedal is
-Published on September 10, 2009 Crock overdrive pedal knobs are not original Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's OD-2 Over Drive Plus is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,8 +27,8 @@ Published on September 10, 2009 Crock overdrive pedal knobs are not original Rev
 - **Exact part:** Unknown.
 
 ## Sound
-Published on September 10, 2009 Crock overdrive pedal knobs are not original Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
-This site contains affiliate links for which I may be compensated Crock OD-2 Over Drive Plus for sale on eBay:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock OD-2 Over Drive Plus | Effects Database: https://www.effectsdatabase.com/model/crock/od2

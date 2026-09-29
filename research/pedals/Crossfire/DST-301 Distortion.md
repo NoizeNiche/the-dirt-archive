@@ -7,7 +7,8 @@
 - **Identity:** Crossfire's DST-301 Distortion.
 
 ## What this pedal is
-Published on September 13, 2006 Crossfire distortion pedal Information Crossfire This high quality Distortion Pedal DST-301 from CROSSFIRE is housed in a rugged heavy duty metal casing.
+
+Crossfire's DST-301 Distortion is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on September 13, 2006 Crossfire distortion pedal Information Crossfire
 - **Exact part:** Unknown.
 
 ## Sound
-Published on September 13, 2006 Crossfire distortion pedal Information Crossfire This high quality Distortion Pedal DST-301 from CROSSFIRE is housed in a rugged heavy duty metal casing.
-This pedal delivers a warm rich and detailed distortion while retaining the sonic integrity of your instrument.
-Reviews myFXDB user reviews No reviews yet + Add your review Related Belcat DST-301 Distortion Crossfire DST-301 Distortion Excalibur Holy Grail Distortion Pimp My Guitar Atomic Distortion Belcat DST-501 Distortion Ashland (by Crafter) EF-DT Distortion Axcess by Giannini DS-101 Distortion Belcat DST-601 Distortion Cruzer (by Crafter) EF-DT Distortion Dr Tone DST-101 Distortion Epiphone Distortion Hot Boxx DST-501 Distortion Lucent DST-601 Distortion ModTone MT-DS Speedbox - Distortion XL Rogue Distortion Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crossfire DST-301 Distortion | Effects Database: https://www.effectsdatabase.com/model/crossfire/distortion

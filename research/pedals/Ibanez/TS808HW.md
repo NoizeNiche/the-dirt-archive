@@ -7,7 +7,8 @@
 - **Identity:** Ibanez's TS808HW.
 
 ## What this pedal is
-R ock G uitars S tories P eople F orever Search GuitarGangsters ⌕ Menu Home Guitar Legends Gear Rigs Guitars Amps Pedals & FX Pickups Accessories DIY Builds Custom Builds Electronics & Wiring Finishing & Relics Mods & Upgrades Rock History 70’s Rock 80’s Metal 90’s Grunge & Alternative 2000’s Revival News Culture Videos About Contact In this guide From Circuit Board to Turret Board: The TS808HW’s Origins What Hand-Wired Actually Means Here Specifications Famous Players: An Honest Look Tone Recipes: Seven Ways to Dial In the TS808HW How the TS808HW Stacks Up: Comparisons Buying Guide and Ownership Notes Frequently Asked Questions In this guide From Circuit Board to Turret Board: The TS808HW’s Origins What Hand-Wired Actually Means Here Specifications Famous Players: An Honest Look Tone Recipes: Seven Ways to Dial In the TS808HW How the TS808HW Stacks Up: Comparisons Buying Guide and Ownership Notes Frequently Asked Questions Share this article Home › Gear Rigs › The Tube Screamer That Actually Earns Its Price Tag: Inside the Ibanez TS808HW Hand Wired Gear Rigs The Tube Screamer That Actually Earns Its Price Tag: Inside the Ibanez TS808HW Hand Wired The Ibanez TS808HW Hand Wired Tube Screamer: how hand-wired construction changes the tone, who actually uses it, and whether $300 is worth it.
+
+Ibanez's TS808HW is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ R ock G uitars S tories P eople F orever Search GuitarGangsters ⌕ Menu Home Gu
 - **Exact part:** Unknown.
 
 ## Sound
-IBANEZ TUBE SCREAMER TS808HW OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Add to my manuals Delete from my manuals Share URL of this page: HTML Link: IBANEZ TUBE SCREAMER TS808HW OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to "My Manuals" Print this page × Bookmark added × Added to my manuals Manuals Brands Ibanez Manuals Music Pedal TUBE SCREAMER TS808HW Owner's manual Ibanez TUBE SCREAMER TS808HW Owner's Manual Hide thumbs 1 2 3 4 page of 4 Go / 4 Bookmarks Quick Links Download this manual o O OVERDRIVE O LEVEL TUBE TS808HW I/bancz ENGLISH Before using this device, be sure to read this manual thoroughly for safe use of it.
-R ock G uitars S tories P eople F orever Search GuitarGangsters ⌕ Menu Home Guitar Legends Gear Rigs Guitars Amps Pedals & FX Pickups Accessories DIY Builds Custom Builds Electronics & Wiring Finishing & Relics Mods & Upgrades Rock History 70’s Rock 80’s Metal 90’s Grunge & Alternative 2000’s Revival News Culture Videos About Contact In this guide From Circuit Board to Turret Board: The TS808HW’s Origins What Hand-Wired Actually Means Here Specifications Famous Players: An Honest Look Tone Recipes: Seven Ways to Dial In the TS808HW How the TS808HW Stacks Up: Comparisons Buying Guide and Ownership Notes Frequently Asked Questions In this guide From Circuit Board to Turret Board: The TS808HW’s Origins What Hand-Wired Actually Means Here Specifications Famous Players: An Honest Look Tone Recipes: Seven Ways to Dial In the TS808HW How the TS808HW Stacks Up: Comparisons Buying Guide and Ownership Notes Frequently Asked Questions Share this article Home › Gear Rigs › The Tube Screamer That Actually Earns Its Price Tag: Inside the Ibanez TS808HW Hand Wired Gear Rigs The Tube Screamer That Actually Earns Its Price Tag: Inside the Ibanez TS808HW Hand Wired The Ibanez TS808HW Hand Wired Tube Screamer: how hand-wired construction changes the tone, who actually uses it, and whether $300 is worth it.
-But it sounded different from the standard reissue in ways that were immediately audible — more low-end transparency, fuller overdrive, smoother breakup.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. IBANEZ TUBE SCREAMER TS808HW OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/4001195/Ibanez-Tube-Screamer-Ts808hw.html

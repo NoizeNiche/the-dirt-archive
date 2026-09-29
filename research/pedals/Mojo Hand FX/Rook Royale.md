@@ -26,9 +26,8 @@ Running on ~30mA from 9V center-negative power, the Rook Royale delivers dual-ci
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Rook Royale — Mojo Hand FX Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Mojo Hand FX Rook Royale Back to results Mojo Hand FX Rook Royale Overdrive Boost Rook overdrive plus Speakeasy boost with order selector—used by Brad Whitford, Ty Tabor, Andy Timmons, Mark Tremonti.
-The Rook Royale combines the award-winning Rook overdrive with a simplified two-knob version of the EP-3-based Speakeasy boost for added versatility.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Rook Royale - MojoHandFX: https://mojohandfx.com/rook-royale/

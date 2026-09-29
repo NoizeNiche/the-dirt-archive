@@ -28,9 +28,8 @@ Blue Collar PTP — Menatone Overdrive Pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Blue Collar PTP — Menatone Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone Blue Collar PTP Back to results Menatone Blue Collar PTP Overdrive Fat, midrange-forward overdrive built for single-coils, from clean edge to smooth grind.
-The Blue Collar is Menatone's other long-running overdrive, dating to around 1997, voiced fatter and more midrange-forward than the transparent Red Snapper and especially suited to single-coil guitars that need more body.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Blue Collar PTP — Menatone Overdrive Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/menatone/blue-collar-ptp

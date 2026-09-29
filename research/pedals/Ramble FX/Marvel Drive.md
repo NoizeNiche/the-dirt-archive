@@ -26,9 +26,8 @@ From the KRRR-ANG of the high strings to the growl of the low strings, Marvel Dr
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Guitar FX Layouts: Ramble FX Marvel Drive Guitar FX Layouts Here's a collection of vero (stripboard) and tagboard guitar and bass effect layouts that we have put together covering many classic and popular effects in growing numbers.
-Enjoy the builds and please also visit us on Facebook and Twitter Pages Home Layout Guide Components Build Guide Offboard Faults Kits Forum Site Map NEW Thursday, 10 July 2014 Ramble FX Marvel Drive Request, thanks to PedalBlotter for his hard graft in tracing the circuit.
-From the KRRR-ANG of the high strings to the growl of the low strings, Marvel Drive delivers all of the tone that made the Marshall™ plexi legendary.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Ramble FX Marvel Drive 3 — Overdrive Pedal | Equipboard: https://equipboard.com/items/ramble-fx-marvel-drive-3

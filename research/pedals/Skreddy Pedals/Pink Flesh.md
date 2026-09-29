@@ -7,7 +7,8 @@
 - **Identity:** Skreddy Pedals's Pink Flesh.
 
 ## What this pedal is
-Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy Pedals Smooth, Intense, Sustaining Distortion Based on the "triangle-knob" circa 1971 4-transistor fuzz, but I've changed the input capacitor to a more saturated-sounding type like the circa 1973 'rams head' version fuzz.
+
+Skreddy Pedals's Pink Flesh is cataloged in the archive as a Distortion / Fuzz pedal.
 
 ## Colorways
 - Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2013-08-28 MrZenithfly Skreddy Pink Flesh Stoner Riffs 2:03 2013-08-28 MrZenithfly Skreddy Pink Flesh 2:02 2013-02-09 elswan64 SKREDDY Big Muffs shootout 5:41 2012-01-03 elswan64 Skreddy Pink Flesh shootout 6:17 2011-11-12 elswan64 Skreddy Pink Flesh Brown 'n Gold 6:10 2011-11-12 elswan64 Skreddy Pink Flesh Gold 7:30 2011-03-30 Bobby DeVito Bobby DeVito demo Skreddy Pink Flesh Fuzz Pink Floyd fuzz action!

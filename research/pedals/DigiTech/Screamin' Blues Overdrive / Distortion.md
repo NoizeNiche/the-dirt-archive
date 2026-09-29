@@ -7,7 +7,8 @@
 - **Identity:** DigiTech's Screamin' Blues Overdrive / Distortion.
 
 ## What this pedal is
-DigiTech DigiTech distortion series browse by type distortion/fuzz/overdrive distortion browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal DigiTech DSB Screamin Blues Overdrive/Distortion Published on August 10, 2005 DigiTech distortion series distortion overdrive pedal schematics Controls Level Low High Gain Information Digitech The Screamin' Blues Overdrive / Distortion is designed for guitarists who need a pedal that responds to playing dynamics.
+
+DigiTech's Screamin' Blues Overdrive / Distortion is cataloged in the archive as a Distortion / Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ DigiTech DigiTech distortion series browse by type distortion/fuzz/overdrive dis
 - **Exact part:** Unknown.
 
 ## Sound
-DigiTech DSB Screamin Blues Overdrive/Distortion | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-DigiTech DigiTech distortion series browse by type distortion/fuzz/overdrive distortion browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal DigiTech DSB Screamin Blues Overdrive/Distortion Published on August 10, 2005 DigiTech distortion series distortion overdrive pedal schematics Controls Level Low High Gain Information Digitech The Screamin' Blues Overdrive / Distortion is designed for guitarists who need a pedal that responds to playing dynamics.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. DigiTech DSB Screamin Blues Overdrive/Distortion | Effects Database: https://www.effectsdatabase.com/model/digitech/distortion/screaminblues

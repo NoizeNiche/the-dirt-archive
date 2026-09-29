@@ -7,7 +7,8 @@
 - **Identity:** Electro-Harmonix's Pocket Metal Muff.
 
 ## What this pedal is
-Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
+
+Electro-Harmonix's Pocket Metal Muff is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
@@ -26,9 +27,8 @@ Rest assured that your order will make as small of a footprint as possible.* Rel
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Rest assured that your order will make as small of a footprint as possible.* Related products Hardwire TL-2 Metal Distortion $ 74.00 TC Electronic Grand Magus Analog Distortion Pedal $ 29.00 BBE Green Screamer Overdrive Pedal $ 44.00 J.
-Rockett Archer Overdrive $ 129.00 Bucket List Guitars
-USER MANUAL Electro-Harmonix Pocket Metal Muff Distortion Pedal
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Electro-Harmonix Pocket Metal Muff — Distortion Pedal: https://equipboard.com/items/electro-harmonix-pocket-metal-muff

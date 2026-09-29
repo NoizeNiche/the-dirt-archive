@@ -27,9 +27,8 @@ The Dirty Blonde is a tweed-influenced overdrive built to capture cranked Americ
 - **Exact part:** Unknown.
 
 ## Sound
-The Dirty Blonde — Menatone Overdrive Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Menatone The Dirty Blonde Back to results Menatone The Dirty Blonde Overdrive Tweed-voiced overdrive with cranked-American twang and Soul, Presence and Sag controls.
-The Dirty Blonde is a tweed-influenced overdrive built to capture cranked American amp tone and twang.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. THE DIRTY BLONDE | menatone: https://www.menatone.com/product-page/the-dirty-b

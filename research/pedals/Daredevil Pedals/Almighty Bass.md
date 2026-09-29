@@ -7,7 +7,8 @@
 - **Identity:** Daredevil Pedals's Almighty Bass.
 
 ## What this pedal is
-Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / practice tips practice tips Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists By Nina Harper July 18, 2026 Daredevil Pedals has launched the Almighty Bass—a dedicated analog overdrive pedal engineered exclusively for electric bass guitars.
+
+Daredevil Pedals's Almighty Bass is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogi
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists | GearStrings GEARSTRINGS Home Blog Categories Authors About Home / Blog / practice tips practice tips Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists By Nina Harper July 18, 2026 Daredevil Pedals has launched the Almighty Bass—a dedicated analog overdrive pedal engineered exclusively for electric bass guitars.
-Unlike repurposed guitar pedals or generic 'bass-friendly' designs, this unit features a custom Class-A JFET front-end, dual-stage gain topology, and a patented low-frequency preservation circuit that maintains sub-80 Hz energy down to 32 Hz with less than 1.2 dB attenuation.
-Independent lab testing at the Berklee College of Music Signal Processing Lab confirmed its flat ±0.3 dB response from 32 Hz to 220 Hz—critical for modern bass tones in funk, metal, gospel, and studio tracking.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Daredevil Pedals Introduces The Almighty Bass: A Rigorous Technical and Pedagogical Analysis for Bassists | GearStrings: https://gearstrings.com/practice-tips/daredevil-pedals-introduces-the-almighty-bass

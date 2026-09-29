@@ -7,7 +7,8 @@
 - **Identity:** VFE Pedals's Fuzz Duo.
 
 ## What this pedal is
-Published on July 31, 2011 VFE Pedals fuzz pedal Controls fuzz filter bias level tr1 (toggle) tr2 (toggle) Information VFE Pedals This pedal takes the classic Fuzz Face circuit & allows you to swap in germanium or silicon transistors to create your own signature fuzz tone.
+
+VFE Pedals's Fuzz Duo is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Published on July 31, 2011 VFE Pedals fuzz pedal Controls fuzz filter bias level
 - **Exact part:** Unknown.
 
 ## Sound
-Published on July 31, 2011 VFE Pedals fuzz pedal Controls fuzz filter bias level tr1 (toggle) tr2 (toggle) Information VFE Pedals This pedal takes the classic Fuzz Face circuit & allows you to swap in germanium or silicon transistors to create your own signature fuzz tone.
-Because of the range of controls, this fuzz has both sweet & smooth tones & some wild untamed self-oscillating glitchy tones as well.
-Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2015-01-12 JJ Likes Guitar VFE Custom Shop Fuzz Duo & Blueprint Delay | design your own effects pedal 15:42 Reviews myFXDB user reviews No reviews yet + Add your review Links VFE Custom VFE Pedals VFE Pedals Fuzz Duo VFE Pedals Fuzz Duo germanium-silcon fuzz files v(e) Design (new company) Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. VFE Pedals Fuzz Duo | Effects Database: https://www.effectsdatabase.com/model/vfe/fuzzduo

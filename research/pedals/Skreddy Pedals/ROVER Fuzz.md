@@ -7,7 +7,8 @@
 - **Identity:** Skreddy Pedals's ROVER Fuzz.
 
 ## What this pedal is
-off onna ben (Soundcloud) the skreddy rover fuzz is always "on", herein.
+
+Skreddy Pedals's ROVER Fuzz is cataloged in the archive as a Distortion / Fuzz pedal.
 
 ## Colorways
 - Sound Clips Ilya Lipkin The Restoned Skreddy Rover fuzz jam, using a Gibson SG into a clean Orange amp...

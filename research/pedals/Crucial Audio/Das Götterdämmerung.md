@@ -26,9 +26,8 @@ Crucial Audio's Das Götterdämmerung is cataloged as a Distortion / Fuzz pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Published on March 13, 2017 Crucial Audio fuzz ring modulator lfo-controlled pedal Information Crucial Audio Germanium Fuzz Ring Modulator.
-Product Features Germanium Fuzz Controls: GAIN, SATURATION, OUTPUT Ring Modulator Controls: INPUT GAIN, FREQUENCY, MOD DEPTH, RATE & SHAPE, MIX Full Range (Lo/HI) Carrier Frequency/Pitch Functionality External & Internal Carrier Frequency I/O's Carrier Frequency Expression Input Rugged Full Color UV Printed & Powder Coated Aluminum Enclosure 1 Year Warranty Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2017-04-26 Crucial Audio Die Götterdämmerung by Crucial Audio - one more from the other night.
-2017-04-25 Crucial Audio Summoning a Sonic Armageddon with Die Götterdämmerung Germanium Fuzz Ring Modulator @stevendrozd @stompboxpedals @pedaloftheday @effectsdatabase Reviews myFXDB user reviews No reviews yet + Add your review Links Crucial Audio Crucial Audio Das GÃ¶tterdÃ¤mmerung - Germanium Fuzz / Ring Modulator Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crucial Audio Das Götterdämmerung - Germanium Fuzz / Ring Modulator | Effects Database: https://www.effectsdatabase.com/model/crucial/gotterdammerung

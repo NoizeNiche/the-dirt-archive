@@ -28,9 +28,8 @@ Danelectro's Black Paisley Liquid Metal is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Danelectro Danelectro Paisley effects browse by type pitch/octave octaver octave fuzz octave fuzz (1 octave down) browse by enclosure pedal Danelectro LM-1 Black Paisley Liquid Metal Published on October 19, 2004 Danelectro Paisley effects octave fuzz (1 octave down) pedal Controls Volume controls the output volume Drive controls the amount of distortion Bass controls the level of the bass tones Treble controls the level of the treble tones Flat/Boost/Scoop selects an EQ type Information Danelectro Nobody does metal better!
-A raging distortion combined with a switchable drop octave for floor-shakin' bass.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Danelectro LM-1 Black Paisley Liquid Metal | Effects Database: https://www.effectsdatabase.com/model/danelectro/paisley/black

@@ -27,9 +27,8 @@ Mojo Hand FX Sericon Overdrive Pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Mojo Hand FX Sericon Overdrive Pedal
-Related products Oneder Effects Old Blue $ 124.00 EarthQuaker Devices Black Eye Boost $ 119.00 Greer Amps Black Mountain Crunch Drive Pedal $ 159.00 Boss OD-1 Overdrive $ 294.00 Bucket List Guitars
-The Sericon has a highly tweakable, interactive mystique all its own, with three separate controls for gain manipulation; Drive, Gain and Blaze.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Mojo Hand FX Sericon - Reverb: https://reverb.com/p/mojo-hand-fx-sericon

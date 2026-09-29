@@ -7,7 +7,8 @@
 - **Identity:** Wampler Pedals's UnderDog.
 
 ## What this pedal is
-Quantity: The Wampler Underdog Overdrive Pedal The Wampler Underdog Overdrive pedal is a unique pedal in many ways.
+
+Wampler Pedals's UnderDog is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,9 +27,8 @@ Quantity: The Wampler Underdog Overdrive Pedal The Wampler Underdog Overdrive pe
 - **Exact part:** Unknown.
 
 ## Sound
-Quantity: The Wampler Underdog Overdrive Pedal The Wampler Underdog Overdrive pedal is a unique pedal in many ways.
-We at Tonetronix are contributing in the quest to raise funds by turning proceeds from sales of the Underdog Overdrive Pedals, over to Brian Wampler to help raise funds for Ivy.
-To gain further understanding, read below in the words of Brian Wampler.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. PDF Underdog Overdrive Manual - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/Underdog.pdf

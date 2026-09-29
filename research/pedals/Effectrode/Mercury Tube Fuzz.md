@@ -26,9 +26,8 @@ Mercury Tube Fuzz — Effectrode Fuzz Pedal
 - **Exact part:** Unknown.
 
 ## Sound
-Mercury Tube Fuzz — Effectrode Fuzz Pedal
-© 2026 PedalFilter Clear Compare ( 0 ) Back Home Effectrode Mercury Tube Fuzz Back to results Effectrode Mercury Tube Fuzz Fuzz Tube Vacuum tube fuzz with NOS Philips tube and germanium diodes, Heat switch for transistor-like bite.
-Pedalboard Designer Pedalboard Designer Feed Catalog EN Login Catalog / Mercury Tube Fuzz Add to my board EFFECTRODE Mercury Tube Fuzz uncategorized Technical Specs Dimensions 94 × 129 mm
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Mercury Tube Fuzz pedal - Effectrode: https://www.effectrode.com/products/effects-pedals/mercury-tube-fuzz-pedal/

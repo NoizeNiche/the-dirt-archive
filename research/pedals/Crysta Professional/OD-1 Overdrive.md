@@ -7,7 +7,8 @@
 - **Identity:** Crysta Professional's OD-1 Overdrive.
 
 ## What this pedal is
-pictures needed Crysta Professional OD-1 Overdrive Published on June 15, 2012 Crysta Professional overdrive pedal pictures needed No pictures yet...
+
+Crysta Professional's OD-1 Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

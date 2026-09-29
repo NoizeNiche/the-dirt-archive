@@ -7,7 +7,8 @@
 - **Identity:** Crock's SM-2 Super Metal.
 
 ## What this pedal is
-Published on June 14, 2009 Crock distortion pedal Super Metall Super Metall Super Metall Super Metall Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's SM-2 Super Metal is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -26,7 +27,8 @@ Published on June 14, 2009 Crock distortion pedal Super Metall Super Metall Supe
 - **Exact part:** Unknown.
 
 ## Sound
-Published on June 14, 2009 Crock distortion pedal Super Metall Super Metall Super Metall Super Metall Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock SM-2 Super Metal | Effects Database: https://www.effectsdatabase.com/model/crock/sm2

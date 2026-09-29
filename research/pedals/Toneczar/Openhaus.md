@@ -26,8 +26,8 @@ Toneczar's Openhaus is cataloged as a Distortion / Fuzz pedal.
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Info about the original: the openhaus can create an array of modern, heavy distortion tones from popular amplifiers, without adjusting the amplifiers tone controls away from their optimum clean tone settings.
-Share to X Share to Facebook Share to Pinterest Tags: Distortion , Verified , Vero 67 comments:
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. openhaus – toneczar effects: https://toneczareffects.com/openhaus/

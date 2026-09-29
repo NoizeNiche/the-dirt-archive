@@ -27,8 +27,8 @@ Specifically, images of this unit are posted to illustrate the subtle difference
 - **Exact part:** Unknown.
 
 ## Sound
-Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal – Rare Original ’60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox 1967 Universal Amplifier Corp.
-Astro Amp Astrotone V2 Vintage Electric Guitar Fuzz Effects Pedal – Rare Original ’60s Distortion Box Version 2, Like Fuzzz Boxx FX Stompbox Add To Wishlist View Wishlist Category Effects Tags Astro Amp , Astrotone , Fuzzz Boxx , Sam Ash Share this: Description Information $ell Yours Today!
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. gearlord.com: https://www.gearlord.com/product/1967-universal-amplifier-corp-astro-amp-astrotone-v2-vintage-electric-guitar-fuzz-effects-pedal-rare-original-60s-distortion-box-version-2-like-fuzzz-boxx-fx-stompbox/

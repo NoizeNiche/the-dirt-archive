@@ -26,9 +26,8 @@ This historic town, and the famous music that was created there, is responsible 
 - **Exact part:** Unknown.
 
 ## Sound
-Published on August 25, 2014 Wampler Pedals overdrive pedal Information Wampler Pedals At the crossroads of Highway 61 and Junction 49 lies the official crossroads of Clarksdale, Mississippi - the birthplace of the Delta Blues.
-This historic town, and the famous music that was created there, is responsible for the inspiration behind this pedal - The Clarksdale Overdrive.
-Blues and non-blues guitar players have used Tube Screamer® type circuits for years to help them create their own signature sound.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Clarksdale Overdrive | Wampler Pedals: https://www.wamplerpedals.com/products/discontinued/clarksdale/

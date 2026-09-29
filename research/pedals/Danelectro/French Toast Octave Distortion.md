@@ -26,9 +26,8 @@ Danelectro's French Toast Octave Distortion is cataloged as a Distortion pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Published on October 13, 2004 Danelectro mini effects octave fuzz (1 octave up) pedal schematics Controls Level controls the output volume Dist controls the amount of distortion Octave turns the "octave up" effect on and off EQ controls the tone (bass/treble?) Information Danelectro A faithful re-issue of the Foxx Tone Machine from the early 70's-at an incredible price!
-the Foxx Tone Machine was invented by Steve Ridinger, the current president of the Danelectro/Evets Corp.
-Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-08-12 TomsPedalDemos Danelectro DJ-13 French Toast Octave Distortion.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Danelectro DJ-13 French Toast Octave Distortion | Effects Database: https://www.effectsdatabase.com/model/danelectro/mini/frenchtoast

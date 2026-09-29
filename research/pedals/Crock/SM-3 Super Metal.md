@@ -7,7 +7,8 @@
 - **Identity:** Crock's SM-3 Super Metal.
 
 ## What this pedal is
-Published on April 6, 2020 Crock distortion pedal v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+Crock's SM-3 Super Metal is cataloged in the archive as a Distortion pedal.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.
@@ -27,7 +28,8 @@ Published on April 6, 2020 Crock distortion pedal v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 
 - **Exact part:** Unknown.
 
 ## Sound
-Published on April 6, 2020 Crock distortion pedal v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 v2 Reviews myFXDB user reviews No reviews yet + Add your review Where to find one?
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Crock SM-3 Super Metal | Effects Database: https://www.effectsdatabase.com/model/crock/sm3

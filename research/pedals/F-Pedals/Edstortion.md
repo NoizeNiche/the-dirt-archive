@@ -26,9 +26,8 @@ F-Pedals (press release NAMM 2014) Edstortion is a phenomenal pedal with lots of
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-F-Pedals Edstortion - Eddie Kramer Signature Distortion | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-F-Pedals browse by type distortion/fuzz/overdrive distortion browse by enclosure pedal browse by enclosure mini pedal events 2013 NAMM 2013 events 2014 NAMM 2014 F-Pedals Edstortion - Eddie Kramer Signature Distortion Published on January 2, 2013 F-Pedals distortion mini pedal pedal NAMM 2013 NAMM 2014 preview: EK-Distortion EK-Distortion preview: EK-Distortion EK-Distortion Edstortion NAMM 2013 NAMM 2013 Information F-Pedals Efx Modes: Vintage Modern Dimensions: D : 93.5mm (3.68 in) W : 42mm (1.65 in) H : 52mm (2.05 in) Weight: 160g (0.35lb) Features: Analog True Bypass Multiple Modes ON/OFF LED Full Metal Shell Multisided Silkscreen Eco-friendly Packaging KILLER SOUND !
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. F-Pedals Eddie Kramer Edstortion Distortion effect pedal: https://reverb.com/item/1727446-f-pedals-eddie-kramer-edstortion-distortion-effect-pedal

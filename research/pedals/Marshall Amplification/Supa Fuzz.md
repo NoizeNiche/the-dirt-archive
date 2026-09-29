@@ -27,9 +27,8 @@ Williams SUPA FUZZ - The Williams Supa Fuzz is a very faithful recreation of the
 - The archive records only the component information explicitly present in these sources.
 
 ## Sound
-Williams Supa Fuzz Home Fuzz Pedals MK11 OC81D MK11 Classic MK1 Classic MK1.5 Fuzz MK111 Fuzz Supa Fuzz BuZZaFuZZ Boost Pedals The Ranger Ranger Gold PowerDriver Pedal Mods & Repairs Pedal Repairs Pedal Mods Feedback About Contact
-Williams SUPA FUZZ - The Williams Supa Fuzz is a very faithful recreation of the legendary Marshall Supa Fuzz pedal.
-Built by Sola Sound in the 1960's for Marshall Amplification, the Supa Fuzz was one of the most popular incarnations of the Tonebender and famously used by Pete Townshend amongst many others including Jeff Beck.
+
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 1. Williams Supa Fuzz: https://williamsaudio.co.uk/Williams-Supa-Fuzz.html
