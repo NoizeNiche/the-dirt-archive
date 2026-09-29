@@ -39,7 +39,6 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Build Your Own Clone's Li'l Beaver (Russian) is cataloged as a fuzz pedal.
 
 ### Verified color/finish evidence
-- Δ More Schematics Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart Based On: Catalinebread Dirty Little Secret MK3 Cataline’s Secret MK III by PCB Guitar Mania Add To Cart (c) Stomp Box Schema
 
 ### Verified version references
 - The evidence references: MK III, MK3.
@@ -49,7 +48,6 @@ Build Your Own Clone's Li'l Beaver (Russian) is cataloged as a fuzz pedal.
 
 ### Verified sound evidence
 The kit includes metal film resistors and metallized polyester film capacitors, which deliver vintage tone with reduced noise compared to the original.
-Δ More Schematics Based On: Marshall AFD Appetite for Distortion by PCB Guitar Mania Add To Cart Based On: Darkglass B3k Black Mirror by PCB Guitar Mania Add To Cart Based On: Catalinebread Dirty Little Secret MK3 Cataline’s Secret MK III by PCB Guitar Mania Add To Cart (c) Stomp Box Schema
 
 ### Sources checked in this pass
 1. Li'l Beaver (Russian) Kit by Build Your Own Clone (BYOC) - Stomp Box Schematics: https://stompboxschematics.com/circuits/lil-beaver-russian-kit-by-build-your-own-clone-byoc/
