@@ -137,11 +137,11 @@ def suspicious_values(entry):
     return reasons
 
 
-def clear_entry(entry, role):
+def clear_entry(entry, role, preserve_file=False):
     image = entry.get("image")
     removed_files = []
 
-    if is_local_image(image):
+    if is_local_image(image) and not preserve_file:
         asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
         for candidate in (asset, asset.with_suffix(".source")):
             if candidate.exists() and candidate.is_file():
@@ -259,9 +259,21 @@ def main():
         if not reasons:
             continue
 
-        files = clear_entry(entry, "catalog")
+        # Duplicate/case-variant catalog identities can legitimately share a
+        # canonical asset path. Never delete that physical asset when another
+        # identity at the same path has a verified manual primary.
+        shared_verified_asset = False
+        if is_local_image(image):
+            sibling_keys = {
+                key(row.get("company") or row.get("builder"), row.get("pedal"))
+                for row in catalog.get("pedals", [])
+                if row is not entry and row.get("image") == image
+            }
+            shared_verified_asset = any(sibling in manual_review for sibling in sibling_keys)
+
+        files = clear_entry(entry, "catalog", preserve_file=shared_verified_asset)
         if manifest_entry is not None:
-            files.extend(clear_entry(manifest_entry, "manifest"))
+            files.extend(clear_entry(manifest_entry, "manifest", preserve_file=shared_verified_asset))
 
         reset += 1
         removed.extend(files)
