@@ -20,6 +20,7 @@ INDEX = Path("research/PEDAL_INDEX.json")
 MANIFEST = Path("research/pedals/PEDAL_IMAGES.json")
 TRACKER = Path("research/PRP_TRACKER.csv")
 PHOTO_SOURCE_BLOCKLIST = Path("research/PHOTO_SOURCE_BLOCKLIST.json")
+PHOTO_IDENTITY_QUARANTINE = Path("research/PHOTO_IDENTITY_QUARANTINE.csv")
 
 TARGET_BUILDER = os.environ.get("PHOTO_RESET_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_RESET_TARGET_PEDAL", "").strip()
