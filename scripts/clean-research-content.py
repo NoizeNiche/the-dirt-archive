@@ -613,11 +613,12 @@ def clean_file(path: Path) -> bool:
         line = html.unescape(raw)
         if line != raw:
             changed = True
+        title_heading = re.match(r"^#\s+.+?\s+—\s+(.+?)\s*$", line)
+        if title_heading:
+            current_pedal = title_heading.group(1).strip()
         heading = re.match(r"^(#{2,6})\s+(.+?)\s*$", line)
         if heading:
             section = heading.group(2).strip().lower()
-            if heading.group(1) == "#" and " — " in heading.group(2):
-                current_pedal = heading.group(2).split(" — ", 1)[1].strip()
         stripped = line.strip()
         if bad_source_line(line):
             changed = True
@@ -654,7 +655,7 @@ def clean_file(path: Path) -> bool:
         if section in {"sound", "what this pedal is", "deep research verification"} and title_residue(line, current_pedal):
             changed = True
             continue
-        if section == "deep research verification" and re.fullmatch(r"-\\s*The evidence references:\\s*revision\\.?", line.strip(), re.I):
+        if section == "deep research verification" and re.fullmatch(r"-\s*The evidence references:\s*revision\.?", line.strip(), re.I):
             changed = True
             continue
         if section == "transistor":
