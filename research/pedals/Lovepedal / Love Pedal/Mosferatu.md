@@ -4,34 +4,27 @@
 - **Archive parent:** Mosferatu
 - **Builder:** Lovepedal / Love Pedal
 - **Catalog type:** Overdrive
-- **Identity:** Lovepedal / Love Pedal's Mosferatu.
+- **Identity:** Lovepedal / Hermida Mosferatu.
 
 ## What this pedal is
-Lovepedal / Love Pedal's Mosferatu is cataloged as an overdrive pedal.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+Mosferatu is a Lovepedal/Hermida overdrive designed for smooth, dynamic drive with enough gain for thicker saturation.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
-
-## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Multiple small-batch versions exist.
+- No complete numbered production chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping-device information was not established.
 
 ## Sound
-TCHULA 200lbs PURPLE PLEXI ETERNITY BURST HERMIDA ZENDRIVE DOVER DRIVE AMP ELEVEN RUBBER CHICKEN HERMIDA EPH3 © All rights reserved 2026 LOVEPEDAL L.L.C.
-The Dirt Archive currently catalogs **Mosferatu** by **Lovepedal / Love Pedal** as a **Overdrive** pedal.
+Responsive low-to-medium gain overdrive with strong guitar-volume cleanup.
 
 ## Sources checked
-1. Love Pedal: https://www.lovepedal.com/
+1. Lovepedal - History: https://www.lovepedal.com/history/
+2. Effects Database - Lovepedal Mosferatu: https://www.effectsdatabase.com/model/lovepedal/mosferatu
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
