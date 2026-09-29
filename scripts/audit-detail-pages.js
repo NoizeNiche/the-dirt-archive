@@ -35,6 +35,19 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       return !!record && !record.hidden && !!research && research.textContent.trim().length>40;
     },null,{timeout:15000});
 
+    // Local primary images can still be loading after the research block is ready.
+    // Wait briefly for the image load/error event before declaring a broken asset.
+    if (isLocalImage(entry.image)) {
+      await page.waitForFunction(() => {
+        const image = document.querySelector('#photoBox .photoImage');
+        const fallback = document.querySelector('#photoBox .photoFallback');
+        const fallbackVisible = !!fallback && !fallback.hidden &&
+          getComputedStyle(fallback).display !== 'none' &&
+          getComputedStyle(fallback).visibility !== 'hidden';
+        return !image || image.complete || fallbackVisible;
+      }, null, { timeout: 5000 }).catch(() => {});
+    }
+
     const result = await page.evaluate(() => {
       const name=(document.querySelector('#name')?.textContent||'').trim();
       const builder=(document.querySelector('#builder')?.textContent||'').trim();
