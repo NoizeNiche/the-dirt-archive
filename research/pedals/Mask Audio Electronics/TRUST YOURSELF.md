@@ -7,35 +7,34 @@
 - **Identity:** Mask Audio Electronics's TRUST YOURSELF.
 
 ## What this pedal is
-not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026-08-17 Tallon Electric The Banshee with the @maskaudioelectronics Trust yourself is an insane combo ????
+TRUST YOURSELF is a Rat-style distortion with a very simple internal control set. The pedal is intended to provide high-gain distortion while allowing the player to shape the output, overall gain and high-frequency content.
 
 ## Colorways
-- Color Black Pink Etch (Blackout) Etch (Positive) Black - $110.00 USD Pink - Sold Out Etch (Blackout) - Sold Out Etch (Positive) - Sold Out Quantity Add to Cart The Rat is about as perfect of a pedal that you can make.
+- Black, pink and etched presentations are documented.
+- Cosmetic editions are not treated as circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Internal **LOUD** control for master volume.
+- **MORE** controls overall gain.
+- **HARSH** cuts high end.
+- No complete numbered revision chronology was established.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked sources do not establish a complete internal production revision history.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-TRUST YOURSELF to go to tone Valhalla.
-(Internal) Controls LOUD - Master volume MORE - Overall gain HARSH - Cuts high-end Video all
-CONTROLS: LOUD - Master volume MORE - Overall gain HARSH - Cuts high end More from Mask Audio Electronics Mask Audio Electronics Line Blur $165.00 Mask Audio Electronics Cascader $180.00 Mask Audio Electronics YES!
+TRUST YOURSELF is based around a Rat-style distortion character, with internal controls allowing the fixed enclosure to cover different amounts of output, gain and treble cut.
 
 ## Sources checked
-1. TRUST YOURSELF &ndash; Mask Audio Electronics: https://maskaudioelectronics.com/products/trust-yourself
-2. Mask Audio Electronics Trust Yourself | Effects Database: https://www.effectsdatabase.com/model/mask/trustyourself
-3. Mask Audio Electronics Trust Yourself — Distortion Pedal: https://equipboard.com/items/mask-audio-electronics-trust-yourself
-4. Mask Audio Electronics TRUST YOURSELF | Axe... And You Shall Receive: https://www.axeandyoushallreceive.com/product/mask-audio-electronics-trust-yourself
+1. Mask Audio Electronics - TRUST YOURSELF: https://maskaudioelectronics.com/products/trust-yourself
+2. Effects Database - Mask TRUST YOURSELF: https://www.effectsdatabase.com/model/mask/trustyourself
+3. Equipboard - Mask Audio TRUST YOURSELF: https://equipboard.com/items/mask-audio-electronics-trust-yourself
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
