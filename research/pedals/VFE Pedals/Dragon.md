@@ -4,56 +4,43 @@
 - **Archive parent:** Dragon
 - **Builder:** VFE Pedals
 - **Catalog type:** Overdrive
-- **Identity:** VFE Pedals's Dragon.
+- **Identity:** VFE Pedals Dragon Dynamic Overdrive.
 
 ## What this pedal is
-Published on January 17, 2017 VFE Pedals overdrive pedal Information VFE Pedals Virtually all overdrive pedals use some form of bass cut before distortion, and treble cut after distortion.
+The Dragon is a dynamic overdrive built around adjustable bass and treble filtering. Effects Database describes it as an overdrive that puts the amount of pre-distortion bass cut and post-distortion treble cut under the player's control.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway history was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- No complete numbered production revision sequence was established in the checked sources.
+- The separate Dragon variants and later VFE designs should not be merged unless the source identifies them explicitly.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated hardware revision chronology was established in the checked sources.
+
+## Controls
+- **HPF:** sets the high-pass filter cutoff.
+- **LPF:** sets the low-pass filter cutoff.
+- **LEVEL:** sets output.
+- **GAIN:** sets drive amount.
+- **6 dB / 12 dB** slope control changes the filter slope, including a documented center position that combines different slopes.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production transistor/device information was not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Published on January 17, 2017 VFE Pedals overdrive pedal Information VFE Pedals Virtually all overdrive pedals use some form of bass cut before distortion, and treble cut after distortion.
-The bass cut pushes the mids to saturate & drive first, which keeps the bottom end tight & punchy.
-The treble cut smooths out distortion artifacts (like fizz).
+The Dragon lets the player shape how much bass is removed before the drive stage and how much treble is removed afterward. This filtering interacts with the dynamic drive circuit, allowing anything from tighter, brighter drive to more heavily saturated textures depending on the filter settings.
 
 ## Sources checked
-1. VFE Pedals Dragon - Dynamic Overdrive | Effects Database: https://www.effectsdatabase.com/model/vfe/dragon
-2. Dragon by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon/68986067/
+1. Effects Database - VFE Pedals Dragon: https://www.effectsdatabase.com/model/vfe/dragon
+2. VFE Pedals product/site archive: https://www.vfepedals.com/
+3. RockBoard PedalPedia - VFE Dragon: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon/68980943/
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Published on January 17, 2017 VFE Pedals overdrive pedal Information VFE Pedals Virtually all overdrive pedals use some form of bass cut before distortion, and treble cut after distortion.
-
-### Verified sound evidence
-Published on January 17, 2017 VFE Pedals overdrive pedal Information VFE Pedals Virtually all overdrive pedals use some form of bass cut before distortion, and treble cut after distortion.
-The bass cut pushes the mids to saturate & drive first, which keeps the bottom end tight & punchy.
-The treble cut smooths out distortion artifacts (like fizz).
-
-### Sources checked in this pass
-1. VFE Pedals Dragon - Dynamic Overdrive | Effects Database: https://www.effectsdatabase.com/model/vfe/dragon
-2. Dragon by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon/68986067/
-3. NPD VFE Dragon | Rig-Talk: https://www.rig-talk.com/forum/threads/npd-vfe-dragon.204336/
-4. VFE Dragon Dynamic Overdrive | Delicious Audio: https://delicious-audio.com/vfe-dragon-dynamic-overdrive/
-5. Review by The Gear Page (EN): https://www.thegearpage.net/board/index.php?threads/vfe-dragon-with-lpf-hpf.1820604/
-6. Product Page: https://reverb.com/de/item/83460530-vfe-dragon-dynamic-overdrive-green-engraved
+- **Archive status:** Exact photo pending.

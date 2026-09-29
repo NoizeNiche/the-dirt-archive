@@ -4,42 +4,48 @@
 - **Archive parent:** Bulldog Distortion
 - **Builder:** VOX
 - **Catalog type:** Distortion
-- **Identity:** VOX's Bulldog Distortion.
+- **Identity:** VOX Cooltron Bulldog Distortion, model CT01/CT01DS.
 
 ## What this pedal is
-I tried about 8 distortion pedals...
+The VOX Bulldog Distortion is a two-channel tube-driven distortion pedal from the Cooltron series. The two channels provide separate gain and volume controls. Gain 1 is voiced as the more vintage-oriented channel, while Gain 2 provides a more aggressive distortion voice with somewhat scooped mids.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented Bulldog Distortion has a chrome/metallic enclosure. A complete factory finish chronology was not established.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Cooltron Bulldog Distortion, model CT01/CT01DS.
+- The pedal is part of VOX's Cooltron series and uses a 12AU7/ECC82 tube.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete factory hardware revision chronology was established in the checked sources.
+
+## Controls
+- **Gain 1**
+- **Volume 1**
+- **Gain 2**
+- **Volume 2**
+- **Bass**
+- **Treble**
+- **Gain 2 Voice**
+- **Effect** footswitch
+- **Gain 1/2** channel selector
 
 ## Transistor
-- Documented terms in the verified sources: AC30.
-- The archive records only the component information explicitly present in these sources.
+- The Bulldog is a tube-based Cooltron design rather than a pedal for which an exact transistor part number is established in the reviewed sources.
+- **Exact transistor/device:** Not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact production clipping/rectifier diode information was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Two channels - each with its own GAIN and level control - with a wonderfully growly tube sound.
-The name says it all: with the VOX Bulldog Distortion, you'll scorch the hair of even the fans in the back row.
-“Gain 1” covers the ‘vintage’ distortion range, while “Gain 2”, in keeping with the spirit of the times, is more aggressive and has slightly emphasized mids.
+Gain 1 provides the more vintage distortion character. Gain 2 delivers a more modern, aggressive voice with slightly scooped mids. The Bass and Treble controls provide additional tonal shaping, while Gain 2 Voice changes the character of the second channel.
 
 ## Sources checked
-1. Vox Bulldog Distortion - Reverb: https://reverb.com/p/vox-bulldog-distortion
-2. Bulldog Distortion by VOX | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VOX/Bulldog-Distortion/68986189/
-3. Bulldog Distortion Review: What more do you want. I tried about 8 distortion pedals... | Vox | Guitar Effects | Reviews @ Ultimate-Guitar.Com: https://www.ultimate-guitar.com/reviews/guitar_effects/vox/bulldog_distortion/39926
-4. Vox Cooltron CT01DS Bulldog Distortion Pedal - Equipboard: https://equipboard.com/items/vox-cooltron-ct01ds-bulldog-distortion-pedal
-5. Cooltron Bulldog Distortion — Vox Distortion Pedal | PedalFilter | PedalFilter: https://pedalfilter.com/vox/cooltron-bulldog-distortion
-6. VOX COOLTRON Guitar Effects Pedal Manual | Manualzz: https://manualzz.com/doc/4653112/vox-cooltron-bulldog-distortion--big-ben-overdrive--brit-...
-7. Vox CT-01 Bulldog Distortion - Effects Database: https://www.effectsdatabase.com/model/vox/cooltron/ct01
-8. VOX Bulldog Distortion NAM Profiles by @klmv: https://www.tone3000.com/tones/vox-bulldog-distortion-79657
+1. VOX Cooltron user manual: https://manualzilla.com/doc/6735176/cooltron-%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8
+2. Effects Database - Vox CT-01 Bulldog Distortion: https://www.effectsdatabase.com/model/vox/cooltron/ct01
+3. Sweetwater - Winter NAMM 2005: https://www.sweetwater.com/insync/winter-namm-part-2-of-5/
+4. Guitar Center - VOX Cooltron CT01DS Bulldog Distortion: https://www.guitarcenter.com/Vox/Cooltron-CT01DS-Bulldog-Distortion-Pedal-1274034482630.gc
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo pending.
