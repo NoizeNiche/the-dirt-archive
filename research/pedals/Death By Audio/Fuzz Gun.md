@@ -6,6 +6,9 @@
 - **Catalog type:** Fuzz
 - **Identity:** Death By Audio's Fuzz Gun.
 
+## Archive identity note
+- The catalog identity is retained as **Fuzz Gun** for continuity with the existing archive record; Death By Audio's manufacturer product page identifies the pedal as **Supersonic Fuzz Gun**.
+
 ## What this pedal is
 The archive record labeled **Fuzz Gun** is supported by the checked Death By Audio material for the **Supersonic Fuzz Gun**. The pedal is an extreme fuzz design built for gated, oscillating, and heavily manipulated sounds. Death By Audio describes the controls as highly interactive and intended for textures ranging from conventional fuzz to self-oscillation.
 
