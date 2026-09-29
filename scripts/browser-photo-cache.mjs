@@ -2793,6 +2793,16 @@ function imageBytesLookComplete(bytes, contentType = '') {
           url: normalizedUrl
         });
         if (curled?.bytes) return curled;
+
+        // Effects Database image hosts can reject both browser and curl
+        // transport while remaining retrievable through the same image relay
+        // already used by the direct-image lane. The source URL is still an
+        // exact asset emitted by the identity-verified model page.
+        const proxied = await proxyImageCandidate({
+          ...candidate,
+          url: normalizedUrl
+        });
+        if (proxied?.bytes) return proxied;
       } catch {}
       return null;
     }
