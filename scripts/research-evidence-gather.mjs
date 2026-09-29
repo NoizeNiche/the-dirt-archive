@@ -424,22 +424,6 @@ async function targetRecord(builder,pedal,type){
     }
   }catch{}
   const models=catalogModels(builder);
-  let recordExcerpt='';
-  let recordTitle=builder+' - '+pedal;
-  try{
-    const record=String((JSON.parse(fs.readFileSync(INDEX,'utf8')).pedals||[])
-      .find(item=>item.company===builder && item.pedal===pedal)?.research_record||'').replace(/^\.\//,'');
-    if(record && fs.existsSync(record)){
-      const raw=fs.readFileSync(record,'utf8');
-      recordTitle=String(raw.match(/^#\s+(.+)$/m)?.[1]||recordTitle);
-      recordExcerpt=raw
-        .replace(/^#.*$/gm,'')
-        .replace(/^## Deep research verification[\s\S]*$/m,'')
-        .replace(/\n{3,}/g,'\n\n')
-        .trim()
-        .slice(0,5500);
-    }
-  }catch{}
   const sourceHostsForTarget=[...new Set(urls.map(host).filter(Boolean))];
   const queries=searchQueries(builder,pedal,sourceHostsForTarget);
   const found=new Map();
@@ -516,14 +500,9 @@ async function targetRecord(builder,pedal,type){
         ? pageInfo(p.text)
         : {title:item.x.title,h1:'',description:'',body:''};
     const u=p?.url||item.x.url;
-    const info=curatedExactCandidate && recordExcerpt
-      ? {
-          ...baseInfo,
-          title:baseInfo.title || recordTitle,
-          h1:baseInfo.h1 || recordTitle,
-          body:(String(baseInfo.body||'') + "\n" + recordExcerpt).trim().slice(0,9000)
-        }
-      : baseInfo;
+    // Curated URLs are identity leads only. Never mix the archive's own
+    // research prose into a source excerpt used as evidence.
+    const info=baseInfo;
     const fullText=info.title+' '+info.h1+' '+info.description+' '+info.body+' '+u;
     const f=fit(builder,pedal,fullText);
     if(!f.pedalHits || !f.builderHits) return null;

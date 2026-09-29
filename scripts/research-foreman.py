@@ -171,6 +171,13 @@ def resolve_catalog_key(builder,pedal,catalog_index,catalog_keys):
     return next(iter(matches)) if len(matches)==1 else None
 
 
+INTERNAL_ARCHIVE_MARKERS = (
+    "prp identity", "archive parent:", "this pass adds only claims supported",
+    "earlier archive research is retained", "photo recovery is handled separately",
+    "sources checked in this pass", "deep research verification",
+    "the archive records only", "research confidence", "catalog type:",
+)
+
 SCRAPE_RESIDUE_MARKERS = (
     "skip to navigation", "skip to content", "browse by", "effect types",
     "countries", "install effects database app", "forum", "newsletter",
@@ -242,6 +249,8 @@ def clean_evidence_excerpt(text, builder="", pedal=""):
 def source_has_usable_excerpt(source, builder, pedal):
     raw = str(source.get("excerpt") or source.get("bodyExcerpt") or "")
     cleaned = clean_evidence_excerpt(raw, builder, pedal)
+    if any(marker in cleaned.lower() for marker in INTERNAL_ARCHIVE_MARKERS):
+        return False
     if len(cleaned) < 40:
         return False
     residue = scrape_residue_score(cleaned)

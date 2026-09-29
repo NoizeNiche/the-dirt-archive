@@ -20,6 +20,13 @@ INBOX = Path("research/RESEARCH_INBOX")
 RESEARCH_ROOT = Path("research/pedals")
 ALIAS_PATH = Path("research/PEDAL_IDENTITY_ALIASES.csv")
 
+INTERNAL_ARCHIVE_MARKERS = (
+    "prp identity", "archive parent:", "this pass adds only claims supported",
+    "earlier archive research is retained", "photo recovery is handled separately",
+    "sources checked in this pass", "deep research verification",
+    "the archive records only", "research confidence", "catalog type:",
+)
+
 SOUND_WORDS = re.compile(
     r"\b(sound|tone|gain|fuzz|drive|overdrive|distortion|response|texture|"
     r"dynamic|compression|compressed|saturation|saturated|gated|sputter|"
@@ -192,7 +199,10 @@ def strong_single_source(sources):
         return False
     source = sources[0]
     kind = str(source.get("source_kind") or "").strip().lower()
-    excerpt_len = len(norm(source.get("excerpt")))
+    excerpt_text = norm(source.get("excerpt"))
+    if any(marker in excerpt_text for marker in INTERNAL_ARCHIVE_MARKERS):
+        return False
+    excerpt_len = len(excerpt_text)
     if kind in {"manufacturer", "effects_database", "reverb"}:
         return excerpt_len >= 160
     if kind == "catalog_verified":
