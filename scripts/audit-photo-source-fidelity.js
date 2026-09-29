@@ -178,7 +178,7 @@ async function renderedSourcePageImage(page, entry) {
     const strongIdentity = exactPedal && (exactBuilder || builderHits > 0 || builderTokens.length === 0);
     if (!strongIdentity && pedalHits < Math.max(1, pedalTokens.length - 1)) return null;
 
-    const candidates = await page.locator('img').evaluateAll((imgs, { pedalTokens, builderTokens }) => {
+    const candidates = await page.locator('img').evaluateAll((imgs, { pedalPhrase, pedalTokens, builderTokens }) => {
       const normalize = value => String(value || '')
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, ' ')
@@ -219,7 +219,7 @@ async function renderedSourcePageImage(page, entry) {
         const hint = normalize([raw, context].join(' '));
         const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
         const builderHits = builderTokens.filter(token => hint.includes(token)).length;
-        const exactPedal = normalize(entry.pedal).length >= 5 && hint.includes(normalize(entry.pedal));
+        const exactPedal = pedalPhrase.length >= 5 && hint.includes(pedalPhrase);
         let score = Math.min(width * height, 1600000) / 1000;
         score += semantic + pedalHits * 220 + builderHits * 50;
         if (exactPedal) score += 900;
@@ -229,7 +229,7 @@ async function renderedSourcePageImage(page, entry) {
         rows.push({ index, width, height, score, src: img.currentSrc || img.src || '' });
       }
       return rows.sort((a,b) => b.score - a.score).slice(0, 8);
-    }, { pedalTokens, builderTokens });
+    }, { pedalPhrase, pedalTokens, builderTokens });
 
     for (const candidate of candidates) {
       const img = page.locator('img').nth(candidate.index);
