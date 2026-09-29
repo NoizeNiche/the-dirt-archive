@@ -162,6 +162,20 @@ def load_manual_verified_photos():
                     pedal = str(row.get("Pedal") or "").strip()
                     if builder and pedal:
                         MANUAL_VERIFIED_PHOTOS.add(key(builder, pedal))
+                    # A direct override explicitly marked PHOTO REVIEW: PRIMARY
+                    # is equivalent review evidence, even if an older/manual
+                    # roster entry has not yet synchronized.
+                    try:
+                        direct_path = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
+                        with direct_path.open(newline="", encoding="utf-8") as direct_handle:
+                            for direct_row in csv.DictReader(direct_handle):
+                                note = str(direct_row.get("Notes") or "").lower()
+                                db = str(direct_row.get("Builder") or "").strip()
+                                dp = str(direct_row.get("Pedal") or "").strip()
+                                if db and dp and "photo review: primary" in note:
+                                    MANUAL_VERIFIED_PHOTOS.add(key(db, dp))
+                    except Exception:
+                        pass
     except Exception:
         pass
 
