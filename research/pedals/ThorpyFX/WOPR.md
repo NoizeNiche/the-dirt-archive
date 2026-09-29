@@ -7,39 +7,34 @@
 - **Identity:** ThorpyFX's WOPR.
 
 ## What this pedal is
-Fuzz and Boost Add to cart Description WOPR is a massive sounding OP Amp fuzz with a range master boost to add to the massiveness of it.
+The WOPR is an op-amp fuzz with a dedicated master boost. ThorpyFX describes it as a large-sounding fuzz designed to add substantial mass and gain.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- No complete factory colorway chronology was established in the checked sources.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Fuzz** circuit using op-amp gain stages.
+- Dedicated **Master Boost** section.
+- The checked sources do not establish a complete numbered hardware revision chronology.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated production revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The primary gain architecture is op-amp based.
+- **Exact semiconductor complement:** Not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-device part was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-Fuzz and Boost $299.00 $299.00 Unit price / per Shipping calculated at checkout.
-Fuzz and Boost Increase quantity for WOPR
-Fuzz and Boost Add to cart Description WOPR is a massive sounding OP Amp fuzz with a range master boost to add to the massiveness of it.
+The WOPR is intended to produce a very large, thick fuzz sound, with the master boost adding another level of gain and output for stacking or lead use.
 
 ## Sources checked
-1. WOPR | Fuzz and Boost: https://thorpyfx.com/en-us/products/wopr
-2. ThorpyFX WOPR - Reverb: https://reverb.com/p/thorpyfx-wopr
-3. Amazon.com: https://www.amazon.com/ThorpyFX-WOPR-Boost-Guitar-Effect/dp/B0DF4FTQ8Q
-4. ThorpyFX WOPR – Soft Noise Audio: https://softnoiseaudio.com/products/thorpy-fx-wopr
-5. ThorpyFX WOPR Superior Fidelity Tone Machines Owner's Manual: https://manuals.plus/thorpyfx/wopr-superior-fidelity-tone-machines-manual
-6. ThorpyFX WOPR Dimensions, Specs & Details - stompboxgarden.com: https://www.stompboxgarden.com/gear/pedal/3840/thorpyfx-wopr
-7. Thorpyfx WOPR - device.report: https://device.report/thorpyfx/wopr
-8. ThorpyFX Thorpy FX WOPR - What To Know & Where To Buy: https://equipboard.com/items/thorpyfx-thorpy-fx-wopr
+1. ThorpyFX - WOPR: https://thorpyfx.com/en-us/products/wopr
+2. Reverb - ThorpyFX WOPR: https://reverb.com/p/thorpyfx-wopr
+3. ThorpyFX WOPR owner's manual: https://manuals.plus/thorpyfx/wopr-superior-fidelity-tone-machines-manual
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
