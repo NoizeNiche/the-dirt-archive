@@ -7,10 +7,10 @@
 - **Identity:** Keeley Electronics's Red Dirt Germanium Overdrive.
 
 ## What this pedal is
-Keeley Electronics's Red Dirt Germanium Overdrive is cataloged as an overdrive pedal.
+Keeley describes the Red Dirt Germanium as a modified Tube Screamer-type overdrive developed from the Red Dirt platform. The Germanium version changes the gain response across the frequency range, keeping the bass tighter while increasing sustain and saturation through the midrange and highs. [1][2]
 
 ## Colorways
-- Red Dirt Germanium by Keeley Electronics
+- Black enclosure with red "Red Dirt Germanium" graphics. [1]
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.
@@ -26,13 +26,12 @@ Keeley Electronics's Red Dirt Germanium Overdrive is cataloged as an overdrive p
 - **Exact part:** Unknown.
 
 ## Sound
-In modifying the circuit I came across a way to have variable gain on different parts of the frequency response.
-It in fact cleans up really nicely with the volume control even though it has plenty more gain on tap.
-By allowing differing gain rates for the bass response, the bass stays tight and forceful.
+Keeley describes the Germanium modification as producing a more three-dimensional saturation response, with tighter bass, more sustained mids/highs, and more gain available while still cleaning up from the guitar's volume control. [1]  
 
 ## Sources checked
-1. KEELEY ELECTRONICS RED DIRT GERMANIUM Overdrive Pedal - Reverb: https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal
-2. Red Dirt Germanium by Keeley Electronics | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/
+1. Red Dirt Germanium - Keeley Electronics: https://robertkeeley.com/product/red-dirt-germanium/
+2. Red Dirt Germanium Overdrive Effect Pedal - Guitar Center: https://www.guitarcenter.com/Keeley/Red-Dirt-Germanium-Overdrive-Effects-Pedal-1500000153196.gc
+3. KEELEY ELECTRONICS RED DIRT GERMANIUM Overdrive Pedal - Reverb: https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal
 
 ## Photo
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
