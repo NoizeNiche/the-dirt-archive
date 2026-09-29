@@ -51,6 +51,9 @@ jobs:
       - name: Install image tooling
         run: python -m pip install --disable-pip-version-check pillow
 
+      - name: Install browser tooling
+        run: python -m pip install --disable-pip-version-check playwright && python -m playwright install chromium
+
       - name: Apply exact source leads
         run: python scripts/apply-photo-source-overrides.py
 
