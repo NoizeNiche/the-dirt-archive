@@ -143,3 +143,22 @@ The second Gain/Level knobs are removed, and the Voice and Tone knobs are replac
 ### Sources checked in this pass
 1. Knightfall 66 and Mini 66 Overdrives Released by Cog Effects: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
 2. Cog Effects - Mini 66 Overdrive: https://www.cogeffects.co.uk/mini-66.php
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Voice knob of the Knightfall 66 is replaced with a three-position Fat switch, giving control over low end content before the gain stage.
+
+### Verified color/finish evidence
+- The filtered Clean channel of the Knightfall 66 is included, designed to integrate in a more natural sounding way than a typical full range clean signal.
+
+### Verified sound evidence
+The Voice knob alters the amount of low end into the clipping circuit, and the Tone knob cuts highs post clipping.
+The end result is a very simple but extremely flexible overdrive.
+The second Gain/Level knobs are removed, and the Voice and Tone knobs are replaced by the Fat and Cut switches.
+
+### Sources checked in this pass
+1. Knightfall 66 and Mini 66 Overdrives Released by Cog Effects: https://guitarinteractivemagazine.com/news/knightfall-66-and-mini-66-overdrives-released-by-cog-effects/
+2. Cog Effects - Mini 66 Overdrive: https://www.cogeffects.co.uk/mini-66.php

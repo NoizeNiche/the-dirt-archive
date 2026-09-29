@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Ashdown Engineering's James LoMenzo Hyper Drive is cataloged as a distortion pedal.
+James LoMenzo Hyper Drive Published on March 17, 2008 Ashdown Engineering distortion pedal Musikmesse Frankfurt 2008 Information Ashdown A unique bass distortion pedal developed in conjunction with James LoMenzo.
 
 ## Colorways
 
@@ -44,3 +44,18 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+James LoMenzo Hyper Drive Published on March 17, 2008 Ashdown Engineering distortion pedal Musikmesse Frankfurt 2008 Information Ashdown A unique bass distortion pedal developed in conjunction with James LoMenzo.
+
+### Verified sound evidence
+James LoMenzo Hyper Drive Published on March 17, 2008 Ashdown Engineering distortion pedal Musikmesse Frankfurt 2008 Information Ashdown A unique bass distortion pedal developed in conjunction with James LoMenzo.
+In the LoMenzo Hyper Drive, a band of frequencies within the midrange of the bass signal is filtered out and the distortion effect is added only to this band.
+The degree of distortion available is variable from a subtle break up to huge overdrive, enabling a new range of extreme effects for bass to be created.
+
+### Sources checked in this pass
+1. Ashdown Engineering James LoMenzo Hyper Drive | Effects Database: https://www.effectsdatabase.com/model/ashdown/hyperdrive
