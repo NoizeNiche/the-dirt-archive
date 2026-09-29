@@ -24303,7 +24303,7 @@
   {
     "builder": "Maxon",
     "pedal": "TBO-9 True Tube Booster / Overdrive",
-    "image": null,
+    "image": "./assets/pedals/maxon/tbo-9-true-tube-booster-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/TBO-9 True Tube Booster / Overdrive.md",
     "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-TBO9-300px.png?v=1543941573",
@@ -25874,7 +25874,7 @@
   {
     "builder": "MXR",
     "pedal": "Tom Morello Power 50 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/mxr/tom-morello-power-50-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/MXR/Tom Morello Power 50 Overdrive.md",
     "image_source_url": "https://www.mooreguitars.com/wp-content/uploads/2025/11/mxr__55831.jpg",
@@ -26253,7 +26253,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Morning Star",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/morning-star/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Morning Star.md"
   },
@@ -26282,7 +26282,7 @@
   {
     "builder": "NUX Audio / NUX",
     "pedal": "Plexi Crunch",
-    "image": null,
+    "image": "./assets/pedals/nux-audio-nux/plexi-crunch/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/NUX Audio / NUX/Plexi Crunch.md"
   },

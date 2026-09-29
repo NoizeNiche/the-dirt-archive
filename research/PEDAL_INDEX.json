@@ -45590,7 +45590,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maxonfx.com/products/true-tube-booster-overdrive-tbo-9",
-      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-TBO9-300px.png?v=1543941573"
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-TBO9-300px.png?v=1543941573",
+      "image": "./assets/pedals/maxon/tbo-9-true-tube-booster-overdrive/primary.webp"
     },
     {
       "company": "Maxon",
@@ -48598,7 +48599,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.mooreguitars.com/mxr-tom-morello-power-50-overdrive/",
-      "image_source_url": "https://www.mooreguitars.com/wp-content/uploads/2025/11/mxr__55831.jpg"
+      "image_source_url": "https://www.mooreguitars.com/wp-content/uploads/2025/11/mxr__55831.jpg",
+      "image": "./assets/pedals/mxr/tom-morello-power-50-overdrive/primary.webp"
     },
     {
       "company": "MXR",
@@ -49262,7 +49264,8 @@
       "research_record": "./research/pedals/NUX Audio / NUX/Morning Star.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/93902525-nux-nod-3-morning-star-overdrive-excellent-condition"
+      "image_source_page": "https://reverb.com/item/93902525-nux-nod-3-morning-star-overdrive-excellent-condition",
+      "image": "./assets/pedals/nux-audio-nux/morning-star/primary.webp"
     },
     {
       "company": "NUX Audio / NUX",
@@ -49312,7 +49315,8 @@
       "research_record": "./research/pedals/NUX Audio / NUX/Plexi Crunch.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/94562562-nux-reissue-series-plexi-crunch-2010s-grey"
+      "image_source_page": "https://reverb.com/item/94562562-nux-reissue-series-plexi-crunch-2010s-grey",
+      "image": "./assets/pedals/nux-audio-nux/plexi-crunch/primary.webp"
     },
     {
       "company": "NUX Audio / NUX",
