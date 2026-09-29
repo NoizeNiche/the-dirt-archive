@@ -67,10 +67,11 @@ def slug(value: str) -> str:
 
 
 def is_http_image_url(value: str) -> bool:
-    return bool(
-        re.match(r"^https?://", value, re.I)
-        and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", value, re.I)
-    )
+    # Curated direct overrides are already tied to an exact source page. Do not
+    # require a filename extension here because some legitimate CDN/image
+    # endpoints are extensionless or use signed query URLs. Pillow validation
+    # remains the final byte-level image gate.
+    return bool(re.match(r"^https?://", value, re.I))
 
 
 def target_path(entry: dict) -> Path:
