@@ -26,7 +26,9 @@ Daredevil Pedals's COCKED & FEARLESS is cataloged as a Distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The Fearless distortion boasts dual channel gain with Hi and Low settings, coupled with the classic fixed wah tones of the Atomic Cock.
+Wah filtering can be stomped in or out of the signal path and blended to control how present the effect is in the distortion circuit.
+The Fearless is a Daredevil original design op amp distortion, powerful attack but warm and dynamic as well.
 
 ## Sources checked
 1. Daredevil Pedals Cocked Fearless - What To Know Where To Buy: https://equipboard.com/items/cocked-fearless

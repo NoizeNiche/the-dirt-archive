@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Dwarfcraft Devices's Gears is cataloged in the archive as a Overdrive pedal.
+Eau Claire, WI February 9, 2015 Gears is many things; an overdrive, sub octave generator, and resonant filter and expression pedal input.
 
 ## Colorways
 - No specific factory colorway information was established in the verified evidence packet.

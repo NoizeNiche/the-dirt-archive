@@ -29,7 +29,9 @@ Crown's Super Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+It delivered the same aggressive, octave enhanced fuzz tones that became a signature of early heavy rock and psychedelic music.
+Controls Expander (with On/Off switch): Adjusts the intensity of the fuzz effect and serves as the main power switch.
+Tone switch: Two way slide switch; Position 1 produces a mid focused fuzz, Position 2 adds a heavier sustained tone with more low end.
 
 ## Sources checked
 1. Crown Super Fuzz | Effects Database: https://www.effectsdatabase.com/model/crown/superfuzz

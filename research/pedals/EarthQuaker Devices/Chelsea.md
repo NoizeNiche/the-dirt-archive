@@ -27,7 +27,9 @@ Each Chelsea is handmade at EarthQuaker Devices headquarters in always sunny Akr
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Chelsea Low End Fuzz Driver — EarthQuaker Devices Contact Us Use the form on the right to contact us.
+With only three controls, this deceptively powerful pedal offers you everything from light overdrive to full on distortion with clarity and blissful grinding.
+A Tone On/Off switch allows you remove the Tone control from the circuit, opening up a whole new world of midrange grind.
 
 ## Sources checked
 1. Chelsea Low End Fuzz Driver — EarthQuaker Devices: https://www.earthquakerdevices.com/chelsea

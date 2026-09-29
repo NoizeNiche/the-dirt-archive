@@ -28,7 +28,8 @@ DeadastronautFX's X-Fuzz II is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+X Fuzz II kit, 27,00 � English German Shipping Costs Forum Contact us Shipping Costs English English German Login New here?
+A great full, rich fuzz, with a nice tubescreamer overdrive option with the toggle switch in the middle position.
 
 ## Sources checked
 1. DEADASTRONAUTFX X-FUZZ II PEDAL - Reverb: https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal

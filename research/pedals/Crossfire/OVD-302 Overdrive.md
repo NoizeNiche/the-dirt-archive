@@ -28,7 +28,8 @@ Crossfire's OVD-302 Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Crossfire Overdrive Guitar Effects Pedal
+98 Learn more From $10 a week Learn more Product details The Crossfire OVD 302 Overdrive Effects Pedal delivers a musical sounding overdrive that ranges from a subtle crunch to a fully overdriven tone.
 
 ## Sources checked
 1. Crossfire OVD-302 Overdrive | Effects Database: https://www.effectsdatabase.com/model/crossfire/overdrive

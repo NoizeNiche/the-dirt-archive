@@ -28,7 +28,9 @@ Dwarfcraft Devices's The Secret Destroyer is cataloged in the archive as a Fuzz 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Rhythmically self oscillation chip based sicko fuzz!
+Three variable gain stages, Starve, and Tone controls!
+Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2011 07 19 9520575 Dwarftcraft devices secret destroyer with a rhodes 1:47 2009 04 26 FuzzHugger(fx) Dwarfcraft Devices Secret Destroyer chip based oscillating fuzz pedal!
 
 ## Sources checked
 1. Dwarfcraft Devices The Secret Destoryer | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/secretdestroyer

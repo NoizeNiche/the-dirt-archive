@@ -27,7 +27,9 @@ The NOVA is a Daredevil original design using silicon transistors.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+A fuzz that you can use for tight rhythm tones without the mush.
+Highly touch sensitive and dynamic, It's also loud enough to be used as a solo boost.
+A lot of fuzzes only sound good with the gain cranked.
 
 ## Sources checked
 1. Daredevil Pedals Nova Fuzz - What To Know Where To Buy: https://equipboard.com/items/daredevil-pedals-nova-fuzz

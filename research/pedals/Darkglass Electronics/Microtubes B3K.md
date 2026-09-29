@@ -29,7 +29,9 @@ Darkglass Electronics's Microtubes B3K is cataloged in the archive as a Overdriv
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Darkglass Electronics Microtubes B3K CMOS Bass Overdrive
+Its circuit is designed for a dynamic response, allowing both low gain drive and higher saturation settings without significant loss of clarity or definition.
+The pedal incorporates a parallel signal path, enabling the clean input signal to remain at unity gain while blending in the overdriven signal, which supports preservation of low end and articulation.
 
 ## Sources checked
 1. Darkglass Electronics Microtubes B3K CMOS Bass Overdrive: https://reverb.com/p/darkglass-electronics-microtubes-b3k-cmos-bass-overdrive

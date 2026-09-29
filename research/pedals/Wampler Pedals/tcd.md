@@ -29,7 +29,8 @@ Wampler Pedals's tcd is cataloged in the archive as a Distortion / Overdrive ped
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Designed to deliver the unmistakable roar , sparkle , and dynamic touch sensitivity that players crave, tcd combines raw power with refined tonal sculpting .
+Whether you’re chasing articulate crunch, harmonically rich saturation, or soaring lead tones, tcd puts it all at your feet with intuitive control and Wampler’s signature attention to detail .
 
 ## Sources checked
 1. tcd | Wampler Pedals: https://www.wamplerpedals.com/products/distortion-overdrive/tcd/

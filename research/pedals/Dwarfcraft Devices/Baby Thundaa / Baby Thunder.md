@@ -28,7 +28,9 @@ Dwarfcraft Devices's Baby Thundaa / Baby Thunder is cataloged in the archive as 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+You get 4 good old fashioned knobs Volume, Tone, Distortion, Feedback, 2 exciting toggles Tone Bypass, Feedback and one BIG STOMP switch to make it go on and off.
+As always, Baby Thundaa is hand made in Eau Claire, WI, and delivers a full frequency fuzz/distortion that has been winning over bassists and guitarists alike.
+We have the @satelliteamps 'Fogcutter', @dwarfcraft 'Baby Thunder', @earthquakerdev 'Space Spiral', @ 2016 11 15 Dwarfcraft Devices SheFuzz/Baby Thunder bass demo 8:00 2016 11 14 Dwarfcraft Devices Dwarfcraft Baby Thunder Demo 8:09 2012 03 22 Fat Tone Guitars Dwarfcraft Devices Baby Thundaa Fuzz Pedal Demo 2:27 2011 10
 
 ## Sources checked
 1. Dwarfcraft Devices Baby Thundaa / Baby Thunder | Effects Database: https://www.effectsdatabase.com/model/dwarfcraft/babythundaa

@@ -30,7 +30,8 @@ Custom Guitar Innovations's Experience Fuzz is cataloged in the archive as a Fuz
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Fuzz (germanium) Monsterpiece Fuzz NPN Fuzz (NPN silicon) Monsterpiece Fuzz NPN Jr.
+Fuzz (NPN silicon) Monsterpiece Fuzz PNP Fuzz (hybrid silicon/germanium) Monsterpiece Fuzz PNP Jr.
 
 ## Sources checked
 1. Custom Guitar Innovations Experience Fuzz | Effects Database: https://www.effectsdatabase.com/model/customguitarinnovations/experiencefuzz

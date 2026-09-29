@@ -30,7 +30,9 @@ Daredevil Pedals's British Black Belt is cataloged in the archive as a Distortio
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Mini amp style gain tones in a pedal 2 channels: Mini and Full range gain great for driving your amp or getting unique recording tones Behold!
+The FULL channel is a single stage gain circuit very similar to the one found in a common "belt loop" mini amp, which when run through a proper rig sounds massive and dynamic.
+These small amps have long been a secret recording technique to layer instruments yielding huge gain response.
 
 ## Sources checked
 1. Daredevil Pedals British Black Belt | Effects Database: https://www.effectsdatabase.com/model/daredevil/britishblackbelt

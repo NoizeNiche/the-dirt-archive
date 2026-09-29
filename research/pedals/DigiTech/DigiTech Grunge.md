@@ -26,7 +26,9 @@
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+DigiTech Grunge — Distortion Pedal Specs Where to Buy
+DOD FX69 Grunge High Gain Distortion · price n/a Browse all Distortion pedals → one thousand pedals · Specs from the manufacturer; blanks left blank, never guessed.
+Open Box DigiTech Grunge Distortion Guitar Effects Pedal
 
 ## Sources checked
 1. DigiTech Grunge Distortion - Reverb: https://reverb.com/p/digitech-grunge

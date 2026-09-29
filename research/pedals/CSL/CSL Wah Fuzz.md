@@ -27,7 +27,7 @@ CSL's CSL Wah Fuzz is cataloged as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Wah Fuzz West Wood Wah Fuzz Vox "Hastings" Wah plus Fuzz Vox "Hastings" Wow Fuzz Vox (by Sola Sound) Fuzz Wah Colorsound Wah+Fuzz+Swell Colorsound Supa Wah Fuzz Swell CMI Wah Fuzz Swell G.B.
 
 ## Sources checked
 1. CSL Wah Fuzz | Effects Database: https://www.effectsdatabase.com/model/csl/wahfuzz
