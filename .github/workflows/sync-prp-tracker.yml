@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-prp-tracker-sync
+  group: dirt-archive-publisher-v1
   cancel-in-progress: false
 
 jobs:
