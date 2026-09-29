@@ -45,6 +45,18 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       const image=photo?.querySelector('.photoImage');
       const fallback=photo?.querySelector('.photoFallback');
       const rect=photo?.getBoundingClientRect();
+      const main=document.querySelector('#mainContent');
+      const board=document.querySelector('.boardSurface');
+      const pageLayout=document.querySelector('.pageLayout');
+      const pageMain=document.querySelector('.pageMain');
+      const header=document.querySelector('.siteHeaderDetail');
+      const firstContent=document.querySelector('#record') || document.querySelector('#empty');
+      const mainRect=main?.getBoundingClientRect();
+      const boardRect=board?.getBoundingClientRect();
+      const layoutRect=pageLayout?.getBoundingClientRect();
+      const pageMainRect=pageMain?.getBoundingClientRect();
+      const firstContentRect=firstContent?.getBoundingClientRect();
+      const headerRect=header?.getBoundingClientRect();
       return {
         name,builder,researchLength:research.length,
         recordVisible:!!record && !record.hidden,
@@ -54,7 +66,12 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
         imageLoaded:!!image && image.complete && image.naturalWidth>0,
         imageSrc:image?.getAttribute('src')||'',
         fallbackCount:fallback?1:0,
-        fallbackText:(fallback?.textContent||'').trim()
+        fallbackText:(fallback?.textContent||'').trim(),
+        headerHeight:headerRect?.height||0,
+        headerToMainGap:mainRect && headerRect ? Math.max(0,mainRect.top-(headerRect.bottom)) : 0,
+        boardTopPadding:boardRect && layoutRect ? Math.max(0,layoutRect.top-boardRect.top) : 0,
+        pageMainTopGap:pageMainRect && layoutRect ? Math.max(0,pageMainRect.top-layoutRect.top) : 0,
+        firstContentTopGap:firstContentRect && pageMainRect ? Math.max(0,firstContentRect.top-pageMainRect.top) : 0
       };
     });
 
@@ -66,6 +83,9 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(result.photoCount!==1 || result.photoBoxCount!==1) problems.push('unexpected primary photo container count');
     if(result.photoHeight>600) problems.push('primary photo container oversized');
     if(result.fallbackCount===1 && result.photoHeight>220) problems.push('no-photo fallback reserves excessive vertical space');
+    if(result.headerToMainGap>48) problems.push('excessive gap between detail header and main content');
+    if(result.pageMainTopGap>2) problems.push('unexpected top gap before detail record');
+    if(result.firstContentTopGap>2) problems.push('unexpected top gap inside detail content');
     if(isLocalImage(entry.image)){
       if(result.imageCount!==1) problems.push('expected local primary image element missing');
       if(!result.imageLoaded) problems.push('local primary image did not load');
