@@ -43,5 +43,5 @@ This pass verifies the model against Devi Ever : FX's own historical account and
 2. Devi Ever FX DIY information and evolution compilation: https://www.scribd.com/document/211309101/Devi-Ever-Diy-Info-Manual-aw-heck-yes
 
 ## Photo
-- **Archive status:** A local catalog image is already assigned to this model.
-- This research pass does not replace the existing image asset.
+- **Archive status:** Photo recovery is handled separately from research synthesis.
+- This research pass does not make or infer a photo assignment.
