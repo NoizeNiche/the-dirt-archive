@@ -15226,7 +15226,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/boss/bc-2-combo-drive/primary.webp",
+      "image_source_url": "https://static.roland.com/assets/images/products/main/bc-2_top_main.jpg"
     },
     {
       "company": "BOSS",
@@ -15351,7 +15353,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1420
+      "image_source_priority": 1420,
+      "image": "./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp",
+      "image_source_url": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png"
     },
     {
       "company": "BOSS",
@@ -31068,7 +31072,7 @@
       "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/95077717-danelectro-grilled-cheese-distortion-1990s-yellow",
+      "image_source_page": "https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc",
       "image_source_pages": [
         "https://reverb.com/item/95077717-danelectro-grilled-cheese-distortion-1990s-yellow"
       ],
@@ -31581,7 +31585,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/darkglass-electronics/alpha-omega/primary.webp",
+      "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Alpha-Omega-Video-Thumbnail_b1c9a350-404f-4cb7-b076-ac855e3e7f90.jpg?v=1747923223"
     },
     {
       "company": "Darkglass Electronics",
@@ -31742,7 +31748,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1421
+      "image_source_priority": 1421,
+      "image": "./assets/pedals/darkglass-electronics/microtubes-vintage/primary.webp",
+      "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Vintage-Microtubes-Thumbnail.png?v=1748447528"
     },
     {
       "company": "Darkglass Electronics",
@@ -36316,7 +36324,7 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/0xeae-fuzz"
       ],
@@ -36346,7 +36354,7 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/dagger"
       ],
@@ -37221,13 +37229,15 @@
       "research_record": "./research/pedals/Fortin Amplification/Hexdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/fortin-amplification-hexdrive",
+      "image_source_page": "https://quanta-brands.jp/fortin-amplification/products/",
       "image_source_pages": [
         "https://reverb.com/p/fortin-amplification-hexdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1423
+      "image_source_priority": 1423,
+      "image": "./assets/pedals/fortin-amplification/hexdrive/primary.webp",
+      "image_source_url": "https://quanta-brands.jp/fortin-amplification/wp-content/uploads/sites/2/2026/09/N2O-image.jpg"
     },
     {
       "company": "Fortin Amplification",
@@ -37957,7 +37967,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1426
+      "image_source_priority": 1426,
+      "image": "./assets/pedals/fuzzrocious-pedals/cat-king/primary.webp",
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/StompboxSonic-100x100.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -41807,7 +41819,7 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Germanium Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/1628420-keeley-red-dirt-germanium-overdrive-effect-pedal",
+      "image_source_page": "https://robertkeeley.com/product/red-dirt-germanium/",
       "image_source_pages": [
         "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Germanium/154445638/",
         "https://reverb.com/item/92935776-keeley-electronics-red-dirt-germanium-overdrive-pedal",
@@ -41841,14 +41853,15 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Overdrive/154445531/",
+      "image_source_page": "https://reverb.com/item/95981704-keeley-red-dirt-overdrive",
       "image_source_pages": [
         "https://www.musicradar.com/reviews/guitars/keeley-red-dirt-overdrive-604658",
-        "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Overdrive/154445531/"
+        "https://www.rockboard.de/en/pedalPedia/Keeley-Electronics/Red-Dirt-Overdrive/154445531/",
+        "https://reverb.com/item/95981704-keeley-red-dirt-overdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1400
+      "image_source_priority": 50000
     },
     {
       "company": "Keeley Electronics",
@@ -44219,10 +44232,11 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961",
+      "image_source_page": "https://www.russomusic.com/products/mad-professor-golden-cello-overdrive-tape-echo-effect-pedal-w-box-used",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/madprofessor/goldencello",
-        "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961"
+        "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961",
+        "https://www.russomusic.com/products/mad-professor-golden-cello-overdrive-tape-echo-effect-pedal-w-box-used"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
@@ -44610,13 +44624,14 @@
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://madebymike.co.uk/fuzzy.shtml",
+      "image_source_page": "https://www.madebymike.co.uk/fuzzy.shtml",
       "image_source_pages": [
-        "https://madebymike.co.uk/fuzzy.shtml"
+        "https://madebymike.co.uk/fuzzy.shtml",
+        "https://www.madebymike.co.uk/fuzzy.shtml"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1407
+      "image_source_priority": 50000
     },
     {
       "company": "MadeByMike",
@@ -45043,7 +45058,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -54131,7 +54147,9 @@
       "image_source_page": "https://www.strymon.net/product/sunset/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/strymon/sunset-dual-overdrive/primary.webp",
+      "image_source_url": "https://www.strymon.net/wp-content/uploads/2016/12/sunset_topdown_cropped_1600.jpg"
     },
     {
       "company": "Subdecay",
