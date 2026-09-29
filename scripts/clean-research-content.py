@@ -38,6 +38,19 @@ COMMERCE_UI = (
 
 SOURCE_LINE = re.compile(r"^\s*\d+\.\s+.+https?://", re.I)
 
+STORE_SHELL = re.compile(
+    r"\bHome\s+Store\b.*\b(?:FAQs?|About)\b.*\b(?:Contact|Dealers)\b.*\b(?:Basket|Cart)\b.*\bHome\s*/\s*(?:Pedals?|Products?)\s*/",
+    re.I,
+)
+ARTICLE_SHELL = re.compile(
+    r"\bNews\s+Tracing Journal\s+Tracing Journal:.*?\b(?:\d{1,2},\s+\d{4}|20\d{2})\s+Tracing Journal\s+(?=(?:Next up|Next we have|Up next)\b)",
+    re.I,
+)
+RELEASE_COPY = re.compile(
+    r"\breleasing today is\s+(?:the\s+)?(.+?),.*?\bour take on the\s+(.+?)\s*\.?$",
+    re.I,
+)
+
 def strong_shell(line: str) -> bool:
     lower = line.lower()
     hits = sum(marker in lower for marker in SHELL_MARKERS)
@@ -143,11 +156,40 @@ def clean_commerce_line(line: str) -> str | None:
         return None
     return None
 
+def clean_release_mismatch(line: str, section: str, current_pedal: str) -> str | None:
+    if section != "what this pedal is":
+        return line
+    match = RELEASE_COPY.search(line)
+    if not match:
+        return line
+    named_product = match.group(1).strip(" .:,")
+    referenced_parent = match.group(2).strip(" .:,")
+    current = current_pedal.strip(" .:,")
+    # A press-release sentence is useful only when it is actually describing
+    # this exact cataloged pedal. A different product presented as "our take
+    # on" the current pedal is a classic wrong-record/source crossover.
+    if current and named_product.lower() != current.lower() and referenced_parent.lower() == current.lower():
+        return None
+    return line
+
+def clean_known_shell(line: str) -> str | None:
+    if ARTICLE_SHELL.search(line):
+        cleaned = ARTICLE_SHELL.sub("", line).strip(" -:|")
+        return cleaned if len(cleaned) >= 35 else None
+    if STORE_SHELL.search(line):
+        m_price = re.search(r"[£$€]\s*\d[\d.,]*(?:\s|$)", line)
+        if m_price:
+            tail = line[m_price.end():].strip(" -:|")
+            return tail if len(tail) >= 35 else None
+        return None
+    return line
+
 def clean_file(path: Path) -> bool:
     original = path.read_text(encoding="utf-8", errors="replace")
     out: list[str] = []
     section = ""
     changed = False
+    current_pedal = ""
     for raw in original.splitlines():
         line = html.unescape(raw)
         if line != raw:
@@ -155,16 +197,32 @@ def clean_file(path: Path) -> bool:
         heading = re.match(r"^(#{2,6})\s+(.+?)\s*$", line)
         if heading:
             section = heading.group(2).strip().lower()
+            if heading.group(1) == "#" and " — " in heading.group(2):
+                current_pedal = heading.group(2).split(" — ", 1)[1].strip()
         stripped = line.strip()
         if strong_code(line) or strong_shell(line):
             changed = True
             continue
+        known_shell = clean_known_shell(line)
+        if known_shell is None:
+            changed = True
+            continue
+        if known_shell != line:
+            line = known_shell
+            changed = True
         cleaned = clean_commerce_line(line)
         if cleaned is None:
             changed = True
             continue
         if cleaned != line:
             line = cleaned
+            changed = True
+        release_clean = clean_release_mismatch(line, section, current_pedal)
+        if release_clean is None:
+            changed = True
+            continue
+        if release_clean != line:
+            line = release_clean
             changed = True
         if section == "transistor":
             # Amp/model references belong in sound or amp-reference context,
