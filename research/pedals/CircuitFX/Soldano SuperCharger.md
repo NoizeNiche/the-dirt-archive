@@ -49,4 +49,3 @@ CircuitFX's Soldano SuperCharger is cataloged as an overdrive pedal.
 
 ### Sources checked in this pass
 1. Soldano SuperCharger pedal | Custom Guitar pedal & PCB project: https://circuitfx.wordpress.com/2011/10/15/soldano-supercharger-pedal/
-2. Log in now.: https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fcircuitfx.wordpress.com%2F2011%2F10%2F15%2Fsoldano-supercharger-pedal%2F&

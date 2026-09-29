@@ -56,7 +56,6 @@ Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy
 
 ### Verified sound evidence
 The origin story goes deeper than that though: I actually designed this pedal in response to Joe Perry's tech guy asking for a Big Muff.
-Lady Skreddy Pedals Sweet, fat vintage fuzz $385 $346.50 Giant Meat Pie BC239 Skreddy Pedals Classic sustaining fuzz: extra sweetness $338 $304.20 ZERO Skreddy Pedals Extra aggressive cutting fuzz $385 $346.50 Cookie Preferences We rely on cookies for storing your shopping cart and regional settings between visits.
 Published on August 19, 2007 Skreddy Pedals distortion pedal Information Skreddy Pedals Smooth, Intense, Sustaining Distortion Based on the "triangle-knob" circa 1971 4-transistor fuzz, but I've changed the input capacitor to a more saturated-sounding type like the circa 1973 'rams head' version fuzz.
 
 ### Sources checked in this pass

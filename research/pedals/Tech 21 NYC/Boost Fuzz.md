@@ -12,7 +12,6 @@ And we call them Boost pedals for a reason.
 ## Colorways
 - © 2026 PedalFilter Clear Compare ( 0 ) Back Home Tech 21 NYC Boost Fuzz (Metallic) Back to results Tech 21 NYC Boost Fuzz (Metallic) Fuzz Boost Vintage-voiced fuzz with 9dB boost in metallic finish.
 - The Boost Fuzz (Metallic) delivers vintage-style fuzz tones with integrated clean boost in a metallic finish.
-- © 2026 PedalFilter The guitar pedal database Search pedals You May Also Like Black Mass Electronics The First Herald Crazy Tube Circuits Limelight EarthQuaker Black Ash Previous Boost DLA Next Boost Overdrive
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

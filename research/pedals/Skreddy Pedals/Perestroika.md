@@ -30,7 +30,6 @@ Skreddy Pedals's Perestroika is cataloged as a Distortion / Fuzz pedal.
 ## Sound
 early 90's style Russian muffy distortion Russian version Big Muff like the green and the grey ones (not the black ones).
 Different capacitors in the clipping section make it bassier, and different capacitors in the tone stack shift the mid scoop frequency higher, compared to the earlier Big Muff designs.
-Similar Pedals P19 Skreddy Pedals Smooth soaring sustain $259 $233.10 Klipper Skreddy Pedals Huge, amp-like, Sabbathy fuzz $259 $233.10 Mayonaise MkIII Skreddy Pedals Old school v1 Big Muff $413 $371.70 Supa Tone Skreddy Pedals Grinding distortion for guitar or bass $259 $233.10 Cognitive Dissonance MkIV Skreddy Pedals Silky classic yet modern sustain/distortion $275 $247.50 Mayo MkIII Skreddy Pedals Aggressive wall of fuzz $385 $346.50 Giant Meat Pie BC239 Skreddy Pedals Classic sustaining fuzz: extra sweetness $338 $304.20 Cookie Preferences We rely on cookies for storing your shopping cart and regional settings between visits.
 
 ## Sources checked
 1. Big Muff variants | Fuzz | Perestroika | Skreddy Pedals: https://skreddypedals.com/perestroika

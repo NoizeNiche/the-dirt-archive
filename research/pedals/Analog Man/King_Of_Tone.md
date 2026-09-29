@@ -87,5 +87,4 @@ Its reputation is built upon its open nature, touch-sensitivity and the quality 
 1. catalog/override source: https://waltgracevintage.com/products/analog-man-king-of-tone-v4
 2. Analog Man King of Tone Review – Squid Guitar Inc.: https://squidguitarinc.wordpress.com/2016/02/23/analog-man-king-of-tone-review/
 3. King Of Tone: https://www.analogman.com/kingtone.htm
-4. Log in now.: https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsquidguitarinc.wordpress.com%2F2016%2F02%2F23%2Fanalog-man-king-of-tone-review%2F&
 5. Analog Man King Of Tone | Effects Database: https://www.effectsdatabase.com/model/analogman/kingoftone

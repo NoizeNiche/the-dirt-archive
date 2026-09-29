@@ -10,7 +10,6 @@
 Beelzebuzz — Union Tube Transistor Welcome Shop Dealers Buzz Contact Welcome Shop Dealers Buzz Contact Union Tube Transistor is based in East Vancouver, BC Canada.
 
 ## Colorways
-- About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter The guitar pedal database Search pedals You May Also Like A3 Stompbox DM Bearfoot FX Dyna Red Dist.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

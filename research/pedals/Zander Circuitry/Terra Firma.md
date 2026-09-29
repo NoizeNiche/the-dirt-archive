@@ -10,7 +10,6 @@
 The Terra Firma is based around the LM386 power amp chip which offers the perfect blend of character and raw output volume to add a bunch of additional supporting circuitry to.
 
 ## Colorways
-- About • Collections • Blog • Compare • Privacy Policy • Terms of Service • Submit a pedal • © 2026 PedalFilter The guitar pedal database Search pedals You May Also Like A3 Stompbox DM Bearfoot FX Dyna Red Dist.
 
 ## Versions and factory options
 - No distinct factory revision was established in the verified evidence packet.

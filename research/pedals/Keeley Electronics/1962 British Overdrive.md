@@ -29,7 +29,6 @@ Keeley Electronics's 1962 British Overdrive is cataloged as a Overdrive pedal.
 - **Exact part:** Unknown.
 
 ## Sound
-Keeley Electronics 1962 British Overdrive - Pedal of the Day Reviews Demos Buy a Pedalboard Interviews Contact Navigation Menu Menu Keeley Electronics 1962 British Overdrive Posted By Pedal of the Day on Sunday, August 16, 2015 in Keeley Electronics, Overdrive / Distortion | 0 comments --> --> I want to just say right up front that this pedal from Keeley Electronics oozes quality.
 I’d love to get the sound of a Marshall stack or a Bluesbreaker but I know it’s not possible with my gear.
 With a few adjustments I went from a singing, soaring lead tone, with what seemed like sustain for days, to a Cream-y, Green-y crunch.
 
