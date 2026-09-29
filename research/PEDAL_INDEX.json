@@ -4534,7 +4534,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1383
+      "image_source_priority": 1383,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w"
     },
     {
       "company": "ARC Effects",
@@ -4552,7 +4553,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1385
+      "image_source_priority": 1385,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w"
     },
     {
       "company": "ARC Effects",
@@ -4570,7 +4572,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1384
+      "image_source_priority": 1384,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1387306372817-M4OD7IG839BAVXKLRYQX/%22+Sticker.png?format=300w"
     },
     {
       "company": "ARC Effects",
@@ -4821,13 +4824,14 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
+      "image_source_page": "https://www.libertyparkmusic.com/what-is-6-8-time-signature/",
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1387
+      "image_source_priority": 1387,
+      "image_source_url": "https://www.libertyparkmusic.com/wp-content/uploads/Quarter-Note8th-Rhythms-768x372.png"
     },
     {
       "company": "Ashdown Engineering",
@@ -6839,7 +6843,8 @@
       "image_source_page": "https://www.truetonemusic.com/products/bad-cat-burmese-drive-dual-vintage-overdrive-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1388
+      "image_source_priority": 1388,
+      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/truetone_Logo_2018_white_cb610416-c81b-40fe-ac59-5dffbb0204e0_435x195.png?v=1765932448"
     },
     {
       "company": "Bad Cat",
@@ -26597,7 +26602,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
-      "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
+      "image_source_page": "https://www.effectsdatabase.com/model/colortonefx/gainer",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -26606,7 +26611,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 550
+      "image_source_priority": 550,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/colortone_gainer_001.jpg"
     },
     {
       "company": "ColorTone Fx / Pedal Tank",
@@ -26761,7 +26767,8 @@
       "image_source_page": "https://reverb.com/item/10534214-commune-empire-custom-amplification-screem",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 559
+      "image_source_priority": 559,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--qsxDl0IQ--/quality=medium-low,height=800,width=800,fit=contain/xoship5dn5sgwzlf8sog.jpg"
     },
     {
       "company": "Commune/ECA (Empire Custom Amplification)",
@@ -26915,7 +26922,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up",
+      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -26924,7 +26931,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 570
+      "image_source_priority": 570,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg"
     },
     {
       "company": "Compulsive Audio",
@@ -27371,7 +27379,8 @@
       "image_source_page": "https://reverb.com/item/81348576-coopersonic-valveslapper-dual-valve-distortion",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 595
+      "image_source_priority": 595,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--zWvnYwHX--/quality=medium-low,height=800,width=800,fit=contain,rotate=270/kdbvt60axcciuw5mk23m.jpg"
     },
     {
       "company": "Copilot FX",
@@ -30147,7 +30156,8 @@
       "image_source_page": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 686
+      "image_source_priority": 686,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--bB8Z0kWV--/quality=medium-low,height=800,width=800,fit=contain/klt6xyznjpfcttgupbp1.jpg"
     },
     {
       "company": "Cruzer (by Crafter)",
@@ -31025,7 +31035,8 @@
       "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc"
+      "image_source_page": "https://www.guitarcenter.com/Danelectro/DJ-10-Grilled-Cheese-Distortion-Pedal-1273887999544.gc",
+      "image_source_url": "https://www.guitarcenter.com/assets/images/new-header/gear-advisor.png"
     },
     {
       "company": "Danelectro",
@@ -32329,7 +32340,8 @@
       "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.fuzzgoddess.com/about/"
+      "image_source_page": "https://www.fuzzgoddess.com/about/",
+      "image_source_url": "https://www.fuzzgoddess.com/img/workbench-2003.webp?v=mt23e385"
     },
     {
       "company": "Devi Ever : FX",
@@ -36970,7 +36982,8 @@
       "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1373
+      "image_source_priority": 1373,
+      "image_source_url": "https://www.perfectcircuit.com/static/version1790592595/frontend/Aware/default/en_US/images/logo--full.svg"
     },
     {
       "company": "Fjord Fuzz",
@@ -39248,7 +39261,8 @@
       "research_record": "./research/pedals/Ibanez/TS7.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/ibanez-tone-lok-ts7-tubescreamer"
+      "image_source_page": "https://equipboard.com/items/ibanez-tone-lok-ts7-tubescreamer",
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/19993/ibanez-tone-lok-ts7-tube-screamer-xl.webp?v=1790337791"
     },
     {
       "company": "Ibanez",
@@ -41713,7 +41727,8 @@
       "research_record": "./research/pedals/Keeley Electronics/Red Dirt Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/keeley-electronics/red-dirt/"
+      "image_source_page": "https://en.audiofanzine.com/overdrive-pedal/keeley-electronics/red-dirt/",
+      "image_source_url": "https://static.audiofanzine.com/images/audiofanzine/logo_retina_borderless-36.webp"
     },
     {
       "company": "Keeley Electronics",
@@ -42687,7 +42702,8 @@
       "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://tcgakki.com/en/products/leqtique-evr-10-10-xxj-evrnew-1"
+      "image_source_page": "https://tcgakki.com/en/products/leqtique-evr-10-10-xxj-evrnew-1",
+      "image_source_url": "https://tcgakki.com/cdn/shop/files/mainlogo_140x@2x.png?v=1725942071"
     },
     {
       "company": "Leqtique",
@@ -44092,7 +44108,8 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.premierguitar.com/mad-professor-introduces-the-golden-cello-pedal"
+      "image_source_page": "https://www.premierguitar.com/mad-professor-introduces-the-golden-cello-pedal",
+      "image_source_url": "https://assets.rbl.ms/62183840/origin.png"
     },
     {
       "company": "Mad Professor Amplification",
@@ -44155,7 +44172,8 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz"
+      "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz",
+      "image_source_url": "https://img.youtube.com/vi/xuSd6sM6pps/maxresdefault.jpg"
     },
     {
       "company": "Mad Professor Amplification",
@@ -44457,7 +44475,8 @@
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -44469,7 +44488,8 @@
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -44495,7 +44515,8 @@
       "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/",
+      "image_source_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/645884010_26199656209670940_4847777866869747429_n.jpg?stp=dst-jpg_tt6&cstp=mx960x720&ctp=s590x590&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=si0AL2NpCDEQ7kNvwG-Tgkg&_nc_oc=AdoayykHmBY5-ahPKR3h4fjAGUuqPJqtt_sL9AewGP16LQx8A-UK8N6kv2f3dEZeNZE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Pbjw8-rA2mT6IzW3rgLQsQ&_nc_ss=7b289&oh=00_AQP8EbImoJnppcyOARUgRzkLP14Wlmd1QJdB6FTooMcpLw&oe=6AC1239C"
     },
     {
       "company": "MadeByMike",
@@ -44876,7 +44897,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/Part Garden.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://pedalfilter.com/mask-audio-electronics/part-garden-ge"
+      "image_source_page": "https://pedalfilter.com/mask-audio-electronics/part-garden-ge",
+      "image_source_url": "https://images.pedalfilter.com/maskaudioelectronics-partgardenge.png"
     },
     {
       "company": "Mask Audio Electronics",
@@ -44888,7 +44910,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
     },
     {
       "company": "Mask Audio Electronics",
@@ -48394,7 +48417,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1379
+      "image_source_priority": 1379,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/636/6464/11250000001.MAIN__82864.1663874796.jpg?c=2"
     },
     {
       "company": "MXR",
@@ -49139,7 +49163,8 @@
       "research_record": "./research/pedals/NUX Audio / NUX/’63 Diamond.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal"
+      "image_source_page": "https://reverb.com/item/94328003-nux-reissue-series-63-diamond-overdrive-guitar-effects-pedal",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--t-84T-uh--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/n1xrih5wc4x8cu8axb4r.jpg"
     },
     {
       "company": "NUX Audio / NUX",
@@ -50002,7 +50027,8 @@
       "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://origineffects.com/product/meqdriver/"
+      "image_source_page": "https://origineffects.com/product/meqdriver/",
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg"
     },
     {
       "company": "Origin Effects",
@@ -50938,7 +50964,8 @@
       "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
+      "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/",
+      "image_source_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/70760262_2400318370075105_8135603455256428544_n.png?stp=dst-jpg_tt6&cstp=mx816x608&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TSsz4XJBOr4Q7kNvwErs4iZ&_nc_oc=AdpYU3KKgcjdfeydpGcpLyVjWNQfLVaB3XaeCNd3mchpPyAbPqTCPsjpwrMZ86mNAG0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=ti6TDIhRu3oQRTJPjuU9Fw&_nc_ss=7b289&oh=00_AQP24KH8beWBnQMT8kJI1lmY-L2_gIGu0d1DxiYD3YhRrg&oe=6AE2C8D0"
     },
     {
       "company": "Phaez Amplification",
@@ -51030,7 +51057,8 @@
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive"
+      "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive",
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/22045/pigtronix-bass-fat-drive-xl.webp?v=1790424285"
     },
     {
       "company": "Pigtronix",
@@ -55288,7 +55316,8 @@
       "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1312
+      "image_source_priority": 1312,
+      "image_source_url": "https://rvb-img.reverb.com/i/s---IpyDWYQ--/quality=medium-low,height=800,width=800,fit=contain/msn4wirnqxl4m3ltqqsi.jpg"
     },
     {
       "company": "Union Tube & Transistor",
@@ -57993,7 +58022,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-      "image_source_page": "https://www.musicradar.com/news/namm-2018-way-huge-serves-up-its-first-ever-bass-pedal-the-pork-pickle",
+      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-pork-pickle-overdrive-fuzz/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -58001,7 +58030,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1382
+      "image_source_priority": 1382,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/1576/8700/11200910001.MAIN__42254.1663874801.jpg?c=2"
     },
     {
       "company": "Way Huge",
