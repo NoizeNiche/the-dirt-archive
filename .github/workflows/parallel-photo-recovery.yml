@@ -12,8 +12,9 @@ permissions:
 
 concurrency:
   group: dirt-photo-recovery-v3
-  # Keep the legacy parallel lane from colliding with fast photo catch-up.
-  cancel-in-progress: false
+  # Keep only the newest legacy recovery attempt; stale queued passes block
+  # the strict visual-review lane without adding value.
+  cancel-in-progress: true
 
 jobs:
   prepare:
