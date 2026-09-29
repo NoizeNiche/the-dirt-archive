@@ -7,37 +7,36 @@
 - **Identity:** Lovepedal's 200lbs of Gold.
 
 ## What this pedal is
-Lovepedal's 200lbs of Gold is cataloged as a fuzz / overdrive pedal.
+The 200lbs of Gold combines a modified vintage Fuzz Face-style fuzz stage with a TS808-style overdrive section and an independent clean boost. Lovepedal says the fuzz input was altered to work better with other pedals such as wahs and boosts and tightened to reduce the loose low end of traditional Fuzz Face circuits.
 
 ## Colorways
-- Drive side is the excellent Purple Plexi and the boost side is a Church Of Tone which is itself sorta Brit-flavored.
-- If you already have the Plexi tone covered and want killer overdrive with clean boost, you'll love the 200lbs Of Gold.
+- Gold and metallic-blue examples are documented.
+- Finish changes are not treated as circuit revisions.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Fuzz/overdrive section with **Level, Drive and Tone**.
+- Independent clean **Boost**.
+- 9V or 18V center-negative operation.
+- 26mA current draw is documented by Lovepedal.
+- True bypass.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered production revision chronology was established.
 
 ## Transistor
-- Documented terms in the verified sources: BC178.
-- The archive records only the component information explicitly present in these sources.
+- A **BC178** transistor is documented in historical examples, but the complete production complement is not established for every unit.
+- Exact production part history is therefore left specimen-dependent.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-Thread starter Thread starter Bruce R Start date Start date Apr 15, 2021 Bruce R Member Apr 15, 2021 #1 I may be needing a two-button overdrive on a second pedalboard I am putting together.
-I do enjoy Plexi-style tone and having a two-stage gain+boost is something I want to utilize.
-Excels at big fuzzy sound (has been compared to Disraeli Gears-era Cream tone) but also does well as a medium gain fattener with great sustain.
+The combined design moves from Fuzz Face-style fuzz into TS808-flavoured overdrive, with an independent clean boost for pushing an amplifier or another drive stage. Lovepedal emphasizes tighter low end and a broad tone-control range compared with a stock vintage Fuzz Face.
 
 ## Sources checked
-1. Lovepedal 200lbs of Gold - Reverb: https://reverb.com/p/lovepedal-200lbs-of-gold
-2. Lovepedal 200lbs of Gold - BC178 - Fuzz + Boost - Metallic Blue - eBay: https://www.ebay.com/itm/800136278127
-3. Used Lovepedal 200LBS OF GOLD Effect Pedal | Guitar Center: https://www.guitarcenter.com/Used/Lovepedal/Used-Lovepedal-200LBS-OF-GOLD-Effect-Pedal-122454216.gc
-4. 5lb Bag of Gold Fuzz (Lovepedal 200lbs of Gold - Fuzz side): https://forum.pedalpcb.com/threads/5lb-bag-of-gold-fuzz-lovepedal-200lbs-of-gold-fuzz-side.14409/
-5. Thoughts on Lovepedal 200lb Of Gold? | Seymour Duncan Forums: https://forum.seymourduncan.com/threads/thoughts-on-lovepedal-200lb-of-gold.6074043/
+1. Lovepedal - 200lbs of Gold: https://www.lovepedal.com/200lbs-of-gold/
+2. Reverb - Lovepedal 200lbs of Gold: https://reverb.com/p/lovepedal-200lbs-of-gold
+3. Effects Database / PedalPCB historical references.
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
