@@ -17465,7 +17465,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "PEEP",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/peep/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever FX/PEEP.md",
     "image_source_url": "https://files.effectsdatabase.com/gear/pics/deviever_peep_001.jpg",
@@ -19263,7 +19263,7 @@
   {
     "builder": "Electronic Audio Experiments",
     "pedal": "0xEAE Fuzz",
-    "image": null,
+    "image": "./assets/pedals/electronic-audio-experiments/0xeae-fuzz/primary.webp",
     "source_page": "https://www.electronicaudioexperiments.com/legacy",
     "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Fuzz.md"
   },

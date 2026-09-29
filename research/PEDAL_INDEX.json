@@ -33042,7 +33042,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/peep/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/PEEP.md",
       "research_level": "deep",
@@ -36330,7 +36330,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-fuzz/primary.webp"
     },
     {
       "company": "Electronic Audio Experiments",
