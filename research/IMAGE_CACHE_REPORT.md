@@ -1,6 +1,6 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
+- Cached in this run: **0**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Download failures: **2**
@@ -13,11 +13,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- BOSS - MT-2-3A 30th Anniversary Metal Zone -> `./assets/pedals/boss/mt-2-3a-30th-anniversary-metal-zone/primary.webp`
-- Himmelstrutz Elektro Art - Under Over -> `./assets/pedals/himmelstrutz-elektro-art/under-over/primary.webp`
 
 ## Still external / failed
 
