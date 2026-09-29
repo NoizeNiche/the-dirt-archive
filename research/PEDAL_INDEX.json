@@ -16660,7 +16660,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1369,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w"
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
+      "image": "./assets/pedals/browne-amplification/alkene-nashville-drive/primary.webp"
     },
     {
       "company": "Browne Amplification",
@@ -16679,7 +16680,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025"
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025",
+      "image": "./assets/pedals/browne-amplification/atom-nashville-drive/primary.webp"
     },
     {
       "company": "Browne Amplification",
@@ -16810,7 +16812,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1370,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w"
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
+      "image": "./assets/pedals/browne-amplification/the-alkene-nashville-overdrive/primary.webp"
     },
     {
       "company": "Browne Amplification",
@@ -18332,7 +18335,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/byron-amplification/green-concussion-fuzz/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -18358,7 +18362,8 @@
       "research_record": "./research/pedals/PRP Batch 134/jabberwocky-distortion.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/byron-amplification/jabberwocky-distortion/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -18390,7 +18395,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/byron-amplification/pai-mei-fuzz/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -18402,7 +18408,8 @@
       "research_record": "./research/pedals/PRP Batch 134/phattie-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/byron-amplification/phattie-overdrive/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -18420,7 +18427,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/byron-amplification/poder-del-alma-fuzz/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -18446,7 +18454,8 @@
       "research_record": "./research/pedals/PRP Batch 134/shearling-overdrive.md",
       "image_source_page": "https://byronamplification.com/pedals",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/byron-amplification/shearling-overdrive/primary.webp"
     },
     {
       "company": "Byron Amplification",
@@ -29678,7 +29687,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/critter-electronics/crr-klone/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Critter Electronics/CRR Klone.md",
       "image_source_page": "https://critterelectronics.com/shop",
@@ -33080,7 +33089,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1328,
-      "image_source_url": "https://deviever.net/cdn/shop/products/DeviEverVintageFuzzMasterTop_2048x.jpg?v=1588185315"
+      "image_source_url": "https://deviever.net/cdn/shop/products/DeviEverVintageFuzzMasterTop_2048x.jpg?v=1588185315",
+      "image": "./assets/pedals/devi-ever-fx/stimulus-fuzz/primary.webp"
     },
     {
       "company": "Devi Ever FX",
@@ -42370,7 +42380,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1109,
-      "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png"
+      "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png",
+      "image": "./assets/pedals/kma-machines/logan-desert/primary.webp"
     },
     {
       "company": "KMA Machines",
@@ -42425,7 +42436,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1110,
-      "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png"
+      "image_source_url": "https://kmamachines.com/wp-content/uploads/2023/11/chief_disruptor_led_hover-350px.png",
+      "image": "./assets/pedals/kma-machines/wurhm/primary.webp"
     },
     {
       "company": "KMA Machines",
@@ -43514,7 +43526,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1131,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/amp-eleven/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43552,7 +43565,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1133,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/dover-drive/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43571,7 +43585,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1134,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/eternity-burst/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43590,7 +43605,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1135,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/eternity-overdrive/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43666,7 +43682,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1148,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/purple-plexi/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43704,7 +43721,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1150,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/tchula/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43743,7 +43761,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1152,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/zendrive/primary.webp"
     },
     {
       "company": "Lovepedal / Love Pedal",
@@ -43762,7 +43781,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1153,
-      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png"
+      "image_source_url": "https://www.lovepedal.com/wp-content/uploads/2026/02/PurplePLEXIbNIVO.png",
+      "image": "./assets/pedals/lovepedal-love-pedal/zendrive-2/primary.webp"
     },
     {
       "company": "Lovetone",
@@ -46945,7 +46965,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1173
+      "image_source_priority": 1173,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/another-an-other-fuzz-version/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46963,7 +46984,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1174
+      "image_source_priority": 1174,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/clari-not-fuzz/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46981,7 +47003,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1175
+      "image_source_priority": 1175,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/cocoon/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -46999,7 +47022,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1176
+      "image_source_priority": 1176,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/country-fuzz/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47017,7 +47041,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1177
+      "image_source_priority": 1177,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/demo-tape-fuzz/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47035,7 +47060,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1178
+      "image_source_priority": 1178,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/faulty-channel/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47053,7 +47079,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1179
+      "image_source_priority": 1179,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/full-frequency-overdrive/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47071,7 +47098,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1180
+      "image_source_priority": 1180,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/fuzz-wall/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47089,7 +47117,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1181
+      "image_source_priority": 1181,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/glitch-computer/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47107,7 +47136,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1182
+      "image_source_priority": 1182,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/hieracium/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47125,7 +47155,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1183
+      "image_source_priority": 1183,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/house-amp/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47157,7 +47188,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1186
+      "image_source_priority": 1186,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/peace-gun/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47175,7 +47207,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1187
+      "image_source_priority": 1187,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/psych-byke/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47193,7 +47226,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1188
+      "image_source_priority": 1188,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/random-number-generator/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47211,7 +47245,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1189
+      "image_source_priority": 1189,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/rise-overrun/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47229,7 +47264,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1190
+      "image_source_priority": 1190,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/what/primary.webp"
     },
     {
       "company": "Mid-Fi Electronics / Doug Tuttle",
@@ -47248,7 +47284,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1191
+      "image_source_priority": 1191,
+      "image": "./assets/pedals/mid-fi-electronics-doug-tuttle/yard-sale/primary.webp"
     },
     {
       "company": "Mojo Hand FX",
@@ -49679,7 +49716,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1192
+      "image_source_priority": 1192,
+      "image": "./assets/pedals/origin-effects/bassrig-64-black-panel/primary.webp"
     },
     {
       "company": "Origin Effects",
@@ -49697,7 +49735,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1193
+      "image_source_priority": 1193,
+      "image": "./assets/pedals/origin-effects/bassrig-fifteen/primary.webp"
     },
     {
       "company": "Origin Effects",
@@ -49715,7 +49754,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1195
+      "image_source_priority": 1195,
+      "image": "./assets/pedals/origin-effects/bassrig-super-vintage/primary.webp"
     },
     {
       "company": "Origin Effects",
