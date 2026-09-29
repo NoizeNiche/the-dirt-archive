@@ -35,7 +35,9 @@ Crucial Audio's Das Götterdämmerung is cataloged as a Distortion / Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+Published on March 13, 2017 Crucial Audio fuzz ring modulator lfo-controlled pedal Information Crucial Audio Germanium Fuzz Ring Modulator.
+
+2017-04-25 Crucial Audio Summoning a Sonic Armageddon with Die Gotterdammerung Germanium Fuzz Ring Modulator @stevendrozd @stompboxpedals @pedaloftheday @effectsdatabase
 
 ## Sources checked
 
@@ -62,3 +64,21 @@ Published on March 13, 2017 Crucial Audio fuzz ring modulator lfo-controlled ped
 
 ### Sources checked in this pass
 1. Crucial Audio Das Götterdämmerung - Germanium Fuzz / Ring Modulator | Effects Database: https://www.effectsdatabase.com/model/crucial/gotterdammerung
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Crucial Audio's Das Gotterdammerung is cataloged as a distortion / fuzz pedal.
+
+### Verified transistor/device terms
+- Germanium Fuzz.
+
+### Verified sound evidence
+Published on March 13, 2017 Crucial Audio fuzz ring modulator lfo-controlled pedal Information Crucial Audio Germanium Fuzz Ring Modulator.
+2017-04-25 Crucial Audio Summoning a Sonic Armageddon with Die Gotterdammerung Germanium Fuzz Ring Modulator @stevendrozd @stompboxpedals @pedaloftheday @effectsdatabase
+
+### Sources checked in this pass
+1. Crucial Audio Das Götterdämmerung - Germanium Fuzz / Ring Modulator | Effects Database: https://www.effectsdatabase.com/model/crucial/gotterdammerung
+2. Coming Soon! Das Götterdämmerung... - Crucial Audio llc: https://www.facebook.com/crucialaudio/posts/coming-soon-das-g%C3%B6tterd%C3%A4mmerung-germanium-fuzz-ring-modulator-the-first-producti/1409742152390752/
