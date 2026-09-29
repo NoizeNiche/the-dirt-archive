@@ -56661,7 +56661,8 @@
       "research_record": "./research/pedals/VOX/Mystic Edge.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://voxamps.com/product/mystic-edge/"
+      "image_source_page": "https://voxamps.com/product/mystic-edge/",
+      "image": "./assets/pedals/vox/mystic-edge/primary.webp"
     },
     {
       "company": "VOX",
@@ -57434,7 +57435,8 @@
       "research_record": "./research/pedals/Wampler Pedals/Hot Wired.md",
       "image_source_page": "https://reverb.com/item/92912945-wampler-hot-wired-v2-with-top-mounts-x8480",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image": "./assets/pedals/wampler-pedals/hot-wired/primary.webp"
     },
     {
       "company": "Wampler Pedals",
