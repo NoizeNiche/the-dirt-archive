@@ -9,7 +9,7 @@
 - **Identity basis:** This page mirrors the canonical Builder + Pedal identity in `research/PEDAL_INDEX.json`. No additional technical, historical, or sonic claims are inferred here.
 
 ## What this pedal is
-The Vezzpa is a compact **dual-mode op-amp fuzz** with two distinct voices: FUZZZZ for thick gated fuzz and STINGER for aggressive high-octave fuzz. Beetronics also documents momentary/toggle operation from its multifunction footswitch. citeturn694465search15\n\n## Catalog source
+The Vezzpa is a compact **dual-mode op-amp fuzz** with two distinct voices: FUZZZZ for thick gated fuzz and STINGER for aggressive high-octave fuzz. Beetronics also documents momentary/toggle operation from its multifunction footswitch.\n\n## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
