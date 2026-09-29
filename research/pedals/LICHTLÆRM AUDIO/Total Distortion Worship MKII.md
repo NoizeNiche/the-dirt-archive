@@ -7,35 +7,35 @@
 - **Identity:** LICHTLÆRM AUDIO's Total Distortion Worship MKII.
 
 ## What this pedal is
-The Total Distortion Worship MkII: It’s more extreme because more is more!
+The Total Distortion Worship MKII is a high-gain distortion for extreme-metal styles. LICHTLÆRM states that the MKII increases gain, expands the low-end range and replaces the earlier boost with a simplified version of the King in Yellow overdrive.
 
 ## Colorways
-- whether you're playing crushing doom, vicious black metal or anything in between - the TDW will deliver!
-- 8) Two enclosure designs To celebrate the this collaboration, we decided to offer the new Total Distortion Worship in two distinct color schemes: Classic Lichtlaerm black & gold and Cult FX's exclusive black, silver & red.
-- Color: Select Color Red//Silver Black//Gold Red//Silver Black//Gold Quantity: Add To Cart Facebook 0 Twitter Pinterest 0 About Shipping Imprint Privacy Note AGB Contact © 2025 Daniel Ringl, Lichtlaerm Audio
+- Two documented enclosure schemes: **Classic Lichtlaerm black & gold** and **Cult FX black, silver & red**.
+- These are treated as finish variants of the same model.
 
 ## Versions and factory options
-- The verified evidence references: MKII, MkII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **MKII** revision.
+- Increased gain.
+- Expanded low-end range.
+- Simplified King in Yellow-derived boost section.
+- Designed for doom, black metal and other extreme-metal applications.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- MKII adds more gain and low-end range and changes the boost implementation relative to the earlier Total Distortion Worship.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The perfect distortion for all kinds of harsh music
-We added more gain, expanded the low-end range and replaced the boost with a simplified version of our King in Yellow overdrive.
-The Total Distortion Worship MkII: It’s more extreme because more is more!
+TDW MKII is a high-gain, aggressive distortion designed for dense, saturated extreme-metal sounds while retaining enough tonal shaping for different tunings and amplifier setups.
 
 ## Sources checked
-1. The perfect distortion for all kinds of harsh music | LICHTLÆRM AUDIO: https://lichtlaermaudio.com/shop/tdw
+1. LICHTLÆRM AUDIO - Total Distortion Worship MKII: https://lichtlaermaudio.com/shop/tdw
+2. Reverb - Total Distortion Worship MKII: https://reverb.com/p/lichtlaerm-audio-total-distortion-worship-mkii-2024
+3. Evil Greed - Total Distortion Worship MKII: https://evilgreed.com/products/lichtlaerm-audio-total-distortion-worship-mkii
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
