@@ -1,22 +1,23 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
+Carlsbro,Suzz-Phase,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 2 after parked-photo cutoff.,2
 Fortin Amplification,Meshuggah,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-Mad Professor Amplification,Loud 'n Proud,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-MadeByMike,RAT/MUFF,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
-Wampler Pedals,SLOstortion,,DEEP_REVIEW,1,recovery hard timeout exceeded,
-Darkglass Electronics,Microtubes Vintage Deluxe,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-MadeByMike,Fuzzy Beetle,,DEEP_REVIEW,2,"no usable exact-model image candidate found [{""sourceHost"":""www.madebymike.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Pigtronix,PolySaturator,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-VFE Pedals,Dragon Hound,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-VFE Pedals,Merman,,DEEP_REVIEW,2,recovery hard timeout exceeded,
-Chaos Custom Shop / Chaos FX,C.Drive,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.rockboard.de"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":10}]",
-Himmelstrutz Elektro Art,Under Overdriver,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":false,""sourceIdentityMatch"":false,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
-Keeley Electronics,Red Dirt Overdrive,,DEEP_REVIEW,4,recovery hard timeout exceeded,
-Carlsbro,Suzz-Phase,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+VFE Pedals,Dark Horse,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
+VFE Pedals,RUP mkII,,DEEP_REVIEW,0,DEEP_REVIEW_STARTED cycle 1 after parked-photo cutoff.,1
+Compulsive Audio,Face-Off Fuzz,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Darkglass Electronics,Microtubes X Ultra,,DEEP_REVIEW,1,recovery hard timeout exceeded,
+Dwarfcraft Devices,Abaddon,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Ibanez,TSV808,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Mad Professor Amplification,Loud 'n Proud,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""www.guitarworld.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":64}]",1
+MadeByMike,RAT/MUFF,,DEEP_REVIEW,1,recovery hard timeout exceeded,1
+Maxon,RTO700,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+VOX,Silk Drive,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""voxamps.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":96}]",
+Darkglass Electronics,Microtubes Vintage Deluxe,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+MadeByMike,Fuzzy Beetle,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.madebymike.co.uk"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",1
+Pigtronix,PolySaturator,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+VFE Pedals,Dragon Hound,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+VFE Pedals,Merman,,DEEP_REVIEW,3,recovery hard timeout exceeded,
+Chaos Custom Shop / Chaos FX,C.Drive,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.rockboard.de"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":10}]",
 Collins,CSD-1 Pro Super Dust,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Columbus,OVD-5 Overdrive,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Compulsive Audio,Face-Off Fuzz,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-Dwarfcraft Devices,Abaddon,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-Ibanez,TSV808,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-Maxon,RTO700,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-VFE Pedals,Dark Horse,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,
-VFE Pedals,RUP mkII,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,
+Himmelstrutz Elektro Art,Under Overdriver,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":48}]",1
+Keeley Electronics,Red Dirt Overdrive,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,
