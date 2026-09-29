@@ -3,40 +3,43 @@
 ## PRP identity
 - **Archive parent:** 3 Series Distortion
 - **Builder:** JHS Pedals
-- **Catalog type:** Distortion / Fuzz
+- **Catalog type:** Distortion
 - **Identity:** JHS Pedals's 3 Series Distortion.
 
 ## What this pedal is
-$0.00 USD 3 SERIES DISTORTION $99.00 USD Zoom Zoom 3 SERIES DISTORTION $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
+The 3 Series Distortion is a compact, affordable JHS distortion built around a simple three-control layout and a switchable gain structure. JHS describes it as covering medium-gain crunch, heavy overdrive, distortion, and even fuzz textures.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **white**.
+- The 3 Series uses a consistent white enclosure design across the line.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume:** overall output.
+- **Filter:** tonal balance/high-frequency shaping.
+- **Distort:** gain and distortion intensity.
+- **Gain** toggle changes the clipping/gain response between a more saturated/compressed setting and a more open/crunchy setting.
+- 9V DC, center-negative.
+- Current draw: approximately 9mA.
+- Enclosure: approximately 4.42 x 2.38 x 1.22 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked JHS sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping-diode part was not established in the checked sources.
 - **Exact part:** Unknown.
 
 ## Sound
-$0.00 USD 3 SERIES DISTORTION $99.00 USD Zoom Zoom 3 SERIES DISTORTION $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
-The JHS Pedals 3 Series Distortion is a massively versatile distortion pedal with the ability to achieve medium gain crunch, heavy overdrive, distortion, and even fuzz tones.
-The controls on the Distortion are Volume, Filter (or Tone), and Distort knobs that give you a wide range of usable sounds in any position.
+The 3 Series Distortion can move from medium-gain crunch into heavier overdrive and distortion, with enough gain for fuzz-like saturation. The Gain switch changes the amount and feel of compression and saturation, while the Filter control adjusts the tonal balance.
 
 ## Sources checked
-1. 3 SERIES DISTORTION – JHS Pedals: https://jhspedals.info/products/3-series-distortion
-2. JHS Pedals 3 Series Distortion | Effects Database: https://www.effectsdatabase.com/model/jhspedals/series3/distortion
-3. JHS Pedals 3 Series Distortion — Distortion Pedal Specs & Where to Buy | one thousand pedals: https://onethousandpedals.com/pedal/jhs-3-series-distortion
-4. JHS Pedals 3 Series Distortion – United States: https://www.thomannmusic.com/jhs_pedals_3_series_distortion.htm
-5. JHS 3 Series Distortion Effects Pedal - Reverb: https://reverb.com/item/36062808-jhs-3-series-distortion-effects-pedal
+1. JHS Pedals - 3 Series Distortion: https://jhspedals.info/products/3-series-distortion
+2. JHS Pedals - 3 Series collection: https://jhspedals.info/collections/3-series
+3. Effects Database - JHS 3 Series Distortion: https://www.effectsdatabase.com/model/jhspedals/series3/distortion
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -3,43 +3,42 @@
 ## PRP identity
 - **Archive parent:** 3 Series Fuzz
 - **Builder:** JHS Pedals
-- **Catalog type:** Distortion / Fuzz
+- **Catalog type:** Fuzz
 - **Identity:** JHS Pedals's 3 Series Fuzz.
 
 ## What this pedal is
-$0.00 USD 3 SERIES FUZZ $99.00 USD Zoom Zoom 3 SERIES FUZZ $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
+The 3 Series Fuzz is a compact JHS fuzz designed to clean up from the guitar's volume control while covering both vintage-style and more modern fuzz textures.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **white**.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume:** overall output.
+- **Fuzz:** fuzz intensity.
+- **Bias:** changes the operating character of the fuzz circuit and can move it toward more gated or compressed responses.
+- **Fat** toggle adds low-end emphasis.
+- 9V DC, center-negative.
+- Current draw: approximately 9mA.
+- Enclosure: approximately 4.42 x 2.38 x 1.22 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked JHS sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-diode part was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-$0.00 USD 3 SERIES FUZZ $99.00 USD Zoom Zoom 3 SERIES FUZZ $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
-The JHS Pedals 3 Series Fuzz is a versatile fuzz box that cleans up well with your guitar's volume knob.
-The Fuzz is the perfect balance of vintage and modern with soaring sustain and clear articulation.
+The 3 Series Fuzz delivers a broad fuzz range with strong sustain and clear articulation. JHS emphasizes that it cleans up well when the guitar's volume is reduced, while the Bias and Fat controls provide additional control over texture and low-end weight.
 
 ## Sources checked
-1. 3 SERIES FUZZ – JHS Pedals: https://jhspedals.info/products/3-series-fuzz
-2. open prime modal: https://www.amazon.com/clp/B08KJB5CXL
-3. 3 SERIES FUZZ by JHS Pedals | The Guitar Pedal Directory: https://www.theguitarpedaldirectory.com/pedals/3-series-fuzz
-4. JHS Pedals 3 Series Fuzz – United States: https://www.thomannmusic.com/jhs_pedals_3_series_fuzz.htm
-5. JHS Pedals 3 Series Fuzz: https://spicersmusic.com/products/3-series-fuzz
-6. JHS Pedals 3 Series Fuzz | Effects Database: https://www.effectsdatabase.com/model/jhspedals/series3/fuzz
-7. JHS Pedals 3 Series Fuzz Effects Pedal White - Reverb: https://reverb.com/item/70890954-jhs-pedals-3-series-fuzz-effects-pedal-white
-8. JHS 3 Series Fuzz Guitar Effect Pedal - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/jhs-3-series-fuzz-guitar-effect-pedal/
+1. JHS Pedals - 3 Series Fuzz: https://jhspedals.info/products/3-series-fuzz
+2. JHS Pedals - 3 Series collection: https://jhspedals.info/collections/3-series
+3. Effects Database - JHS 3 Series Fuzz: https://www.effectsdatabase.com/model/jhspedals/series3/fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,34 +7,38 @@
 - **Identity:** JHS Pedals's 3 Series Overdrive.
 
 ## What this pedal is
-$0.00 USD 3 SERIES OVERDRIVE $99.00 USD Zoom Zoom 3 SERIES OVERDRIVE $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
+The 3 Series Overdrive is a straightforward JHS drive designed to cover clean boost, transparent low gain, and larger amp-like medium overdrive.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **white**.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- **Volume:** overall output.
+- **Body:** tonal shaping.
+- **Drive:** gain and overdrive amount.
+- **Gain** toggle changes the feel and saturation of the drive stage.
+- 9V DC, center-negative.
+- Current draw: approximately 12mA.
+- Enclosure: approximately 4.42 x 2.38 x 1.22 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No separate numbered production revision was established in the checked JHS sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-diode part was not established in the checked sources.
+- **Exact part:** Unknown.
 
 ## Sound
-$0.00 USD 3 SERIES OVERDRIVE $99.00 USD Zoom Zoom 3 SERIES OVERDRIVE $99.00 USD − { $dispatch('change'); }) " > + Add to Cart The JHS Pedals 3 Series is a collection of pedals designed to give you affordability and simplicity without compromising quality.
-The JHS Pedals 3 Series Overdrive offers a wide range of overdrive sounds within straightforward design aesthetics.
-You can achieve anything from boost, transparent low gain, to huge amp-like medium overdrive sounds.
+The 3 Series Overdrive covers clean boost, transparent low-gain drive, and larger medium-gain overdrive with an amp-like response. The simple control layout makes it a general-purpose drive rather than a narrowly voiced distortion box.
 
 ## Sources checked
-1. 3 SERIES OVERDRIVE – JHS Pedals: https://jhspedals.info/products/3-series-overdrive
-2. JHS Pedals 3 Series Overdrive – United States: https://www.thomannmusic.com/jhs_pedals_3_series_overdrive.htm
-3. JHS Pedals 3 SERIES OVERDRIVE | AllThePedals: https://allthepedals.com/pedals/jhs-pedals-3-series-overdrive/
+1. JHS Pedals - 3 Series Overdrive: https://jhspedals.info/products/3-series-overdrive
+2. JHS Pedals - 3 Series collection: https://jhspedals.info/collections/3-series
+3. Effects Database - JHS 3 Series Overdrive: https://www.effectsdatabase.com/model/jhspedals/series3/overdrive
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

@@ -7,37 +7,51 @@
 - **Identity:** JHS Pedals's Bonsai.
 
 ## What this pedal is
-$0.00 USD BONSAI $249.00 USD Zoom Zoom BONSAI $249.00 USD − { $dispatch('change'); }) " > + Add to Cart In the late 1970's the overdrive pedal was arguably perfected when Japanese engineers designed the sound that we now know as the heart and soul of so many of our favorite artists, recordings and sounds.
+The Bonsai is a nine-mode analog overdrive that reproduces the character of major Tube Screamer and related Japanese overdrive circuits. JHS describes the modes as exact circuit recreations rather than generic tonal emulations.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- The documented production enclosure is **green**.
+- No complete factory finish chronology was established.
 
 ## Versions and factory options
-- The verified evidence references: v2, v3.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The rotary mode selector provides nine documented circuits:
+1. **OD-1 (1977)**
+2. **TS-808 (1979)**
+3. **TS-9 (1982)**
+4. **MSL / Power / L (1985)**
+5. **TS-10 (1986)**
+6. **EXAR OD-1 (1989)**
+7. **TS-7 (+MODE) (1999)**
+8. **Keeley Mod Plus (2002)**
+9. **JHS Strong Mod (2008)**
+
+Other controls:
+- **Volume**
+- **Tone**
+- **Drive**
+- 9V DC, center-negative.
+- Current draw: approximately 20mA.
+- Enclosure: approximately 2.6 x 4.8 x 1.6 inches.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The nine modes represent separate historical circuits within one pedal.
+- They should not be interpreted as nine production revisions of the Bonsai itself.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- The Bonsai reproduces multiple historical clipping arrangements, but JHS does not publish a complete device-level bill of materials for all nine modes.
+- **Exact clipping-device part numbers:** Unknown.
 
 ## Sound
-$0.00 USD BONSAI $249.00 USD Zoom Zoom BONSAI $249.00 USD − { $dispatch('change'); }) " > + Add to Cart In the late 1970's the overdrive pedal was arguably perfected when Japanese engineers designed the sound that we now know as the heart and soul of so many of our favorite artists, recordings and sounds.
-If a single effect pedal was chosen to board a Voyager 3 mission and be solely responsible for showing the universe the sound of overdrive, it would undoubtably be Tube Screamer.
-The Bonsai Modes OD-1 - 1977 An overall brighter and slightly higher gain mode that does not utilize the Tone knob.
+The Bonsai ranges from the familiar mid-focused TS-808 and TS-9 sound through brighter or harder-clipping historical variants and the JHS Strong Mod. The different circuits change gain, EQ, clipping feel, and headroom behavior while keeping the same control interface.
 
 ## Sources checked
-1. BONSAI – JHS Pedals: https://jhspedals.info/products/bonsai
-2. open prime modal: https://www.amazon.com/clp/B07982TJQR
-3. JHS Pedals Bonsai 9-Way Screamer Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/JHS-Pedals/Bonsai-9-way-Screamer-Overdrive-Effects-Pedal-1500000210479.gc
-4. Review: JHS Pedals The Bonsai | Guitar.com: https://guitar.com/reviews/effects-pedal/jhs-pedals-bonsai/
-5. JHS Bonsai: https://www.guitareffectspedals.com/JHS-Bonsai-p1067.html
+1. JHS Pedals - Bonsai: https://jhspedals.info/products/bonsai
+2. JHS Pedals - Bonsai manual and support materials: https://jhspedals.info/
+3. Effects Database - JHS Bonsai: https://www.effectsdatabase.com/model/jhspedals/bonsai
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
