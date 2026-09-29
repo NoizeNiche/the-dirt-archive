@@ -35,7 +35,6 @@ C.Giant's OD-1 Warm Blues - Overdrive/Distortion is cataloged as an overdrive / 
 
 ## Sound
 
-C.Giant OD-1 Warm Blues - Overdrive/Distortion
 This pedal offers a four-knob control scheme: Level sets the output volume, Gain adjusts the drive intensity, Low boosts or cuts bass frequencies, and High cuts upper harmonics.
 This gives players flexibility to shape mid-gain tones from subtle warmth to more aggressive distortion, making it suitable for everything from clean boost to creamy solo tones.
 

@@ -37,7 +37,6 @@ Subdecay's Noise Theory – Parallel Waveshaper Fuzz is cataloged as a fuzz peda
 ## Sound
 
 Noise Theory - Parallel Waveshaper Fuzz - Guitar Effects - Subdecay
-SubDecay Noise Theory - Parallel Waveshaper Fuzz
 Experience the fuzz future with the Noise Theory.
 
 ## Sources checked

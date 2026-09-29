@@ -37,7 +37,6 @@ The FZR912 is an analog fuzz pedal inspired by classic Muff Fuzz Deluxe and Fuzz
 
 The FZR912 is documented as ranging from aggressive, gated Velcro-style fuzz to warmer vintage-fuzz tones. Its individually selected silicon transistors and adjustable Attack, Bias, Tone and Volume controls are intended to give the fuzz a responsive, continuously variable character. [1]
 
-ZR912 - Muff Fuzz Deluxe
 It is voiced to deliver a wide and continuous range of fuzz textures, spanning aggressive, gated Velcro-style fuzz to warm, vintage fuzz tones.
 Each FZR912 Muff Fuzz Deluxe unit is individually tuned through the custom selection of component values and silicon transistors.
 

@@ -35,7 +35,6 @@ foot-controlled threadle wah fx pedal grit dirt distortion/fuzz/overdrive filter
 
 ## Sound
 
-Crown W-Fuzz - 8-Transistor Fuzz-Wah
 foot-controlled threadle wah fx pedal grit dirt distortion/fuzz/overdrive filter eq/excite/filter pedal fuzz distortion/fuzz/overdrive pedal wah wah pedal fuzz pedal fuzz-wah pedal stompbox stomp box guitar pedal effect pedal eq/excite/filter Searching...
 
 ## Sources checked

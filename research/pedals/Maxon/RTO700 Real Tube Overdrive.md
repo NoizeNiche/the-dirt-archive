@@ -35,7 +35,6 @@ Maxon's RTO700 Real Tube Overdrive is cataloged as an overdrive pedal.
 
 ## Sound
 
-RTO700 Real Tube Overdrive by Maxon
 The RTO700 has all the tone and responsiveness of the best boutique tube amps.
 From bluesy overdrives to the elusive “Brown Sound” and beyond, all can be easily achieved with any amp at any volume when using the RTO.
 

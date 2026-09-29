@@ -35,7 +35,6 @@ Electro-Harmonix OD Glove MOSFET Overdrive / Distortion: https://gcrockboard.com
 
 ## Sound
 
-OD Glove MOSFET Overdrive / Distortion
 Not Sold Online Find Dealer Item ODGLOVE Rich, overtone laden sound that doesn’t get muddy.
 Responsive controls that take you from sparkling, clean boost through brown crunch and all the way to thick, saturated hi-gain.
 
