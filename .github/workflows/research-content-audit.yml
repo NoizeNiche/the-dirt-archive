@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-archive-publisher-v1
+  group: dirt-research-content-audit-v1
   cancel-in-progress: false
 
 jobs:
