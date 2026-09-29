@@ -50,10 +50,8 @@ The SD-1 produces mild-to-moderate overdrive with a focused midrange and tight l
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Customers say Customers praise this overdrive pedal for its warm, full-chord voicing sound and its ability to take gain to new levels, with one customer noting it hits the sweet spot between tube screamer and aggressive distortion.
 
 ### Verified sound evidence
-99 Join Prime to get FREE delivery Tue, Sep 29 Add to cart Customers say Customers praise this overdrive pedal for its warm, full-chord voicing sound and its ability to take gain to new levels, with one customer noting it hits the sweet spot between tube screamer and aggressive distortion.
 They find it superior to competitors, well-built, and reliable, with one mentioning it works great for tightening up high-gain amps.
 BOSS SD-1 Super OverDrive Guitar Effects Pedal
 
