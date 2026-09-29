@@ -113,15 +113,25 @@ def main() -> int:
             continue
 
         source_pages = {row["source_page"] for row in rows if row["source_page"]}
-        # The same exact source page reused across aliases/duplicate catalog roles
-        # is an intentional sharing pattern, not a suspicious collision.
-        suspicious = not (
-            len(source_pages) == 1
-            and source_pages
-        )
+        builders = {row["builder"] for row in rows}
+        # Cross-builder byte reuse is the high-confidence suspicious case.
+        # Same-builder collisions can be legitimate shared manufacturer photos,
+        # aliases, or closely related variants, so classify them as review-only
+        # unless the exact same source page is shared intentionally.
+        if len(source_pages) == 1 and source_pages:
+            status = "SHARED_SOURCE_PAGE"
+            suspicious = False
+        elif len(builders) > 1:
+            status = "SUSPICIOUS_CROSS_BUILDER"
+            suspicious = True
+        else:
+            status = "REVIEW_SAME_BUILDER"
+            suspicious = False
+
         collisions.append({
             "sha256": digest,
             "suspicious": suspicious,
+            "status": status,
             "records": rows,
         })
 
@@ -144,7 +154,7 @@ def main() -> int:
             rows = collision["records"]
             writer.writerow({
                 "SHA256": collision["sha256"],
-                "Suspicious": "YES" if collision["suspicious"] else "SHARED_SOURCE_PAGE",
+                "Suspicious": collision["status"],
                 "Record Count": len(rows),
                 "Builders": " | ".join(sorted({row["builder"] for row in rows})),
                 "Pedals": " | ".join(sorted({row["pedal"] for row in rows})),
