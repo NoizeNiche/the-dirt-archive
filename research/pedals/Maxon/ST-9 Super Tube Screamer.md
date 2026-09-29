@@ -3,42 +3,35 @@
 ## PRP identity
 - **Archive parent:** ST-9 Super Tube Screamer
 - **Builder:** Maxon
-- **Catalog type:** Overdrive
+- **Catalog type:** Overdrive / Boost
 - **Identity:** Maxon's ST-9 Super Tube Screamer.
 
 ## What this pedal is
-USED Maxon / ST-9 Super Tube Screamer quantity Add to cart Description The Maxon Super Tube Screamer is now in stock.
-
-## Colorways
-- Screamer Build Your Own Clone Screamer Clone Chicago Stompworks The Green Thing Chucktone Effects Overdrive 809 Ciclar Overdrive Cog Effects Darklighter - Overdrive ColorTone Fx OD-909 Overdrive Pro Compulsive Audio Valve Howler Donner Blues Drive dp Musicworks Custom Drive dp Musicworks Double Drive Dr.
+The ST-9 Super Tube Screamer is a vintage Maxon 9-series overdrive from the early 1980s. It uses the classic Tube Screamer-style clipping architecture with additional midrange control and more gain.
 
 ## Versions and factory options
-- The verified evidence references: Mk1, V1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Dual **JRC4558D** op-amp configuration is documented in surviving units.
+- Additional midrange control beyond the standard TS-9-style tone/gain arrangement.
+- Early-1980s Japanese production.
+- An Ibanez-badged ST9 version also exists for some markets.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- Maxon and Ibanez-badged examples are treated as branding variants of the same documented ST-9 family unless a circuit difference is established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- The main gain architecture is op-amp based.
+- Exact supporting transistor complement was not established.
 
 ## Diode
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- Exact clipping-device part was not established.
 
 ## Sound
-Equipped with two JRS4558D op-amps, it offers the rich midrange and natural compression characteristic of the TS series, making it versatile enough to handle everything from standalone crunch to amp boost.
-Related Products USED KING TONE GUITAR / miniFUZZ Si $ 220.73 Original price was: $220.73.
-[SN DUEL248510] USED KING TONE GUITAR / THE DUELLIST V1.7 (20222023 Edition) $ 347.87 Original price was: $347.87.
+The ST-9 has the familiar Tube Screamer-style mid focus and compression but adds gain and additional midrange shaping, allowing thicker standalone crunch or stronger amplifier boosting.
 
 ## Sources checked
-1. Maxon ST-9 Super Tube Screamer - Reverb: https://reverb.com/item/99279842-maxon-st-9-super-tube-screamer
-2. Maxon ST-9 Super Tube Screamer Vintage Guitar Effects Pedal Used: https://www.ebay.com/itm/117400817066
-3. ST-9 Super Tube Screamer by Maxon | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Maxon/ST-9-Super-Tube-Screamer/8083767612/
-4. USED Maxon / ST-9 Super Tube Screamer [12] | Effecter: https://www.headstockguitar.com/product/used-maxon-st-9-super-tube-screamer-12/
-5. Maxon ST-9 Super Tube Screamer | Effects Database: https://www.effectsdatabase.com/model/maxon/9/st9
-6. Maxon ST-9 Super Tube Screamer - Gbase: https://www.gbase.com/gear/maxon-st-9-super-tube-screamer
+1. Ishibashi - Maxon ST-9 Super Tube Screamer: https://store.ishibashi.co.jp/view/item/000000156651
+2. Reverb - Maxon/Ibanez ST-9: https://reverb.com/item/62695873-maxon-ibanez-st-9-super-tube-screamer-rare-made-in-japan
+3. Effects Database - Maxon ST-9: https://www.effectsdatabase.com/model/maxon/9/st9
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
