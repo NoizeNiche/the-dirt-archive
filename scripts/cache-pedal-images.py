@@ -285,7 +285,6 @@ def cache_entry_prepare(entry):
         curated_source_url
         and entry.get("image_source_page_verified") is True
         and re.match(r"^https?://", curated_source_url, re.I)
-        and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", curated_source_url, re.I)
     ):
         return ("download", entry, target, curated_source_url)
 
@@ -297,7 +296,7 @@ def cache_entry_prepare(entry):
         # Retry direct image provenance URLs, but never treat a product/source
         # page URL as if it were an image. Exact page sources are handled by
         # browser-photo-cache.mjs first.
-        if source_url and re.match(r"^https?://", source_url, re.I) and re.search(r"\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$", source_url, re.I):
+        if source_url and re.match(r"^https?://", source_url, re.I):
             return ("download", entry, target, source_url)
         return ("skip", entry, None, None)
 
