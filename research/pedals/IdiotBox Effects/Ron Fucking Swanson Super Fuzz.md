@@ -7,34 +7,36 @@
 - **Identity:** IdiotBox Effects's Ron Fucking Swanson Super Fuzz.
 
 ## What this pedal is
-Shipping MAILING LIST Contact Back to site Ron Fucking Swanson Super Fuzz $ 139.00 1 of 2 Select option Select option READY TO SHIP Qty $ 139.00 Add to cart View cart ***NOW IN GOLD STANDARD GOLD*** This is my take on the classic Super Fuzz circuit that Ron Fucking Swanson himself would be proud of.
+The Ron Fucking Swanson Super Fuzz is IdiotBox Effects' take on the classic Super Fuzz circuit, built as a deliberately characterful vintage-style fuzz.
 
 ## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+- A documented later production finish is **Standard Gold**.
+- Small-batch artwork and finish options may vary.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Classic Super Fuzz-derived topology.
+- IdiotBox small-batch construction.
+- Exact full control transcription is not asserted where the surviving exact-model sources do not preserve it reliably.
+- External 9V DC power.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete numbered hardware revision chronology was established in the checked sources.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-Shipping MAILING LIST Contact Back to site Ron Fucking Swanson Super Fuzz $ 139.00 1 of 2 Select option Select option READY TO SHIP Qty $ 139.00 Add to cart View cart ***NOW IN GOLD STANDARD GOLD*** This is my take on the classic Super Fuzz circuit that Ron Fucking Swanson himself would be proud of.
-After trying it out, I can say without a doubt that this is the best fuzz!!
-I own several other Super-Fuzz style pedals, but yours is on a whole different level.
+The pedal is voiced around the thick, harmonically rich character of Super Fuzz designs, with strong upper harmonics and a pronounced fuzz texture rather than smooth overdrive.
 
 ## Sources checked
-1. Ron Fucking Swanson Super Fuzz | IdiotBox Effects: https://www.idiotboxeffects.com/product/ron-fucking-swanson-super-fuzz
-2. IdiotBox Effects Ron Fucking Swanson Super Fuzz: https://www.stompboxgarden.com/gear/pedal/2834/idiotbox-effects-ron-fucking-swanson-super-fuzz
-3. IdiotBox Effects Ron Fucking Swanson Super Fuzz - Pedal on ModularGrid: https://modulargrid.net/p/idiotbox-effects-ron-fucking-swanson-super-fuzz
+1. IdiotBox Effects - Ron Fucking Swanson Super Fuzz: https://www.idiotboxeffects.com/product/ron-fucking-swanson-super-fuzz
+2. Stompbox Garden - Ron Fucking Swanson Super Fuzz: https://www.stompboxgarden.com/gear/pedal/2834/idiotbox-effects-ron-fucking-swanson-super-fuzz
+3. ModularGrid - Ron Fucking Swanson Super Fuzz: https://modulargrid.net/p/idiotbox-effects-ron-fucking-swanson-super-fuzz
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.

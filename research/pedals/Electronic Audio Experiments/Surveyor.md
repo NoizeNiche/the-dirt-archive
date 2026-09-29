@@ -7,39 +7,40 @@
 - **Identity:** Electronic Audio Experiments's Surveyor.
 
 ## What this pedal is
-Do you have a question about the Surveyor and is the answer not in the manual?
+The Surveyor is a high-headroom, highly flexible distortion designed by Electronic Audio Experiments for a wide range of saturated tones. EAE describes it as more versatile than its reputation as a noise-rock pedal suggests, and suitable for use at different points in the signal chain.
 
 ## Colorways
-- Color: Select Color Black Copper Black Copper Quantity: Only 7 left in stock Add To Cart Specifications Size/Weight: 121mm x 66mm x 40mm, 0.4kg Bypass: Relay switching with true bypass Input impedance @ 1 Khz: 1MΩ Output impedance @ 1 Khz: <1kΩ Power: 9V DC, 2.1 mm center negative barrel.
+- Current production documentation shows **Black** and **Copper** finish options.
+- Finish variants are not treated as circuit revisions.
 
 ## Versions and factory options
-- The verified evidence references: Revision, V1, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- Relay switching with true bypass.
+- Input impedance: 1MΩ.
+- Output impedance: below 1kΩ.
+- 9V DC, 2.1mm center-negative supply.
+- Compact 121 x 66 x 40mm enclosure.
+- Controls include **Level** plus the additional tone/gain controls documented in the EAE manual.
+- Designed to remain effective as a standalone distortion or as a processing stage later in the pedal chain.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- The checked EAE material references multiple revisions, but does not provide a complete chronological hardware history suitable for the unversioned Surveyor record.
+- The archive does not merge V2-only details into every Surveyor example.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
+- Exact production semiconductor details were not established in the checked sources.
 - **Exact transistor/device:** Unknown.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
+- Exact clipping/rectifier diode information was not established.
 - **Exact part:** Unknown.
 
 ## Sound
-You will find that the Surveyor does far more than noise rock clang—it is in fact capable of a huge variety of saturated tones and textures.
-The Surveyor works any- where in a signal chain, but when in doubt try it after all of your other drive/distortion/fuzz pedals and before your modulation and time-based effects.
-Page 4 3 Controls Level overall volume, with more than enough range for line level output or to overdrive the next thing in your signal path.
+The Surveyor covers dense saturation, bright aggressive distortion, and more controlled gain sounds. EAE emphasizes that it can produce a broad range of saturated textures rather than being limited to one noise-rock voice.
 
 ## Sources checked
-1. ELECTRONIC AUDIO EXPERIMENTS SURVEYOR TECHNICAL MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/4225221/Electronic-Audio-Experiments-Surveyor.html
-2. Surveyor &mdash; Electronic Audio Experiments: https://www.electronicaudioexperiments.com/pedals/surveyor
-3. Surveyor by Electronic Audio Experiments | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Electronic-Audio-Experiments/Surveyor/68978595/
-4. Electronic Audio Experiments Surveyor - Reverb: https://reverb.com/item/84105889-electronic-audio-experiments-surveyor
-5. Electronic Audio Experiments Surveyor | Effects Database: https://www.effectsdatabase.com/model/electronicaudioexperiments/surveyor
-6. Electronic Audio Experiments Surveyor *Free Shipping in the US* - Effects & Pedals for Drive, Delay, Reverb & More: https://www.pedalbeam.com/product/electronic-audio-experiments-surveyor-free-shipping-in-the-us/
-7. Electronic Audio Experiments Surveyor - toneforgehub.com: https://www.toneforgehub.com/product/electronic-audio-experiments-surveyor25333/
+1. Electronic Audio Experiments - Surveyor: https://www.electronicaudioexperiments.com/pedals/surveyor
+2. Electronic Audio Experiments - Surveyor technical manual: https://www.manualslib.com/manual/4225221/Electronic-Audio-Experiments-Surveyor.html
+3. Effects Database - EAE Surveyor: https://www.effectsdatabase.com/model/electronicaudioexperiments/surveyor
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
