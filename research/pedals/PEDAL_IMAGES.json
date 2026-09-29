@@ -11916,7 +11916,9 @@
     "builder": "Champion City Effects",
     "pedal": "El Gato Malo",
     "source_page": null,
-    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md"
+    "research_record": "./research/pedals/Champion City Effects/El Gato Malo.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality=medium-low,height=800,width=800,fit=contain/yeqhyx6eymch5ld9e22x.jpg",
+    "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue"
   },
   {
     "builder": "Champion City Effects",
@@ -19669,7 +19671,9 @@
     "builder": "Fjord Fuzz",
     "pedal": "Odin",
     "source_page": null,
-    "research_record": "./research/pedals/Fjord Fuzz/Odin.md"
+    "research_record": "./research/pedals/Fjord Fuzz/Odin.md",
+    "image_source_url": "https://www.perfectcircuit.com/static/version1790592595/frontend/Aware/default/en_US/images/logo--full.svg",
+    "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html"
   },
   {
     "builder": "Fjord Fuzz",
@@ -26562,7 +26566,7 @@
     "image": null,
     "source_page": "https://origineffects.com/product-category/overdrive/",
     "research_record": "./research/pedals/Origin Effects/Bassrig Super Vintage.md",
-    "image_source_url": "https://origineffects.com/wp-content/uploads/2024/07/Halcyon-Blue-Main-Product-Shot.jpg",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg",
     "image_source_page": "https://origineffects.com/product-category/overdrive/"
   },
   {
@@ -28508,10 +28512,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Windhand Fuzz",
-    "image": null,
+    "image": "./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Windhand Fuzz.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--aQM4O1zT--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1519616313/m19t0apfqbkoaxkfhqsp.png"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--ORW6RP9B--/quality=medium-low,height=800,width=800,fit=contain/m19t0apfqbkoaxkfhqsp.png",
+    "image_source_page": "https://reverb.com/item/10581192-stomp-under-foot-windhand-pedal"
   },
   {
     "builder": "Stone Deaf FX",

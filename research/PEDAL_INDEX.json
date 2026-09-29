@@ -22824,7 +22824,8 @@
       "image_source_page": "https://reverb.com/item/3707665-champion-city-effects-el-gato-malo-2016-acid-etched-metallic-blue",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kfmC3aSZ--/quality=medium-low,height=800,width=800,fit=contain/yeqhyx6eymch5ld9e22x.jpg"
     },
     {
       "company": "Champion City Effects",
@@ -36879,7 +36880,8 @@
       "image_source_page": "https://www.perfectcircuit.com/fjord-fuzz-odin.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1373
+      "image_source_priority": 1373,
+      "image_source_url": "https://www.perfectcircuit.com/static/version1790592595/frontend/Aware/default/en_US/images/logo--full.svg"
     },
     {
       "company": "Fjord Fuzz",
@@ -49742,7 +49744,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1195,
-      "image_source_url": "https://origineffects.com/wp-content/uploads/2024/07/Halcyon-Blue-Main-Product-Shot.jpg"
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/09/Peter-Frampton-2000x2000-1.jpg"
     },
     {
       "company": "Origin Effects",
@@ -53504,10 +53506,11 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--aQM4O1zT--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1519616313/m19t0apfqbkoaxkfhqsp.png",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ORW6RP9B--/quality=medium-low,height=800,width=800,fit=contain/m19t0apfqbkoaxkfhqsp.png",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--aQM4O1zT--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1519616313/m19t0apfqbkoaxkfhqsp.png"
-      ]
+      ],
+      "image": "./assets/pedals/stomp-under-foot/windhand-fuzz/primary.webp"
     },
     {
       "company": "Stone Deaf FX",
