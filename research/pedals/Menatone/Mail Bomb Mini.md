@@ -3,40 +3,35 @@
 ## PRP identity
 - **Archive parent:** Mail Bomb Mini
 - **Builder:** Menatone
-- **Catalog type:** Distortion / Overdrive
+- **Catalog type:** Envelope Filter
 - **Identity:** Menatone's Mail Bomb Mini.
 
 ## What this pedal is
-Mail Bomb Mini $159 Add to Cart The Menatone Mail Bomb mini envelope filter is the quackiest, funkiest and easiest to use filter available today.
-
-## Colorways
-- menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
-- Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
-- Top Boost in a Can Wreck'T Fish Factory MenaWatt PiG The Dirty Blonde MINI Red Snapper Mini Red Snapper 4 knob Mini Blue Collar Mini JAC Compressor Mini Thundering Revival Mini The Law Mini Hindenburg Mini Mail Bomb Mini Pleasure Trem Mini Ms.
+The Mail Bomb Mini is Menatone's compact envelope filter. Menatone describes it as quacky, funky and easy to use.
 
 ## Versions and factory options
-- No distinct factory revision was established in the verified evidence packet.
+- Mini-format enclosure.
+- Envelope-filter effect.
+- Handmade in the USA.
+- 9V power supply only, no battery.
+- Approx. 1.5 × 3.66 inches.
+- No numbered hardware revision established in the checked sources.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- No complete dated revision chronology was established.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier information was not established.
 
 ## Sound
-Peak - sets the upper limit of the wah effect, Depth - sets the lower (idle) frequency, and Attack - adjusts the gain of the filter trigger.
-menatone top of page THE FINEST HANDMADE EFFECTS SINCE 1996 PEDALS HOME MOJO Red Snapper Mojo PTP Blue Collar Mojo PTP Top Boost in a Can Mojo The Law Bender Deluxe Redneck vs.
-Sputnik PTP/DELUXE Red Snapper 4 Knob PTP Blue Collar PTP Das Boost PTP The Howie Deluxe None More Black Deluxe STANDARD The King.
+Mail Bomb Mini is intended for percussive, quacky filter sweeps and funky envelope-filter sounds.
 
 ## Sources checked
-1. Mail Bomb Mini by Menatone | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Menatone/Mail-Bomb-Mini/68981823/
-2. Mail Bomb Mini | menatone: https://www.menatone.com/mail-bomb-mini
-3. Menatone Mail Bomb Mini Envelope Filter 2026 Guitar Effect Pedal - Reverb: https://reverb.com/item/99028920-menatone-mail-bomb-mini-envelope-filter-2026-guitar-effect-pedal
+1. Menatone - Mail Bomb Mini: https://www.menatone.com/product-page/the-mail-bomb-mini
+2. Menatone - Mini pedals: https://www.menatone.com/mini
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
