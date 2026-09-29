@@ -2596,7 +2596,10 @@
     "builder": "Ashdown Engineering",
     "pedal": "AGM PRO-FX Retro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
-    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md"
+    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
+    "image": ""
   },
   {
     "builder": "Ashdown Engineering",
@@ -22777,7 +22780,10 @@
     "builder": "Leqtique",
     "pedal": "10/10 XXJ EVR",
     "source_page": null,
-    "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md"
+    "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0022/5850/1693/files/1864.jpg?v=1739536452",
+    "image_source_page": "https://leqtique.ch/en/products/10-10-xxj-evr",
+    "image": ""
   },
   {
     "builder": "Leqtique",
@@ -23459,7 +23465,9 @@
     "builder": "Mad Professor Amplification",
     "pedal": "Golden Cello",
     "source_page": null,
-    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md"
+    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
+    "image": "",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/madprofessor_goldencello_001.jpg"
   },
   {
     "builder": "Mad Professor Amplification",
@@ -26603,7 +26611,10 @@
     "builder": "Origin Effects",
     "pedal": "M-EQ Driver",
     "source_page": null,
-    "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md"
+    "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
+    "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg",
+    "image_source_page": "https://origineffects.com/product/meqdriver/",
+    "image": ""
   },
   {
     "builder": "Origin Effects",
@@ -30815,7 +30826,10 @@
     "builder": "Way Huge",
     "pedal": "Pork & Pickle",
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Pork & Pickle.md"
+    "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
+    "image_source_url": "https://www.westsidedistribution.com/wp-content/uploads/2018/01/PorkandPickle.jpg",
+    "image_source_page": "https://www.westsidedistribution.com/way-huge-pork-pickle-bass-overdrive-fuzz/",
+    "image": ""
   },
   {
     "builder": "Way Huge",

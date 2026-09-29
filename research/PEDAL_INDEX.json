@@ -4827,13 +4827,15 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
+      "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
       "image_source_pages": [
         "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1387
+      "image_source_priority": 1387,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ashdown_profx-retrodrive_001.jpg"
     },
     {
       "company": "Ashdown Engineering",
@@ -42782,7 +42784,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1395
+      "image_source_priority": 1395,
+      "image": "",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/0022/5850/1693/files/1864.jpg?v=1739536452"
     },
     {
       "company": "Leqtique",
@@ -44198,7 +44202,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1405
+      "image_source_priority": 1405,
+      "image": "",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/madprofessor_goldencello_001.jpg"
     },
     {
       "company": "Mad Professor Amplification",
@@ -50174,7 +50180,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1409
+      "image_source_priority": 1409,
+      "image": "",
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg"
     },
     {
       "company": "Origin Effects",
@@ -58203,7 +58211,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
-      "image_source_page": "https://www.musicradar.com/news/namm-2018-way-huge-serves-up-its-first-ever-bass-pedal-the-pork-pickle",
+      "image_source_page": "https://www.westsidedistribution.com/way-huge-pork-pickle-bass-overdrive-fuzz/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -58211,7 +58219,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1382
+      "image_source_priority": 1382,
+      "image": "",
+      "image_source_url": "https://www.westsidedistribution.com/wp-content/uploads/2018/01/PorkandPickle.jpg"
     },
     {
       "company": "Way Huge",
