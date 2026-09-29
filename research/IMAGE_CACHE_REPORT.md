@@ -1,8 +1,8 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Cached in this run: **0**
+- Staged browser photos converted: **1**
+- Local images retained/reorganized: **1**
 - Cleared stale/quarantined local image references: **1**
 - Download failures: **0**
 - Remaining tracker photo backlog: **157**
@@ -14,9 +14,5 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- MadeByMike - Fuzzy Beetle -> `./assets/pedals/madebymike/fuzzy-beetle/primary.webp`
 
 All pictured pedal images are locally cached.
