@@ -152,6 +152,11 @@ def main():
     queue = load_csv(QUEUE)
     direct_overrides = load_csv(DIRECT_OVERRIDES) if DIRECT_OVERRIDES.exists() else []
     manual_review = load_csv(MANUAL_REVIEW) if MANUAL_REVIEW.exists() else []
+    manual_verified_keys = {
+        key(row.get("Builder"), row.get("Pedal"))
+        for row in manual_review
+        if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
+    }
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
 
@@ -203,7 +208,7 @@ def main():
             if manifest_image != image:
                 raise SystemExit(f"Catalog/manifest image mismatch: {k} -> {image} vs {manifest_image}")
             red_flags = suspicious_photo_provenance(manifest_entry, entry)
-            if k in hash_quarantine:
+            if k in hash_quarantine and k not in manual_verified_keys:
                 red_flags.append("byte-identical photo quarantine")
             quarantine_urls = identity_quarantine.get(k, set())
             if quarantine_urls:
