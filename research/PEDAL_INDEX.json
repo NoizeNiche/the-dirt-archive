@@ -25946,7 +25946,8 @@
       "image_source_page": "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 502
+      "image_source_priority": 502,
+      "image_source_url": "https://static.reverb-assets.com/production-assets/webpack/images/shop-brand-default-c1f7bfd8c82677bc.png"
     },
     {
       "company": "Collateral FX",
@@ -32746,7 +32747,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1052,
-      "image": "",
+      "image": "./assets/pedals/devi-ever-fx/fuzz/primary.webp",
       "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_fuzz_001.jpg"
     },
     {
@@ -37009,14 +37010,15 @@
         "https://www.perfectcircuit.com/fjord-fuzz-odin.html",
         "https://reverb.com/p/fjord-fuzz-odin"
       ],
-      "image_source_page": "https://reverb.com/p/fjord-fuzz-odin",
+      "image_source_page": "https://fjordfuzz.no/odin-iii/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--0l23tQbo--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qugfifrwpx3fddpsarwn.jpg",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-w6039eds2s/images/stencil/600w/products/145/665/ODIN_big__20093.1779453831.png?c=1",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--0l23tQbo--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qugfifrwpx3fddpsarwn.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/fjord-fuzz/odin/primary.webp"
     },
     {
       "company": "Fjord Fuzz",
@@ -39298,7 +39300,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.ibanez.com/world/support/manual/",
-      "image_source_url": "https://www.ibanez.com/images/support/support_bg.jpg"
+      "image_source_url": "https://www.ibanez.com/images/support/support_bg.jpg",
+      "image": "./assets/pedals/ibanez/ts7/primary.webp"
     },
     {
       "company": "Ibanez",
@@ -42739,8 +42742,8 @@
       "research_record": "./research/pedals/Leqtique/10/10 XXJ EVR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://tcgakki.com/en/products/leqtique-evr-10-10-xxj-evrnew-1",
-      "image_source_url": "https://tcgakki.com/cdn/shop/files/mainlogo_140x@2x.png?v=1725942071"
+      "image_source_page": "https://leqtique.ch/en/products/10-10-xxj-evr",
+      "image_source_url": "https://cdn.shopify.com/s/files/1/0022/5850/1693/files/1864.jpg?v=1739536452"
     },
     {
       "company": "Leqtique",
@@ -44517,7 +44520,8 @@
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/pedals-870-and-871-the-scream-box-is-a-custom-dual-drive-pedal-the-dream-box-wit/1410415319021706/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -44529,7 +44533,8 @@
       "research_record": "./research/pedals/MadeByMike/Fuzzy Beetle.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/you-wait-ages-for-a-new-pedal-and-then-two-come-along-at-once-the-fuzzy-beetle-h/1779679125428655/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -44555,7 +44560,8 @@
       "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/"
+      "image_source_page": "https://www.facebook.com/MadeByMikePedals/posts/custom-shop-ratmuff-drive-left-switch-chooses-the-drive-side-and-associated-led-/1580367945359775/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "MadeByMike",
@@ -44937,7 +44943,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://pedalfilter.com/mask-audio-electronics/part-garden-ge",
-      "image_source_url": "https://images.pedalfilter.com/maskaudioelectronics-partgardenge.png"
+      "image_source_url": "https://images.pedalfilter.com/maskaudioelectronics-partgardenge.png",
+      "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp"
     },
     {
       "company": "Mask Audio Electronics",
@@ -46081,10 +46088,11 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--rwMbuOdc--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/n5mmwlyoxdasny7pazlu.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--0oYkVUNd--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/cp7er32tcmgmpykeejzh.png",
       "image_source_urls": [
         "https://rvb-img.reverb.com/i/s--rwMbuOdc--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/n5mmwlyoxdasny7pazlu.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/maxon-nisshin-onpa/rod881-real-overdrive-distortion/primary.webp"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -50095,8 +50103,8 @@
       "research_record": "./research/pedals/Origin Effects/M-EQ Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/origin-effects-m-eq-driver-mid-booster-and-drive-pedal",
-      "image_source_url": "https://images.equipboard.com/uploads/item/image/110799/origin-effects-m-eq-driver-mid-booster-and-drive-pedal-xl.webp?v=1790660658"
+      "image_source_page": "https://origineffects.com/product/meqdriver/",
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image.jpg"
     },
     {
       "company": "Origin Effects",
@@ -51032,7 +51040,8 @@
       "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/"
+      "image_source_page": "https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/",
+      "image_source_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-9/70760262_2400318370075105_8135603455256428544_n.png?stp=dst-jpg_tt6&cstp=mx816x608&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TSsz4XJBOr4Q7kNvwEiwyW_&_nc_oc=AdpyEoigKEgZyEcrzQS6kCUvX063qUJP0l-oV80xLmXdlhbvRw1OLE7kW7q0QhGQcTU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Mf_iV0Zf2OU7VLEBiM1iqg&_nc_ss=7b289&oh=00_AQPYd8xLpfyK5yZmg1UCRdh4HxbtBEUksSKcz0dU76m8og&oe=6AE30110"
     },
     {
       "company": "Phaez Amplification",
@@ -52068,7 +52077,8 @@
       "research_record": "./research/pedals/Roger Mayer/Mongoose.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/roger-mayer-mongoose"
+      "image_source_page": "https://equipboard.com/items/roger-mayer-mongoose",
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/65989/roger-mayer-mongoose-xl.webp?v=1771157399"
     },
     {
       "company": "Roger Mayer",
@@ -52141,7 +52151,8 @@
       "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.facebook.com/SBGOeffects/posts/the-new-postapocaliptic-finish-for-the-last-version-of-our-dark-bass-anger-disto/2071625202887171/"
+      "image_source_page": "https://www.facebook.com/SBGOeffects/posts/the-new-postapocaliptic-finish-for-the-last-version-of-our-dark-bass-anger-disto/2071625202887171/",
+      "image_source_url": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp"
     },
     {
       "company": "SBGO Effects",
@@ -53302,7 +53313,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://coastsonic.com/products/stomp-under-foot-x-coast-sonic-the-astoria",
-      "image_source_url": "https://coastsonic.com/cdn/shop/products/stomp_under_foot_astoria.jpg?v=1564103085&width=65"
+      "image_source_url": "https://coastsonic.com/cdn/shop/files/website_header_logo.jpg?v=1707249579&width=270"
     },
     {
       "company": "Stomp Under Foot",
