@@ -1,39 +1,34 @@
-# JHS Pedals — Notadumble V2
+# JHS Pedals — Notadümb̈le V2
 
 ## PRP identity
-- **Archive parent:** Notadumble V2
+- **Archive parent:** Notadümb̈le V2
 - **Builder:** JHS Pedals
 - **Catalog type:** Overdrive
-- **Identity:** JHS Pedals's Notadumble V2.
+- **Identity:** Legacy filename variant for JHS Pedals's Notadümblë V2.
 
 ## What this pedal is
-$0.00 USD style="display:block;"> NOTADUMBLE V2 $119.00 USD Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom Zoom NOTADUMBLE V2 $119.00 USD − { $dispatch('change'); }) " > + Item is in stock Add to Cart ***This product is excluded from WELCOME15 and SMS discounts.
-
-## Colorways
-- No specific factory colorway information was established in the verified evidence packet.
+This file preserves an older spelling of the same Notadümblë V2 catalog identity. It should not be interpreted as a separate JHS circuit merely because the filename uses a different Unicode spelling.
 
 ## Versions and factory options
-- The verified evidence references: V1, V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- V2 product identity.
+- The historical V1 boost-circuit issue is documented separately from V2.
 
 ## Version changes
-- No specific factory version changes were established in the verified evidence packet.
+- V1 and V2 are distinct documented versions of the Notadümblë family.
+- This filename is an archive spelling alias, not a separate production model.
 
 ## Transistor
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- Exact production semiconductor details were not established.
 
 ## Diode
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- Exact clipping/rectifier diode information was not established.
 
 ## Sound
-The V1 accidentally had the wrong boost circuit.
-The first was the A Box Later, a device Howard Dumble built sometime in the 1980s as a buffer preamp boost with a built-in effects loop.
-The second unit was the Dumble BBC-1, a far more obscure preamp boost.
+The Notadümblë V2 provides Dumble-style preamp/boost coloration and overdrive behavior. More detailed component claims are intentionally omitted without stronger version-specific documentation.
 
 ## Sources checked
-1. NOTADÜMBLË V2 &ndash; JHS Pedals: https://jhspedals.info/products/notadumble-v2
+1. JHS Pedals - Notadümblë V2: https://jhspedals.info/products/notadumble-v2
+2. Effects Database - Notadümblë V2: https://www.effectsdatabase.com/model/jhspedals/notadumble/v2
 
 ## Photo
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
