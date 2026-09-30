@@ -88,7 +88,7 @@ jobs:
           PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
           PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "8"
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
-        run: timeout 900s node scripts/browser-photo-cache.mjs
+        run: timeout --kill-after=30s 900s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
         run: python scripts/reset-photo-recovery-targets.py
