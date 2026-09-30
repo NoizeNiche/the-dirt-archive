@@ -2991,7 +2991,19 @@ function imageBytesLookComplete(bytes, contentType = '') {
       if (!candidate?.rawVerifiedPageImage || !candidate.url) return null;
       const normalizedUrl = String(candidate.url || '');
       if (isLikelyNonPedalAssetUrl(normalizedUrl)) return null;
-      if (!/(?:\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$|\/gear\/(?:pics|thumbs)\/)/i.test(normalizedUrl)) return null;
+      let parsedUrl = null;
+      try { parsedUrl = new URL(normalizedUrl); } catch { return null; }
+      const conventionalImage = /(?:\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$|\/gear\/(?:pics|thumbs)\/)/i.test(normalizedUrl);
+      const knownImageHost =
+        /(?:^|\.)static\.wixstatic\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)rvb-img\.reverb\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)i\.ebayimg\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)images\.squarespace-cdn\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)cdn\.shopify\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)shopifycdn\.com$/i.test(parsedUrl.hostname) ||
+        /(?:^|\.)cloudinary\.com$/i.test(parsedUrl.hostname);
+      const imagePathHint = /\/(?:media|image|images|upload|uploads|files|product|products|pedal|pedals|photo|photos|gallery|cdn)\//i.test(parsedUrl.pathname);
+      if (!conventionalImage && !knownImageHost && !imagePathHint) return null;
       try {
         const capture = await page.evaluate(async src => {
           document.querySelector('[data-dirt-archive-raw-capture="1"]')?.remove();
