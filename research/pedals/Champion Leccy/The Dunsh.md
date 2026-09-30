@@ -726,3 +726,30 @@ The ONLY thing I would like to see is a slightly smoother break up as the gain i
 3. The Dunsh by Champion Leccy | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Champion-Leccy/The-Dunsh/581226470/
 4. Champion Leccy The Dunsh Gain Stage/Distortion Effect Pedal Grey | Effect Pedal | fretparts.com: https://www.fretparts.com/product/champion-leccy-the-dunsh-gain-stage-distortion-effect-pedal-grey/
 5. The Dunsh — CHAMPION LECCY | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/champion-leccy-the-dunsh
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+by Paolo De Gregorio The Champion Leccy The Dunsh is a new release by the British via Philly builder that started as a modification made to one section of the company’s own Gett and the Bloody Gett fuzzes, two Black Russian Big Muff variants.
+
+### Verified color/finish evidence
+- Additional information finish Yellow, Grey (limited run), Sherbet pink, BLEM (yellow) 1 review for The Dunsh Rated 5 out of 5 Jason – January 18, 2024 Ive got a few fuzzes in collection.
+- by Paolo De Gregorio The Champion Leccy The Dunsh is a new release by the British via Philly builder that started as a modification made to one section of the company’s own Gett and the Bloody Gett fuzzes, two Black Russian Big Muff variants.
+- The Dunsh is a little bit like the secret special weapon in this pedal: highlighted by a red knob, it’s triggered by the left footswitch and unleashes that devastatingly fat fuzziness described above.
+
+### Verified version references
+- The evidence references: V3.
+
+### Verified sound evidence
+I’ve noticed a few pedals that came out of the pandemic were noisy even at low gain, low level settings...
+It has a pre-gain eq, so it really interacts with the sounds in more textural ways.
+The ONLY thing I would like to see is a slightly smoother break up as the gain is pulled back; where as the note decays, the crumble does too.
+
+### Sources checked in this pass
+1. The Dunsh – Champion Leccy: https://championleccy.com/product/the-dunsh/
+2. Champion Leccy The Dunsh Distortion/Fuzz | Delicious Audio: https://delicious-audio.com/champion-leccy-the-dunsh/
+3. The Dunsh by Champion Leccy | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Champion-Leccy/The-Dunsh/581226470/
+4. Champion Leccy The Dunsh Gain Stage/Distortion Effect Pedal Grey | Effect Pedal | fretparts.com: https://www.fretparts.com/product/champion-leccy-the-dunsh-gain-stage-distortion-effect-pedal-grey/
+5. The Dunsh — CHAMPION LECCY | Specs, Review, Onde Comprar | Pedalboard Designer: https://pedalboarddesigner.com/pedals/champion-leccy-the-dunsh
