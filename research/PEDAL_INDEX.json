@@ -4602,7 +4602,13 @@
       "research_record": "./research/pedals/ARC Effects/Klone V2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.arceffects.com/klone-v2"
+      "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone/v2",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/arceffects/klone/v2"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1497
     },
     {
       "company": "ARC Effects",
@@ -4614,7 +4620,13 @@
       "research_record": "./research/pedals/ARC Effects/Shepherd.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.arceffects.com/shepherd/"
+      "image_source_page": "https://www.arceffects.com/shepherd/",
+      "image_source_pages": [
+        "https://www.arceffects.com/shepherd/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "ARC Effects",
@@ -6909,7 +6921,13 @@
       "research_record": "./research/pedals/Bad Penny FX/Dluxe Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_page": "https://reverb.com/en-nl/item/95603125-bad-penny-fx-dluxe-drive-guitar-pedal",
+      "image_source_pages": [
+        "https://reverb.com/en-nl/item/95603125-bad-penny-fx-dluxe-drive-guitar-pedal"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1499
     },
     {
       "company": "Bad Penny FX",
@@ -7367,8 +7385,14 @@
       "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/bae",
-      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required."
+      "image_source_page": "https://www.effectsdatabase.com/model/bae/tonestack",
+      "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/bae/tonestack"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1500
     },
     {
       "company": "Baja Tech Custom",
@@ -12201,7 +12225,13 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
+      "image_source_page": "https://www.effectsdatabase.com/model/bjfe/fuzz/arcticwhite",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/bjfe/fuzz/arcticwhite"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1501
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12233,7 +12263,13 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
+      "image_source_page": "https://www.effectsdatabase.com/model/bjfe/bbod",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/bjfe/bbod"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1502
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12312,7 +12348,15 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger II.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
+      "image_source_page": "https://www.bjfe.jp/en/products/bjfecliffhanger",
+      "image_source_pages": [
+        "https://www.bjfe.jp/en/products/bjfecliffhanger"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1505,
+      "image": "./assets/pedals/bjfe-bjf-electronics/cliff-hanger-ii/primary.webp",
+      "image_source_url": "https://www.bjfe.jp/cdn/shop/files/Cliff-Hanger-II-01.png?v=1699944177"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12581,7 +12625,13 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
+      "image_source_page": "https://reverb.com/p/bjfe-snow-white-fuzz-4-knob",
+      "image_source_pages": [
+        "https://reverb.com/p/bjfe-snow-white-fuzz-4-knob"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1506
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -12593,7 +12643,15 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
+      "image_source_page": "https://www.bjfe.jp/en/products/bjfesrf",
+      "image_source_pages": [
+        "https://www.bjfe.jp/en/products/bjfesrf"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1507,
+      "image": "./assets/pedals/bjfe-bjf-electronics/sparkling-red-fuzz/primary.webp",
+      "image_source_url": "https://www.bjfe.jp/cdn/shop/products/imgrc0079516767.jpg?v=1598426191"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -23082,10 +23140,10 @@
         "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/",
         "https://www.guitarpedalx.com/news/gpx-blog/best-of-polish-guitar-pedals-and-pedal-builders"
       ],
-      "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/best-of-polish-guitar-pedals-and-pedal-builders",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1419
+      "image_source_priority": 50000
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -25969,12 +26027,13 @@
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
         "https://reverb.com/item/96172740-collateral-fx-zeugma-zonk-fuzz-2026-hammered-blue-aqua",
-        "https://collateralfx.com/br/"
+        "https://collateralfx.com/br/",
+        "https://collateralfx.com/br/pedais/"
       ],
-      "image_source_page": "https://collateralfx.com/br/",
+      "image_source_page": "https://collateralfx.com/br/pedais/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1418
+      "image_source_priority": 1472
     },
     {
       "company": "Collateral FX",
@@ -31614,7 +31673,15 @@
       "research_record": "./research/pedals/Darkglass Electronics/Alpha-Omega Photon.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/alphaomegaphoton"
+      "image_source_page": "https://www.darkglass.com/products/alpha-omega-%CF%86oton",
+      "image_source_pages": [
+        "https://www.darkglass.com/products/alpha-omega-%CF%86oton"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000,
+      "image": "./assets/pedals/darkglass-electronics/alpha-omega-photon/primary.webp",
+      "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Alpha-Omega-Photon-Video-Thumbnail.jpg?v=1745264704"
     },
     {
       "company": "Darkglass Electronics",
@@ -31693,13 +31760,14 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://thedarkglass.shop/products/b1k",
+      "image_source_page": "https://www.darkglass.com/en-eu/products/b1k",
       "image_source_pages": [
-        "https://thedarkglass.shop/products/b1k"
+        "https://thedarkglass.shop/products/b1k",
+        "https://www.darkglass.com/en-eu/products/b1k"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1443
+      "image_source_priority": 50000
     },
     {
       "company": "Darkglass Electronics",
@@ -36343,7 +36411,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Bass Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/0xeae-bass",
+      "image_source_pages": [
+        "https://www.electronicaudioexperiments.com/legacy/0xeae-bass"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1483
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36355,7 +36429,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/0xEAE Boost.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/0xeae-boost",
+      "image_source_pages": [
+        "https://www.electronicaudioexperiments.com/legacy/0xeae-boost"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1484
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36398,13 +36478,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/dagger"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1422
+      "image_source_priority": 1489
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36431,7 +36511,13 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Eldritch Blast.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://www.electronicaudioexperiments.com/legacy",
+      "image_source_pages": [
+        "https://www.electronicaudioexperiments.com/legacy/eldritch-blast"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1485
     },
     {
       "company": "Electronic Audio Experiments",
@@ -37967,7 +38053,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/420 Fuzz v2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=420-fuzz-v2",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=420-fuzz-v2"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1475
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38041,7 +38133,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cicada Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=cicada-fuzz",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=cicada-fuzz"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1476
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38053,7 +38151,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=dark-driving",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=dark-driving"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1477
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38095,7 +38199,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1478
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38107,7 +38217,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Greyfly.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=greyfly",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=greyfly"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1479
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38119,7 +38235,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/K-A-E-D-E-N Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=kaedendrive",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=kaedendrive"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1480
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38131,7 +38253,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Li'l Fella.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=lil-fella",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=lil-fella"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1481
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38187,7 +38315,13 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Ram the Manparts.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=retired"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=rtm",
+      "image_source_pages": [
+        "https://fuzzrociouspedals.com/?product=rtm"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1482
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -51687,7 +51821,13 @@
       "research_record": "./research/pedals/Prescription Electronics/Yardbox.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.premierguitar.com/gear/prescription-electronics-yardbox-review"
+      "image_source_page": "https://www.effectsdatabase.com/model/prescription/yardbox",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/prescription/yardbox"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1491
     },
     {
       "company": "ProCo Sound",
@@ -52002,7 +52142,13 @@
       "research_record": "./research/pedals/Radial Tonebone/Plexitube.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.tonebox.com/pedal/radial-tonebone-plexitube"
+      "image_source_page": "https://www.radialeng.com/product/plexitube",
+      "image_source_pages": [
+        "https://www.radialeng.com/product/plexitube"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1462
     },
     {
       "company": "Radial Tonebone",
@@ -52039,7 +52185,13 @@
       "research_record": "./research/pedals/Radial Tonebone/Trimode.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarcenter.com/Radial-Engineering/Tonebone-TriMode-Distortion-Pedal.gc"
+      "image_source_page": "https://www.radialeng.com/product/trimode",
+      "image_source_pages": [
+        "https://www.radialeng.com/product/trimode"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1463
     },
     {
       "company": "Rainger FX",
@@ -52089,7 +52241,13 @@
       "research_record": "./research/pedals/Ramble FX/Twin Bender.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarchalk.com/ramble-fx-twin-bender-review/"
+      "image_source_page": "https://reverb.com/p/ramble-fx-twin-bender-v3",
+      "image_source_pages": [
+        "https://reverb.com/p/ramble-fx-twin-bender-v3"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1465
     },
     {
       "company": "Ratin Pedals",
@@ -52317,7 +52475,13 @@
       "research_record": "./research/pedals/Roger Mayer/Mongoose.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/roger-mayer-mongoose"
+      "image_source_page": "https://www.effectsdatabase.com/model/rogermayer/rocket/mongoose",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/rogermayer/rocket/mongoose"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1492
     },
     {
       "company": "Roger Mayer",
@@ -52581,7 +52745,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Sinvertek/N5+ Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/sinvertek/n5/plus"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/sinvertek/n5/plus",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1488
     },
     {
       "company": "Sitek Guitar Electronics",
@@ -53586,7 +53757,13 @@
       "research_record": "./research/pedals/Stomp Under Foot/Black Russian.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.masterguitarworks.com/products/stomp-under-foot-black-russian/"
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Black-Russian/68984641/",
+      "image_source_pages": [
+        "https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Black-Russian/68984641/"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Stomp Under Foot",
@@ -54003,7 +54180,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/The Shag MkII.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/stompunderfoot/shag/mk2"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/shag/mk2",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Stomp Under Foot",
@@ -54258,7 +54442,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Strymon/Canoga Vintage Silicon Fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.strymon.net/product/canoga/"
+      ],
+      "image_source_page": "https://www.strymon.net/product/canoga/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 50000
     },
     {
       "company": "Strymon",
@@ -54362,7 +54553,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Liquid Sunshine.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://subdecay.com/liquid-sunshine-overdrive"
+      ],
+      "image_source_page": "https://subdecay.com/liquid-sunshine-overdrive",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1461
     },
     {
       "company": "Subdecay",
@@ -54934,7 +55132,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.tech21nyc.com/archive/omg/"
+      ],
+      "image_source_page": "https://www.tech21nyc.com/archive/omg/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1464
     },
     {
       "company": "Tech 21 NYC",
@@ -55797,7 +56002,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Universal Amplifier Corp/Astrotone.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://fuzzboxes.org/features/astrotone"
+      ],
+      "image_source_page": "https://fuzzboxes.org/features/astrotone",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1470
     },
     {
       "company": "Universal Amplifier Corp",
@@ -55964,7 +56176,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.mikigakki.com/shop/g/gJan-Ray-TF/"
+      ],
+      "image_source_page": "https://www.mikigakki.com/shop/g/gJan-Ray-TF/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1466
     },
     {
       "company": "Vemuram",
@@ -56011,7 +56230,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Las Lunas.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://reverb.com/item/100075756-vemuram-las-lunas-distortion-pedal-authorized-dealer"
+      ],
+      "image_source_page": "https://reverb.com/item/100075756-vemuram-las-lunas-distortion-pedal-authorized-dealer",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1467
     },
     {
       "company": "Vemuram",
@@ -56072,7 +56298,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Vemuram/Myriad Fuzz — fuzz.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://reverb.com/item/94555497-vemuram-myriad-fuzz-2026-brass"
+      ],
+      "image_source_page": "https://reverb.com/item/94555497-vemuram-myriad-fuzz-2026-brass",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1468
     },
     {
       "company": "Vemuram",
@@ -56741,7 +56974,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/visualsound/garagetone/drivetrain"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/visualsound/garagetone/drivetrain",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1469
     },
     {
       "company": "Visual Sound / Truetone",
@@ -57008,7 +57248,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VOX/Big Ben Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/vox/cooltron/ct02"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/vox/cooltron/ct02",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1493
     },
     {
       "company": "VOX",
@@ -57093,7 +57340,14 @@
       "source_page": null,
       "research_record": "./research/pedals/VOX/Ice 9 Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/vox/satriani/ice9"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/vox/satriani/ice9",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1494
     },
     {
       "company": "VOX",
@@ -57398,7 +57652,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.walrusaudio.com/products/eras-five-state-distortion"
+      ],
+      "image_source_page": "https://www.walrusaudio.com/products/eras-five-state-distortion",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1487
     },
     {
       "company": "Walrus Audio",
@@ -58357,9 +58618,15 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Camel Toe MkII.md",
-      "image_source_page": "https://reverb.com/item/93966981-way-huge-whe209-camel-toe-mkii-triple-overdrive",
+      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe209",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe209"
+      ],
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1495
     },
     {
       "company": "Way Huge",
@@ -58674,7 +58941,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Smalls Pork & Pickle.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.effectsdatabase.com/model/wayhuge/dunlop/smalls/wm91"
+      ],
+      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/smalls/wm91",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1496
     },
     {
       "company": "Way Huge",
@@ -58968,7 +59242,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Eye See '78.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.wrenandcuff.com/products/eye-see-78"
+      ],
+      "image_source_page": "https://www.wrenandcuff.com/products/eye-see-78",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1473
     },
     {
       "company": "Wren and Cuff",
@@ -59041,7 +59322,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Wren and Cuff/Hangman-2D.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://www.wrenandcuff.com/products/hangman-2d"
+      ],
+      "image_source_page": "https://www.wrenandcuff.com/products/hangman-2d",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1474
     },
     {
       "company": "Wren and Cuff",
@@ -59297,12 +59585,13 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre"
+        "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre",
+        "https://xotic.us/effects/bass-bb-v1-5/"
       ],
-      "image_source_page": "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre",
+      "image_source_page": "https://xotic.us/effects/bass-bb-v1-5/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1457
+      "image_source_priority": 1490
     },
     {
       "company": "Xotic Effects",
@@ -59313,7 +59602,14 @@
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_pages": [
+        "https://xotic.us/effects/bass-bb-v1-5/"
+      ],
+      "image_source_page": "https://xotic.us/effects/bass-bb-v1-5/",
+      "image_source_pages_verified": true,
+      "image_source_page_verified": true,
+      "image_source_priority": 1486
     },
     {
       "company": "Xotic Effects",
