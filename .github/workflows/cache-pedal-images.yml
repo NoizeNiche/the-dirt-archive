@@ -22,7 +22,7 @@ concurrency:
   group: dirt-photo-publishing-v1
   # Prefer the newest cache snapshot so verified photo recovery is not trapped
   # behind obsolete queued image-cache runs.
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   cache:
