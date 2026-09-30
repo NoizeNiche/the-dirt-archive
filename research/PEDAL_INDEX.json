@@ -1140,13 +1140,12 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/acoustic-imaginearing/quantumdrive/primary.webp",
+      "image": null,
       "source_page": "https://www.acousticimaginearing.com/",
       "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
       "image_source_page": "https://acousticimaginearing.com/",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED",
-      "image_source_url": "https://acousticimaginearing.com/images/ssthumb.jpg"
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AD Pedals",
@@ -4605,13 +4604,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.arceffects.com/shepherd/",
-      "image_source_pages": [
-        "https://www.arceffects.com/shepherd/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image": "./assets/pedals/arc-effects/shepherd/primary.webp"
+      "image": null
     },
     {
       "company": "ARC Effects",
@@ -13565,13 +13559,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/black-mass-electronics/the-first-herald/primary.webp",
+      "image": null,
       "source_page": "https://blackmasselectronics.com/collections/fuzz",
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald",
-      "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982"
+      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald"
     },
     {
       "company": "Black Mass Electronics",
@@ -15398,13 +15391,8 @@
       "image_source_page": "https://www.boss.info/global/products/bd-2/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.boss.info/global/products/bd-2/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1558,
-      "image": "./assets/pedals/boss/bd-2-blues-driver/primary.webp"
+      "image": null
     },
     {
       "company": "BOSS",
@@ -15626,14 +15614,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.boss.info/us/products/hm-2w/",
-      "image_source_pages": [
-        "https://www.boss.info/global/boss-50th-anniversary/",
-        "https://www.boss.info/us/products/hm-2w/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1532,
-      "image": "./assets/pedals/boss/hm-2-heavy-metal/primary.webp"
+      "image": null
     },
     {
       "company": "BOSS",
@@ -15674,15 +15656,8 @@
       "image_source_page": "https://www.boss.info/global/support/by_product/jb-2/product_images/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.boss.info/us/products/jb-2/",
-        "https://www.boss.info/global/support/by_product/jb-2/product_images/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1525,
-      "image": "./assets/pedals/boss/jb-2-angry-driver/primary.webp",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_nextone_special.png"
+      "image": null
     },
     {
       "company": "BOSS",
@@ -16926,14 +16901,8 @@
       "image_source_page": "https://www.chicagomusicexchange.com/products/browne-amplification-atom-nashville-drive-overdrive-1677355",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://browneamps.com/press-releases",
-        "https://www.chicagomusicexchange.com/products/browne-amplification-atom-nashville-drive-overdrive-1677355"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image": "./assets/pedals/browne-amplification/atom-nashville-drive/primary.webp"
+      "image": null
     },
     {
       "company": "Browne Amplification",
@@ -35614,14 +35583,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1526,
-      "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
-      "image_source_pages": [
-        "https://www.earthquakerdevices.com/legacy",
-        "https://www.earthquakerdevices.com/hoof-reaper"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1550516974624-Z9PVGQM4C8Y12MB90S9H/Hoof-Reaper-Double-Fuzz.jpg?format=750w"
+      "image": null
     },
     {
       "company": "EarthQuaker Devices",
@@ -36778,12 +36740,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/electronic-audio-experiments/citadel/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1b9966c7-e8f8-410e-8238-91c74681bfda/EAE+Web+Banner+Logo+Transparent.png?format=750w",
       "image_source_page": "https://www.electronicaudioexperiments.com/pedals/citadel"
     },
     {
@@ -38429,13 +38390,12 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/fuzzrocious-pedals/blast-furnace/primary.webp",
+      "image": null,
       "source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Blast Furnace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2017/01/blastfurnace_site-100x100.jpg"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38547,14 +38507,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic",
-      "image_source_pages": [
-        "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image": "./assets/pedals/fuzzrocious-pedals/grey-stache-heliotropic/primary.webp",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2026/02/Guitar_Demo_collector_emitter-100x100.jpg"
+      "image": null
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -40897,15 +40851,9 @@
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
-      "image_source_pages": [
-        "https://jackson.audio/products/golden-boy-mini"
-      ],
+      "image": null,
       "image_source_page": "https://jackson.audio/products/golden-boy-mini",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_priority": 1527,
-      "image_source_url": "https://jackson.audio/cdn/shop/products/GoldAnglenobackground.png?v=1686858667&width=2"
+      "image_source_priority": 1527
     },
     {
       "company": "Jackson Audio",
@@ -45650,12 +45598,11 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/mask-audio-electronics/germanium-part-garden/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/PGGE_09_160x160.jpg?v=1687617003",
       "image_source_page": "https://maskaudioelectronics.com/products/ge-part-garden"
     },
     {
@@ -50516,7 +50463,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",
@@ -53929,14 +53876,7 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://solidgoldfx.com/products/imperial-mkii",
       "image_source_priority": 1529,
-      "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
-      "image_source_pages": [
-        "https://reverb.com/p/solidgoldfx-imperial-mkii",
-        "https://solidgoldfx.com/collections/the-collection/products/imperial-mkii"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_10x10.jpg?v=1681406902"
+      "image": null
     },
     {
       "company": "SolidGoldFX",
@@ -55029,12 +54969,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://subdecay.com/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif",
       "image_source_page": "https://subdecay.com/blackstar-ultimate-overdrive"
     },
     {
@@ -60069,12 +60008,11 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/xotic-effects/ac-booster-v2-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://xotic.us/effects/acbv2/img/trebbass.png",
       "image_source_page": "https://xotic.us/effects/acbv2/"
     },
     {

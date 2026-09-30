@@ -72,7 +72,7 @@ Acorn Amps,Mind Killer Dual Distortion,Distortion,DONE,DONE,DONE,./research/peda
 Acorn Amps,Solid State Amp/Preamp,Distortion,DONE,DONE,DONE,./research/pedals/Acorn Amps/Solid State Amp-Preamp.md
 Acorn Amps,TMA-1 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Acorn Amps/TMA-1 Fuzz.md
 Acorn Amps,Vegeta Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Acorn Amps/Vegeta Drive.md
-Acoustic Imaginearing,QuantumDrive,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Acoustic Imaginearing/QuantumDrive.md
+Acoustic Imaginearing,QuantumDrive,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Acoustic Imaginearing/QuantumDrive.md
 AD Pedals,Aerodynamic overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/AD Pedals/Aerodynamic overdrive.md
 ADA Amps,MP-1 Channel,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/ADA Amps/MP-1 Channel.md
 Add+ Pedals,Blues Player,Overdrive,DONE,DONE,DONE,./research/pedals/Add+ Pedals/Blues Player.md
@@ -840,7 +840,7 @@ Boot-Leg Hand Made Effects,RRP-2.0 Rock'n Roll Party,Distortion / Overdrive,DONE
 Bootlegger Guitar,Shifty's 8 Ball Boost Drive Analog 12AT7,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Shifty's 8 Ball Boost Drive Analog 12AT7.md
 Bootlegger Guitar,Tube Shooter Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md
 Bootlegger Guitar,Zapped Up Yours Analog Tube Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Zapped Up Yours Analog Tube Distortion.md
-BOSS,BD-2 Blues Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/BD-2 Blues Driver.md
+BOSS,BD-2 Blues Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 109/BD-2 Blues Driver.md
 BOSS,BD-2W Blues Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 110/BD-2W Blues Driver.md
 BOSS,DS-1 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1 Distortion.md
 BOSS,DS-1W Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1W Distortion.md
@@ -849,7 +849,7 @@ BOSS,DS-2 TURBO Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch
 BOSS,FZ-1W Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 110/FZ-1W Fuzz.md
 BOSS,FZ-5 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 110/FZ-5 Fuzz.md
 BOSS,HM-2W Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/HM-2W Heavy Metal.md
-BOSS,JB-2 Angry Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 110/JB-2 Angry Driver.md
+BOSS,JB-2 Angry Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 110/JB-2 Angry Driver.md
 BOSS,MD-2 Mega Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/MD-2 Mega Distortion.md
 BOSS,ML-2 Metal Core,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 111/ML-2 Metal Core.md
 BOSS,MT-2 Metal Zone,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 111/MT-2 Metal Zone.md
@@ -918,7 +918,7 @@ Broughton Audio,Sunray,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/
 Broughton Audio,SV-Pre,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/broughton-audio-sv-pre.md
 Broughton Audio,Terraformer,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/broughton-audio-terraformer.md
 Browne Amplification,Alkene - Nashville Drive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md
-Browne Amplification,Atom - Nashville Drive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md
+Browne Amplification,Atom - Nashville Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md
 Browne Amplification,Carbon X Dual Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-carbon-x-dual-overdrive.md
 Browne Amplification,Ethane Dual Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 121/browne-amplification-ethane-dual-overdrive.md
 Browne Amplification,Gritador Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 121/browne-amplification-gritador-overdrive.md
@@ -2144,7 +2144,7 @@ EarthQuaker Devices,Hizumitas,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker 
 EarthQuaker Devices,Hizumitas — Fuzz Sustainar,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Hizumitas — Fuzz Sustainar.md
 EarthQuaker Devices,Hoof,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Hoof.md
 EarthQuaker Devices,Hoof — Hybrid Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Hoof — Hybrid Fuzz.md
-EarthQuaker Devices,Hoof Reaper,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Hoof Reaper.md
+EarthQuaker Devices,Hoof Reaper,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Hoof Reaper.md
 EarthQuaker Devices,Hoof Reaper — Double Fuzz with Octave Up,Fuzz,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Hoof Reaper — Double Fuzz with Octave Up.md
 EarthQuaker Devices,Monarch,Overdrive,DONE,DONE,DONE,./research/pedals/EarthQuaker Devices/Monarch.md
 EarthQuaker Devices,Palisades,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/EarthQuaker Devices/Palisades.md
@@ -2230,7 +2230,7 @@ Electro-Harmonix,Sovtek Deluxe Big Muff Pi,Fuzz,DONE,DONE,DONE,./research/pedals
 Electro-Harmonix,Spruce Goose,Overdrive,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Spruce Goose.md
 Electro-Harmonix,Triangle Big Muff Pi,Fuzz,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Triangle Big Muff Pi.md
 Electro-Harmonix,Tube Zipper,Overdrive,DONE,DONE,DONE,./research/pedals/Electro-Harmonix/Tube Zipper.md
-Electronic Audio Experiments,Citadel,Overdrive,DONE,DONE,DONE,./research/pedals/Electronic Audio Experiments/Citadel.md
+Electronic Audio Experiments,Citadel,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Electronic Audio Experiments/Citadel.md
 Electronic Audio Experiments,Glaive,Fuzz,DONE,DONE,DONE,./research/pedals/Electronic Audio Experiments/Glaive.md
 Electronic Audio Experiments,Greathammer,Overdrive,DONE,DONE,DONE,./research/pedals/Electronic Audio Experiments/Greathammer.md
 Electronic Audio Experiments,Halberd,Overdrive,DONE,DONE,DONE,./research/pedals/Electronic Audio Experiments/Halberd.md
@@ -2483,7 +2483,7 @@ Jackson Audio,BROKEN ARROW V2 - MIDI,Overdrive,DONE,DONE,DONE,./research/pedals/
 Jackson Audio,Classic Vintage Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Jackson Audio/Classic Vintage Fuzz.md
 Jackson Audio,FUZZ - Modular Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Jackson Audio/FUZZ - Modular Fuzz.md
 Jackson Audio,Goat Head,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Jackson Audio/Goat Head.md
-Jackson Audio,Golden Boy Mini Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md
+Jackson Audio,Golden Boy Mini Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md
 Jackson Audio,Golden Boy Transparent Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md
 Jackson Audio,Modern Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/Jackson Audio/Modern Fuzz.md
 Jackson Audio,Modern Fuzz Deluxe,Fuzz,DONE,DONE,DONE,./research/pedals/Jackson Audio/Modern Fuzz Deluxe.md
@@ -2762,7 +2762,7 @@ Mask Audio Electronics,CASCADER,Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio
 Mask Audio Electronics,CIVIL MATH,Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/CIVIL MATH.md
 Mask Audio Electronics,CLUBBER LANG,Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/CLUBBER LANG.md
 Mask Audio Electronics,Ears Come To Die (historical limited-edition Fuzz Lab),Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/Ears Come To Die (historical limited-edition Fuzz Lab).md
-Mask Audio Electronics,Germanium Part Garden,Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/Germanium Part Garden.md
+Mask Audio Electronics,Germanium Part Garden,Fuzz / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Mask Audio Electronics/Germanium Part Garden.md
 Mask Audio Electronics,Hot Water,Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/Hot Water.md
 Mask Audio Electronics,LARAN (prebuilt),Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/LARAN (prebuilt).md
 Mask Audio Electronics,Little Acorn,Fuzz,DONE,DONE,DONE,./research/pedals/Mask Audio Electronics/Little Acorn.md
@@ -3073,7 +3073,7 @@ OKKO FX,DIABLO DUAL — 2-channel overdrive / distortion,Distortion,DONE,DONE,DO
 OKKO FX,DIABLO GH Signature,Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/DIABLO GH Signature.md
 OKKO FX,DIRTY DIABLO,Distortion,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/DIRTY DIABLO.md
 OKKO FX,Holy Grit,Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/Holy Grit.md
-OKKO FX,HOLY GRIT,Fuzz,DONE,DONE,DONE,./research/pedals/OKKO FX/HOLY GRIT.md
+OKKO FX,HOLY GRIT,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/OKKO FX/HOLY GRIT.md
 OKKO FX,MOTÖRBASS,Distortion,DONE,DONE,DONE,./research/pedals/OKKO FX/MOTÖRBASS.md
 OKKO FX,The Dynamist,Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/The Dynamist.md
 OKKO FX,TWINSONIC MKII,Overdrive,DONE,DONE,DONE,./research/pedals/OKKO FX/TWINSONIC MKII.md
@@ -3279,7 +3279,7 @@ SolidGoldFX,BETA-V Bass Preamp,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/So
 SolidGoldFX,Commodore Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/SolidGoldFX/Commodore Overdrive.md
 SolidGoldFX,Fuzzbox,Fuzz,DONE,DONE,DONE,./research/pedals/SolidGoldFX/Fuzzbox.md
 SolidGoldFX,If 6 Was 9 BC183 MKII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/SolidGoldFX/If 6 Was 9 BC183 MKII.md
-SolidGoldFX,Imperial MKII,Fuzz,DONE,DONE,DONE,./research/pedals/SolidGoldFX/Imperial MKII.md
+SolidGoldFX,Imperial MKII,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/SolidGoldFX/Imperial MKII.md
 SolidGoldFX,Lysis MKII,Fuzz,DONE,DONE,DONE,./research/pedals/SolidGoldFX/Lysis MKII.md
 Spaceman Effects,Apollo VIIb,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Spaceman Effects/Apollo VIIb.md
 Spaceman Effects,Apollo VIIb Cadet,Distortion / Fuzz / Overdrive,DONE,DONE,DONE,./research/pedals/Spaceman Effects/Apollo VIIb Cadet.md
@@ -3344,7 +3344,7 @@ Strymon,Deco Tape Saturation & Doubletracker,Overdrive,DONE,DONE,DONE,./research
 Strymon,Fairfax Class A Output Stage Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Strymon/Fairfax Class A Output Stage Drive.md
 Strymon,Riverside Drive & Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Strymon/Riverside Drive & Distortion.md
 Strymon,Sunset Dual Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Strymon/Sunset Dual Overdrive.md
-Subdecay,Blackstar – Ultimate Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md
+Subdecay,Blackstar – Ultimate Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md
 Subdecay,Gain Theory Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Subdecay/Gain Theory Overdrive.md
 Subdecay,Harmonic Antagonizer,Fuzz,DONE,DONE,DONE,./research/pedals/Subdecay/Harmonic Antagonizer.md
 Subdecay,Liquid Sunshine,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Subdecay/Liquid Sunshine.md
@@ -3691,7 +3691,7 @@ Wren and Cuff,Violet World,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wr
 Wren and Cuff,Your Face 60's,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Your Face 60's.md
 Wren and Cuff,Your Face 70's,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Wren and Cuff/Your Face 70's.md
 Xotic Effects,AC Booster V2,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/AC Booster V2.md
-Xotic Effects,AC Booster V2 — Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md
+Xotic Effects,AC Booster V2 — Overdrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md
 Xotic Effects,AH Booster Allen Hinds,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/AH Booster Allen Hinds.md
 Xotic Effects,AH Booster Allen Hinds — Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Xotic Effects/AH Booster Allen Hinds — Overdrive.md
 Xotic Effects,Bass BB Preamp V1.5,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md
@@ -3748,7 +3748,7 @@ ARC Effects,Big Green Pi,Fuzz,DONE,DONE,DONE,./research/pedals/ARC Effects/Big G
 ARC Effects,Crimson King,Fuzz,DONE,DONE,DONE,./research/pedals/ARC Effects/Crimson King.md
 ARC Effects,Klone,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ARC Effects/Klone.md
 ARC Effects,Klone V2,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/ARC Effects/Klone V2.md
-ARC Effects,Shepherd,Fuzz,DONE,DONE,DONE,./research/pedals/ARC Effects/Shepherd.md
+ARC Effects,Shepherd,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/ARC Effects/Shepherd.md
 Ashdown Engineering,ABM PRO-FX Double Shot,Distortion / Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md
 Ashdown Engineering,ABM PRO-FX Pro Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md
 Ashdown Engineering,AGM PRO-FX Retro Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md
@@ -3847,7 +3847,7 @@ BJFE / BJF Electronics,Snow White Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals
 BJFE / BJF Electronics,Sparkling Red Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BJFE / BJF Electronics/Sparkling Red Fuzz.md
 BJFE / BJF Electronics,Sun Burst Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md
 Black CAT Amps,METAL CORE,Distortion,DONE,DONE,DONE,./research/pedals/Black CAT Amps/METAL CORE.md
-Black Mass Electronics,The First Herald,Fuzz,DONE,DONE,DONE,./research/pedals/Black Mass Electronics/The First Herald.md
+Black Mass Electronics,The First Herald,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Black Mass Electronics/The First Herald.md
 Blackbox Music Electronics,Cobalt,Overdrive,DONE,DONE,DONE,./research/pedals/Blackbox Music Electronics/Cobalt.md
 Blackbox Music Electronics,Oxygen,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Blackbox Music Electronics/Oxygen.md
 Blackbox Music Electronics,Ultraviolet,Fuzz,DONE,DONE,DONE,./research/pedals/Blackbox Music Electronics/Ultraviolet.md
@@ -3862,7 +3862,7 @@ BOSS,DN-2 Dyna Drive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/DN-2 Dyna D
 BOSS,DS-1-4A 40th Anniversary Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md
 BOSS,FZ-2 Hyper Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-2 Hyper Fuzz.md
 BOSS,FZ-3 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-3 Fuzz.md
-BOSS,HM-2 Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-2 Heavy Metal.md
+BOSS,HM-2 Heavy Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/HM-2 Heavy Metal.md
 BOSS,HM-3 Hyper Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-3 Hyper Metal.md
 BOSS,MT-2-3A 30th Anniversary Metal Zone,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md
 BOSS,MZ-2 Digital Metalizer,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/MZ-2 Digital Metalizer.md
@@ -4002,13 +4002,13 @@ Fortin Amplification,Natas Distortion,Distortion,DONE,DONE,DONE,./research/pedal
 Fortin Amplification,NATAS Limited Color,Distortion,DONE,DONE,DONE,./research/pedals/Fortin Amplification/NATAS Limited Color.md
 Fuzzrocious Pedals,420 Fuzz v2,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/420 Fuzz v2.md
 Fuzzrocious Pedals,Baby Furnace,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Baby Furnace.md
-Fuzzrocious Pedals,Blast Furnace,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Blast Furnace.md
+Fuzzrocious Pedals,Blast Furnace,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/Blast Furnace.md
 Fuzzrocious Pedals,Cat King,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/Cat King.md
 Fuzzrocious Pedals,Cicada Fuzz,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/Cicada Fuzz.md
 Fuzzrocious Pedals,Dark Driving,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/Dark Driving.md
 Fuzzrocious Pedals,Dark Driving v3,Overdrive / Distortion,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Dark Driving v3.md
 Fuzzrocious Pedals,Egg Sack,Overdrive / Distortion,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Egg Sack.md
-Fuzzrocious Pedals,Grey Stache / Heliotropic,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md
+Fuzzrocious Pedals,Grey Stache / Heliotropic,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md
 Fuzzrocious Pedals,Greyfly,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Greyfly.md
 Fuzzrocious Pedals,K-A-E-D-E-N Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Fuzzrocious Pedals/K-A-E-D-E-N Drive.md
 Fuzzrocious Pedals,Li'l Fella,Fuzz,DONE,DONE,DONE,./research/pedals/Fuzzrocious Pedals/Li'l Fella.md
