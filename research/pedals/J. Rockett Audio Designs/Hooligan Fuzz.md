@@ -5,70 +5,42 @@
 - **Archive parent:** Hooligan Fuzz
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Fuzz
-- **Identity:** J. Rockett Audio Designs's Hooligan Fuzz.
+- **Identity:** J. Rockett Audio Designs Hooligan Fuzz.
 
 ## What this pedal is
 
-J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars Rockett Audio Designs "The Hooligan" is a simple, versatile fuzz pedal with a range of sounds and a fine-tuned, musical response.
+The Hooligan is a Tour Series fuzz designed in collaboration with **Paul Trombetta**. Product references describe it as a versatile fuzz capable of moving from lighter overdrive-like sounds through more extreme fuzz textures.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+The reviewed evidence references a V2, but a complete revision chronology was not established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control list was not securely established in the reviewed evidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars
-Rockett Audio Designs "The Hooligan" is a simple, versatile fuzz pedal with a range of sounds and a fine-tuned, musical response.
-Designed in collaboration with Paul Trombetta, this "Tour Series" version of the WTF Fuzz goes from light overdrive tones to complete obliteration with some vintage-inspired horn sounds in the middle for good measure.
+The available product references describe a broad range from lighter overdrive-like tones to heavily saturated fuzz, including an unusual octave-like character in part of the range.
 
 ## Sources checked
 
-1. J. Rockett Audio Designs Unveils the Hooligan Fuzz - Premier Guitar: https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz
-2. J. Rockett The Hooligan Fuzz Pedal - Reverb: https://reverb.com/p/j-rockett-the-hooligan-fuzz
-3. J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars: https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal
+1. Premier Guitar — J. Rockett Audio Designs Unveils the Hooligan Fuzz: https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz
+2. Reverb — J. Rockett The Hooligan Fuzz: https://reverb.com/p/j-rockett-the-hooligan-fuzz
+3. Willcutt Guitars — J Rockett Hooligan Fuzz: https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars Rockett Audio Designs "The Hooligan" is a simple, versatile fuzz pedal with a range of sounds and a fine-tuned, musical response.
-
-### Verified color/finish evidence
-- J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars - No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: V2, revision.
-
-### Verified sound evidence
-Rockett Audio Designs - **Catalog type:** Fuzz - **Identity:** J.
-Rockett Audio Designs's Hooligan Fuzz.
-J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars - No specific factory colorway information was established in the verified evidence packet.
-
-### Sources checked in this pass
-1. J. Rockett Audio Designs Unveils the Hooligan Fuzz - Premier Guitar: https://www.premierguitar.com/j-rockett-audio-designs-unveils-the-hooligan-fuzz
-2. J. Rockett The Hooligan Fuzz Pedal - Reverb: https://reverb.com/p/j-rockett-the-hooligan-fuzz
-3. J Rockett Hooligan Fuzz Pedal - NOS - Willcutt Guitars: https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal
-4. Home - J. Rockett Audio Designs: https://rockettpedals.com/
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
