@@ -1,6 +1,8 @@
 {
   "builder": "All-Pedal",
   "pedal": "Devil's Triad Essentials",
+  "original_builder": "All-Pedal",
+  "original_pedal": "Devil's Triad Essentials",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [

@@ -1,6 +1,8 @@
 {
   "builder": "Stomp Under Foot",
   "pedal": "Elk Super Fuzz",
+  "original_builder": "Stomp Under Foot",
+  "original_pedal": "Elk Super Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
   "independent_exact_source_count": 1,
   "sources": [
