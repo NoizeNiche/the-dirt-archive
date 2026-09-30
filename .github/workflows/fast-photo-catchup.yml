@@ -254,6 +254,7 @@ jobs:
               raise SystemExit("Canonical pictured count regressed during photo publication.")
 
       - name: Publish one synchronized batch
+        if: ${{ success() && steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0 }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
