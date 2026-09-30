@@ -5,66 +5,42 @@
 - **Archive parent:** Animal Overdrive
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Overdrive
-- **Identity:** J. Rockett Audio Designs's Animal Overdrive.
+- **Identity:** J. Rockett Audio Designs Animal Overdrive.
 
 ## What this pedal is
 
-Rockett Audio Designs Animal Overdrive 68 Plexi Black, Brand New, $199.00 Distinctive Guitar SOLD Description The Animal is our creating of a 1968 Plexi Sound.
+The Animal Overdrive is a Marshall 1968 Plexi-inspired overdrive from J. Rockett Audio Designs. The surviving model-specific sources describe it as an amp-style overdrive aimed at that Plexi family of sounds.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+Individual listings show different finishes, but no complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+The reviewed evidence references a V2 version, but it does not establish a complete revision chronology. The archive therefore keeps the version reference without treating it as a full production history.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control list was not securely established in the reviewed evidence packet.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-The Dirt Archive currently catalogs **Animal Overdrive** by **J.
-Rockett Audio Designs** as a **Overdrive** pedal.
+The documented design target is the sound of a **1968 Plexi**. The archive does not extend that into a more specific circuit or component claim without stronger model-level evidence.
 
 ## Sources checked
 
-1. catalog/override source: https://rockettpedals.com/
+1. J. Rockett Audio Designs Animal Overdrive | Gbase: https://www.gbase.com/gear/j-rockett-audio-designs-animal-overdrive-68-p
+2. J. Rockett Audio Designs Animal Overdrive | eBay product record: https://www.ebay.com/p/1010178658
+3. J. Rockett Audio Designs Tour Series Animal Overdrive | Amazon product record: https://www.amazon.com/J-Rockett-Audio-Designs-Overdrive/dp/B0080FML6S
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Rockett Audio Designs Animal Overdrive 68 Plexi Black, Brand New, $199.00 Distinctive Guitar SOLD Description The Animal is our creating of a 1968 Plexi Sound.
-
-### Verified color/finish evidence
-- Rockett Audio Designs Animal Overdrive 68 Plexi Black, Brand New, $199.00 Distinctive Guitar SOLD Description The Animal is our creating of a 1968 Plexi Sound.
-
-### Verified version references
-- The evidence references: V2.
-
-### Verified sound evidence
-Rockett Audio Designs .45 Caliber Overdrive Gold Guitar Effects Pedal 4.4 29 $183.99 $ 183 .
-Rockett Audio Designs Tour Series The Dude V2 Overdrive Guitar Effects Pedal 4.5 84 $183.99 $ 183 .
-99 Friedman Amplification BE-OD Overdrive Guitar Effects Pedal 4.5 186 $169.99 $ 169 .
-
-### Sources checked in this pass
-1. Amazon.com: J. Rockett Audio Designs Tour Series Animal Overdrive Guitar Effects Pedal : Musical Instruments: https://www.amazon.com/J-Rockett-Audio-Designs-Overdrive/dp/B0080FML6S
-2. J. Rockett Audio Designs Animal Overdrive Guitar Effects Pedal for sale online | eBay: https://www.ebay.com/p/1010178658
-3. J. Rockett Audio Designs Animal Overdrive 68 Plexi Black, Brand New, $199.00 - Gbase: https://www.gbase.com/gear/j-rockett-audio-designs-animal-overdrive-68-p
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
