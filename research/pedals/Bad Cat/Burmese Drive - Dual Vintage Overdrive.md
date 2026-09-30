@@ -60,7 +60,7 @@ Effects Database was cross-checked with Premier Guitar's launch coverage and mul
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+Bad Cat and launch coverage describe the Burmese as a transparent, dynamic overdrive with vintage style breakup. The two channels can be configured independently for rhythm and lead roles or cascaded for more saturated drive.
 
 ## Sources checked
 

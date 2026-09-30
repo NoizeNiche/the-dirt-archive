@@ -50,7 +50,7 @@ The Big Game Pedals TalkBass development thread was checked for the product line
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The pedal was developed around a large Muff family fuzz foundation, with additional filtering and subtle modulation intended to create movement and resonance without replacing the underlying fuzz role.
 
 ## Sources checked
 

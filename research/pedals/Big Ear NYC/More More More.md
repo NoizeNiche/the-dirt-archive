@@ -47,7 +47,7 @@ The Effects Database historical addition, contemporary Music Zoo lineup, and cur
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The documented purpose is increased level and gain through three individually usable boost stages, with stacking for progressively stronger combinations. The available sources do not provide enough model specific frequency or clipping information to support a more detailed sonic description.
 
 ## Sources checked
 

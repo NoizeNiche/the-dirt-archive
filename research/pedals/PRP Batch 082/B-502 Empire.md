@@ -56,7 +56,7 @@ Big Joe's current product page was cross-checked with Effects Database's 2014 an
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+Big Joe describes the Sponge/Firm control as altering tube like sag, response and feel. Body and Attack further shape tonal girth and pick dynamics. The two channels and their order create multiple combined gain/voicing configurations.
 
 ## Sources checked
 
