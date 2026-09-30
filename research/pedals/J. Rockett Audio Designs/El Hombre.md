@@ -5,67 +5,41 @@
 - **Archive parent:** El Hombre
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Overdrive
-- **Identity:** J. Rockett Audio Designs's El Hombre.
+- **Identity:** J. Rockett Audio Designs El Hombre.
 
 ## What this pedal is
 
-J. Rockett Audio Designs's El Hombre is cataloged as an overdrive pedal.
+The El Hombre is a J. Rockett Audio Designs overdrive model. The surviving record is sufficient to establish the product identity, but not to reconstruct a detailed circuit specification without importing information from unrelated Rockett models.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision sequence was established in the reviewed evidence.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete model-specific control layout was not securely established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Rockett Audio Designs** as a **Overdrive** pedal.
-
-Rockett Audio Designs - **Catalog type:** Overdrive - **Identity:** J.
-
-Rockett Audio Designs's El Hombre is cataloged as an overdrive pedal.
+The available model-level evidence establishes El Hombre as an overdrive but does not preserve enough exact-model technical or tonal detail for a more specific description.
 
 ## Sources checked
 
-1. catalog/override source: https://rockettpedals.com/
+1. J. Rockett Audio Designs manufacturer site: https://rockettpedals.com/
+2. J. Rockett Audio Designs El Hombre product references retained by the archive.
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Rockett Audio Designs's El Hombre is cataloged as an overdrive pedal.
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: revision.
-
-### Verified sound evidence
-Rockett Audio Designs** as a **Overdrive** pedal.
-Rockett Audio Designs - **Catalog type:** Overdrive - **Identity:** J.
-Rockett Audio Designs's El Hombre is cataloged as an overdrive pedal.
-
-### Sources checked in this pass
-1. catalog/override source: https://rockettpedals.com/
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
