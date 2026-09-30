@@ -168,8 +168,32 @@ def ocr_text(image_path: Path) -> str:
                 text_value = norm(value)
                 if text_value:
                     texts.append(text_value)
-                    if any(term in text_value for term in HIGH_CONFIDENCE):
+                    if any(term in text_value for term in HIGH_CONFIDENCE) or (
+                        "buy me" in text_value and "coffee" in text_value
+                    ):
                         break
+
+            # Some bad source-site graphics put the offending text in the
+            # center of the frame rather than along an edge. Use a full-frame
+            # OCR fallback only when the fast edge scan found no decisive hit.
+            combined = " ".join(texts)
+            decisive = any(term in combined for term in HIGH_CONFIDENCE) or (
+                "buy me" in combined and "coffee" in combined
+            )
+            if not decisive:
+                try:
+                    full = ImageOps.autocontrast(ImageOps.grayscale(image))
+                    value = pytesseract.image_to_string(
+                        full,
+                        config="--psm 11",
+                        timeout=4,
+                    )
+                except Exception:
+                    value = ""
+                text_value = norm(value)
+                if text_value:
+                    texts.append(text_value)
+
             return " ".join(texts)
     except Exception:
         return ""
@@ -210,6 +234,10 @@ def inspect(path: Path):
     for phrase in HIGH_CONFIDENCE:
         if phrase in ocr:
             flags.append("donation_or_platform_overlay:" + phrase)
+    if "buy me" in ocr and "coffee" in ocr and not any(
+        flag.startswith("donation_or_platform_overlay:") for flag in flags
+    ):
+        flags.append("donation_or_platform_overlay:buy me a coffee (compound OCR)")
     return flags, ocr, digest
 
 def write_csv(rows, output):
