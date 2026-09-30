@@ -40,3 +40,5 @@ run newest-only recovery after concurrency hardening
 final prelaunch recovery kick on fully hardened workflow
 2026-09-30T10:12:00Z
 publish corrected cache batch after Silktone primary-review fix
+2026-09-30T10:15:00Z
+clean recovery after Silktone manual-review normalization
