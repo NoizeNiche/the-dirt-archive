@@ -5,69 +5,43 @@
 - **Archive parent:** Kerria Lacca
 - **Builder:** Electronic Audio Experiments
 - **Catalog type:** Overdrive
-- **Identity:** Electronic Audio Experiments's Kerria Lacca.
+- **Identity:** Electronic Audio Experiments Kerria Lacca.
 
 ## What this pedal is
 
-The Kerria Lacca swaps out EAE’s vintage-style Percolator for our Lil Pig and, much like any other time we show up, the result is mayhem.
+Kerria Lacca is a collaboration-era EAE dirt pedal that replaces the vintage-style Percolator circuit with EAE's **Lil Pig** concept. The exact-model sources identify it as a distinct EAE product.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- The verified evidence references: V1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The reviewed evidence references **V1**, but no complete revision chronology was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The surviving exact-model sources do not provide a sufficiently stable complete control transcription to reproduce every control here with confidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Dude Incredible A pair of obscure drive tones forming an iconic noise rock pairing.
-Collaborations 0xEAE Boost A razor-sharp boost/overdrive with a massive output.
-0xEAE Fuzz Dangerous op amp fuzz with a blendable analog octave circuit.
+The model-specific description places Kerria Lacca in the Percolator/Lil Pig family and emphasizes a combination of familiar vintage-style dirt with EAE's own circuit treatment. The archive avoids importing descriptions from unrelated EAE products.
 
 ## Sources checked
 
-1. Legacy Products — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy
+1. Electrofoods — Kerria Lacca: https://www.electrofoods.space/kerria-lacca
+2. Electrofoods store — Kerria Lacca: https://store.electrofoods.space/product/kerria-lacca
+3. Electronic Audio Experiments legacy products: https://www.electronicaudioexperiments.com/legacy
+4. ModularGrid — Electronic Audio Experiments Kerria Lacca: https://modulargrid.net/p/other-unknown-electrofoods-electronic-audio-experiments-kerria-lacca
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-The Kerria Lacca swaps out EAE’s vintage-style Percolator for our Lil Pig and, much like any other time we show up, the result is mayhem.
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: V1, revision.
-
-### Verified sound evidence
-Electrofoods / Electronic Audio Experiments Kerria Lacca Other/unknown PreAmp Distortion Dimensions 105 mm wide 118 mm high Current Draw ?
-MG ID: 33123 Cornfed preamp/porkolating fuzz combo pal John Snyder from Electronic Audio Experiments is the modern father of the absurdly well-considered analog dirt circuit.
-This is like the tone knob on your guitar, but backwards - the further clockwise you go, the more highs you cut.
-
-### Sources checked in this pass
-2. Other/unknown Electrofoods / Electronic Audio Experiments Kerria Lacca - Pedal on ModularGrid: https://modulargrid.net/p/other-unknown-electrofoods-electronic-audio-experiments-kerria-lacca
-3. Kerria Lacca — ELECTROFOODS ULTD: https://www.electrofoods.space/kerria-lacca
-4. KERRIA LACCA | Electrofoods Ultd: https://store.electrofoods.space/product/kerria-lacca
-5. Legacy Products — Electronic Audio Experiments: https://www.electronicaudioexperiments.com/legacy
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
