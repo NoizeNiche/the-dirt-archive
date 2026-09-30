@@ -110,12 +110,17 @@ jobs:
           current_sha="$(git rev-parse HEAD)"
           latest_sha="$(git rev-parse origin/main)"
           if [ "$current_sha" != "$latest_sha" ]; then
-            echo "current=false" >> "$GITHUB_OUTPUT"
-            echo "Deployment snapshot became stale before browser audit: current=$current_sha latest=$latest_sha"
+            echo "Deployment snapshot advanced before browser audit: current=$current_sha latest=$latest_sha"
+            # Rehydrate once more so harmless CI-only commits cannot strand a
+            # valid public-data deployment behind an exact-SHA mismatch.
+            git reset --hard origin/main
+            git clean -fd
+            current_sha="$(git rev-parse HEAD)"
+            echo "Browser-audit snapshot rehydrated to latest main: $current_sha"
           else
-            echo "current=true" >> "$GITHUB_OUTPUT"
             echo "Deployment snapshot remains current: $current_sha"
           fi
+          echo "current=true" >> "$GITHUB_OUTPUT"
 
       - name: Browser audit for all researched pedal pages
         if: steps.freshness.outputs.current == 'true' && steps.browser_freshness.outputs.current == 'true'
