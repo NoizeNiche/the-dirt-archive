@@ -16,6 +16,7 @@ on:
       - 'scripts/audit-photo-revision-fidelity.py'
       - 'scripts/audit-photo-provenance-quality.py'
       - 'research/PHOTO_IDENTITY_KICK'
+      - 'research/pedals/**'
       - 'scripts/verify-photo-manual-review-sync.py'
       - '.github/workflows/exhaustive-quality-audit.yml'
   workflow_dispatch:
