@@ -3,7 +3,7 @@ name: Fast photo catch-up
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    # One scheduled safety pass per hour. Photo movement can self-dispatch the next\n    # bounded pass, so a 15-minute schedule only created contention.\n    - cron: "0 * * * *"
   push:
     paths:
       - research/PHOTO_FAST_KICK
@@ -76,18 +76,18 @@ jobs:
           PHOTO_BROWSER_DEEP_REVIEW: "true"
           PHOTO_BROWSER_ALLOW_PARKED_RETRY: "true"
           PHOTO_BROWSER_REVISIT_PARKED: "true"
-          PHOTO_BROWSER_CACHE_LIMIT: "96"
+          PHOTO_BROWSER_CACHE_LIMIT: "120"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "16"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "10000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "8000"
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "7000"
           PHOTO_BROWSER_CANDIDATE_LIMIT: "8"
           PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "8"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "60000"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "90000"
           PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
           PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "8"
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
-        run: timeout 720s node scripts/browser-photo-cache.mjs
+        run: timeout 900s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
         run: python scripts/reset-photo-recovery-targets.py
