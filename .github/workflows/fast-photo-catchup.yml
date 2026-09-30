@@ -16,12 +16,12 @@ permissions:
 
   # Refreshing this workflow file also forces the newest-only concurrency lock to replace stale runs.
 concurrency:
-  group: dirt-photo-publishing-v2
+  group: dirt-photo-publishing-${{ github.sha }}
   # Let an active recovery/merge finish. A newer trigger may supersede the queue,
   # but must not interrupt a photo batch after it has started modifying the archive.
   # Push/manual recovery runs may replace stale work. Scheduled passes wait
   # rather than cancelling an active recovery batch.
-  cancel-in-progress: ${{ github.event_name != 'schedule' }}
+  cancel-in-progress: false
 
 jobs:
   recover:
