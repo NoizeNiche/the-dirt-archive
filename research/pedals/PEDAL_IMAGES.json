@@ -65,18 +65,21 @@
   {
     "builder": "6 Degrees FX",
     "pedal": "Hyper Catalyst",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md"
   },
   {
     "builder": "6 Degrees FX",
     "pedal": "Rodeo Drive",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md"
   },
   {
     "builder": "6 Degrees FX",
     "pedal": "Sally Drive",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
     "research_record": "./research/pedals/6 Degrees FX/Sally Drive.md"
   },
@@ -7087,6 +7090,7 @@
   {
     "builder": "BOSS",
     "pedal": "BD-2 Blues Driver",
+    "image": null,
     "source_page": "https://www.boss.info/global/products/bd-2/",
     "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md"
   },
@@ -7135,6 +7139,7 @@
   {
     "builder": "BOSS",
     "pedal": "DS-1-4A 40th Anniversary Distortion",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/ds1/4a",
     "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md"
   },
@@ -7190,6 +7195,7 @@
   {
     "builder": "BOSS",
     "pedal": "HM-2 Heavy Metal",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
     "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md"
   },
@@ -7210,6 +7216,7 @@
   {
     "builder": "BOSS",
     "pedal": "JB-2 Angry Driver",
+    "image": null,
     "source_page": "https://www.boss.info/us/products/jb-2/",
     "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md"
   },
@@ -7258,6 +7265,7 @@
   {
     "builder": "BOSS",
     "pedal": "OD-1 OverDrive",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
     "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md"
   },
@@ -7825,6 +7833,7 @@
   {
     "builder": "Browne Amplification",
     "pedal": "Atom - Nashville Drive",
+    "image": null,
     "source_page": "https://browneamps.com/the-alkene",
     "research_record": "./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md",
     "source": null
