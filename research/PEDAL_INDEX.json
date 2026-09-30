@@ -27948,10 +27948,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/coron/first/distortion15"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/coron/first/distortion15",
+      "image_source_page": "https://www.ebay.com/itm/336149491503",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 634
+      "image_source_priority": 634,
+      "image_source_url": "https://i.ebayimg.com/images/g/ZPgAAeSwIN9osI0f/s-l1200.jpg",
+      "image": "./assets/pedals/coron/coron-distortion-15/primary.webp"
     },
     {
       "company": "Coron",
