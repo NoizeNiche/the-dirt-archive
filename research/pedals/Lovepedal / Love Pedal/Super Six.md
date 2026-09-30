@@ -27,7 +27,6 @@ The Super Six is a blackface-style American amp-in-a-box overdrive/preamp.
 
 ## Sound
 
-Love Pedal Home Pedals Press Videos Custom History Contact Super Six Super Six Stevie Mod IN STOCK $225.00 PRODUCT DESCRIPTION 60’S AMERICAN AMP TONE!
 
 This sought-after pedal re-creates the tone of a blackface-era Fender amplifier, namely a Super on 6!
 
@@ -54,7 +53,6 @@ The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your 
 - Finish variants are not treated as circuit revisions.
 
 ### Verified sound evidence
-Love Pedal Home Pedals Press Videos Custom History Contact Super Six Super Six Stevie Mod IN STOCK $225.00 PRODUCT DESCRIPTION 60’S AMERICAN AMP TONE!
 This sought-after pedal re-creates the tone of a blackface-era Fender amplifier, namely a Super on 6!
 The Lovepedal Super Six is perfect for buffering, boosting, or vintage-ing your tone.
 
