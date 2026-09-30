@@ -226,6 +226,26 @@ def fetch_via_browser(url: str, source_page: str = "") -> bytes:
         _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
     page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
     try:
+        headers = {
+            "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "User-Agent": USER_AGENT,
+        }
+        if source_page:
+            headers["Referer"] = source_page
+        # First try Playwright's request client. This preserves browser-like
+        # headers/referrer context while returning the original image bytes,
+        # avoiding a screenshot timeout on slow/blocked image rendering.
+        try:
+            response = page.request.get(url, headers=headers, timeout=TIMEOUT * 1000)
+            content_type = str(response.headers.get("content-type") or "").lower()
+            data = response.body()
+            if response.ok and content_type.startswith("image/") and len(data) >= MIN_BYTES:
+                validate(data)
+                return data
+        except Exception:
+            pass
+
         if source_page:
             page.set_extra_http_headers({"Referer": source_page})
         page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
