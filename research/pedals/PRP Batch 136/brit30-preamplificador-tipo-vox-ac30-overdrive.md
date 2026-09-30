@@ -15,26 +15,21 @@ https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox
 
 ## Sound
 
-BRIT30 preamplificador tipo vox ac30 overdrive BRIT30 preamplificador tipo vox ac30 overdrive $129.000,00 3 cuotas sin interés de $43.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver más detalles ¡No te lo pierdas, es el último!
-USOS PREAMP / OVERDRIVE LIVIANO ganancia media.
-Control, GAIN, cantidad de distorsion , VOL , volumen.
+Cajita describes the BRIT30 as a light-to-medium overdrive/preamp with medium gain. The control set includes GAIN and VOL, with HI, LOW, and BRIGTH (Presence) controls for shaping the response. The builder also describes the circuit as suitable for clean use and for 1960s-style sounds.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+This pass keeps the model-specific claims that are directly supported by the builder source and removes the previous misclassification of the Vox AC30 reference as a transistor/device term.
 
 ### Verified description
-Cajita Stompboxes's BRIT30 preamplificador tipo Vox AC30 overdrive is cataloged as an overdrive pedal.
-
-### Verified transistor/device terms
-- Vox AC30-style overdrive.
+Cajita Stompboxes describes the BRIT30 as a Vox-style preamp/light-to-medium overdrive with HI, LOW, BRIGTH (Presence), GAIN, and VOL controls.
 
 ### Verified sound evidence
-BRIT30 preamplificador tipo vox ac30 overdrive BRIT30 preamplificador tipo vox ac30 overdrive $129.000,00 3 cuotas sin interes de $43.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver mas detalles ¡No te lo pierdas, es el ultimo!
-USOS - PREAMP / OVERDRIVE LIVIANO ganancia media.
-Control, GAIN, cantidad de distorsion , VOL , volumen.
+The builder describes BRIT30 for light-to-medium overdrive/preamp use with medium gain and notes that it can be pushed with a booster or used clean for 1960s-style sounds.
 
 ### Sources checked in this pass
 1. BRIT30 preamplificador tipo vox ac30 overdrive: https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/
-3. catalog/override source: https://twitter.com/share?url=https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/
-4. Pinterest: https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fpedalescajita.mitiendanube.com%2Fproductos%2Fbrit30-preamplificador-tipo-vox-ac30-overdrive%2F&media=https%3A%2F%2Fdcdn-us.mitiendanube.com%2Fstores%2F006%2F279%2F558%2Fproducts%2Fbrit-5-745dae9a57840222c017557786924789-480-0.webp&description=
+
+## Photo
+
+- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
