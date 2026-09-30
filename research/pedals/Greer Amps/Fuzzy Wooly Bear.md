@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
+Greer Amps's Fuzzy Wooly Bear is cataloged in the archive as a Fuzz / Overdrive pedal.
 
 ## Colorways
 
@@ -70,26 +70,6 @@ Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information 
 Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
 The germanium version gives you the typical germanium voiced fuzz tones, but with a volume and bias control you can really tailor the tone from singing to ratty fuzz bomb!
 Greer Amps's Fuzzy Wooly Bear is cataloged in the archive as a Fuzz / Overdrive pedal.
-
-### Sources checked in this pass
-1. Greer Amps Fuzzy Wooly Bear | Effects Database: https://www.effectsdatabase.com/model/greer/fuzzywoolybear
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
-
-### Verified transistor/device terms
-- silicon transistor.
-
-### Verified diode terms
-- LED.
-
-### Verified sound evidence
-Fuzzy Wooly Bear Published on October 9, 2005 Greer Amps fuzz pedal Information Nick Greer Amplification The Fuzzy Wooly Bear is a unique fuzz/overdrive pedal.
-The germanium version gives you the typical germanium voiced fuzz tones, but with a volume and bias control you can really tailor the tone from singing to ratty fuzz bomb!
 
 ### Sources checked in this pass
 1. Greer Amps Fuzzy Wooly Bear | Effects Database: https://www.effectsdatabase.com/model/greer/fuzzywoolybear

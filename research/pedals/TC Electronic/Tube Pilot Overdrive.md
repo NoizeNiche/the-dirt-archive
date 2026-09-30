@@ -33,8 +33,6 @@
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products TUBE PILOT OVERDRIVE 1 / 6 Zoom View in fullscreen TUBE PILOT OVERDRIVE Share Overview Learning Downloads About this product
-
 TC Electronic Tube Pilot Overdrive Effects Pedal
 
 tc electronic Tube Pilot Overdrive – United States Served with love!
@@ -68,7 +66,6 @@ TC Electronic's Tube Pilot Overdrive is cataloged as an overdrive pedal.
 - LED.
 
 ### Verified sound evidence
-Privacy Terms Accessibility Back to Products TUBE PILOT OVERDRIVE 1 / 6 Zoom View in fullscreen TUBE PILOT OVERDRIVE Share Overview Learning Downloads About this product
 TC Electronic Tube Pilot Overdrive Effects Pedal
 tc electronic Tube Pilot Overdrive – United States Served with love!
 

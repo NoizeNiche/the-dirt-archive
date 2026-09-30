@@ -66,4 +66,4 @@ So if your riffs call for tight bottom-end, rich mids and creamy highs, GRAND MA
 ### Sources checked in this pass
 1. GRAND MAGUS DISTORTION | TC Electronic: https://www.tcelectronic.com/en/products/0709-AFH
 2. TC Electronic Grand Magus Distortion Effects Pedal | Guitar Center: https://www.guitarcenter.com/TC-Electronic/Grand-Magus-Distortion-Effect-Pedal-1500000028042.gc
-3. TC Electronic Grand Magus Distortion &ndash; Angel City Guitars: https://angelcityguitars.com/products/tc-electronic-grand-magus-distortion
+3. TC Electronic Grand Magus Distortion – Angel City Guitars: https://angelcityguitars.com/products/tc-electronic-grand-magus-distortion

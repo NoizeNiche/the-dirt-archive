@@ -83,21 +83,3 @@ Sweetwater: https://www.sweetwater.com/store/detail/MojoMojo--tc-electronic-mojo
 9. PDF tc electronic MOJOMOJO OVERDRIVE User Manual - Manuals+: https://manuals.plus/tc%20electronic/mojomojo-overdrive-manual.pdf
 10. TC ELECTRONIC MOJOMOJO OVERDRIVE USER MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1427342/Tc-Electronic-Mojomojo-Overdrive.html
 11. open prime modal: https://www.amazon.com/clp/B004OK1G64
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-MOJOMOJO OVERDRIVE Exceptional Overdrive Pedal with Extra Headroom, Precise Controls and a Voicing Switch 4.6 (1K) 50+ viewed in past month $62.90 $ 62 .
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence p
-
-### Verified sound evidence
-MOJOMOJO OVERDRIVE Exceptional Overdrive Pedal with Extra Headroom, Precise Controls and a Voicing Switch 4.6 (1K) 50+ viewed in past month $62.90 $ 62 .
-
-### Sources checked in this pass
-1. TC Electronic MojoMojo Overdrive: Complete Gear Guide: https://guitargangsters.net/rank911-tc-electronic-mojomojo-overdrive/
-2. TC Electronic MojoMojo Overdrive | Long & McQuade: https://www.long-mcquade.com/14113/Guitars/Guitar-Effects/T-C-Electronic/MojoMojo-Overdrive.htm
-3. open prime modal: https://www.amazon.com/clp/B004OK1G64
