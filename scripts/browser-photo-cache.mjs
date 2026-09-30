@@ -16,6 +16,7 @@ const PHOTO_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-results.json');
 const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
 const PHOTO_SOURCE_BLOCKLIST = path.join(ROOT, 'research/PHOTO_SOURCE_BLOCKLIST.json');
 const PHOTO_MANUAL_REVIEW = path.join(ROOT, 'research/PHOTO_MANUAL_REVIEW.csv');
+const PHOTO_SOURCE_OVERRIDES = path.join(ROOT, 'research/PHOTO_SOURCE_OVERRIDES.csv');
 const PHOTO_HASH_QUARANTINE = path.join(ROOT, 'research/PHOTO_HASH_QUARANTINE.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
@@ -49,6 +50,42 @@ try {
     if (/^[a-f0-9]{64}$/.test(digest)) quarantinedPhotoHashes.add(digest);
   }
 } catch {}
+
+let curatedExactSourcePages = new Map();
+try {
+  const rows = csvRows(fs.readFileSync(PHOTO_SOURCE_OVERRIDES, 'utf8'));
+  for (const row of rows) {
+    const builder = String(row.Builder || '').trim();
+    const pedal = String(row.Pedal || '').trim();
+    const sourcePage = String(row['Image Source Page'] || row['Source Page'] || '').trim();
+    const notes = String(row.Notes || '').trim().toLowerCase();
+    if (!builder || !pedal || !sourcePage || !/^https?:\/\//i.test(sourcePage)) continue;
+    const exactSignal =
+      /\bexact(?:-model)?\b/.test(notes) ||
+      /\bofficial .*product page\b/.test(notes) ||
+      /\bmanufacturer-hosted .*product image\b/.test(notes);
+    if (exactSignal) curatedExactSourcePages.set(
+      key(builder, pedal) + '\n' + sourcePage.replace(/#.*$/, '')
+    , true);
+  }
+} catch {}
+
+function modelSpecificSourcePage(entry, sourcePage) {
+  if (!sourcePage || !entry) return false;
+  try {
+    const u = new URL(sourcePage);
+    const pathText = decodeURIComponent((u.pathname || '') + ' ' + (u.search || '')).toLowerCase();
+    const tokens = normalizedIdentity(entry.pedal)
+      .split(/\s+/)
+      .filter(token => token.length >= 4 || /\d/.test(token))
+      .filter(token => !new Set(['the','and','with','pedal','effects','audio']).has(token));
+    if (!tokens.length) return false;
+    const hits = tokens.filter(token => pathText.includes(token)).length;
+    return hits >= Math.max(1, Math.min(2, tokens.length));
+  } catch {
+    return false;
+  }
+}
 function isBlockedByPhotoPolicy(value) {
   const raw = String(value || '');
   const lowered = raw.toLowerCase();
@@ -4699,6 +4736,16 @@ function imageBytesLookComplete(bytes, contentType = '') {
         method: verificationMethod,
         sourceScore: Number(selected.sourceScore || 0),
         strongSearchIdentity: Boolean(selected.strongSearchIdentity),
+        rawVerifiedPageImage: Boolean(selected.rawVerifiedPageImage),
+        curatedExactSourcePage: Boolean(
+          selected.rawVerifiedPageImage &&
+          selected.sourcePage &&
+          curatedExactSourcePages.has(
+            key(entry.company || entry.builder || '', entry.pedal || '') + '\n' + String(selected.sourcePage).replace(/#.*$/, '')
+          ) &&
+          modelSpecificSourcePage(entry, selected.sourcePage) &&
+          Number(selected.sourceScore || 0) >= 160
+        ),
         sourceHost: selected.sourcePage ? (() => { try { return new URL(selected.sourcePage).hostname; } catch { return ''; } })() : '',
       }
     };
