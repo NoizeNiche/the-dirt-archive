@@ -177,6 +177,7 @@ def main():
     catalog_by_key = {pair(x.get("company"), x.get("pedal")): x for x in pedals}
 
     local_image_owners = {}
+    local_image_paths = {}
     for entry in pedals:
         image = entry.get("image")
         if not image or re.match(r"^https?://", str(image), re.I):
@@ -184,10 +185,27 @@ def main():
         image_path = local(image)
         if not image_path.is_file():
             continue
+        identity = pair(entry.get("company"), entry.get("pedal"))
+        normalized_path = image_path.relative_to(ROOT).as_posix()
+        local_image_paths.setdefault(normalized_path, []).append(identity)
         digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
-        local_image_owners.setdefault(digest, []).append(
-            pair(entry.get("company"), entry.get("pedal"))
+        local_image_owners.setdefault(digest, []).append(identity)
+
+    duplicate_local_paths = {
+        image_path: keys
+        for image_path, keys in local_image_paths.items()
+        if len(set(keys)) > 1
+    }
+    if duplicate_local_paths:
+        examples = "; ".join(
+            image_path + ": " + ", ".join(f"{builder} / {pedal}" for builder, pedal in keys)
+            for image_path, keys in list(duplicate_local_paths.items())[:8]
         )
+        raise SystemExit(
+            "Distinct pedal identities share the same local image path. "
+            "Review exact-photo provenance before publication: " + examples
+        )
+
     duplicate_local_blobs = {
         digest: keys for digest, keys in local_image_owners.items() if len(set(keys)) > 1
     }
