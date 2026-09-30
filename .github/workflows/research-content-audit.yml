@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-research-content-audit-v2
@@ -48,6 +49,7 @@ jobs:
               git commit -m "Clean research scrape residue"
             }
             if git push origin HEAD:main; then
+              GH_TOKEN="${GH_TOKEN:-${{ github.token }}}" gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
               exit 0
             fi
             echo "Research cleanup push race on attempt $attempt; refreshing main."
