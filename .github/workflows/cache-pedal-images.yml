@@ -22,7 +22,9 @@ concurrency:
   group: dirt-photo-publishing-v1
   # Prefer the newest cache snapshot so verified photo recovery is not trapped
   # behind obsolete queued image-cache runs.
-  cancel-in-progress: true
+  # Push/manual recovery runs may replace stale work. Scheduled hourly passes wait
+  # rather than cancelling an active recovery batch.
+  cancel-in-progress: ${{ github.event_name != 'schedule' }}
 
 jobs:
   cache:
