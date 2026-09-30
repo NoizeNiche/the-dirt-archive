@@ -28,3 +28,4 @@ Fast photo-lane retry after post-browser quarantine reset fix 2026-09-29T18:05Z
 # remove revision-ambiguous Vintage Deluxe primary 2026-09-29T17:32:00-07:00
 # TSV808 + Dark Horse exact photo source batch 2026-09-29T17:38:00-07:00
 # OVD-5 exact Reverb source page 2026-09-29T17:44:00-07:00
+# reject shared quarantined photo hashes before selection 2026-09-29T18:02:00-07:00
