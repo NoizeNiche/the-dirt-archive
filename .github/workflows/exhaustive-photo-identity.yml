@@ -1,0 +1,117 @@
+name: Exhaustive photo identity audit
+
+on:
+  push:
+    paths:
+      - 'research/PHOTO_IDENTITY_KICK'
+      - 'research/PEDAL_INDEX.json'
+      - 'research/PRP_TRACKER.csv'
+      - 'research/pedals/PEDAL_IMAGES.json'
+      - 'scripts/audit-photo-identity.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dirt-exhaustive-photo-identity
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    name: Photo identity shard ${{ matrix.shard }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      max-parallel: 24
+      matrix:
+        shard: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23]
+        shards: [24]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: Install OCR tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr
+          python -m pip install --disable-pip-version-check pillow pytesseract
+
+      - name: Audit photo identity shard
+        run: |
+          python scripts/audit-photo-identity.py \
+            --shard ${{ matrix.shard }} \
+            --shards ${{ matrix.shards }} \
+            --workers 4 \
+            --output /tmp/photo-identity-audit-${{ matrix.shard }}.csv
+
+      - name: Upload identity shard
+        uses: actions/upload-artifact@v4
+        with:
+          name: photo-identity-audit-${{ matrix.shard }}
+          path: /tmp/photo-identity-audit-${{ matrix.shard }}.csv
+          retention-days: 14
+
+  merge:
+    name: Merge exhaustive identity audit
+    needs: audit
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download identity shards
+        uses: actions/download-artifact@v5
+        with:
+          pattern: photo-identity-audit-*
+          path: /tmp/identity-shards
+          merge-multiple: true
+
+      - name: Merge and summarize
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          fields = [
+              "Builder","Pedal","Image","Status","Reasons",
+              "OCR Target Tokens","OCR Suspected Other Models",
+              "OCR Suspected Other Builders","OCR Text","Duplicate SHA256"
+          ]
+          rows = []
+          seen = set()
+          for path in sorted(Path("/tmp/identity-shards").glob("photo-identity-audit-*.csv")):
+              with path.open(newline="", encoding="utf-8") as fh:
+                  for row in csv.DictReader(fh):
+                      key = (row.get("Builder",""), row.get("Pedal",""), row.get("Image",""))
+                      if key in seen:
+                          continue
+                      seen.add(key)
+                      rows.append({field: row.get(field,"") for field in fields})
+
+          rows.sort(key=lambda r: (r["Status"] != "REVIEW", r["Builder"].casefold(), r["Pedal"].casefold()))
+          out = Path("/tmp/photo-identity-audit.csv")
+          with out.open("w", newline="", encoding="utf-8") as fh:
+              writer = csv.DictWriter(fh, fieldnames=fields)
+              writer.writeheader()
+              writer.writerows(rows)
+
+          review = [r for r in rows if r["Status"] == "REVIEW"]
+          high = [r for r in review if "OCR appears to name a different builder" in r["Reasons"] or "OCR strongly matches another same-builder model" in r["Reasons"]]
+          dup = [r for r in review if "identical local image bytes reused" in r["Reasons"]]
+
+          print(f"Exhaustive photo identity audit: {len(rows)} pictured records checked; {len(review)} review candidates; {len(high)} high-confidence OCR identity conflicts; {len(dup)} duplicate-byte review candidates.")
+          for row in high[:100]:
+              print("HIGH-CONFIDENCE:", row["Builder"], "/", row["Pedal"], "->", row["Reasons"], "|", row["OCR Suspected Other Models"], "|", row["OCR Suspected Other Builders"])
+          for row in dup[:100]:
+              print("DUPLICATE-BYTE REVIEW:", row["Builder"], "/", row["Pedal"], "->", row["Image"])
+          PY
+
+      - name: Upload merged exhaustive report
+        uses: actions/upload-artifact@v4
+        with:
+          name: exhaustive-photo-identity-audit
+          path: /tmp/photo-identity-audit.csv
+          retention-days: 14
