@@ -5,72 +5,43 @@
 - **Archive parent:** Dragon Hound
 - **Builder:** VFE Pedals
 - **Catalog type:** Distortion / Overdrive
-- **Identity:** VFE Pedals's Dragon Hound.
+- **Identity:** VFE Pedals Dragon Hound.
 
 ## What this pedal is
 
-VFE Dragon Hound - Reverb: https://reverb.com/p/vfe-dragon-hound - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+Dragon Hound is a two-voice VFE dirt pedal that can operate as separate or combined drive stages. Each side has its own drive control, with a blend control used to combine the voices.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No distinct numbered factory revision was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The retained model-specific references establish dedicated drive controls for the two sides and a blend control. A complete external control transcription was not otherwise established with sufficient consistency.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Each circuit has a dedicated drive control, and the blend control can dial in saturated distortion tones that retain the clarity of an overdrive.
-Stacked or blended, its two sides interact to cover ground from punchy blues crunch to fire-breathing, layered distortion.
+The model-specific descriptions emphasize stacking or blending the two drive circuits, covering punchier low-gain crunch through heavier layered distortion while retaining some overdrive clarity.
 
 ## Sources checked
 
-1. VFE Pedals Dragon Hound - diystompboxes.com: https://www.diystompboxes.com/smfforum/index.php?topic=127763.0
-2. Dragon Hound by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/
-3. VFE Pedals Dragon Hound — DIY PCB clones & build options: https://builder.pachydermpedals.com/base-pedals/b61bf291-7295-4369-b2f2-47510f53e11a
-4. Guitar FX Layouts: VFE Pedals Dragon Hound: https://tagboardeffects.blogspot.com/2017/11/vfe-pedals-dragon-hound.html
-5. VFE Dragon Hound - Reverb: https://reverb.com/p/vfe-dragon-hound
+1. RockBoard — VFE Dragon Hound: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/
+2. Reverb — VFE Dragon Hound: https://reverb.com/p/vfe-dragon-hound
+3. DIYStompboxes — VFE Dragon Hound: https://www.diystompboxes.com/smfforum/index.php?topic=127763.0
+4. Guitar FX Layouts — VFE Dragon Hound: https://tagboardeffects.blogspot.com/2017/11/vfe-pedals-dragon-hound.html
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-VFE Dragon Hound - Reverb: https://reverb.com/p/vfe-dragon-hound - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-### Verified color/finish evidence
-- No specific factory colorway information was established in the verified evidence packet.
-
-### Verified version references
-- The evidence references: revision.
-
-### Verified sound evidence
-**Archive parent:** Dragon Hound - **Builder:** VFE Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** VFE Pedals's Dragon Hound.
-VFE Pedals's Dragon Hound is cataloged as a distortion / overdrive pedal.
-Each circuit has a dedicated drive control, and the blend control - **Archive parent:** Dragon Hound - **Builder:** VFE Pedals - **Catalog type:** Distortion / Overdrive - **Identity:** VFE Pedals's Dragon Hound.
-
-### Sources checked in this pass
-1. VFE Pedals Dragon Hound - diystompboxes.com: https://www.diystompboxes.com/smfforum/index.php?topic=127763.0
-2. Dragon Hound by VFE Pedals | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Dragon-Hound/68986069/
-3. VFE Pedals Dragon Hound — DIY PCB clones & build options: https://builder.pachydermpedals.com/base-pedals/b61bf291-7295-4369-b2f2-47510f53e11a
-4. Guitar FX Layouts: VFE Pedals Dragon Hound: https://tagboardeffects.blogspot.com/2017/11/vfe-pedals-dragon-hound.html
-5. VFE Dragon Hound - Reverb: https://reverb.com/p/vfe-dragon-hound
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
