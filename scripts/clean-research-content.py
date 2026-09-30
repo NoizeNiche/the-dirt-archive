@@ -486,6 +486,30 @@ def sanitize_visible_sections(markdown: str) -> str:
         updated = replace_section_body(updated, heading, replacement)
     return updated
 
+def fallback_verified_description(markdown: str) -> str:
+    builder, pedal, catalog_type = archive_catalog_identity(markdown)
+    if not builder or not pedal:
+        return ""
+    return (
+        f"{builder}'s {pedal} is documented in the current archive evidence as a "
+        f"{catalog_type} model. The reviewed source set establishes the model identity "
+        "and classification, but does not provide enough verified model-specific detail "
+        "here to describe the circuit or history without speculation."
+    )
+
+
+def fallback_verified_sound(markdown: str) -> str:
+    _, pedal, _ = archive_catalog_identity(markdown)
+    if pedal:
+        return (
+            f"The reviewed evidence does not establish a reliable model-specific sound "
+            f"description for {pedal}. The archive leaves the sonic summary limited to "
+            "documented evidence rather than inferring characteristics from the dirt-type "
+            "classification."
+        )
+    return "The reviewed evidence does not establish a reliable model-specific sound description."
+
+
 def promote_verified_prose(markdown: str) -> str:
     title_match = re.search(r"^#\s+.+?\s+—\s+(.+?)\s*$", markdown, re.M)
     pedal = title_match.group(1).strip() if title_match else ""
@@ -494,29 +518,28 @@ def promote_verified_prose(markdown: str) -> str:
     verified_description = candidate_lines(
         deep_verified_subsection(markdown, "Verified description")
     )
-    if (
-        weak_visible_description(markdown)
-        and pedal
-        and strong_verified_description(verified_description, pedal)
-        and not obvious_scrape_payload(verified_description)
-    ):
-        updated = replace_section_body(
-            updated,
-            "What this pedal is",
-            verified_description,
-        )
+    if weak_visible_description(markdown) and pedal:
+        if strong_verified_description(verified_description, pedal) and not obvious_scrape_payload(verified_description):
+            description = verified_description
+        else:
+            description = fallback_verified_description(markdown)
+        if description:
+            updated = replace_section_body(
+                updated,
+                "What this pedal is",
+                description,
+            )
 
     verified_sound = candidate_lines(
         deep_verified_subsection(markdown, "Verified sound evidence")
     )
     if not strong_verified_sound(verified_sound):
         verified_sound = fallback_verified_sound(markdown)
-    if (
-        weak_visible_sound(updated)
-        and strong_verified_sound(verified_sound)
-        and not obvious_scrape_payload(verified_sound)
-    ):
-        updated = replace_section_body(updated, "Sound", verified_sound)
+    if weak_visible_sound(updated):
+        if not strong_verified_sound(verified_sound) or obvious_scrape_payload(verified_sound):
+            verified_sound = fallback_verified_sound(markdown)
+        if verified_sound:
+            updated = replace_section_body(updated, "Sound", verified_sound)
 
     return sanitize_visible_sections(updated)
 
