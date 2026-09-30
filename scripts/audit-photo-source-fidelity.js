@@ -11,6 +11,7 @@ const OUTPUT = process.env.PHOTO_FIDELITY_OUTPUT || 'photo-source-fidelity-audit
 const WORKERS = Math.max(1, Number(process.env.PHOTO_FIDELITY_WORKERS || 8));
 const TIMEOUT = Math.max(3000, Number(process.env.PHOTO_FIDELITY_TIMEOUT_MS || 12000));
 const MAX_SOURCE_BYTES = 8 * 1024 * 1024;
+const SOURCE_BLOCKLIST = path.join(ROOT, 'research', 'PHOTO_SOURCE_BLOCKLIST.json');
 
 function parseCsvLine(line) {
   const out = [];
@@ -39,6 +40,32 @@ function parseCsvLine(line) {
 function csvEscape(value) {
   const text = String(value ?? '');
   return '"' + text.replace(/"/g, '""') + '"';
+}
+
+function loadSourceBlocklist(){
+  try{
+    const data=JSON.parse(fs.readFileSync(SOURCE_BLOCKLIST,'utf8'));
+    return Array.isArray(data.rules) ? data.rules : [];
+  }catch{
+    return [];
+  }
+}
+
+function blockedSource(value, rules){
+  const raw=String(value || '').trim();
+  if(!raw) return '';
+  for(const rule of rules){
+    const kind=String(rule?.type || '');
+    const pattern=String(rule?.pattern || '');
+    if(!pattern) continue;
+    if(kind==='exact_url' && raw===pattern) return pattern;
+    if(kind.endsWith('_regex')){
+      try{
+        if(new RegExp(pattern,'i').test(raw)) return pattern;
+      }catch{}
+    }
+  }
+  return '';
 }
 
 function key(entry) {
@@ -253,6 +280,7 @@ async function renderedSourcePageImage(page, entry) {
 
 async function main() {
   const catalog = JSON.parse(fs.readFileSync(INDEX, 'utf8')).pedals || [];
+  const blockRules = loadSourceBlocklist();
   const trackerLines = fs.readFileSync(TRACKER, 'utf8').split(/\r?\n/).filter(Boolean);
   const trackerRows = trackerLines.slice(1).map(parseCsvLine);
   const pictured = new Set(
@@ -293,6 +321,14 @@ async function main() {
           SourceSHA256: '',
           Note: ''
         };
+
+        const blocked = blockedSource(entry.sourceUrl, blockRules) || blockedSource(entry.sourcePage, blockRules);
+        if(blocked){
+          out.Status = 'BLOCKED_SOURCE';
+          out.Note = 'Declared photo provenance matches a hard-blocked non-product source: ' + blocked;
+          results.push(out);
+          continue;
+        }
 
         const local = localPath(entry.image);
         if (!local || !fs.existsSync(local)) {
@@ -410,6 +446,10 @@ async function main() {
   const counts = {};
   for (const row of results) counts[row.Status] = (counts[row.Status] || 0) + 1;
   console.log('Photo source fidelity audit:', JSON.stringify(counts));
+  if((counts.BLOCKED_SOURCE || 0) > 0){
+    console.error('Photo source fidelity audit found hard-blocked provenance still attached to pictured records.');
+    process.exitCode = 1;
+  }
 }
 
 main().catch(err => {
