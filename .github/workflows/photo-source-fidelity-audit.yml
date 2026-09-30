@@ -26,7 +26,7 @@ jobs:
   audit:
     name: Compare pictured photos to declared sources
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -46,8 +46,8 @@ jobs:
 
       - name: Run source fidelity audit
         env:
-          PHOTO_FIDELITY_WORKERS: "12"
-          PHOTO_FIDELITY_TIMEOUT_MS: "12000"
+          PHOTO_FIDELITY_WORKERS: "20"
+          PHOTO_FIDELITY_TIMEOUT_MS: "8000"
           PHOTO_FIDELITY_OUTPUT: photo-source-fidelity-audit.csv
         run: node scripts/audit-photo-source-fidelity.js
 
