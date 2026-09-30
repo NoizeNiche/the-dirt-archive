@@ -4574,7 +4574,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/arceffects_klone_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arceffects_klone_001.jpg"
     },
     {
       "company": "ARC Effects",
@@ -6885,7 +6885,7 @@
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/badcat_siamesedrive_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/badcat_siamesedrive_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/badcat/siamesedrive"
     },
     {
@@ -7047,13 +7047,14 @@
       "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page": "https://www.pedal-of-the-day.com/2021/06/01/bad-penny-fx-wireless-germanium-fuzz/",
       "image_source_pages": [
         "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1552
+      "image_source_priority": 1552,
+      "image_source_url": "https://www.pedal-of-the-day.com/wp-content/uploads/2021/06/Bad-Penny-FX-Wireless-Germanium-Fuzz-2048x1536.jpg"
     },
     {
       "company": "Bad Penny FX",
@@ -34024,7 +34025,7 @@
       "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/dinosaural_cogmeister_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/dinosaural_cogmeister_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/dinosaural/cogmeister"
     },
     {
@@ -35588,7 +35589,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1526,
-      "image": null,
+      "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
       "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1550516974624-Z9PVGQM4C8Y12MB90S9H/Hoof-Reaper-Double-Fuzz.jpg?format=750w"
     },
     {
@@ -38901,7 +38902,7 @@
       "research_record": "./research/pedals/Greer Amps/Little Samson.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/greer_littlesamson_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/greer_littlesamson_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/greer/littlesamson"
     },
     {
@@ -42334,7 +42335,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/keeley-electronics/monterey-rotary-fuzz-vibe/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md",
       "research_level": "deep",
@@ -50448,7 +50449,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/dirty-diablo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md",
       "research_level": "deep",
@@ -52356,7 +52357,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/proco/solo",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/proco_solo_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/proco_solo_001.jpg"
     },
     {
       "company": "ProCo Sound",
@@ -56733,7 +56734,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/vemuram/myriad",
-      "image_source_url": "https://files.effectsdatabase.com/gear/pics/vemuram_myriad_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/vemuram_myriad_001.jpg"
     },
     {
       "company": "Vemuram",
