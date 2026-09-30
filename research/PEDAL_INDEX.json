@@ -33508,7 +33508,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/vintage-fuzz-master/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever : FX/Vintage Fuzz Master.md",
       "research_level": "deep",
@@ -39059,7 +39058,6 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/himmelstrutz-elektro-art/fitzo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/FITZO+.md",
       "research_level": "deep",
@@ -39109,7 +39107,6 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": "./assets/pedals/himmelstrutz-elektro-art/gramps/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/GRAMPS+.md",
       "research_level": "deep",
@@ -48611,7 +48608,6 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/mxr/bass-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Bass Distortion+.md",
       "research_level": "deep",
@@ -52716,7 +52712,6 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/silktone/fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Silktone/Fuzz+.md",
       "research_level": "deep",
@@ -55949,7 +55944,6 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/union-tube-transistor/tone-druid/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid+.md",
       "research_level": "deep",
