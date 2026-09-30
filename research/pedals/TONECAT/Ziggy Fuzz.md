@@ -9,7 +9,6 @@
 
 ## What this pedal is
 
-Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
 
 ## Colorways
 
@@ -53,7 +52,6 @@ This cat fuzz that thrives on instability — because sometimes chaos is exactly
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
 
 ### Verified color/finish evidence
 - No specific factory colorway information was established in the verified evidence packet.
@@ -62,7 +60,6 @@ Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when th
 - The evidence references: revision, v1.
 
 ### Verified sound evidence
-Ziggy Fuzz - Gold Special Edition $259.00 Sold Out Get notified by email when this product is in stock.
 From the Art of the Home of Tone collection , Ziggy is wild, unpredictable, and unapologetic.
 This cat fuzz that thrives on instability — because sometimes chaos is exactly what the song needs.
 
