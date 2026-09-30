@@ -1,20 +1,21 @@
 Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
-Pigtronix,Star Eater,,DEEP_REVIEW,2,recovery hard timeout exceeded,1
-Keeley Electronics,SUNS Ultravoid Fuzz,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""www.ebay.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":30}]",2
-SolidGoldFX,BETA-V Bass Preamp,,DEEP_REVIEW,4,"no usable exact-model image candidate found [{""sourceHost"":""solidgoldfx.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":60}]",1
-Stomp Under Foot,Astoria,,DEEP_REVIEW,4,recovery hard timeout exceeded,1
+Compulsive Audio,Tone Oracle,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+MadeByMike,Dual Drive,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pigtronix,Bass FAT Drive,,DEEP_REVIEW,1,recovery hard timeout exceeded,
+Stomp Under Foot,Dirt Preacher,,DEEP_REVIEW,1,recovery hard timeout exceeded,2
+Pigtronix,Star Eater,,DEEP_REVIEW,3,"no usable exact-model image candidate found [{""sourceHost"":""www.pigtronix.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":55}]",1
 Carlsbro,Suzz-Phase,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Chaos Custom Shop / Chaos FX,C.Drive,,PARKED,5,"PARKED after 5 deep-review attempts: no usable exact-model image candidate found [{""sourceHost"":""www.rockboard.de"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":10}]",2
 Collins,CSD-1 Pro Super Dust,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Compulsive Audio,Face-Off Fuzz,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Compulsive Audio,Tone Oracle,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-Darkglass Electronics,Microtubes X,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Dwarfcraft Devices,Abaddon,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-MadeByMike,Dual Drive,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+Keeley Electronics,SUNS Ultravoid Fuzz,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 MadeByMike,RAT/MUFF,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
 Maxon,RTO700,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,2
-Stomp Under Foot,Dirt Preacher,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
-VFE Pedals,Dragon Hound,,PARKED,9,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
-VFE Pedals,Dark Horse,,PARKED,10,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
-Columbus,OVD-5 Overdrive,,PARKED,15,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
-Himmelstrutz Elektro Art,Under Overdriver,,PARKED,16,"PARKED after 5 automatic photo attempts: no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":48}]",2
+SolidGoldFX,BETA-V Bass Preamp,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+Stomp Under Foot,Astoria,,PARKED,5,PARKED after 5 deep-review attempts: recovery hard timeout exceeded,1
+Darkglass Electronics,Microtubes X,,PARKED,6,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+VFE Pedals,Dragon Hound,,PARKED,10,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+VFE Pedals,Dark Horse,,PARKED,11,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+Columbus,OVD-5 Overdrive,,PARKED,16,PARKED after 5 automatic photo attempts: recovery hard timeout exceeded,2
+Himmelstrutz Elektro Art,Under Overdriver,,PARKED,17,"PARKED after 5 automatic photo attempts: no usable exact-model image candidate found [{""sourceHost"":""www.himmelstrutz.com"",""sourcePageLoaded"":false,""sourceIdentityMatch"":false,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":0}]",2
