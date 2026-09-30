@@ -116,10 +116,12 @@ def main():
                     elif approved_page and str(result.get("image_source_page") or "").strip() != approved_page:
                         ok = False
                         reason = "recovered source page does not match the manually verified primary source"
-                elif method == "exact_source_page" and v.get("rawVerifiedPageImage") is True:
-                    # An exact catalog page that passed the recovery identity gate
-                    # and yielded the page's own raw image is strong enough to enter
-                    # the automatic lane when the URL itself is model-specific.
+                elif method in {"exact_source_page", "verified_source_page"} and v.get("identityVerified") is True:
+                    # A source page that passed the exact catalog identity gate may
+                    # publish automatically when its URL is itself model-specific.
+                    # This keeps clearly identified manufacturer/retailer product
+                    # pages usable without treating generic articles or searches as
+                    # primary-photo evidence.
                     page = str(result.get("image_source_page") or "").lower()
                     pedal_tokens = [
                         token for token in re.sub(r"[^a-z0-9]+", " ", str(result.get("pedal") or "").lower()).split()
