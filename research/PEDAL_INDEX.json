@@ -26719,15 +26719,16 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5",
+      "image_source_page": "https://reverb.com/item/77051434-locobox-ovd-5-vintage-overdrive-pedal-pre-owned",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/columbus/ovd5"
+        "https://www.effectsdatabase.com/model/columbus/ovd5",
+        "https://reverb.com/item/77051434-locobox-ovd-5-vintage-overdrive-pedal-pre-owned"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 554
+      "image_source_priority": 1460
     },
     {
       "company": "Columbus",
@@ -27012,7 +27013,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "",
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
       "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle",
@@ -45149,7 +45150,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -57642,7 +57644,7 @@
       "image_source_pages": [
         "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion"
       ],
-      "image_source_page": "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion",
+      "image_source_page": "https://www.guitarworld.com/gear/effects-pedals/walrus-audio-voyager-preamp-overdrive-mkii-review",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1437
@@ -58582,7 +58584,7 @@
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal"
       ],
-      "image_source_page": "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal",
+      "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1449
