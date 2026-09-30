@@ -686,3 +686,19 @@ HG-6 High Gain Distortion Published on December 4, 2012 NuX die-cast series 2012
 
 ### Sources checked in this pass
 1. NuX HG-6 High Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/nux/2012/hg6
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+HG-6 High Gain Distortion Published on December 4, 2012 NuX die-cast series 2012 (XX-0) distortion pedal NAMM 2013 Information nuX Very high gain makes the distortion sound aggressive 3 gain stages fully discrete circuit.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+HG-6 High Gain Distortion Published on December 4, 2012 NuX die-cast series 2012 (XX-0) distortion pedal NAMM 2013 Information nuX Very high gain makes the distortion sound aggressive 3 gain stages fully discrete circuit.
+
+### Sources checked in this pass
+1. NuX HG-6 High Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/nux/2012/hg6
