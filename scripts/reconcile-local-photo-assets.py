@@ -12,6 +12,7 @@ from pathlib import Path
 INDEX = Path("research/PEDAL_INDEX.json")
 MANIFEST = Path("research/pedals/PEDAL_IMAGES.json")
 OVERRIDES = Path("research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv")
+PHOTO_HASH_QUARANTINE = Path("research/PHOTO_HASH_QUARANTINE.csv")
 ASSETS = Path("assets/pedals")
 
 
@@ -26,6 +27,29 @@ def slug(value: str) -> str:
 
 def rel(path: Path) -> str:
     return "./" + path.as_posix()
+
+
+def load_photo_hash_quarantine() -> tuple[dict[str, set[tuple[str, str]]], dict[str, set[tuple[str, str]]]]:
+    """Return quarantined image paths and SHA-1 digests keyed by Builder + Pedal."""
+    paths: dict[str, set[tuple[str, str]]] = {}
+    digests: dict[str, set[tuple[str, str]]] = {}
+    if not PHOTO_HASH_QUARANTINE.exists():
+        return paths, digests
+    try:
+        with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                key = ((row.get("Builder") or "").strip(), (row.get("Pedal") or "").strip())
+                image_path = (row.get("Image File") or "").strip().lstrip("./")
+                digest = (row.get("Blob SHA256") or "").strip().lower()
+                if not key[0] or not key[1]:
+                    continue
+                if image_path:
+                    paths.setdefault(image_path, set()).add(key)
+                if digest:
+                    digests.setdefault(digest, set()).add(key)
+    except OSError:
+        pass
+    return paths, digests
 
 
 def load_overrides() -> dict[tuple[str, str], tuple[str, str]]:
@@ -58,6 +82,18 @@ def main() -> int:
         for row in manifest
     }
     overrides = load_overrides()
+    quarantined_paths, quarantined_digests = load_photo_hash_quarantine()
+
+    # Reconciliation runs after the invalid-photo reset pass. Never resurrect a
+    # quarantined asset, and never attach an already-owned primary path to a
+    # second public identity.
+    declared_owners: dict[str, set[tuple[str, str]]] = {}
+    for existing in catalog:
+        existing_builder = str(existing.get("company") or existing.get("builder") or "").strip()
+        existing_pedal = str(existing.get("pedal") or "").strip()
+        existing_image = str(existing.get("image") or "").strip().lstrip("./")
+        if existing_builder and existing_pedal and existing_image.startswith("assets/pedals/"):
+            declared_owners.setdefault(existing_image, set()).add((existing_builder, existing_pedal))
 
     changed = 0
     repaired = []
@@ -71,10 +107,38 @@ def main() -> int:
         image = str(item.get("image") or "").strip()
         local_declared = image.startswith("./assets/pedals/") and Path(image[2:]).is_file()
         candidate = candidate_primary(builder, pedal)
+        candidate_key = (builder, pedal)
+        candidate_rel = candidate.as_posix()
 
         # Only repair a missing/non-local catalog image from a canonical primary
         # asset that already exists. Never overwrite a valid local path.
         if local_declared or not candidate.is_file():
+            continue
+
+        owners = declared_owners.get(candidate_rel, set())
+        if owners and owners != {candidate_key}:
+            print(
+                f"Skipped shared candidate asset for {builder} - {pedal}: "
+                + candidate_rel
+                + " already belongs to "
+                + ", ".join(f"{b} / {p}" for b, p in sorted(owners))
+            )
+            continue
+
+        try:
+            candidate_digest = hashlib.sha256(candidate.read_bytes()).hexdigest().lower()
+        except OSError:
+            continue
+
+        quarantined_for_identity = (
+            candidate_key in quarantined_digests.get(candidate_digest, set())
+            or candidate_key in quarantined_paths.get(candidate_rel, set())
+        )
+        if quarantined_for_identity:
+            print(
+                f"Skipped quarantined candidate asset for {builder} - {pedal}: "
+                + candidate_rel
+            )
             continue
 
         item["image"] = rel(candidate)
