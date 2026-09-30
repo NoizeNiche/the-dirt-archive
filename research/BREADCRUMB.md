@@ -686,3 +686,14 @@ The archive is in the final production-quality phase. The canonical catalog/rese
 - The photo tracker snapshot immediately before the failed cache pass was **126 researched-photo-pending**, with **94 photo-needed** and **32 deep-review**. The cleanup changes are not counted as verified publication state until a subsequent run commits and passes the photo gate.
 
 A production deployment is still pending successful validation and live browser audit. The visual/aesthetic redesign remains intentionally deferred until these functional and data-quality gates are green.
+
+ 
+## Photo finish-line lane consolidation checkpoint - September 30, 2026
+
+The photo recovery system was consolidated after reviewing the actual GitHub Actions queue. Three separate photo workflows were sharing the same concurrency group while the fast and direct lanes were scheduled every 15 minutes, producing a repeated pattern of queued/cancelled runs instead of sustained recovery throughput.
+
+The finish-line lane is now **Fast photo catch-up**. Its scheduled safety pass is hourly, it handles **120 records per bounded pass**, and its hard-case browser recovery window is **90 seconds per record** with a **900-second browser-process cap**. The fast worker already runs curated direct-photo recovery before broad exact-model recovery and can self-dispatch another bounded pass when verified photo movement lands.
+
+The separate **Curated direct photo catch-up** and broad **Cache pedal images** workers remain available for deliberate manual use but no longer compete automatically for the shared photo lane.
+
+This is an operational throughput fix, not a completion claim. The canonical photo gate remains **254 researched records without exact local photos** until a subsequent verified recovery pass changes the tracker.
