@@ -35,7 +35,7 @@ concurrency:
 jobs:
   audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -65,7 +65,7 @@ jobs:
 
       - name: Audit every public pedal detail page
         env:
-          DETAIL_AUDIT_WORKERS: 8
+          DETAIL_AUDIT_WORKERS: 12
         run: node scripts/audit-detail-pages.js
 
       - name: Install OCR engine
