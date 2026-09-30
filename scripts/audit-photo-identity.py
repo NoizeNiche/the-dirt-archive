@@ -234,8 +234,11 @@ def main() -> int:
     duplicate_flags = {}
     for digest, rows in digest_groups.items():
         identities = {(row["builder"], row["pedal"]) for row in rows}
-        pages = {row["source_page"] for row in rows if row["source_page"]}
-        if len(identities) > 1 and not (len(pages) == 1 and pages):
+        # Different pedal identities sharing identical local bytes are always
+        # worth review. A shared source page can simply mean the wrong/default
+        # image was copied from a generic catalog page, so it is not an
+        # acceptable exemption from the identity check.
+        if len(identities) > 1:
             for row in rows:
                 duplicate_flags[key(row["builder"], row["pedal"])] = {
                     "sha256": digest,
