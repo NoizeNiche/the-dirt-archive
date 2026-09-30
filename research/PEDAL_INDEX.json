@@ -5118,10 +5118,11 @@
       ],
       "source_page": "https://www.atlaspedal.com/bracton-overdrive",
       "research_record": "./research/pedals/Atlas Pedal/Bracton OverDrive.md",
-      "image_source_page": "https://www.atlaspedal.com/bracton-overdrive",
+      "image_source_page": "https://reverb.com/uk/item/92680208-atlas-pedal-bracton-overdrive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/atlas-pedal/bracton-overdrive/primary.webp",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--NBaj4vlg--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/aqwhpz7fjc5cy3fvwujr.jpg"
     },
     {
       "company": "Atlas Pedal",
@@ -17459,12 +17460,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/budda/om-overdrive/primary.webp",
       "source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
       "research_record": "./research/pedals/PRP Batch 127/budda-om-overdrive.md",
-      "image_source_page": "https://www.budda.com/news/article.cfm/action/view/id/867/cat/1/article.cfm",
+      "image_source_page": "https://reverb.com/p/budda-om-overdrive",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--suM7X1KD--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/n01ofedfmxvo7gjlfk1b.jpg"
     },
     {
       "company": "Budda",

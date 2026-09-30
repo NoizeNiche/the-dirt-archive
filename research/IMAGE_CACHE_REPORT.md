@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **1**
-- Staged browser photos converted: **11**
-- Local images retained/reorganized: **11**
+- Cached in this run: **0**
+- Staged browser photos converted: **2**
+- Local images retained/reorganized: **2**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **200**
-- Researched, photo pending: **200**
+- Remaining tracker photo backlog: **198**
+- Researched, photo pending: **198**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -14,10 +14,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Acoustic Imaginearing - QuantumDrive -> `./assets/pedals/acoustic-imaginearing/quantumdrive/primary.webp`
 
 ## Still external / failed
 
