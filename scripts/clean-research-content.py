@@ -345,11 +345,31 @@ def weak_visible_sound(markdown: str) -> bool:
     return len(text) < 90 or insufficient or classification_only
 
 
+MODEL_IDENTITY_STOPWORDS = {
+    "pedal", "effect", "effects", "guitar", "bass", "fuzz", "overdrive",
+    "distortion", "drive", "booster", "boost", "preamp", "multi", "series",
+    "version", "model", "mk", "mkii", "mki", "v1", "v2", "v3",
+}
+
+
+def model_identity_supported(candidate: str, pedal: str) -> bool:
+    visible_words = set(re.findall(r"[a-z0-9]+", markdown_visible(candidate).casefold()))
+    pedal_words = [
+        word for word in re.findall(r"[a-z0-9]+", pedal.casefold())
+        if word not in MODEL_IDENTITY_STOPWORDS and (len(word) >= 2 or word.isdigit())
+    ]
+    if not pedal_words:
+        normalized_pedal = re.sub(r"[^a-z0-9]+", " ", pedal.casefold()).strip()
+        normalized_visible = re.sub(r"[^a-z0-9]+", " ", markdown_visible(candidate).casefold()).strip()
+        return bool(normalized_pedal and normalized_pedal in normalized_visible)
+    return all(word in visible_words for word in pedal_words)
+
+
 def strong_verified_description(candidate: str, pedal: str) -> bool:
     visible = markdown_visible(candidate)
     return (
         len(visible) >= 90
-        and pedal.casefold() in visible.casefold()
+        and model_identity_supported(candidate, pedal)
         and not re.search(
             r"\b(?:is|are)\s+(?:cataloged|listed|classified)\s+as\b",
             visible,
@@ -357,7 +377,7 @@ def strong_verified_description(candidate: str, pedal: str) -> bool:
         )
         and bool(
             re.search(
-                r"\b(?:is|are|designed|developed|delivers|offers|features|combines|uses|includes)\b",
+                r"\b(?:is|are|designed|developed|delivers|offers|features|combines|uses|includes|intended|identifies|dates|documents)\b",
                 visible,
                 re.I,
             )
