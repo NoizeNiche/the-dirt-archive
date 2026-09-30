@@ -406,8 +406,24 @@ def fallback_verified_sound(markdown: str) -> str:
             ):
                 kept.append(visible)
         recovered = "\n".join(kept[:4]).strip()
-        if recovered:
+        if recovered and strong_verified_sound(recovered):
             return recovered
+
+    alternate = substantive_section_excerpt(
+        markdown,
+        (
+            "Sound / behavior",
+            "Sound & behavior",
+            "Tonal character",
+            "Tone",
+            "Audio",
+            "Performance",
+            "Overview",
+            "Description",
+        ),
+    )
+    if alternate and strong_verified_sound(alternate):
+        return alternate
     return fallback_sound_disclosure(markdown)
 
 
@@ -512,10 +528,47 @@ def sanitize_visible_sections(markdown: str) -> str:
         updated = replace_section_body(updated, heading, replacement)
     return updated
 
+def substantive_section_excerpt(markdown: str, headings: tuple[str, ...]) -> str:
+    for heading in headings:
+        raw = section_text(markdown, heading)
+        if not raw:
+            continue
+        candidate = candidate_lines(raw)
+        if len(candidate) < 90 or obvious_scrape_payload(candidate):
+            continue
+        # Keep the public summary compact while preserving the source wording.
+        sentences = re.split(r"(?<=[.!?])\s+", candidate)
+        compact = " ".join(sentences[:3]).strip()
+        if len(compact) > 700:
+            compact = compact[:700].rsplit(" ", 1)[0].rstrip(" ,;:") + "."
+        if len(compact) >= 90:
+            return compact
+    return ""
+
+
 def fallback_verified_description(markdown: str) -> str:
     builder, pedal, catalog_type = archive_catalog_identity(markdown)
     if not builder or not pedal:
         return ""
+    excerpt = substantive_section_excerpt(
+        markdown,
+        (
+            "Circuit / architecture",
+            "Circuit / controls",
+            "Controls",
+            "Features",
+            "Construction",
+            "Overview",
+            "Description",
+            "Versions and history",
+            "History",
+        ),
+    )
+    if excerpt:
+        return (
+            f"{builder}'s {pedal} is documented as a {catalog_type} model. "
+            f"{excerpt}"
+        )
     return (
         f"{builder}'s {pedal} is documented in the current archive evidence as a "
         f"{catalog_type} model. The reviewed source set establishes the model identity "
