@@ -77,6 +77,10 @@ Overdrive can be powered by a 9V battery or an adapter from 9 to 12 V DC, for us
 3. https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop/big/84-6_germanium-overdrive.jpg?ff=1&x=1024&y=768&q=85&ts=6824b137&sg=161563f2: https://cdn.myshoptet.com/usr/www.b85audio.cz/user/shop/big/84-6_germanium-overdrive.jpg?ff=1&x=1024&y=768&q=85&ts=6824b137&sg=161563f2
 4. B85 Audio - Kompletuji. #b85audio #germaniumoverdrive...: https://www.facebook.com/B85audio/posts/kompletuji-b85audio-germaniumoverdrive-basspedals-bassguitar-bassoverdrive-germa/295369492439022/
 
+## What this pedal is
+
+B85 Audio's Germanium Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. B85 Audio — Germanium Overdrive: https://www.b85audio.cz/germanium-overdrive/

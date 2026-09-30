@@ -24,6 +24,10 @@ Phattie Overdrive Previous Her Majesty Drive/Fuzz Next Blood Drive Overdrive Pha
 Capable of light drive to quite heavy grind, it cleans up very, very well from your guitar's volume control.
 There's plenty of gain on tap to satisfy most rock styles, and it's equally at home as a primary rhythm sound, boosting an already dirty amp, or stacking with other dirt pedals.
 
+## What this pedal is
+
+Byron Amplification's Phattie Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

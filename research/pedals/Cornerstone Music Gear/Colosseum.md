@@ -44,6 +44,10 @@ Cornerstone describes the Colosseum as a community pedal rather than a literal c
 - Guitar World exact-model coverage: https://www.guitarworld.com/news/cornerstone-colosseum-pedal
 - Cornerstone official site: https://www.cornerstonemusicgear.com/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Cornerstone Music Gear official Colosseum material

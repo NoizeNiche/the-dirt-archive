@@ -55,6 +55,10 @@ Brownie is voiced for saturated Marshall-style high gain, with strong bass/attac
 
 Effects Database is the primary exact-model reference and explicitly describes Brownie as licensed BSIAB, with documented FET variants in the production/technical history. The archive scopes device names to documented examples rather than treating one substitution as universal. [1]
 
+## What this pedal is
+
+CMATMODS's Brownie is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CMATMODS Brownie: https://www.effectsdatabase.com/model/cmatmods/brownie

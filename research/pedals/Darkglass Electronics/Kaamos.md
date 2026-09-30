@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Darkglass Electronics's Kaamos is cataloged as a distortion pedal.
+Darkglass Electronics's Kaamos is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Darkglass Electronics's Kaamos is cataloged as a distortion pedal.
 
 ## Sound
 
-Darkglass Electronics Kaamos - Bass Octaver & Distortion
+The reviewed evidence does not establish a reliable model-specific sound description for Kaamos. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

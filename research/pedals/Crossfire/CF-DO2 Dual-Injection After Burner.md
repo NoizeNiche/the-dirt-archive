@@ -35,7 +35,7 @@ Crossfire's CF-DO2 Dual-Injection After Burner is cataloged in the archive as a 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for CF-DO2 Dual-Injection After Burner. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

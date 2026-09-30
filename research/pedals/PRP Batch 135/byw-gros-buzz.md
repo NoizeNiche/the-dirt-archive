@@ -31,6 +31,10 @@ BYW describes the Gros Buzz as using **five bipolar transistors** and **two phas
 The BUZZ, ptit or gros, gives you a super high gain fuzz sound, insane vintage distortion, a thick and mushy sound.
 Built around 5 bipolar transistors as well as two phases of soft clipping diodes, the amplitude of the signal thus generated is increased to a point of extreme saturation and coloration.
 
+## What this pedal is
+
+BYW Audio's Gros Buzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. BYW Audio product page: https://bywaudio.com/index.php/product/gros-buzz/

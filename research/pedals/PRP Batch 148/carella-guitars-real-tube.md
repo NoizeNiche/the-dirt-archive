@@ -15,6 +15,10 @@
   - https://recnmix.accordo.it/article/viewPub/4430?co=1
   - https://www.i-boutik.com/www.i-boutik.com/achat/index.php/Reglages-d-effets-speciaux.html
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

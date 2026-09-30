@@ -59,6 +59,10 @@ B85 Audio describes this model as more natural, dynamic and musical than a conve
 
 B85 Audio's current product description was checked directly. It explicitly states the Tube Screamer 808 circuit basis, two-band EQ and germanium diodes and lists the control/power/enclosure information. [1]
 
+## What this pedal is
+
+B85 Audio's Germanium Overdrive Deluxe is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. B85 Audio — Germanium Overdrive Deluxe: https://www.b85audio.cz/germanium-overdrive-deluxe/

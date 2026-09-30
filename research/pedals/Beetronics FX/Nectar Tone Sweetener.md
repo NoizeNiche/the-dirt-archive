@@ -55,6 +55,10 @@ Drive mode covers smooth breakup into fuller overdrive. Fuzz mode is denser and 
 
 Beetronics' official Nectar page, manuals page and independent demos were cross-checked. The evidence supports the three-knob Drive/Fuzz platform and 9V/true-bypass implementation. [1][2][3]
 
+## What this pedal is
+
+Beetronics FX's Nectar Tone Sweetener is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Nectar Tone Sweetener: https://www.beetronicsfx.com/products/nectar-tone-sweetener-p-babee-series

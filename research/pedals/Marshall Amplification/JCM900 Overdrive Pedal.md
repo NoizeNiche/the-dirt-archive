@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-JCM900 Overdrive Pedal - Guitar pedals
+Marshall Amplification's JCM900 Overdrive Pedal is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Skreddy Pedals™ BC239 FUZZ is a throwback to the late "rams head" era.
+Skreddy Pedals's BC239 Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

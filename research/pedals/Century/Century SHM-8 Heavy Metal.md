@@ -58,6 +58,10 @@ The SHM-8 follows the saturated, mid-shaped high-gain character associated with 
 
 Effects Database's exact-model Century SHM-8 record was checked directly. It supplies the historical dating, Korean manufacture, four-control layout and PSK/HM-2 family context. [1]
 
+## What this pedal is
+
+Century's Century SHM-8 Heavy Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Century SHM-8 Heavy Metal: https://www.effectsdatabase.com/model/century/sxxx/shm8

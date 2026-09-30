@@ -30,6 +30,10 @@ That is a 6 knobs function distorsion: the basic 3 bands EQ, Treble, Mid and Bas
 Because transistor pedals have only one sound and one tone, I built that pedal in order to allow diverse variations.
 You will have to fine tune it to get the tone you want.
 
+## What this pedal is
+
+BYW Audio's Blacky' Blower is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. BYW Audio product page: https://bywaudio.com/index.php/product/blacky-blower/

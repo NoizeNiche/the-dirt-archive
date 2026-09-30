@@ -51,6 +51,10 @@ Condor can act as EQ, preamp, overdrive and resonant filter. The sweepable mids 
 
 Effects Database and MusicRadar's 2018 introduction were cross-checked. The sources support the analog EQ/pre/filter architecture and the documented clean/overdrive/filter functionality. [1][2]
 
+## What this pedal is
+
+Chase Bliss Audio's Condor - Analog EQ / Pre / Filter is documented in the current archive evidence as a EQ / Filter / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Chase Bliss Condor: https://www.effectsdatabase.com/model/chasebliss/condor

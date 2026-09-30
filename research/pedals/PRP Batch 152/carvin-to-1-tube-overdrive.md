@@ -16,6 +16,10 @@
 - **Sources checked:**
   - https://reverb.com/en-pt/item/603790-carvin-to-1-tube-overdrive-distortion-pedal
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

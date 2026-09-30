@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Pettyjohn Electronics's GOLD MKII is cataloged as a Overdrive pedal.
+Pettyjohn Electronics's GOLD MKII is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

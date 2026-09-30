@@ -40,6 +40,10 @@ The earlier record contained a large retailer/product-page scrape. That unrelate
 - **2024 secondary listing:** Michelangelo Gold Edition 2024
 - **Unique circuit change:** Not established
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Michelangelo Gold. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Michelangelo Gold.

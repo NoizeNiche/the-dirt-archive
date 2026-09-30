@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-This is where the multidrive shines.
+Empress Effects's Multidrive is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -35,6 +35,10 @@ Vatra is a named signature product rather than a generic TS-style overdrive entr
 - **Observed version reference:** V2
 - **Documented diode term:** LED
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Vatra. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Vatra.

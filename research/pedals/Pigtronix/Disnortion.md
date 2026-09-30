@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Pigtronix's Disnortion is cataloged as a distortion / fuzz / overdrive pedal.
+Pigtronix's Disnortion is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -49,6 +49,10 @@ The model is securely categorized as a distortion pedal, but the accessible exac
 
 Effects Database's 2017 release index was checked directly. It establishes the model identity and release timing but does not provide enough technical information for additional claims. [1]
 
+## What this pedal is
+
+Charlie Paolo Custom Effects's Toothaker Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — weekly 2017 release index: https://www.effectsdatabase.com/updates/weekly

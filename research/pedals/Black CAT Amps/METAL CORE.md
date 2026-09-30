@@ -18,6 +18,10 @@ Black CAT's official company history states that the pedal was developed beginni
 
 The official historical page does not expose a complete control legend, schematic or semiconductor list in the surviving text checked here. Those details remain unresolved until exact-model documentation is found.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Black CAT Amps company history: https://blackcatamps.com/about-us

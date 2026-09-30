@@ -22,6 +22,10 @@ The reviewed manufacturer catalog confirms the model and supplies an exact-model
 Byron Amplification's Cabeza Borradora Octave Fuzz is cataloged as a fuzz pedal.
 Pedals — Byron Amplification: Builder: Byron Amplification Catalog type: Fuzz Identity: Octave fuzz with a dedicated octave switch.
 
+## What this pedal is
+
+Byron Amplification's Cabeza Borradora Octave Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

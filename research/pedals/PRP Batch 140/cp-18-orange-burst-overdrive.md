@@ -17,6 +17,10 @@
 - **Research confidence:** High for v1/v2 naming, controls and broad topology; high for the traced-unit component evidence; medium for production-wide circuit consistency.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp18 ; https://www.freestompboxes.org/viewtopic.php?t=23061 ; https://www.bestbuy.ca/en-ca/product/caline-cp-18-orange-burst-overdrive-xotic-bb-preamp-clone-pedal-true-bypass/15760454
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

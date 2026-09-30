@@ -68,6 +68,10 @@ The FX-RAP-5 is designed for layering multiple analog-style effects rather than 
 
 Effects Database, Premier Guitar and a surviving 2011 user report were cross-checked. The sources confirm the FX-RAP-5 as an AXL multi-effect with analog echo, chorus, distortion/EQ, tube overdrive and tuner. The archive keeps user-reported control/routing details labeled as such and does not infer internal semiconductor details. [1][2][3]
 
+## What this pedal is
+
+AXL's FX-RAP-5 Multi-Effects Pedal is documented in the current archive evidence as a Distortion / Overdrive / Multi-effect model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — AXL FX-RAP-5: https://www.effectsdatabase.com/model/axl/rap5

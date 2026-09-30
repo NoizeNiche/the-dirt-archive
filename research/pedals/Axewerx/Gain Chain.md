@@ -62,6 +62,10 @@ Gain Chain is intended to move from strong boost into crunchy overdrive and more
 
 Axewerx's Gain Chain product documentation was cross-checked with its current shop information. The builder explicitly documents the 2N5088 transistor pair and BAT-41/red-LED clipping alternatives. [1][2]
 
+## What this pedal is
+
+Axewerx's Gain Chain is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Axewerx — Gain Chain: https://axewerx.com/shop/products/pedals/the-gain-chain.html

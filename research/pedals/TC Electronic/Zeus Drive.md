@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-TC Electronic's Zeus Drive is cataloged as an analog overdrive. The verified product listing documents Drive, Volume, and Treble controls, a Fat switch, and selectable True Bypass / Buffered Bypass. [1]
+TC Electronic's Zeus Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

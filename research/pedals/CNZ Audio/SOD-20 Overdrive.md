@@ -57,6 +57,10 @@ Warm mode is intended to keep the overdrive smoother and lower-gain, while Hot r
 
 CNZ Audio's exact-model product page was checked directly and provides the control map and electrical specification. [1]
 
+## What this pedal is
+
+CNZ Audio's SOD-20 Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. CNZ Audio — SOD-20 Overdrive: https://www.cnzaudio.com/products/sod-20

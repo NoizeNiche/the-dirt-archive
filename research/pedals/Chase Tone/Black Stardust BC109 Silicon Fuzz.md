@@ -52,6 +52,10 @@ Chase Tone describes Black Stardust as clear and harmonically complex, covering 
 
 The Chase Tone product page directly supplies the BC109 device identity, four-control layout and Headroom/Bias behavior. No additional semiconductor claims are inferred. [1]
 
+## What this pedal is
+
+Chase Tone's Black Stardust BC109 Silicon Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Black Stardust BC109 Silicon Fuzz: https://chasetone.com/chase-tone-black-stardust-bc109-silicon-fuzz/

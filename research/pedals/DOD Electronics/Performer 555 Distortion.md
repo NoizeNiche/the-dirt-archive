@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The **DOD Performer 555 Distortion** is a historical DOD **Performer-series distortion**.
+DOD Electronics's Performer 555 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

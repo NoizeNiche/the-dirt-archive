@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Decibelics's Angry Swede V2 is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - + Dimensions with jacks: L 95mm (3.74in) x W 49mm (1.92in) – Current Draw: 18mA + Accessories included: Black Angry Swede customized shipping box, 4 Rubber Feet, English Manual.

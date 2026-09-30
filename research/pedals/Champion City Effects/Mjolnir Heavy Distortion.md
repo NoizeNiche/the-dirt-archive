@@ -54,6 +54,10 @@ Mjolnir is designed for thick, heavy distortion with strong low-frequency author
 
 RockBoard PedalPedia's exact-model record was checked directly. It establishes the LM386 active device and the low-tuned heavy-distortion design target. [1]
 
+## What this pedal is
+
+Champion City Effects's Mjolnir Heavy Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — Mjolnir Heavy Distortion: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Mjolnir-Heavy-Distortion/68976707/

@@ -18,6 +18,10 @@
   - https://www.effectsdatabase.com/model/shelter/e10/e10mt
   - https://www.harmonycentral.com/forums/topic/1605247-worlds-largest-pedalboard/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

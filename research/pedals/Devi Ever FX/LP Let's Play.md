@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Devi Ever FX's LP Let's Play is cataloged as an overdrive pedal.
+Devi Ever FX's LP Let's Play is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

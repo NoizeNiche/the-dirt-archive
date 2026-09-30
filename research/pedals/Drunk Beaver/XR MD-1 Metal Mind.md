@@ -47,6 +47,10 @@ The existing evidence references **V7**. That may indicate a revision or current
 - **Version reference:** V7
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for XR MD-1 Metal Mind. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for XR MD-1.

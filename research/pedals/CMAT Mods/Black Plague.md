@@ -66,6 +66,10 @@ CMATMODS described Black Plague as thick, high-gain distortion with substantial 
 
 The exact Black Plague Reverb listing and Effects Database record were cross-checked. The evidence establishes the LM308N architecture, three-control layout, three-way voicing and the builder's statement that Ratified is the same circuit in a revised enclosure/control format. [1][2]
 
+## What this pedal is
+
+CMATMODS's Black Plague is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Reverb — CMATMODS The Black Plague: https://reverb.com/item/14430992-cmatmods-the-black-plague

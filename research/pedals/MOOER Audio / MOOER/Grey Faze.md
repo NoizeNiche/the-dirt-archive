@@ -17,6 +17,10 @@ The Dirt Archive currently catalogs **Grey Faze** by **MOOER Audio / MOOER** as 
 
 - No source page is recorded in the current catalog metadata.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Grey Faze. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived.

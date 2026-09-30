@@ -18,6 +18,10 @@
   - https://www.zzounds.com/item--CSTCRGOD
   - https://www.effectsdatabase.com/updates/weekly/20100308
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

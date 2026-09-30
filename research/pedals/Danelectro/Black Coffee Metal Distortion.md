@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Danelectro DJ-21 Black Coffee Metal Distortion Pedal
+Danelectro's Black Coffee Metal Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

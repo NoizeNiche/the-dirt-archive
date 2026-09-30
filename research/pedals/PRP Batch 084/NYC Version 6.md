@@ -13,6 +13,10 @@ Recreation of the Big Muff Version 6 / Circuit 3034 variant manufactured around 
 
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

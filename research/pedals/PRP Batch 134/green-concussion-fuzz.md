@@ -20,6 +20,10 @@ Green Concussion Fuzz Previous Jabberwocky Distortion Blem Next POW!
 The Green Concussion is our take on the awesome Russian version of this pedal, with an added Punch knob that boosts the midrange perfectly to simulate a stacked overdrive pedal, so you can get those tones in one box.
 Transistors have been hand selected for gain and to add just the right amount of smoothness.
 
+## What this pedal is
+
+Byron Amplification's Green Concussion Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

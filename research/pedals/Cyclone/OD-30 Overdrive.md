@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Cyclone's OD-30 Overdrive is cataloged in the archive as a Overdrive pedal.
+Cyclone's OD-30 Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Cyclone's OD-30 Overdrive is cataloged in the archive as a Overdrive pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for OD-30 Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

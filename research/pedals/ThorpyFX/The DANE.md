@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-THE DANE MKI THE DANE is a creation designed to meet the exacting needs of Danish Pete.
+ThorpyFX's The DANE is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

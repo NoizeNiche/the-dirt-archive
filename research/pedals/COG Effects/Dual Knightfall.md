@@ -62,6 +62,10 @@ Each side can be used independently or stacked, while the clipping selector chan
 
 COG's Dual Knightfall product page and discontinued-pedal archive were cross-checked. The evidence establishes the two-channel architecture, three clipping choices and successor relationship to Knightfall 66. [1][2]
 
+## What this pedal is
+
+COG Effects's Dual Knightfall is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Dual Knightfall: https://www.cogeffects.co.uk/dual-knightfall.php

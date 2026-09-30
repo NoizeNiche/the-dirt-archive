@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Page 2 The Supro Fuzz is equipped with a 2 band independent EQ.
+Supro's Supro Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

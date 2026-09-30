@@ -38,6 +38,10 @@ Those listening descriptions are reviewer observations, not laboratory measureme
 - **Observed version reference:** MkII
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Secret Sauce. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Secret Sauce.

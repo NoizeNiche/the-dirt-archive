@@ -58,6 +58,10 @@ CMATMODS describes Tube Slammer as warm crunch with substantial bass, focused hi
 
 Effects Database was checked against a historical V3 Reverb record and surviving user discussion. The sources establish the TS-808 lineage, asymmetrical clipping, three-control interface and the documented V1/V2/V3 history. [1][2][3]
 
+## What this pedal is
+
+CMATMODS's Tube Slammer is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CMATMODS Tube Slammer: https://www.effectsdatabase.com/model/cmatmods/tubeslammer

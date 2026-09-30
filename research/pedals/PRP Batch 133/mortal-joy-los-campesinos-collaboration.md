@@ -38,6 +38,10 @@ The DRIVE side is a transistor overdrive with low- and high-gain options. The TA
 
 Buzzing Bugs Audio Devices's Mortal Joy Los Campesinos! Collaboration is cataloged as an overdrive pedal.
 
+## What this pedal is
+
+Buzzing Bugs Audio Devices's Mortal Joy - Los Campesinos! Collaboration is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/mortaljoy

@@ -37,7 +37,7 @@ Menatone - Custom Shop Blue Collar PTP – LEP INTERNATIONAL: https://lep-intern
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Blue Collar PTP. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

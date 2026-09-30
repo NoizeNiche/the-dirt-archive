@@ -47,6 +47,10 @@ The exact-model builder index classifies **The Ion** as a fuzz pedal. No additio
 
 This pass upgrades the record from a catalog-only placeholder to an evidence-backed historical record using the archived exact-model builder index and its attributed Devi Ever timeline. The evidence ceiling is intentionally preserved: undocumented technical details remain unknown.
 
+## What this pedal is
+
+Devi Ever FX's The Ion is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Devi Ever FX builder index: https://www.effectsdatabase.com/model/deviever

@@ -25,6 +25,10 @@ The Level control ranges from dirty boost into full distortion, while the separa
 
 - 9V DC, center-negative.
 
+## What this pedal is
+
+Bulinski Effect Pedals's Hard 80 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Bulinski Effect Pedals Hard 80 manual: https://bulinskipedals.com/manuals/hard-80-distortion-effect-pedal-manual.pdf

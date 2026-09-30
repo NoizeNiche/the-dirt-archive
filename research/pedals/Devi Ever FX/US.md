@@ -47,6 +47,10 @@ A separate layout-analysis source documents a community recreation of the US Fuz
 
 This pass anchors the entry to the exact-model Reverb record and preserves third-party layout analysis as separate, non-factory context. Undocumented production details remain unknown.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for US. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Sources checked
 
 1. Reverb - Devi Ever : FX US Fuzz: https://reverb.com/p/devi-ever-fx-us-fuzz

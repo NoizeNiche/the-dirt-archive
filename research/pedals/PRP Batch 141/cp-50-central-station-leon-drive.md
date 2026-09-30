@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity and controls; medium for the OCD-style lineage; low for internal component details.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp50 ; https://stompboxsteals.blogspot.com/2018/08/overdrive-caline-cp-50-central-station.html
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

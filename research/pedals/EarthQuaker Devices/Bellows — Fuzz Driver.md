@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-EarthQuaker Devices's Bellows — Fuzz Driver is cataloged as a fuzz pedal.
+EarthQuaker Devices's Bellows — Fuzz Driver is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

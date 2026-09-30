@@ -31,6 +31,10 @@ The earlier record contained large blocks of unrelated Guitar World CSS and site
 
 Dophix positions Medici explicitly as a fuzz product rather than as an Overdrive or Distortion record. The archive therefore keeps **Fuzz** as its primary taxonomy.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Medici. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Medici.

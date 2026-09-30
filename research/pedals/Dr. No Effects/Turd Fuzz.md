@@ -41,6 +41,10 @@ The previous record contained unrelated storefront/category text and a large blo
 - **Instrument positioning:** Electric guitar and bass
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Turd Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Turd Fuzz.

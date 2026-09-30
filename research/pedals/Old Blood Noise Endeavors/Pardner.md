@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Pardner Fuzz vs Alpha Haunt The Alpha Haunt is the natural OBNE sibling to consider.
+Old Blood Noise Endeavors's Pardner is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

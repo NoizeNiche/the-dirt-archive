@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Maxon's Overdrive Pro Plus (OD-9Pro+) is cataloged as a distortion / overdrive pedal.
+Maxon's Overdrive Pro Plus (OD-9Pro+) is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Maxon's Overdrive Pro Plus (OD-9Pro+) is cataloged as a distortion / overdrive p
 
 ## Sound
 
-OVERDRIVE PRO PLUS (OD-9Pro+) – Godlyke, Inc.
+The reviewed evidence does not establish a reliable model-specific sound description for Overdrive Pro Plus (OD-9Pro+). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

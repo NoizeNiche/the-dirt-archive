@@ -57,6 +57,10 @@ The Preamp is intended to behave more like a gain stage in an amplifier than a f
 
 Benson's official Preamp page and exact CME example were cross-checked. The sources support the Chimera-derived FET architecture, four controls and 9V/battery/50mA specification. [1][2]
 
+## What this pedal is
+
+Benson Amps's Preamp Pedal is documented in the current archive evidence as a Overdrive / Fuzz / Preamp model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Benson Amps — Preamp: https://www.bensonamps.com/guitarpedals/preamp

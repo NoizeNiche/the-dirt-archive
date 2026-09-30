@@ -40,6 +40,10 @@ The previous record contained unrelated Dr. Z amplifier navigation and site-wide
 - **Power:** 9V DC or 9V battery, according to the existing product evidence
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Z-Drive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Z-Drive.

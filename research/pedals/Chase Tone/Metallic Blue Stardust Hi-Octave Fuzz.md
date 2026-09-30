@@ -51,6 +51,10 @@ Intensity moves from warmer, cleaner octave emphasis into more saturated fuzz. C
 
 Chase Tone's exact product page was cross-checked with Guitar Pedal X's documented component information. The archive scopes the 2N3906 claim to the independent evidence rather than presenting it as a full factory BOM. [1][2]
 
+## What this pedal is
+
+Chase Tone's Metallic Blue Stardust Hi-Octave Fuzz is documented in the current archive evidence as a Fuzz / Octave model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Metallic Blue Hi-Octave: https://chasetone.com/metallic-blue-hi-octave/

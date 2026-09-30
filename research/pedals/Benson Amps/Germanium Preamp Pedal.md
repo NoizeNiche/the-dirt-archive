@@ -56,6 +56,10 @@ Benson positions the Germanium Preamp as a slightly lower-gain but richer-feelin
 
 Benson's official Germanium Preamp page was checked with an independent Thomann listing. Both confirm the Germanium Preamp identity and the four-control platform; the builder source establishes the modified first gain-stage architecture. [1][2]
 
+## What this pedal is
+
+Benson Amps's Germanium Preamp Pedal is documented in the current archive evidence as a Overdrive / Fuzz / Preamp model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Benson Amps — Germanium Preamp: https://www.bensonamps.com/guitarpedals/germaniumpreamp

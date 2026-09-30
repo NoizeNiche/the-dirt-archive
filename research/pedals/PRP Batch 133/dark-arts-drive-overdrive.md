@@ -25,6 +25,10 @@ Compared to our popular Lil’ Shaman, which is meant to emulate a mid hump driv
 But it also is less compressed and super dynamic.
 Creating dynamic drives is our passion.
 
+## What this pedal is
+
+Byron Amplification's Dark Arts Drive Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

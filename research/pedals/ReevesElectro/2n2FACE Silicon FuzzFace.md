@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-I build these fuzz pedals in my garden workshop in Northamptonshire UK.
+ReevesElectro's 2n2FACE Silicon FuzzFace is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+TC Electronic's Eyemaster Metal Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - EYEMASTER brings back elemental, primordial gain – the kind of raw gain by which empires are either built or shattered!

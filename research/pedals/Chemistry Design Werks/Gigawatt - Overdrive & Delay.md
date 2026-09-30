@@ -54,6 +54,10 @@ The model combines overdrive and delay, but the available exact-model record is 
 
 Effects Database's 2018 weekly catalog record was checked directly. It securely identifies the model and combined effect type but does not expose enough technical information for additional claims. [1]
 
+## What this pedal is
+
+Chemistry Design Werks's Gigawatt - Overdrive & Delay is documented in the current archive evidence as a Overdrive / Delay model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — 2018 week 39 catalog: https://www.effectsdatabase.com/blog/discofreq?page=47

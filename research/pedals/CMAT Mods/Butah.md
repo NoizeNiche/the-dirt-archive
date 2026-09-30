@@ -55,6 +55,10 @@ Butah sits on the lower-gain side of the drive spectrum, moving from slight grit
 
 Effects Database and RockBoard PedalPedia were cross-checked. The sources agree on the three-control interface, analog overdrive function, 9V center-negative supply and approximately 8mA draw. [1][2]
 
+## What this pedal is
+
+CMATMODS's Butah is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CMATMODS Butah: https://www.effectsdatabase.com/model/cmatmods/butah

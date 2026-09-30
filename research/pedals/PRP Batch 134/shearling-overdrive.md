@@ -20,6 +20,10 @@ Beautiful "on the edge" overdrive tones, but at higher gain settings it's capabl
 The tone control is special in that it boosts the upper mids for more punch.
 We've put some Byron special sauce in there in addition, for a special drive pedal that is a nice change from the dead horses generally being beaten right now.
 
+## What this pedal is
+
+Byron Amplification's Shearling Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

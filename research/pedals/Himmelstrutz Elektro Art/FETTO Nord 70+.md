@@ -37,7 +37,7 @@ Himmelstrutz Elektro Art's FETTO Nord 70+ is cataloged in the archive as a Overd
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for FETTO Nord 70+. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

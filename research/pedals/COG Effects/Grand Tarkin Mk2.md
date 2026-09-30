@@ -74,6 +74,10 @@ Sustain, Tone and Mids controls are all up to the top, and the Blend and Level c
 1. Cog Effects Grand Tarkin Mk2 - Bass Fuzz | Effects Database: https://www.effectsdatabase.com/model/cog/tarkin/grand/mk2
 2. Cog Effects Revamps Tarkin and Grand Tarkin Fuzz Pedals – No Treble: https://www.notreble.com/buzz/2016/04/21/cog-effects-revamps-tarkin-and-grand-tarkin-fuzz-pedals/
 
+## What this pedal is
+
+COG Effects's Grand Tarkin Mk2 is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Grand Tarkin Mk2: https://www.effectsdatabase.com/model/cog/tarkin/grand/mk2

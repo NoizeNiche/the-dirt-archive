@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-IdiotBox Effects's No Moon 2 is cataloged as a distortion / fuzz / overdrive pedal.
+IdiotBox Effects's No Moon 2 is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

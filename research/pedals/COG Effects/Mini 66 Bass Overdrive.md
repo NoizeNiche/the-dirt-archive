@@ -57,6 +57,10 @@ Fat changes the low-frequency foundation before gain, while Cut shapes the high-
 
 Effects Database and Guitar Interactive's release coverage were cross-checked. Both support the Mini 66's one-channel relationship to Knightfall 66 and its Fat/Cut control system. [1][2]
 
+## What this pedal is
+
+COG Effects's Mini 66 Bass Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — COG Mini 66: https://www.effectsdatabase.com/model/cog/mini66

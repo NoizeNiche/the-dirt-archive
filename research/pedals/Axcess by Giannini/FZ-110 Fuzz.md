@@ -55,6 +55,10 @@ The teardown author described the pedal as usable but noted that it did not clea
 
 Effects Database, Giannini catalog and the physical 2010 teardown were cross-checked. The teardown is the key evidence for J201/uA741/red-LED clipping, while Giannini sources establish the exact model and control/power format. [1][2]
 
+## What this pedal is
+
+Axcess by Giannini's FZ-110 Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Axcess by Giannini FZ-110: https://www.effectsdatabase.com/model/giannini/axcess/fz110

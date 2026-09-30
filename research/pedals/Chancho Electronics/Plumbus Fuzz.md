@@ -47,6 +47,10 @@ A detailed model-specific sound description is intentionally deferred rather tha
 
 The archive's current evidence does not meet the threshold for adding component or topology claims. No speculative information has been promoted into the canonical record.
 
+## What this pedal is
+
+Chancho Electronics's Plumbus Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 - Existing archive exact-identity census only.

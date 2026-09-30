@@ -65,6 +65,10 @@ The transistor selector is intended to change gain and response, while external 
 
 The Pink Face builder page, exact Reverb reference and Classic Series documentation were cross-checked. The archive now preserves the selector's actual transistor combinations and keeps the linked old version unresolved because the source does not document its electronic differences. [1][2]
 
+## What this pedal is
+
+Bad Pixel Pedals's Germanium Pink Face Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Bad Pixel Pedals — Pink Face Germanium: https://badpixel.weebly.com/pink-face-germanium.html

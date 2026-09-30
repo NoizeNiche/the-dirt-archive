@@ -56,6 +56,10 @@ Chase Tone describes a smooth clean range through overdrive and rubber-band-like
 
 Chase Tone's Red Stardust product page was checked directly. It establishes the Germanium Fuzz Face-style identity, limited-production finish and external bias/temperature response. [1]
 
+## What this pedal is
+
+Chase Tone's Red Stardust Germanium Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Red Stardust Germanium Fuzz: https://chasetone.com/red-stardust-germanium-fuzz/

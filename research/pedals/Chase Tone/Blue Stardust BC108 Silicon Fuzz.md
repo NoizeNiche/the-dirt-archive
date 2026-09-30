@@ -51,6 +51,10 @@ The Blue Stardust is voiced from glassy/clean-ish Fuzz Face response through sin
 
 Chase Tone's official Blue Stardust page and Effects Database record agree on the BC108C device, four-control layout and expanded Headroom/Bias functions. [1][2]
 
+## What this pedal is
+
+Chase Tone's Blue Stardust BC108 Silicon Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Blue Stardust BC108 Silicon Fuzz: https://chasetone.com/chase-tone-blue-stardust-bc108-silicon-fuzz/

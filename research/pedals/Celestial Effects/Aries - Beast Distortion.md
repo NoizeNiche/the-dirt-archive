@@ -64,6 +64,10 @@ Aries is designed to function as boost, overdrive or distortion. The first stage
 
 Celestial Effects' Aries owner's manual and independent Pedal Finder/Premier Guitar coverage were cross-checked. The manual provides the detailed signal architecture and clipping method; independent coverage confirms the six-control layout and product identity. [1][2][3]
 
+## What this pedal is
+
+Celestial Effects's Aries - Beast Distortion is documented in the current archive evidence as a Distortion / Overdrive / Boost model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Aries Beast Distortion Owner's Manual: https://www.celestialeffects.com/pdfpages/ariesusermanual.pdf

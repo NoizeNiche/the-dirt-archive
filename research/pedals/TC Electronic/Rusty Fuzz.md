@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+TC Electronic's Rusty Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - One minute you’re rockin’ foxey velcro tones, the next you’re soaring over the White Cliffs of Dover with a sweet, harmonically-rich solo vibe.

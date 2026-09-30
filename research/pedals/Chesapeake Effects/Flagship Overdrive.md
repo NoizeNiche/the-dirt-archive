@@ -58,6 +58,10 @@ Flagship is designed as a higher-gain Blues Breaker-style overdrive. The clippin
 
 Pedal of the Day's exact-model review directly confirms the four-control layout, Blues Breaker lineage, selectable clipping behavior and Westminster, Maryland construction. [1]
 
+## What this pedal is
+
+Chesapeake Effects's Flagship Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Pedal of the Day — Chesapeake Effects Flagship Overdrive: https://www.pedal-of-the-day.com/2016/09/29/chesapeake-effects-flagship-overdrive/

@@ -46,6 +46,10 @@ Exact transistor, op-amp and diode part numbers were not established. The archiv
 
 The official Big John FAQ, Dirty Sandwich manual listing and historical information were cross-checked. Model-specific schematic/component data was not publicly exposed in the reviewed sources.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Big John Effects FAQ: https://bigjohnmusic.com/faq/

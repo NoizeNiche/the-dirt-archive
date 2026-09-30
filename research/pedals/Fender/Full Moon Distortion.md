@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Fender's Full Moon Distortion is cataloged as a Distortion pedal.
+Fender's Full Moon Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

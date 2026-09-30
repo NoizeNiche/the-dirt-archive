@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Say goodbye to boring, earthling fuzz pedals, and embrace the genre-defying Super Weirdo!
+JPTR FX's Super Weirdo - Fuzz Modulator Pedal is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

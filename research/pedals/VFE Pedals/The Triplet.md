@@ -36,7 +36,7 @@ Madbean Pedals (1) Manufacturer VFE Pedals Effect Type Original VFE Projects Yea
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for The Triplet. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

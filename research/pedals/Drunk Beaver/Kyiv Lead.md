@@ -40,6 +40,10 @@ The exact frequency response of those controls is not claimed because the review
 - **Reported clipping terms:** Germanium, Silicon, LED
 - **Lifecycle:** listed as discontinued by Drunk Beaver's product page [1][2]
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Kyiv Lead. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Kyiv Lead.

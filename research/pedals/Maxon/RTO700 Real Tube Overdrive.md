@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Maxon's RTO700 Real Tube Overdrive is cataloged as an overdrive pedal.
+Maxon's RTO700 Real Tube Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

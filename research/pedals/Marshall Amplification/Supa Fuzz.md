@@ -36,7 +36,7 @@ Williams SUPA FUZZ - The Williams Supa Fuzz is a very faithful recreation of the
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Supa Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

@@ -59,6 +59,10 @@ The Skrambler reproduces the aggressive octave-fuzz character and unusual gating
 
 The Axis exact-model record was checked against Fuzz Central's historical note documenting special-edition Skrambler #025. The archive distinguishes that cosmetic special run from electronic revision history and preserves the documented power-protection additions. [1][2]
 
+## What this pedal is
+
+Axis Guitar Effects's Skrambler is documented in the current archive evidence as a Octave Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Axis Skrambler: https://www.effectsdatabase.com/model/axisge/skrambler

@@ -53,6 +53,10 @@ Effects Database describes Flaming Lips as a high-gain distortion with controlle
 
 Effects Database and CKK's surviving product archive were cross-checked. The sources agree on the H.MID/PRESENCE/MUSCLE architecture and broad high-gain function while using different historical “US-style” versus “British-style” descriptions. [1][2]
 
+## What this pedal is
+
+CKK Electronic's Flaming Lips is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CKK Flaming Lips: https://www.effectsdatabase.com/model/ckk/flaminglips

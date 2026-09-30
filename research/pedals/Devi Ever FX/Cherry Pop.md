@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Cherry Pop fuzz pedal also adds lots of sustain.
+Devi Ever FX's Cherry Pop is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

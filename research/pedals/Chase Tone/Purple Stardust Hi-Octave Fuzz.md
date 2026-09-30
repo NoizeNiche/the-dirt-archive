@@ -51,6 +51,10 @@ Lower Intensity settings emphasize cleaner/warm octave tones, while higher Inten
 
 Chase Tone's original/reissue documentation and Effects Database were cross-checked. The sources establish the limited-production Flying Wedge origin, two-control interface and later reissue. [1][2]
 
+## What this pedal is
+
+Chase Tone's Purple Stardust Hi-Octave Fuzz is documented in the current archive evidence as a Fuzz / Octave model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Purple Stardust Hi-Octave Fuzz: https://chasetone.com/purple-stardust-hi-octave-fuzz/

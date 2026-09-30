@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Stomp Under Foot's Civil Unrest is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - Each unit is hand-soldered on a 12-layer PCB with gold-plated through-hole pads, housed in a 4.75" × 2.5" × 1.75" brushed aluminum enclosure (0.080" thick, 6061-T6 alloy), weighing 425 grams.

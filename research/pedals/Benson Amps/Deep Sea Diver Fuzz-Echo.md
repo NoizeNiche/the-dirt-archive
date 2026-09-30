@@ -66,6 +66,10 @@ The fuzz covers treble-boost-like aggression, thick wooly textures and gated/skr
 
 Benson's official Deep Sea Diver Fuzz-Echo page and manufacturer demonstration were cross-checked. The sources establish the Jessica Dobson collaboration, silicon three-transistor fuzz, PT2399 echo, control map and selectable fuzz/echo order. [1][2]
 
+## What this pedal is
+
+Benson Amps's Deep Sea Diver Fuzz-Echo is documented in the current archive evidence as a Fuzz / Echo model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Benson Amps — Deep Sea Diver Fuzz-Echo: https://www.bensonamps.com/guitarpedals/deep-sea-diver-fuzz-echo

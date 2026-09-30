@@ -29,6 +29,10 @@ The v2 is described as a preamp overdrive/distortion with two gain topologies an
 - **Distinct v1/v2 history:** High.
 - **Original technical details:** Unknown.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Balaguer 2021 product catalog: https://www.balaguerguitars.com/wp-content/uploads/2021/02/Balaguer-2021-Product-Catalog_compressed-2.pdf

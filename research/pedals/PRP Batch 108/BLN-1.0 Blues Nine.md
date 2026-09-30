@@ -27,6 +27,10 @@ The available surviving documentation is limited, so the archive records the mod
 
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

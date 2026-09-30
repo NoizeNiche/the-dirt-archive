@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Effect Pedals Boss DS-1 Distortion Pedal $ 85.99 Original price was: $85.99.
+Outlaw Effects's Dumbleweed D-Style Amp Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

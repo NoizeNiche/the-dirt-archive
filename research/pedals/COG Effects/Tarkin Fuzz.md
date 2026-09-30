@@ -57,6 +57,10 @@ Mid Shift moves the voice away from a fixed Muff scoop toward flatter/more forwa
 
 COG's Tarkin Mk1 page and discontinued-pedals archive were cross-checked. The sources establish the Green Russian/Muff lineage and the later Mk2 successor with expanded filtering/clipping control. [1][2]
 
+## What this pedal is
+
+COG Effects's Tarkin Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Tarkin Fuzz Mk1: https://www.cogeffects.co.uk/tarkin-fuzz-mk1.php

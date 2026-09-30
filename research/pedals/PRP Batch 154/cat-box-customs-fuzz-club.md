@@ -17,6 +17,10 @@
   - https://guitarsforidiots.com/2023/05/09/meet-the-fuzz-club-your-new-versatile-loud-fuzz-friend/
   - https://reverb.com/item/87322156-fuzz-club-7-transistor-dba-fuzz-war-insanely-loud-gnarly-cat-box-customs
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

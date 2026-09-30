@@ -65,6 +65,10 @@ Celestial Effects positions Taurus as a transparent, organic overdrive that can 
 
 The Celestial Effects Taurus page and owner's manual were cross-checked with an exact-model Reverb listing. The sources establish the four controls, three clipping modes, true-bypass/no-buffer design and documented green presentation. [1][2][3]
 
+## What this pedal is
+
+Celestial Effects's Taurus - Blues Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Taurus: https://www.celestialeffects.com/taurus.html

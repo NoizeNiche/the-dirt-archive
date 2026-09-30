@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Stomp Under Foot's Skinner Box is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - Rodent Of Unusual Size Build Your Own Clone Mighty Mouse Chicago Stompworks Mister Vermin CMATMODS Black Plague DreamTone Molly The Cat Freakshow Effects Brown Rabbit Fr

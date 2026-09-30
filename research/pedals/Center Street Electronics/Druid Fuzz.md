@@ -54,6 +54,10 @@ The Druid is notable for producing a large, thick fuzz voice despite its one-con
 
 The exact Reverb listing and independent Pedal of the Day review were cross-checked. Both identify the Druid as a Center Street Electronics one-knob fuzz; the Reverb record additionally documents its guitar/bass application and U.S. manufacture. [1][2]
 
+## What this pedal is
+
+Center Street Electronics's Druid Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Reverb — Center Street Electronics Druid Fuzz: https://reverb.com/item/948545-center-street-electronics-druid-fuzz

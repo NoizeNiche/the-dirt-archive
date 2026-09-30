@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Each Fuzz Master General is made by human hands in mostly tropical Akron, Ohio.
+EarthQuaker Devices's Fuzz Master General is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

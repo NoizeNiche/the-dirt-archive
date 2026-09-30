@@ -35,7 +35,7 @@ Maxon's Distortion and Sustainer II (D&S II) is cataloged as a distortion / over
 
 ## Sound
 
-DISTORTION AND SUSTAINER II (D&S II) – Godlyke, Inc.
+The reviewed evidence does not establish a reliable model-specific sound description for Distortion and Sustainer II (D&S II). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

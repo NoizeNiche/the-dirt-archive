@@ -63,6 +63,10 @@ The compression section is designed for smooth sustain and controlled dynamics, 
 
 Effects Database and OVNI Labs were cross-checked. The sources consistently identify Sardine Can as a compressor with integrated overdrive/line-driver functionality and the Flat/Brown Sound/Violet Color system. [1][2]
 
+## What this pedal is
+
+Celmo's Sardine Can is documented in the current archive evidence as a Compressor / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Celmo Sardine Can: https://www.effectsdatabase.com/model/celmo/sardinecan

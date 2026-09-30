@@ -65,6 +65,10 @@ Celestial Effects positions Capricorn from creamy boost/overdrive into high-gain
 
 Celestial Effects' official Capricorn page was checked against Effects Database and an exact-model Reverb listing. The sources agree on the control set and three clipping modes, including the no-diode position. [1][2][3]
 
+## What this pedal is
+
+Celestial Effects's Capricorn - Rock Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Capricorn: https://www.celestialeffects.com/capricorn.html

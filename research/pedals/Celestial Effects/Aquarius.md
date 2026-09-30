@@ -61,6 +61,10 @@ Celestial Effects designed Aquarius to deliver silicon components with response 
 
 The official Aquarius page was cross-checked with an exact-model Reverb listing. The builder source establishes the Silicon construction and design approach, while the Reverb record independently confirms the Aquarius model identity and four-control presentation. [1][2]
 
+## What this pedal is
+
+Celestial Effects's Aquarius is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Aquarius Fuzz: https://www.celestialeffects.com/aquarius.html

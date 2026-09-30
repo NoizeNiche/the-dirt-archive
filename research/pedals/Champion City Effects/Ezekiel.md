@@ -59,6 +59,10 @@ The clipping selector lets the pedal move from medium/low-gain overdrive through
 
 RockBoard PedalPedia's exact-model record was checked directly. The source establishes the blend architecture and three clipping families while leaving unpublished component numbers unresolved. [1]
 
+## What this pedal is
+
+Champion City Effects's Ezekiel is documented in the current archive evidence as a Overdrive / Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — Champion City Effects Ezekiel: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Ezekiel/68976697/

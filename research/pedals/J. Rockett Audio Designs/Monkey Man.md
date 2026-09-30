@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Monkey Man is cataloged as an overdrive in J. Rockett Audio Designs' historical range. The available exact-model references establish the product identity without supporting a complete circuit specification.
+J. Rockett Audio Designs's Monkey Man is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

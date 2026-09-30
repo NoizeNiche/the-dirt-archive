@@ -18,6 +18,10 @@ A vintage fuzz update released 9 March 2002 and retired in October 2007, with 17
 
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

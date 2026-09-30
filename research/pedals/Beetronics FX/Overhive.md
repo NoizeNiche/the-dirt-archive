@@ -58,6 +58,10 @@ Overhive is intended for warm, articulate medium-gain drive. Body adds low-end w
 
 Beetronics' older Overhive page, current Standard Series page and exact retailer listing were cross-checked. The evidence supports the five-control architecture and continuity between the older and current presentations. [1][2][3]
 
+## What this pedal is
+
+Beetronics FX's Overhive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Overhive Standard Series: https://www.beetronicsfx.com/products/overhive-standard-series

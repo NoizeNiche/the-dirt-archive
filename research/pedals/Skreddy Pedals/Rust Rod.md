@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Manual The Skreddy Pedals™ Rust Rod is a new take on the classic rams head fuzz circuit.
+Skreddy Pedals's Rust Rod is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

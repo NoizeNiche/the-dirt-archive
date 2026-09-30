@@ -58,6 +58,10 @@ Bad Cat and launch coverage describe the Burmese as a transparent, dynamic overd
 
 Effects Database was cross-checked with Premier Guitar's launch coverage and multiple current dealer listings. The dual-channel architecture, BB-style lineage, per-channel control set, power range and bypass configuration are independently supported.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Effects Database - Bad Cat Burmese Drive: https://www.effectsdatabase.com/model/badcat/burmese

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The **DOD FX57 Hard Rock Distortion** is a historical DOD FX-series distortion model.
+DOD Electronics's FX57 Hard Rock Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

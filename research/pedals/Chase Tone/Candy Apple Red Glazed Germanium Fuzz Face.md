@@ -66,6 +66,10 @@ Chase Tone targets organic, thick vintage Germanium Fuzz Face response with stro
 
 Chase Tone's historical Germanium Fuzz Face page and later Fuzz Fella Candy Apple Red page were cross-checked. The builder explicitly links the later product to the original Candy Apple Red circuit and sound. [1][2]
 
+## What this pedal is
+
+Chase Tone's Candy Apple Red Glazed Germanium Fuzz Face is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Dallas-Arbiter Germanium Fuzz Face Replica: https://chasetone.com/dallas-arbiter-germanium-fuzz-face-replica-2/

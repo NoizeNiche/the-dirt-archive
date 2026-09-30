@@ -55,6 +55,10 @@ Fuzz Machine is intended to operate in the highly interactive, unstable Germaniu
 
 One Thousand Pedals' exact-model entry was checked directly and identifies Fuzz Machine as a Germanium Fuzz Factory clone made by Chaos Custom Shop. [1]
 
+## What this pedal is
+
+Chaos Custom Shop / Chaos FX's Fuzz Machine is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. One Thousand Pedals — Chaos Custom Shop Fuzz Machine: https://onethousandpedals.com/pedal/chaos-custom-shop-fuzz-machine

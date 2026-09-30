@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-MOOER Audio / MOOER's Greenwood is cataloged as an overdrive pedal.
+MOOER Audio / MOOER's Greenwood is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Two-Five Drive Boost — Wren And Cuff Overdrive Pedal
+Wren and Cuff's Two-Five Drive Boost is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

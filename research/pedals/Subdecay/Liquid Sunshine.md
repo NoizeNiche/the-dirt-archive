@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Core Signal Path Architecture The Liquid Sunshine’s heart is its dual-BBD architecture.
+Subdecay's Liquid Sunshine is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

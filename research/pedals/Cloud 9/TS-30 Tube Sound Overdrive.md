@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Effects Database records TS-30 as a Cloud 9 overdrive submitted in July 2007. [1]
+Cloud 9's TS-30 Tube Sound Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

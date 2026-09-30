@@ -46,6 +46,10 @@ CopperSound's current page identifies the current form as Strategy V2. Earlier l
 - Guitar World Strategy V2 coverage: https://www.guitarworld.com/news/coppersound-strategy-v2-overdrive-boost
 - Premier Guitar launch coverage: https://www.premierguitar.com/news/coppersound-pedals-strategy-v2
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. CopperSound Pedals - Strategy Overdrive & Preamp

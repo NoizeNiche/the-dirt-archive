@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity, controls and Tube Screamer/RC4558 lineage; low for discrete transistor and diode specifics.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp49
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

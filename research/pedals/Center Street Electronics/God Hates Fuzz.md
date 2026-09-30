@@ -64,6 +64,10 @@ God Hates Fuzz can move from conventional fuzz into unstable oscillation, stutte
 
 Pedal of the Day's exact-model review and the Reverb listing were cross-checked. The sources agree on the seven-control plus Stutter architecture and the pedal's oscillating/starved-fuzz behavior. [1][2]
 
+## What this pedal is
+
+Center Street Electronics's God Hates Fuzz is documented in the current archive evidence as a Fuzz / Oscillator model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Pedal of the Day — Center Street Electronics God Hates Fuzz: https://www.pedal-of-the-day.com/2015/03/30/center-street-electronics-god-hates-fuzz/

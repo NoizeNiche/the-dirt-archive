@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The **DOD Gunslinger** is a MOSFET-based dirt pedal from DOD's modern/revival-era catalog.
+DOD Electronics's Gunslinger is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

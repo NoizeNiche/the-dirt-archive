@@ -17,6 +17,10 @@ The Violine was developed in Portugal in two versions. The V1 used Gain and Volu
 
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

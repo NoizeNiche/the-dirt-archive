@@ -56,6 +56,10 @@ Octavian is intended to reproduce the upper-octave fuzz character of the Tycobra
 
 Effects Database's Octavian and Octavian Plus records were cross-checked. The sources establish the model's Octavia-copy lineage, two-control interface, historical date and separation from Octavian Plus. [1][2][3]
 
+## What this pedal is
+
+Chicago Iron's Octavian is documented in the current archive evidence as a Fuzz / Octave model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Chicago Iron Octavian: https://www.effectsdatabase.com/model/chicagoiron/octavian

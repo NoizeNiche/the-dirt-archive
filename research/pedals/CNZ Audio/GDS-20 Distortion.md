@@ -61,6 +61,10 @@ Normal, Tight and Classic provide three broad distortion voicings, from more ope
 
 CNZ Audio's product page was checked directly and its model identity and specifications align with the historical Effects Database catalog record. [1][2]
 
+## What this pedal is
+
+CNZ Audio's GDS-20 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. CNZ Audio — GDS-20 Distortion: https://www.cnzaudio.com/products/gds-20

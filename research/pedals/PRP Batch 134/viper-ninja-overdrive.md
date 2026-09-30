@@ -28,6 +28,10 @@ The documented range covers loud clean boost, light drive, and heavy crunch, wit
 - Handmade in Columbia, Missouri.
 - Super-bright LED.
 
+## What this pedal is
+
+Byron Amplification's Viper Ninja Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification Viper Ninja product page: https://byronamplification.com/pedals/viperninja-champagne

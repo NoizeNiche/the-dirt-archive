@@ -85,6 +85,10 @@ At the heart of the Benson Studio Black Fuzz is a couple of germanium transistor
 2. Benson Amps Germanium Fuzz | Effects Database: https://www.effectsdatabase.com/model/benson/fuzz/germanium
 3. Benson Germanium Fuzz – Chicago Music Exchange: https://www.chicagomusicexchange.com/products/benson-germanium-fuzz-2491502
 
+## What this pedal is
+
+Benson Amps's Germanium Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Benson Germanium Fuzz: https://www.effectsdatabase.com/model/benson/fuzz/germanium

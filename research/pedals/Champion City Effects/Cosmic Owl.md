@@ -63,6 +63,10 @@ Cosmic Owl retains the broad, hard-clipping character of the classic 1970s compa
 
 RockBoard PedalPedia's exact-model record was checked with Champion City Effects' own builder profile. The sources establish the analog IC architecture, 9V center-negative power and hand-built/stripboard construction while leaving the exact historical source circuit intentionally unresolved. [1][2]
 
+## What this pedal is
+
+Champion City Effects's Cosmic Owl is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — Champion City Effects Cosmic Owl: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Cosmic-Owl/68976693/

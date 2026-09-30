@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-limited edition Gary Holt of Exodus/Slayer signature parametric EQ overdrive pedal
+KHDK Electronics's Paranormal II is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

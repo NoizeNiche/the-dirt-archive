@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Marshall Amplification's Jackhammer JH-1 is cataloged as a distortion / overdrive pedal.
+Marshall Amplification's Jackhammer JH-1 is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

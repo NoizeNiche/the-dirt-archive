@@ -17,6 +17,10 @@
 - **Research confidence:** High for the v1/v2 naming, control family, dimensions and power; low for undocumented internal components.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp15 ; https://www.calinemusic.com/index.php?a=index&aid=81&c=View&m=home
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

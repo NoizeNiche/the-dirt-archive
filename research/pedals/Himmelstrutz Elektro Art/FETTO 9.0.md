@@ -37,7 +37,7 @@ Evolving from the original “ FETTO 9.0 ” model since 2004, this pedal is mad
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for FETTO 9.0. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

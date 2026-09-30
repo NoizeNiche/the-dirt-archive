@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Way Huge's Doom Hammer is cataloged as a Fuzz pedal.
+Way Huge's Doom Hammer is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

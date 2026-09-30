@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Stomp Under Foot's Green Russian is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - Rest assured that your order will make as small of a footprint as possible.* Related products Keeley Fuzz Head $ 99.00 Electro-Harmonix Big Muff Pi V3 (Red & Black) $ 479.00 EarthQuaker Devices Hoof Hybrid Fuzz $ 114.00 Dunlop JH-3S Jimi Hendrix Signature System Octave Fuzz $ 99.00 Bucket List Guitars

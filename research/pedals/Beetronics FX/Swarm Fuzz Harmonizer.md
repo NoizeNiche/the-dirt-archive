@@ -63,6 +63,10 @@ Swarm combines a fuzzy square-wave source with harmonized pitch layers. It can p
 
 Beetronics' Royal Series, Bee Stock and Custom Shop Swarm pages were cross-checked. The sources support the nine-interval architecture, seven-control interface, 9V/7mA specification and production continuity across editions. [1][2]
 
+## What this pedal is
+
+Beetronics FX's Swarm Fuzz Harmonizer is documented in the current archive evidence as a Fuzz / Harmonizer model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Swarm: https://www.beetronicsfx.com/products/swarm

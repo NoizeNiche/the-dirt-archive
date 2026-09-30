@@ -50,6 +50,10 @@ The builder-side product description positions the Jr. as an **amp-like overdriv
 
 This pass upgrades the record using the surviving official Warm Audio exact-model product page. Technical details are limited to what that source explicitly documents, with no component-level extrapolation.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for JUNIOR DB Overdrive / Dirty Boy Jr. Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Sources checked
 
 1. Warm Audio - Dirty Boy Jr. Overdrive Preamp: https://warmaudio.com/dirty-boy-jr-overdrive

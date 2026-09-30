@@ -34,6 +34,10 @@ The earlier record contained large Amazon recommendation and page-navigation scr
 - **Built-in dirt function:** Digital fuzz
 - **Internal hardware details:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for BitQuest. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for BitQuest.

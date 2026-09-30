@@ -54,6 +54,10 @@ The original release announcement was published **December 1, 2014**, with a pla
 
 Big Joe's current product page was cross-checked with Effects Database's 2014 announcement and the manufacturer's downloads index. The core dual-channel architecture and unusual control/routing system are independently documented.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Big Joe Stomp Box Company - B-502 Empire: https://bigjoestompbox.com/products/b-502-empire

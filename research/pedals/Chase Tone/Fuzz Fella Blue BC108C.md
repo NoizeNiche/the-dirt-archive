@@ -60,6 +60,10 @@ Chase Tone describes it as a high-gain silicon Fuzz Face-style fuzz with thick s
 
 Chase Tone's exact Fuzz Fella Blue page provides the control, BC108C, power and PCB/true-bypass details directly. [1]
 
+## What this pedal is
+
+Chase Tone's Fuzz Fella Blue BC108C is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Fuzz Fella Blue BC108C: https://chasetone.com/fuzz-fella-blue-bc108c/

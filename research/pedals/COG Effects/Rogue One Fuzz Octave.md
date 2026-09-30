@@ -69,6 +69,10 @@ The two fuzz channels cover distinct Muff-family voicings, while the parallel oc
 
 COG's Rogue One/R-1 page and Gearnews coverage were cross-checked. The sources support the dual-fuzz plus parallel-octave architecture, extensive control set and later R-1 naming. [1][2]
 
+## What this pedal is
+
+COG Effects's Rogue One Fuzz Octave is documented in the current archive evidence as a Fuzz / Octave model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Rogue One / R-1: https://www.cogeffects.co.uk/rogue-one.php

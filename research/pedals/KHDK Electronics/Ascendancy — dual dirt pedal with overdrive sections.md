@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Matt Heafy and Corey Beaulieu of Trivium limited edition signature overdrive pedal
+KHDK Electronics's Ascendancy — dual dirt pedal with overdrive sections is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

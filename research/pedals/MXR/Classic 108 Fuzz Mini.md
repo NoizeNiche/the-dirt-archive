@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-This is the case when I discovered the MXR Classic 108 Fuzz Mini pedal just recently.
+MXR's Classic 108 Fuzz Mini is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

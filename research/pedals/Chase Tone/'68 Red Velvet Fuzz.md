@@ -63,6 +63,10 @@ The builder targets thick, harmonically complex 1960s silicon Fuzz Face response
 
 Chase Tone's '68 Red Velvet and Fuzz Fella Red BC183C pages were cross-checked. The builder directly identifies the hand-picked BC183C devices and states that the later Red BC183C shares the same circuit/components. [1][2]
 
+## What this pedal is
+
+Chase Tone's '68 Red Velvet Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — '68 Red Velvet Fuzz: https://chasetone.com/chase-tone-68-red-velvet-fuzz/

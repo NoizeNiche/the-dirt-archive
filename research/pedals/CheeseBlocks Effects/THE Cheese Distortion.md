@@ -48,6 +48,10 @@ The pedal is securely classified as a distortion model, but a detailed sonic des
 
 Effects Database's 2009 weekly listing and taxonomy record were checked directly. They establish the exact model and period but do not provide enough technical detail for additional claims. [1][2]
 
+## What this pedal is
+
+CheeseBlocks Effects's THE Cheese Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — 2009 weekly overview: https://www.effectsdatabase.com/updates/weekly/20090504

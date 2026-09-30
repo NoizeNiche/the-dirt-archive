@@ -57,6 +57,10 @@ The 424 MKII can span cleaner boost, treble-focused bite, warm/dark drive and in
 
 Benson's official 424 MKII page was checked against an exact-model Reverb listing and the 2025 Ambient Trash demonstration. The evidence confirms the recorder-preamp lineage, buffer functionality and current control layout. [1][2][3]
 
+## What this pedal is
+
+Benson Amps's Portable Distortion 424 MKII is documented in the current archive evidence as a Distortion / Preamp model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Benson Amps — Portable Distortion 424 MKII: https://www.bensonamps.com/guitarpedals/424-mkii-preamp

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-EarthQuaker Devices's Cloven Hoof — Fuzz Grinder is cataloged as a fuzz pedal.
+EarthQuaker Devices's Cloven Hoof — Fuzz Grinder is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

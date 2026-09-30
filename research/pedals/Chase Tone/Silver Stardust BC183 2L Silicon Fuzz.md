@@ -52,6 +52,10 @@ The pedal can move from thick/gated fuzz through smoother Fuzz Face-like respons
 
 Chase Tone's official Silver Stardust page directly establishes the BC183/2L family, four-control architecture and Bias voice mapping. [1]
 
+## What this pedal is
+
+Chase Tone's Silver Stardust BC183/2L Silicon Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Tone — Silver Stardust BC183/2L Silicon Fuzz: https://chasetone.com/silver-stardust-bc1832l-silicon-fuzz/

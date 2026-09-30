@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Super Six is a blackface-style American amp-in-a-box overdrive/preamp.
+Lovepedal / Love Pedal's Super Six is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Versions and factory options
 

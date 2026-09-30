@@ -49,6 +49,10 @@ The K.O. Drive is documented as an overdrive within the Chaos FX range. A more d
 
 Guitar Pedal X's Polish-builder directory and a contemporary Polish used-market listing were cross-checked. Together they establish the model identity but do not expose sufficient technical detail for a deeper circuit claim. [1][2]
 
+## What this pedal is
+
+Chaos Custom Shop / Chaos FX's K.O. Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Guitar Pedal X — Best of Polish Guitar Pedals and Builders: https://www.guitarpedalx.com/news/best-of-polish-guitar-pedals-and-pedal-builders

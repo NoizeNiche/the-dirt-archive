@@ -36,6 +36,10 @@ The surviving seller description presents the pedal as a versatile combination o
 - **Exact circuit topology:** Unknown.
 - **Exact transistor part number:** Unknown.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Reverb - Captain FX Overdriver (based on Colorsound Overdriver/Power Boost/Throbak Overdrive Boost): https://reverb.com/item/39999294-captain-fx-overdriver-based-on-colorsound-overdriver-power-boost-throbak-overdrive-boost

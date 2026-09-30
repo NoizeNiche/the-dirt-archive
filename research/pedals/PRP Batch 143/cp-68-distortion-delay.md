@@ -16,6 +16,10 @@
   - https://www.rockboard.de/en/pedalPedia/Caline/CP-68-Distortion-Delay/68976423/
   - https://jollymusic.com.ph/products/caline-cp-68-distortion-and-delay-guitar-effect-pedal
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

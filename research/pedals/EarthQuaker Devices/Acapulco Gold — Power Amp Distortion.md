@@ -23,6 +23,14 @@ EarthQuaker Devices describes Acapulco Gold as a power-amp distortion modeled af
 
 This is an **identity/alias finding**, not a silent merge. A future catalog consolidation should preserve whichever source metadata, photo, and version relationships belong to the canonical Acapulco Gold record.
 
+## What this pedal is
+
+EarthQuaker Devices's Acapulco Gold - Power Amp Distortion is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Acapulco Gold - Power Amp Distortion. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for this alias record.

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-CrockettDial Productions's The Kwaker is cataloged in the archive as a Fuzz pedal.
+CrockettDial Productions's The Kwaker is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ CrockettDial Productions's The Kwaker is cataloged in the archive as a Fuzz peda
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for The Kwaker. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

@@ -10,7 +10,7 @@
 
 ## What this pedal is
 
-JHS Pedals The Violet model documented by the manufacturer and Effects Database.
+JHS Pedals's The Violet / Violet is documented in the current archive evidence as a effect model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Versions and factory options
 

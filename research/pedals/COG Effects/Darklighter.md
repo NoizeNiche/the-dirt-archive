@@ -63,6 +63,10 @@ Darklighter is designed to work as clean boost, always-on line driver, or stacke
 
 COG's Darklighter and discontinued-pedals pages were cross-checked. The sources support the four-control/Bass Shift architecture and document the discontinued/MK2-planned status without inventing an unverified MK2 circuit. [1][2]
 
+## What this pedal is
+
+COG Effects's Darklighter is documented in the current archive evidence as a Overdrive / Boost model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Darklighter: https://www.cogeffects.co.uk/darklighter.php

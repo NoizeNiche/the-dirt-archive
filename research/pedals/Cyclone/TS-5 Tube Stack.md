@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Cyclone's TS-5 Tube Stack is cataloged in the archive as a Distortion pedal.
+Cyclone's TS-5 Tube Stack is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Cyclone's TS-5 Tube Stack is cataloged in the archive as a Distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for TS-5 Tube Stack. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

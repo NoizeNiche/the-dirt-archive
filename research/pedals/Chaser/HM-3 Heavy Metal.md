@@ -49,6 +49,10 @@ Because the pedal is documented as an HM-3 clone, its design identity belongs to
 
 Effects Database and the 2019 Tweakers discussion were cross-checked. The evidence securely establishes the Chaser HM-3 identity and Boss HM-3 clone relationship but does not support a more detailed Chaser-specific circuit claim. [1][2]
 
+## What this pedal is
+
+Chaser's HM-3 Heavy Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Chaser HM-3 Heavy Metal: https://www.effectsdatabase.com/taxonomy/term/8/0?page=42

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Fuzzrocious Pedals's 420 Fuzz v2 is cataloged as a fuzz pedal.
+Fuzzrocious Pedals's 420 Fuzz v2 is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

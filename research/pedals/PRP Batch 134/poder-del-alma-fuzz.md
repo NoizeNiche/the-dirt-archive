@@ -20,6 +20,10 @@ Poder Del Alma Fuzz Previous Dark Arts Drive Overdrive Next Pai Mei Fuzz Poder D
 We offer the Poder Del Alma Fuzz to not only recreate those dynamic tones, but also many other great fuzz sounds.
 The Fuzz ranges from just a little hair to a roaring, slightly spitty and gated tone that’s awesome for single note lines.
 
+## What this pedal is
+
+Byron Amplification's Poder Del Alma Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

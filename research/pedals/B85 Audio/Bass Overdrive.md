@@ -62,6 +62,10 @@ The builder positions Bass Overdrive as a bass-specific drive that uses the CD40
 
 B85 Audio's exact-model product description was rechecked. It explicitly identifies the CD4049UBE CMOS foundation, five-control layout, true bypass, 9V center-negative power and Hammond 1590B enclosure. The archive leaves unpublished clipping and component details unresolved. [1]
 
+## What this pedal is
+
+B85 Audio's Bass Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. B85 Audio — Bass Overdrive: https://www.b85audio.cz/bass-overdrive/

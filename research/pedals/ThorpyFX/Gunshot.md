@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The GUNSHOT was designed to be the overdrive to beat all others.
+ThorpyFX's Gunshot is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -38,7 +38,7 @@ The GUNSHOT was designed to be the overdrive to beat all others.
 
 ## Sound
 
-Description The all new look GUNSHOT (MKIIB)!
+The reviewed evidence does not establish a reliable model-specific sound description for Gunshot. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

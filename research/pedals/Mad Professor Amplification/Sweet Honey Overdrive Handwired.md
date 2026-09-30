@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Sweet Honey Overdrive (Handwired) — Mad Professor Overdrive Pedal
+Mad Professor Amplification's Sweet Honey Overdrive Handwired is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

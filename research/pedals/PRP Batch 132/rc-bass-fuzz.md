@@ -29,6 +29,10 @@ The documented goal is a powerful, gritty fuzz that maintains bass clarity and l
 
 The available source set does not establish a detailed circuit family, transistor set, or definitive production version, so those fields remain intentionally unspecified.
 
+## What this pedal is
+
+Bulinski Effect Pedals's RC Bass Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Made For Bass database: https://www.madeforbass.com/bass-effects-database/

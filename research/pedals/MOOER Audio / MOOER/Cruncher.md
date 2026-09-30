@@ -43,7 +43,7 @@ The exact product documentation establishes the model, high-gain/mid-focused voi
 
 ## Sound
 
-MOOER characterizes Cruncher around high-gain distortion with pronounced mids. [1]
+The reviewed evidence does not establish a reliable model-specific sound description for Cruncher. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

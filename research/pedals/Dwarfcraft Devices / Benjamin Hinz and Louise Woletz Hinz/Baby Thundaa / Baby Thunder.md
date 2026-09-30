@@ -17,6 +17,10 @@ The Dirt Archive currently catalogs **Baby Thundaa / Baby Thunder** by **Dwarfcr
 
 - Catalog source page on file: https://dwarfcraftdevices.com/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Baby Thundaa / Baby Thunder. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived.

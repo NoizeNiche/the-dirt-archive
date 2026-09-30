@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Duality 13:26 2022-11-29 Patrick Hunter THE DUALITY FUZZ IS BACK!
+Darkglass Electronics's Duality is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -69,6 +69,10 @@ The Mini Boogee/Mini Matrix is an early Butler tube overdrive/preamp platform, p
 
 Effects Database was cross-checked against Kit Rae's detailed historical Tube Driver research and a surviving 1980s Mini Matrix/Boogee listing. The combined evidence establishes the naming history, approximate production period, multiple enclosure revisions, two-12AX7 preamp architecture and relationship to Butler's later Tube Driver designs. The archive keeps exact unit-level component details unresolved. [1][2][3]
 
+## What this pedal is
+
+Audio Matrix / B.K. Butler's Mini Boogee / Mini Matrix is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Audio Matrix Mini Boogee: https://www.effectsdatabase.com/model/audiomatrix/miniboogee

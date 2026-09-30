@@ -29,6 +29,10 @@ The earlier record contained retailer storefront scrape text. That unrelated pag
 
 Boneshaker is part of DOD's later pedal catalog and remains distinct from the historical FX-series distortion models. It is also distinct from the DOD 250 family despite occupying overlapping gain territory. [1]
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Boneshaker. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Boneshaker.

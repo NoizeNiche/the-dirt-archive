@@ -38,6 +38,10 @@ The pedal is based on early-1960s germanium fuzz practice and was documented by 
 - ToneTronix historical product page: https://www.tonetronix.com/p/DC-Developments-1st-Fuzz/DC-Developments-1st-Fuzz.html
 - ModularGrid model page: https://modulargrid.net/p/other-unknown-the-1st-fuzz
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Effects Database - Cornell The 1st Fuzz

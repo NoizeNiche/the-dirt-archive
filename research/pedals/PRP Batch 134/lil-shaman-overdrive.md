@@ -30,6 +30,10 @@ Delay Lil' Shaman Overdrive Lil' Shaman Overdrive Sale Price: $149.00 Original P
 He came to us seeking the perfect distortion pedal for his rig and his tastes.
 We created for him a pedal we call The Shaman, that has both distortion and overdrive in one, that can be used independently or together (we will be releasing that later!).
 
+## What this pedal is
+
+Byron Amplification's Lil' Shaman Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification Lil' Shaman product page: https://byronamplification.com/pedals/lilshaman

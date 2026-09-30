@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Vemuram DJ1 Darryl Jones Signature Bass Overdrive and Distortion Pedal
+Vemuram's DJ1 — overdrive / distortion bass-effects identity is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Old Blood Noise Endeavors's Alpha Haunt is cataloged as a Fuzz pedal.
+Old Blood Noise Endeavors's Alpha Haunt is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

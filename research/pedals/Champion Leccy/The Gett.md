@@ -50,6 +50,10 @@ The Gett is voiced with a thicker, more forward midrange than a traditional Blac
 
 Effects Database's exact-model record was checked directly. It establishes the Black Russian lineage, control names/functions and the repeated-development history. [1]
 
+## What this pedal is
+
+Champion Leccy's The Gett is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Champion Leccy The Gett: https://www.effectsdatabase.com/model/championleccy/gett

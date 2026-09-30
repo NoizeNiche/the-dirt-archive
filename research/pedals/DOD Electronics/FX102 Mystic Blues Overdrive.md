@@ -31,6 +31,10 @@ The archive therefore does not invent transistor, clipping-diode, or op-amp spec
 
 FX102 belongs to DOD's historical FX-series overdrive family. DOD's historical reconciliation lists FX102 alongside other explicitly named overdrives such as FX50-B, FX51, FX91, FX100, FX101, and YJM 308. [2]
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for FX102 Mystic Blues Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for the FX102.

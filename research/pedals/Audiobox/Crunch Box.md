@@ -57,6 +57,10 @@ The evidence supports classifying the Crunch Box as an overdrive, but not a deta
 
 Effects Database was cross-checked with the surviving Audiobox family index. This confirms the Crunch Box as a distinct Audiobox overdrive model and preserves the broader family context, but no additional authoritative circuit or component documentation was found. [1][2]
 
+## What this pedal is
+
+Audiobox's Crunch Box is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Audiobox Crunch Box: https://www.effectsdatabase.com/model/audiobox/crunchbox

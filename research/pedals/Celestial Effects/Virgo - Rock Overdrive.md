@@ -64,6 +64,10 @@ Virgo is intended to cover clean boost through saturated rock overdrive. The TL0
 
 Celestial Effects' Virgo page and owner's manual were cross-checked. The manual supplies the exact clipping modes and the two-paralleled-TL082 architecture, while the product page establishes the model identity and control platform. [1][2]
 
+## What this pedal is
+
+Celestial Effects's Virgo - Rock Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Virgo: https://www.celestialeffects.com/virgo.html

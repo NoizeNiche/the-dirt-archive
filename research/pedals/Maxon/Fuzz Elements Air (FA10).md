@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Maxon's Fuzz Elements Air (FA10) is cataloged as a fuzz pedal.
+Maxon's Fuzz Elements Air (FA10) is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Maxon's Fuzz Elements Air (FA10) is cataloged as a fuzz pedal.
 
 ## Sound
 
-Maxon Fuzz Elements Air (FA10) – Godlyke, Inc.
+The reviewed evidence does not establish a reliable model-specific sound description for Fuzz Elements Air (FA10). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

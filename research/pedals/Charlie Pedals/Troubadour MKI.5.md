@@ -67,6 +67,10 @@ The exact listing characterizes the MKI.5 as loud and raw with strong cleanup fr
 
 The exact-model Reverb listing is the primary evidence and directly supplies the three-unit production count, AC113 Germanium transistors, Attack control, internal bias and vintage hardware. [1]
 
+## What this pedal is
+
+Charlie Pedals's Troubadour MKI.5 is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Reverb — Charlie Pedals Troubadour MKI.5, 1 of 3 made: https://reverb.com/item/72996088-charlie-pedals-troubadour-mki-5-1-of-3-made

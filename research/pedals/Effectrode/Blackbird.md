@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Do you have a question about the Blackbird SR-71 and is the answer not in the manual?
+Effectrode's Blackbird is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

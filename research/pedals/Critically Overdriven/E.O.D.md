@@ -81,6 +81,10 @@ With the "Gain" knob turned all the way down, the E.O.D.
 1. Critically Overdriven E.O.D. | Effects Database: https://www.effectsdatabase.com/model/criticallyoverdriven/eod
 2. Used EOD CRITICALLY OVERDRIVEN Guitar Effects Distortion/Overdrive Guitar Effects: https://musicgoround.com/locations/louisville-ky/product/S000281836/EOD-CRITICALLY-OVERDRIVEN
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for E.O.D.. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Sources checked
 
 1. Effects Database - Critically Overdriven E.O.D.: https://www.effectsdatabase.com/model/criticallyoverdriven/eod

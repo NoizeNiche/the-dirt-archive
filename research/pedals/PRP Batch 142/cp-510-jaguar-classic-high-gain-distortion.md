@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity, controls and published power/dimensions; low for exact internal components or a single donor circuit.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cp500/jaguar ; https://www.youtube.com/watch?v=8ACApCgtuc0 ; https://myguitarshop.co.za/products/caline-cp-510-jaguar-distortion
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

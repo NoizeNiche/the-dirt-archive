@@ -59,6 +59,10 @@ The overdrive section is intended to stay open and relatively low-compression, f
 
 The official Sagittarius page, owner's manual and exact-model Reverb listing were cross-checked. The builder sources establish the five-control interface, discrete boost/OD chain and two-way order selection. [1][2][3]
 
+## What this pedal is
+
+Celestial Effects's Sagittarius - Overdrive Boost is documented in the current archive evidence as a Overdrive / Boost model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Celestial Effects — Sagittarius: https://www.celestialeffects.com/sagittarius.html

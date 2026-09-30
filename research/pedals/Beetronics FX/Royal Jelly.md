@@ -61,6 +61,10 @@ Royal Jelly can function as overdrive, fuzz or a blended combination of both. Dr
 
 Beetronics' Royal Jelly product documentation was cross-checked with the limited-edition page and independent MusicRadar review. The combined evidence supports the parallel architecture, stored blend concept, EQ section and fuzz-side BUZZ control. [1][2][3]
 
+## What this pedal is
+
+Beetronics FX's Royal Jelly is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Royal Jelly: https://www.beetronicsfx.com/products/royal-jelly-limited-edition-p-royal-series

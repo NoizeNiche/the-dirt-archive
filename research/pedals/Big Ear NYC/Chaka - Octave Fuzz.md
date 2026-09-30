@@ -50,6 +50,10 @@ Big Ear positioned CHAKA as an octave-up fuzz designed to retain low-end while a
 
 The exact Effects Database CHAKA page was cross-checked with Premier Guitar's Summer NAMM 2014 report and The Music Zoo's 2015 Big Ear NYC lineup feature. The record keeps the surviving control documentation conservative while preserving the exact component-family evidence.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Effects Database - Big Ear NYC Chaka: https://www.effectsdatabase.com/model/bigear/chaka

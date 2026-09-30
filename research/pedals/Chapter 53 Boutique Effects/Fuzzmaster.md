@@ -51,6 +51,10 @@ The Fuzzmaster is securely classified as a fuzz pedal, but the available exact-m
 
 Effects Database's exact release index was checked. It confirms the Chapter 53 Fuzzmaster identity and 2010 release placement, but does not provide enough technical detail to safely expand the record. [1]
 
+## What this pedal is
+
+Chapter 53 Boutique Effects's Fuzzmaster is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Weekly overview, July 12, 2010: https://www.effectsdatabase.com/updates/weekly/20100712

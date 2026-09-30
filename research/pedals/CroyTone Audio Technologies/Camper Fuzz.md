@@ -35,7 +35,7 @@ CroyTone Audio Technologies's Camper Fuzz is cataloged as a Fuzz pedal. The buil
 
 ## Sound
 
-No pedal-specific sonic description was established in the verified evidence packet.
+The reviewed evidence does not establish a reliable model-specific sound description for Camper Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

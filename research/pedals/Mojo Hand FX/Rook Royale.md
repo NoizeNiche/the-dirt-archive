@@ -35,7 +35,7 @@ Running on ~30mA from 9V center-negative power, the Rook Royale delivers dual-ci
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Rook Royale. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

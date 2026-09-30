@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Wampler Pedals's Leviathan Fuzz is cataloged in the archive as a Fuzz pedal.
+Wampler Pedals's Leviathan Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -36,7 +36,7 @@ Wampler Pedals's Leviathan Fuzz is cataloged in the archive as a Fuzz pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Leviathan Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

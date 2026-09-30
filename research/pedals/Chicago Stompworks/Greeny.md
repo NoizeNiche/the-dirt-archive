@@ -46,6 +46,10 @@ Greeny is intended to reproduce Fuzz Face-style dynamics through an op-amp topol
 
 Chicago Stompworks' own catalog is the primary source and explicitly identifies Greeny as an op-amp Fuzz Face emulator. [1]
 
+## What this pedal is
+
+Chicago Stompworks's Greeny is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chicago Stompworks — Greeny: https://www.chicagostompworks.com/

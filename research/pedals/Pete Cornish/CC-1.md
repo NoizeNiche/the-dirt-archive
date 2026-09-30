@@ -22,7 +22,7 @@ Cornish describes the CC-1 as part of its standalone analog pedal range. Exact s
 
 ## Sound
 
-The product is intended for crunch/overdrive duties with active three-band tonal shaping.
+The reviewed evidence does not establish a reliable model-specific sound description.
 
 ## Research confidence
 

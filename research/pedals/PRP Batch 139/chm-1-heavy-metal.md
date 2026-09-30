@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity, control set and dimensions; medium for the sonic/noise-gate observations because those details come from a historical owner listing rather than factory documentation; low for internal component specifics.
 - **Sources checked:** https://eleca.com/products/chm-1 ; https://eleca.com/collections/california-guitar-effects ; https://www.effectsdatabase.com/events/namm/2012 ; https://gsfanatic.com/en/listing/-california-heavy-metal-chm-1-effekt-pedal-333408
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 The exact California (by Eleca) **CHM-1 Heavy Metal** record documents **Gain, Level, Middle, Mid Freq, High, Low** controls. A historical owner listing describes high-gain use, strong bass control and an integrated noise-gate behavior on the specific unit, but the archive does not treat that owner observation as universal factory specification. Exact transistor and diode data remain unknown.

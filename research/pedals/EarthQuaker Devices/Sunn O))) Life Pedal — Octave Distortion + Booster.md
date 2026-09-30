@@ -35,6 +35,10 @@ The previous record contained scraped product-page navigation text. That materia
 - **Switching:** Flexi-Switch technology for the octave function
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Sunn O))) Life Pedal - Octave Distortion + Booster. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for this version-specific record.

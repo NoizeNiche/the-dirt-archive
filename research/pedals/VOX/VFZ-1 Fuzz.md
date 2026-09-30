@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-VOX VFZ-1 Fuzz Pedal Pro Gear Advisers Chat
+VOX's VFZ-1 Fuzz is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

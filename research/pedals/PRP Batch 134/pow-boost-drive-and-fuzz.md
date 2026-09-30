@@ -20,6 +20,10 @@ Boost/Drive and Fuzz Previous Green Concussion Fuzz Next Kompressor POW!
 Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 POW!: Do you need an ass kicking clean boost with EQ?
 Do you need a classic rock overdrive?
 
+## What this pedal is
+
+Byron Amplification's POW! Boost/Drive and Fuzz is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification pedal catalog: https://byronamplification.com/pedals

@@ -44,6 +44,10 @@ The exact V1 power specification was not established from the reviewed material.
 
 JHS's official history and V2 product page explicitly distinguish the V1 hardware from V2. The archive records the V1 as its own materially distinct model and does not import V2-only electrical details.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. JHS Pedals - Colour Box V1: https://jhspedals.info/products/colour-box-v1

@@ -33,6 +33,10 @@ Exact factory control labeling beyond the documented functional description was 
 
 Pete Cornish's official Grey Series catalog was cross-checked with Aion FX's SS-3 tracing journal, which explicitly discusses the SS-2 lineage and the added Cornish buffer.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Pete Cornish Grey Series: https://www.petecornish.co.uk/GreySeries.html

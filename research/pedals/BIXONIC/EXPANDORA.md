@@ -17,6 +17,10 @@ The Dirt Archive currently catalogs **EXPANDORA** by **BIXONIC** as a **Overdriv
 
 - Catalog source page on file: https://bixonic-sound.com/pages/story
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for EXPANDORA. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived.

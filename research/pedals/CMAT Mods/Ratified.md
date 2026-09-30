@@ -56,6 +56,10 @@ CMATMODS describes Ratified as thick, sustain-rich distortion. Filter and Gain p
 
 Effects Database and the Reverb Black Plague listing were cross-checked. The sources support the LM308N architecture and the same-circuit relationship between Black Plague and Ratified. [1][2]
 
+## What this pedal is
+
+CMATMODS's Ratified is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CMATMODS Ratified: https://www.effectsdatabase.com/model/cmatmods/ratified

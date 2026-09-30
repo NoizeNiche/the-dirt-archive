@@ -59,6 +59,10 @@ COG positions TK-421 as an aggressive RAT-family distortion with more clarity an
 
 Effects Database and COG's discontinued-pedal archive were cross-checked. The sources support the RAT-style lineage, deliberate non-LM308 stock design, external clipping selection and planned-but-unresolved MK2 status. [1][2]
 
+## What this pedal is
+
+COG Effects's TK-421 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — COG TK-421: https://www.effectsdatabase.com/model/cog/tk421

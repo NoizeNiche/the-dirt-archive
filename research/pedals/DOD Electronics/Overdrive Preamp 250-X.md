@@ -42,6 +42,10 @@ The archive makes no universal transistor, clipping-diode, or op-amp claim for t
 - **Clipping/voice selection:** three selectable overdrive modes
 - **Architecture detail:** exact factory component BOM not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Overdrive Preamp 250-X. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for the 250-X.

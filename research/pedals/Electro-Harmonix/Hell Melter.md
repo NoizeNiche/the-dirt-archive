@@ -41,6 +41,10 @@ The previous record contained product-page navigation, retailer price/stock text
 - **Documented example modes/use cases:** Burn Mode with Boost, Gilmour-style lead, Doomed Out, Bass & Guitar, stacking
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Hell Melter. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Hell Melter.

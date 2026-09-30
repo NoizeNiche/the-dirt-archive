@@ -59,6 +59,10 @@ The Drone Station moves from overdrive into fuzz through its two gain paths. Low
 
 Pedal of the Day's exact-model review was checked directly. It documents the two-stage architecture, separate gain adjustment, Volume/Tone/Voltage interface and the effect of voltage starvation on the fuzz character. [1]
 
+## What this pedal is
+
+Center Street Electronics's Drone Station Fuzz is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Pedal of the Day — Center Street Electronics Drone Station Fuzz: https://www.pedal-of-the-day.com/2015/04/09/center-street-electronics-drone-station-fuzz/

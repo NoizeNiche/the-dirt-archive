@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Vick Audio's V2 Violet Ram is cataloged as a fuzz pedal.
+Vick Audio's V2 Violet Ram is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

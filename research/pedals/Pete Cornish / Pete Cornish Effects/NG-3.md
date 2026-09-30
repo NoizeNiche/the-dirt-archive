@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Pete Cornish / Pete Cornish Effects's NG-3 is cataloged as a fuzz pedal.
+Pete Cornish / Pete Cornish Effects's NG-3 is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

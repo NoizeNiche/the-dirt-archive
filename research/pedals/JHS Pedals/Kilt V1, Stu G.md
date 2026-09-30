@@ -44,6 +44,10 @@ The reviewed current Kilt documentation warns not to exceed 9V DC. Exact V1 curr
 
 JHS's Kilt 10 product page contains an explicit V1/V2/Kilt 10 version history. The archive uses that source to preserve the materially distinct V1 hardware without borrowing later V2 controls.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. JHS Pedals - Kilt 10 version history: https://jhspedals.info/collections/overdrive-distortions/products/kilt-10

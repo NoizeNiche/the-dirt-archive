@@ -55,6 +55,10 @@ CNZ describes SFZ-20 as capable of long sustain and complex harmonics, while ext
 
 CNZ's current manufacturer page and an exact-model Reverb listing were cross-checked. Both support the Volume/Tone/Sustain map and the 9V/10mA electrical specification. [1][2]
 
+## What this pedal is
+
+CNZ Audio's SFZ-20 Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. CNZ Audio — SFZ-20 Fuzz: https://cnzaudio.com/products/fuzz-pedal-distortion-effect

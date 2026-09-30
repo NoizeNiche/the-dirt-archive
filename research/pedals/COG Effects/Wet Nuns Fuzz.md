@@ -62,6 +62,10 @@ The two channels cover distinct Muff-family responses. Mids shifts each channel 
 
 COG's Wet Nuns page was checked directly. The builder source establishes the dual Tarkin/Ram's Head architecture, four controls per channel, Rob Graham collaboration and 9V/relay-bypass construction. [1]
 
+## What this pedal is
+
+COG Effects's Wet Nuns Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Wet Nuns Fuzz: https://www.cogeffects.co.uk/wetnunsfuzz.php

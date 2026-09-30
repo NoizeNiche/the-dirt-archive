@@ -57,6 +57,10 @@ Normal is intended to mimic classic tube overdrive, while Fat adds more low-freq
 
 CNZ's current VBL-20 product page, Effects Database record and manufacturer demonstration were cross-checked. The sources agree on the Normal/Fat modes, three knobs, 9V center-negative supply and 10mA specification. [1][2][3]
 
+## What this pedal is
+
+CNZ Audio's VBL-20 Bluesy Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. CNZ Audio — VBL-20 Bluesy Overdrive: https://cnzaudio.com/products/bluesy-overdrive-pedal

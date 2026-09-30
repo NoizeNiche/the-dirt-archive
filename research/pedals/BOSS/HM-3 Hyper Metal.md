@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-BOSS's HM-3 Hyper Metal is cataloged as a distortion pedal.
+BOSS's HM-3 Hyper Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -23,7 +23,7 @@ Exact semiconductor devices and schematic topology were not published in the rev
 
 ## Sound
 
-The documented role is bass-oriented drive with active low/high tonal shaping.
+The reviewed evidence does not establish a reliable model-specific sound description.
 
 ## Research confidence
 

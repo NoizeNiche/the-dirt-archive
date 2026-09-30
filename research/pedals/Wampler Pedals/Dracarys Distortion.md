@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Those qualities are on full display within the Dracarys Distortion.
+Wampler Pedals's Dracarys Distortion is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -48,6 +48,10 @@ This record intentionally keeps **Everything Is Alive - Modulated Resonant Fuzz*
 
 The Big Game Pedals TalkBass development thread was checked for the product lineage, modification history and circuit experiments. Exact-model details that could not be tied to the final catalog version are deliberately marked as development evidence rather than universal specifications.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. TalkBass - Big Game Pedals development discussion: https://www.talkbass.com/threads/big-game-pedals.1151255/

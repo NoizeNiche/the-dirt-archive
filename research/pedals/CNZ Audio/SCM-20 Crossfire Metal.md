@@ -59,6 +59,10 @@ CNZ markets Crossfire Metal for hard rock and metal, emphasizing long sustain, d
 
 The CNZ/Effects Database exact-model record and an exact Reverb listing were cross-checked. The sources agree on the control layout and boost functions, while preserving the documented 10mA versus 25mA current discrepancy. [1][2]
 
+## What this pedal is
+
+CNZ Audio's SCM-20 Crossfire Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CNZ SCM-20 Crossfire Metal: https://www.effectsdatabase.com/model/cnz/crossfire

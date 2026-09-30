@@ -18,6 +18,10 @@ Exact model-specific control layout, topology and semiconductor data are deferre
 
 Effects Database links EXP2001 Expandora II as a separate generation following the original EXP2000 family.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Effects Database BIXONIC EXP2000 / related products: https://www.effectsdatabase.com/model/bixonic/expandora

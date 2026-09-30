@@ -66,6 +66,10 @@ Splinter spans transparent boost through crunchy overdrive and more complex clip
 
 ChiralityAudio's official Splinter page and manual were cross-checked with Effects Database. The sources support the TS-808-derived architecture, Burr Brown op-amp, clipping selector, Low Cut ranges and 9V/25mA/+4dBu electrical specifications. [1][2][3]
 
+## What this pedal is
+
+ChiralityAudio's Splinter is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. ChiralityAudio — Splinter: https://chiralityaudio.com/products/splinter/

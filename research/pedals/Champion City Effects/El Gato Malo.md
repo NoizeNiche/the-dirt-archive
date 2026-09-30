@@ -72,6 +72,10 @@ The six clipping modes broaden the LM308 distortion from smoother silicon/german
 
 RockBoard's exact-model entry and the 2016 Reverb listing were cross-checked. The evidence establishes the LM308, six clipping options, buffered blend and documented finish. [1][2]
 
+## What this pedal is
+
+Champion City Effects's El Gato Malo is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — El Gato Malo: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/El-Gato-Malo/68976699/

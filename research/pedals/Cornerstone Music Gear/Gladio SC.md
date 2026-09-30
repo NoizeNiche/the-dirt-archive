@@ -40,6 +40,10 @@ Planet Guitar describes Gladio SC as having been developed from the larger Big G
 - GearAffe exact-model overview: https://www.gearaffe.com/p/gladio-sc
 - Planet Guitar Cornerstone interview: https://www.planetguitar.it/cornerstone-uneccellenza-made-in-italy/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Cornerstone Music Gear

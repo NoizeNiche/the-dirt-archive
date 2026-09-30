@@ -58,6 +58,10 @@ Gray Speck targets the direct, hard-edged OD250 response that can function as ei
 
 Chicago Stompworks' product catalog was cross-checked with the Effects Database exact-model record. The combined evidence supports the 1979 Gray Spec lineage and the component-level LM741/1N4148 implementation. [1][2]
 
+## What this pedal is
+
+Chicago Stompworks's Gray Speck is documented in the current archive evidence as a Overdrive / Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chicago Stompworks — Gray Speck: https://www.chicagostompworks.com/

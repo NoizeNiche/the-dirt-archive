@@ -62,6 +62,10 @@ The Tube Driver is a tube gain device capable of moving from warm/light overdriv
 
 Kit Rae's historical version archive was checked against Fractal Audio's model documentation, which preserves the Chandler four-knob Tube Driver identity and 12AX7 architecture. [1][2]
 
+## What this pedal is
+
+Chandler / B.K. Butler's Chandler Tube Driver is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Fractal Audio Drive Models documentation: https://archive.axefx.fr/AxeFX%20II/Docs%20%26%20Manuals/FAS_Amps_Models_Gallery%20Qu%209.04.pdf

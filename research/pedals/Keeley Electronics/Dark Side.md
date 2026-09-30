@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Keeley Electronics's Dark Side is cataloged as a Fuzz pedal.
+Keeley Electronics's Dark Side is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

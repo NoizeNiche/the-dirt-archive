@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The **DOD YJM 308 Overdrive Preamp** is a historical signature DOD overdrive/preamp.
+DOD Electronics's YJM 308 Overdrive Preamp is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

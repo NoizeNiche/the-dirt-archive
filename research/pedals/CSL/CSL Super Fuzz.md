@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-CSL's CSL Super Fuzz is cataloged as a Fuzz pedal.
+CSL's CSL Super Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

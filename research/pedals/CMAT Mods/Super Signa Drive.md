@@ -70,6 +70,10 @@ The drive section can cover cleaner push through more saturated overdrive, while
 
 Effects Database and RockBoard were cross-checked. The evidence supports the expanded Signa architecture, RC4558P, independent boost and three-band EQ. [1][2]
 
+## What this pedal is
+
+CMATMODS's Super Signa Drive is documented in the current archive evidence as a Overdrive / Boost model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — CMATMODS Super Signa Drive: https://www.effectsdatabase.com/model/cmatmods/signadrive/super

@@ -80,6 +80,10 @@ Controls are: Foot switch 1 gain knob boost switch Foot switch 2 gain knob volum
 1. Champion Leccy The Evil Twin | Effects Database: https://www.effectsdatabase.com/model/championleccy/eviltwin
 2. Champion Leccy updates 2025: https://championleccy.com/2025/06/11/summer-leccy-2025-may-you-live-in-interesting-times/
 
+## What this pedal is
+
+Champion Leccy's Evil Twin is documented in the current archive evidence as a Boost / Distortion / Fuzz / Oscillator model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Champion Leccy Evil Twin: https://www.effectsdatabase.com/model/championleccy/eviltwin

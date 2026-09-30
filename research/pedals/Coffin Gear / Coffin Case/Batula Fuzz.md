@@ -22,7 +22,7 @@ Audiofanzine's technical sheet likewise states that no technical specifications 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Batula Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Versions and factory options
 

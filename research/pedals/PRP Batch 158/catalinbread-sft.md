@@ -18,6 +18,10 @@
   - https://catalinbread.com/products/sft-blackout-series
   - https://catalinbread.com/products/sft-fireworks-collection
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

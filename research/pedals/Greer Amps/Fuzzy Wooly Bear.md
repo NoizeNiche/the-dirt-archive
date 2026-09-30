@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Greer Amps's Fuzzy Wooly Bear is cataloged in the archive as a Fuzz / Overdrive pedal.
+Greer Amps's Fuzzy Wooly Bear is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

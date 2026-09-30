@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-VFE Pedals's Fiery Red Horse is cataloged in the archive as a Distortion / Fuzz pedal.
+VFE Pedals's Fiery Red Horse is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -38,7 +38,7 @@ VFE Pedals's Fiery Red Horse is cataloged in the archive as a Distortion / Fuzz 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Fiery Red Horse. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

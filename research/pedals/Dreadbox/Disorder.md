@@ -35,6 +35,10 @@ The previous record contained unrelated retailer and magazine page-navigation ma
 - **Documented controls:** Sensitivity and Cutoff are explicitly referenced in the reviewed operating material
 - **Power/component details:** exact production BOM not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Disorder. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Disorder.

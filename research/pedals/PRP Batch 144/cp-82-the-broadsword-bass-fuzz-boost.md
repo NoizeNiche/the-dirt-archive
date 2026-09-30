@@ -16,6 +16,10 @@
   - https://www.ebay.com/itm/184899830437
   - https://www.guitarpickzone.com/caline-pedals-clone-list/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

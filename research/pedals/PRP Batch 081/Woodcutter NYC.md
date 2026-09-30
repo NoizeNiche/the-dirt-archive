@@ -37,6 +37,10 @@ Later Big Ear documentation records the November 2018 removal of the battery sna
 
 Big Ear's current Woodcutter page and secondary RAT-family coverage were cross-checked. The archive keeps the NYC catalog row while explicitly avoiding an invented NYC-specific circuit or power revision.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. BIG EAR pedals - Woodcutter: https://www.bigearpedals.com/product-page/woodcutter

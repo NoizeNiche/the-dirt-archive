@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Screamer Bass Fuzz is designed to fix this.
+Cusack Music's Screamer Bass Fuzz is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

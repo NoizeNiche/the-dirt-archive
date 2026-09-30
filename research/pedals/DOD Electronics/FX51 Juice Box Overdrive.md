@@ -55,6 +55,10 @@ The FX51 belongs to DOD's historically documented FX-series overdrive family alo
 - **Reported production end:** early 1998, according to secondary historical research
 - **Product family:** DOD FX Series
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for FX51 Juice Box Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for the FX51.

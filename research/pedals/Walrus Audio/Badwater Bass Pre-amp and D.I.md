@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Walrus Audio's Badwater Bass Pre-amp and D.I is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - No specific factory colorway information was established in the verified evidence packet.

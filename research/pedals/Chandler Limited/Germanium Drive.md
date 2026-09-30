@@ -59,6 +59,10 @@ Chandler describes the pedal as a germanium drive capable of moving from tighter
 
 Chandler Limited's product page and owner manual were cross-checked. The manual supplies the unusual two-supply power requirement and exact control architecture; the product source confirms the Germanium Drive design and feedback concept. [1][2]
 
+## What this pedal is
+
+Chandler Limited's Germanium Drive is documented in the current archive evidence as a Overdrive / Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chandler Limited — Germanium Drive: https://www.chandlerlimited.com/products/germanium-drive/

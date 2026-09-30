@@ -63,6 +63,10 @@ Cancer functions like a pre-wired pedalboard in one enclosure: wah shaping, octa
 
 Effects Database and Premier Guitar's exact-model review were cross-checked. The combined evidence establishes the fixed four-effect concept and internal Fixed Wah/Octave Fuzz controls while leaving undocumented component values unresolved. [1][2]
 
+## What this pedal is
+
+Celestial Effects's Cancer - Wah The Fuzz? is documented in the current archive evidence as a Fuzz / Wah / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Celestial Cancer: https://www.effectsdatabase.com/model/celestial/cancer

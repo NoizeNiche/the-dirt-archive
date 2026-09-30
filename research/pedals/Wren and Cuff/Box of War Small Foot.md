@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Wren and Cuff's Box of War Small Foot is cataloged as a Distortion / Fuzz pedal.
+Wren and Cuff's Box of War Small Foot is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

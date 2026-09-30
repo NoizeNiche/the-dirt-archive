@@ -38,6 +38,10 @@ The full product name **Even Harmonic Overdrive** is preserved because DOD's nam
 - **Circuit relationship:** shared basic board platform reported by secondary technical research
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for FX100 Even Harmonic Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for FX100.

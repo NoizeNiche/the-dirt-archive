@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Add+ Pedals's Fuzz Face is cataloged as a Fuzz pedal.
+Add+ Pedals's Fuzz Face is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

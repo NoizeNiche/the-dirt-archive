@@ -86,6 +86,10 @@ Retains the Stonk Box's automatically thermally biased Germanium fuzz concept.
 2. Störkn B0kš — BENSON AMPS: https://www.bensonamps.com/guitarpedals/strkn-b0k
 3. Benson Amps — Störkn B0kš: https://images.squarespace-cdn.com/content/v1/56c5480140261d141ef9243c/bf3b84ec-d7ff-4543-870b-70cb20a648af/stonk_01_9815.jpg
 
+## What this pedal is
+
+Benson Amps's Störkn B0kš is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Benson Amps — Störkn B0kš: https://www.bensonamps.com/guitarpedals/strkn-b0k

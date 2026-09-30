@@ -21,6 +21,10 @@ No reliable circuit topology or component-level information was found in the rev
 
 Effects Database documents the exact C.I.C. MOD 7 as an overdrive with Level, Tone, Drive controls. The reviewed source set does not establish a reliable circuit family or exact semiconductor list, so those remain unknown.
 
+## What this pedal is
+
+C.I.C's MOD-7 Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database: https://www.effectsdatabase.com/model/cic/mod7

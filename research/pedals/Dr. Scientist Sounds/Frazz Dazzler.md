@@ -34,6 +34,10 @@ The previous record contained large blocks of Amazon and unrelated website marku
 - **Historical review evidence:** May 2013
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Frazz Dazzler. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Frazz Dazzler.

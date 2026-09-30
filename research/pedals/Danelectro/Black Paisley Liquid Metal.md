@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Danelectro's Black Paisley Liquid Metal is cataloged as a Distortion pedal.
+Danelectro's Black Paisley Liquid Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -37,7 +37,7 @@ Danelectro's Black Paisley Liquid Metal is cataloged as a Distortion pedal.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Black Paisley Liquid Metal. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

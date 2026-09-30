@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Fender's Fender Fuzz Wah Pedal is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - Martin Collings Bourgeois Iris Guitar Company Gibson Taylor Alvarez Yairi Larrivée Yamaha Electric Guitars New Used Collings Fender Gibson Kauer Paul Reed Smith Alder Main Bass Guitars Featured 2021 Thompson D-BA 42 $16,499.00 Folk Instruments Mandolins Used Mandolins Collings Mandolins Gibson Mandolins Banjos Deering Banjos OME Banjos Goodtime Banjos Gold Tone Banjos Used Banjos Ukuleles Ohana Ukuleles C.F.

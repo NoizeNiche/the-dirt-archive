@@ -76,6 +76,10 @@ Clean, changes the clean ratio and the distortion.
 2. B85 Audio Fuzz Machine | Effects Database: https://www.effectsdatabase.com/model/b85/fuzzmachine
 3. Fuzz Machine - B85 audio: https://www.b85audio.cz/fuzz-machine/
 
+## What this pedal is
+
+B85 Audio's Fuzz Machine is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. B85 Audio — Fuzz Machine: https://www.b85audio.cz/fuzz-machine/

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-MadeByMike's Dist2 is cataloged as a distortion / overdrive pedal.
+MadeByMike's Dist2 is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -23,6 +23,10 @@ Handmade in Columbia, Missouri.
 Byron describes the Jabberwocky as an exacting tribute to the original “rodent” distortion pedal and documents a NOS LM308 op amp.
 Byron describes the pedal as producing fat crunch and late 1970s/early 1980s style distortion.
 
+## What this pedal is
+
+Byron Amplification's Jabberwocky Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Byron Amplification product demonstration: https://www.youtube.com/watch?v=1HKLUuBoDC4

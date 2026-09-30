@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Fuzzrocious Pedals's Playing Mantis is cataloged as an overdrive pedal.
+Fuzzrocious Pedals's Playing Mantis is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

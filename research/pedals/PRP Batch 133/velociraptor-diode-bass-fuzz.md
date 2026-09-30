@@ -31,6 +31,10 @@ A separate Made For Bass database entry distinguishes Version 1 and Version 2 , 
 Bulinski Effect Pedals product page: 2.
 Bulinski Effect Pedals's Velociraptor Diode Bass Fuzz is cataloged as a fuzz pedal.
 
+## What this pedal is
+
+Bulinski Effect Pedals's Velociraptor Diode Bass Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Bulinski Effect Pedals product page: https://bulinskipedals.com/shop/velociraptor-diode-bass-fuzz/

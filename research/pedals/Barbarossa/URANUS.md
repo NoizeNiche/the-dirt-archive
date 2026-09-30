@@ -81,6 +81,10 @@ Barbarossa describes URANUS as a refined Tube Screamer-style overdrive with grea
 
 newtool's current URANUS and URANUS OLD MODEL pages were cross-checked with Effects Database and Ikebe. The sources establish the Old Model/modern production split, three-control later interface, point-to-point/CNC construction and 9V center-negative operation. [1][2][3][4]
 
+## What this pedal is
+
+Barbarossa's URANUS is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. newtool — Barbarossa URANUS: https://newtool.jp/barbarossa/uranus-2/

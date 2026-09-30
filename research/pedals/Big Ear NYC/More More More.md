@@ -45,6 +45,10 @@ The documented purpose is increased level and gain through three individually us
 
 The Effects Database historical addition, contemporary Music Zoo lineup, and current Equipboard record were cross-checked. They independently establish the product identity and historical presence. The archive deliberately avoids copying an uncorroborated single-knob description from secondary metadata because it conflicts with the contemporary three-channel description.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Effects Database weekly overview, August 4, 2014: https://www.effectsdatabase.com/updates/weekly/20140804

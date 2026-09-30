@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Katanasound's Kamikaze Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - For in-store sales we accept all major credit cards (VISA, Mastercard, Discover, American Express), Cashier’s Check, Money Order, and that green stuff they call Cash.

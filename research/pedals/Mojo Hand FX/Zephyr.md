@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Mojo Hand FX's Zephyr is cataloged as a fuzz pedal.
+Mojo Hand FX's Zephyr is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Mojo Hand FX's Zephyr is cataloged as a fuzz pedal.
 
 ## Sound
 
-The Dirt Archive currently catalogs **Zephyr** by **Mojo Hand FX** as a **Fuzz** pedal.
+The reviewed evidence does not establish a reliable model-specific sound description for Zephyr. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

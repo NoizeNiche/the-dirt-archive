@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Skreddy Pedals's Cosmos is cataloged as a fuzz / overdrive pedal.
+Skreddy Pedals's Cosmos is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

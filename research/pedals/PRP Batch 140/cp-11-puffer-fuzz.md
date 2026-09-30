@@ -17,6 +17,10 @@
 - **Research confidence:** High for identity, control set and general behavior; high for the traced-unit component list; medium for circuit-family classification because it comes from a third-party trace.
 - **Sources checked:** https://www.effectsdatabase.com/model/caline/cpxx/cp11 ; https://www.freestompboxes.org/viewtopic.php?t=28673 ; https://reverb.com/p/caline-cp-11-puffer-fuzz
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

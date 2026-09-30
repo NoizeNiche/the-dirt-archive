@@ -60,6 +60,10 @@ FUZZZZ moves from sputtery/gritty textures toward thicker gated fuzz as Sustain 
 
 Beetronics' standard Vezzpa page, Blackbee/Majin Bee editions and official demo were cross-checked. The evidence supports the two-mode design, multifunction footswitch, op-amp architecture and electrical specifications. [1][2][3]
 
+## What this pedal is
+
+Beetronics FX's Vezzpa Octave Stinger is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Vezzpa Octave Stinger: https://www.beetronicsfx.com/products/vezzpa-octave-stinger-babee-series

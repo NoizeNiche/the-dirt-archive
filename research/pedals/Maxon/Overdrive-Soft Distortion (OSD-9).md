@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Maxon's Overdrive-Soft Distortion (OSD-9) is cataloged as a distortion / overdrive pedal.
+Maxon's Overdrive-Soft Distortion (OSD-9) is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Maxon's Overdrive-Soft Distortion (OSD-9) is cataloged as a distortion / overdri
 
 ## Sound
 
-OVERDRIVE-SOFT DISTORTION (OSD-9) – Godlyke, Inc.
+The reviewed evidence does not establish a reliable model-specific sound description for Overdrive-Soft Distortion (OSD-9). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

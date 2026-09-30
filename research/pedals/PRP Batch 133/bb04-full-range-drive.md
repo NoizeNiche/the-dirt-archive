@@ -33,6 +33,10 @@ Featuring four op amp gain stages, this pedal delivers expansive headroom, whils
 Switch between thicker or thinner tones, whilst also providing a perceived gain and volume boost when engaged.
 With the BODY switch, you have two distinct ranges of TONE and GAIN at your fingertips, depending on which side of the pedal you use, each offering a spectrum of overdrive flavours.
 
+## What this pedal is
+
+Buzzing Bugs Audio Devices's BB04 Full Range Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb04-full-range-drive

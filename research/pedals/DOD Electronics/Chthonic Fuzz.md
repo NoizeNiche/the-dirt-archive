@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Chthonic Fuzz is cataloged as a DOD fuzz pedal. The currently checked archive sources do not provide enough trustworthy manufacturer documentation to support the more elaborate drummer-specific circuit and measurement claims found in older scraped research, so those claims are deliberately omitted here.
+DOD Electronics's Chthonic Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

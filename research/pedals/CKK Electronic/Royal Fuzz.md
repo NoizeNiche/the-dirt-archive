@@ -57,6 +57,10 @@ Royal Fuzz moves between thicker classic-fuzz response and smoother/higher-frequ
 
 RockBoard PedalPedia and Brett Kingman's exact-model demonstration were cross-checked. Both document the FET-versus-diode clipping concept, three main controls and Mid Boost, while the exact semiconductor part numbers remain unresolved. [1][2]
 
+## What this pedal is
+
+CKK Electronic's Royal Fuzz is documented in the current archive evidence as a Fuzz / Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — CKK Royal Fuzz: https://www.rockboard.de/en/pedalPedia/Ckk-Electronic/Royal-Fuzz/68976775/

@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Mid-Fi Electronics's Psych Byke is cataloged as a fuzz pedal.
+Mid-Fi Electronics's Psych Byke is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

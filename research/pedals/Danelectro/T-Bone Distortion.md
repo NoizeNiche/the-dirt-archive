@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Danelectro's T-Bone Distortion is cataloged as a Distortion pedal.
+Danelectro's T-Bone Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -32,6 +32,10 @@ The main Level, Tone and Gain controls provide the continuous part of the range.
 
 - **Archive status:** **No Photo Archived**
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

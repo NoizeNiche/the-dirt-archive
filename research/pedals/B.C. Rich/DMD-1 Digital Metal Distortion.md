@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Rich distortion pedal Information B.C.
+B.C. Rich's DMD-1 Digital Metal Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Rich distortion pedal Information B.C.
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for DMD-1 Digital Metal Distortion. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

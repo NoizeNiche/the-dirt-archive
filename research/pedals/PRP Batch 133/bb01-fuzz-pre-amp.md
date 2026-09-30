@@ -29,6 +29,10 @@ The gain range runs from a dirty amp-pushing boost into blown-out speaker fuzz. 
 
 The manufacturer positions the BB01 around the character of the VOX AC “Normal” channel, while independent review coverage describes the unit as capable of moving from boost and chime into aggressive fuzz.
 
+## What this pedal is
+
+Buzzing Bugs Audio Devices's BB01 Fuzz Pre-Amp is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Buzzing Bugs Audio Devices product page: https://buzzingbugsfx.com/store/p/bb01-fuzz-pre-amp

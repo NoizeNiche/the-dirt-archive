@@ -30,7 +30,7 @@ I.C.B.M. is Big Knob's recreation of the 1977 op-amp Big Muff variant associated
 
 ## Sound
 
-Crunchier, higher-gain Muff character associated with the op-amp variant.
+The reviewed evidence does not establish a reliable model-specific sound description.
 
 ## Sources checked
 

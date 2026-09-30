@@ -58,6 +58,10 @@ The Phoenix Fuzz is intended as a compact vintage-style fuzz. The mixed transist
 
 The exact-model Reverb listing and contemporary Japanese coverage were cross-checked. The sources agree on the hybrid Germanium/Silicon construction, compact form and bottom-access bias control. [1][2]
 
+## What this pedal is
+
+CheeseBlocks Effects's Phoenix Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Reverb — CheeseBlocks Effects Phoenix Fuzz: https://reverb.com/item/54087340-cheeseblocks-effects-phoenix-fuzz

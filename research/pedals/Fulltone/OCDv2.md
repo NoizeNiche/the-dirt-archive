@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-What I have completed this time is a two-page set for the Fulltone OCDv2.
+Fulltone's OCDv2 is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

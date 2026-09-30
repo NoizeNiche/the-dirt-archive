@@ -61,6 +61,10 @@ TK-421-X is intended for aggressive bass distortion. LPF and the internal clippi
 
 Effects Database and COG's discontinued archive were checked together. They support the bass expansion, LPF/RANGE system and four documented clipping configurations. [1][2]
 
+## What this pedal is
+
+COG Effects's TK-421-X Bass Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — COG TK-421-X: https://www.effectsdatabase.com/model/cog/tk421/x

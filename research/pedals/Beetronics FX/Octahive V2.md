@@ -58,6 +58,10 @@ BUZZZ produces the thicker high-gain fuzz voice. OCTAVE emphasizes the aggressiv
 
 Beetronics' V2 and Custom Shop pages were cross-checked. The evidence supports the V2 feature expansion, including multifunction switching, configurable response profiles and the BUZZZ/OCTAVE architecture. [1][2]
 
+## What this pedal is
+
+Beetronics FX's Octahive V2 is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Beetronics FX — Octahive V2: https://www.beetronicsfx.com/products/octahive-v2-high-octave-fuzz-p-babee-series

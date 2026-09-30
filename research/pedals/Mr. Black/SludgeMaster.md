@@ -13,7 +13,7 @@
 
 ## What this pedal is
 
-When we designed the SludgeMaster, we didn’t just copy a thing.
+Mr. Black's SludgeMaster is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

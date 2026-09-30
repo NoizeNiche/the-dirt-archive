@@ -57,6 +57,10 @@ CKK positions Destruction Drive for heavy rock and metal, with substantial gain 
 
 RockBoard PedalPedia and Brett Kingman's exact-model demonstration were cross-checked. The sources agree on the analog high-gain architecture, active Bass/Middle/Treble EQ, three-way Midrange Focus and heavy-rock/metal positioning. [1][2]
 
+## What this pedal is
+
+CKK Electronic's Destruction Drive is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — CKK Electronic Destruction Drive: https://www.rockboard.de/en/pedalPedia/Ckk-Electronic/Destruction-Drive/68976753/

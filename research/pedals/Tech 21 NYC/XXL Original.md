@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Tech 21 NYC's XXL Original is cataloged as a distortion / fuzz pedal.
+Tech 21 NYC's XXL Original is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -59,6 +59,10 @@ Brothers spans clean boost, overdrive and fuzz on both sides. Series routing can
 
 The Chase Bliss Brothers manual and Effects Database were cross-checked. The manual supplies the mode/routing architecture and digital-control details; the database independently confirms the model identity and analog gain-stage structure. [1][2]
 
+## What this pedal is
+
+Chase Bliss Audio's Brothers - Analog Gainstage is documented in the current archive evidence as a Boost / Overdrive / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Chase Bliss Audio Brothers instruction manual: https://www.manualslib.com/manual/1677851/Chase-Bliss-Audio-Brothers.html

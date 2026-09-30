@@ -37,7 +37,7 @@ Crushsound's Farmer's Mill is cataloged in the archive as a Distortion / Fuzz / 
 
 ## Sound
 
-No verified pedal-specific sonic summary is currently established in the archive.
+The reviewed evidence does not establish a reliable model-specific sound description for Farmer's Mill. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

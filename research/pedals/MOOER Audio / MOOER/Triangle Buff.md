@@ -46,7 +46,7 @@ The exact-model manufacturer page establishes the product as a compact true-bypa
 
 ## Sound
 
-MOOER characterizes Triangle Buff around a rich, creamy, violin-like fuzz voice. [1]
+The reviewed evidence does not establish a reliable model-specific sound description for Triangle Buff. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

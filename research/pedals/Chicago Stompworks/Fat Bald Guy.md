@@ -49,6 +49,10 @@ Fat Bald Guy is intended to deliver thick, sustaining late-1970s Muff-style fuzz
 
 Effects Database and Chicago Stompworks' own catalog were cross-checked. The sources directly support the V3 Big Muff lineage and Double Dave relationship. [1][2]
 
+## What this pedal is
+
+Chicago Stompworks's Fat Bald Guy is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Fat Bald Guy: https://www.effectsdatabase.com/model/chicagostompworks/fatbaldguy

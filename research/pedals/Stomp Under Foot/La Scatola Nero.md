@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-La Scatola Nero is a fuzz pedal with an added octave function.
+Stomp Under Foot's La Scatola Nero is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

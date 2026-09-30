@@ -20,6 +20,10 @@ Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distor
 This is a Fuzz Overdrive containing 4 couples of transistors sourced from around the world.
 By mixing and matching the circuits through the two bottom knobs, this thing allows you to access a total of 16 unique circuit modes, which, in tandem with the GAIN, BIAS, and VOLT starving knobs allow for a variety of tonal possibilities.
 
+## What this pedal is
+
+BZZT Electronics's SELEKTOR 16 is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Delicious Audio overview: https://delicious-audio.com/new-pedals-bzzt-electronics-selector-16/

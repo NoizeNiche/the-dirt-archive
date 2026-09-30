@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+TC Electronic's Tube Pilot Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Colorways
 
 - Generated from the text of customer reviews Noise level (18) Value for money (13) Tone control (10) Performance (5) Sound quality (24) Overdrive (15) Product details Brand TC Electronic Style Overdrive Color Black, Grey Item Weight 0.4 kg Voltage 9 Amperage 0.04 milliamps Similar to your pick Page {currentPage} of {totalPages} JOYO JOYO Tube Overdrive Pedal Vintage Overdrive Pedal with Clear Transparent Tones for Electric Guitar High-end Edition Dr.J Series (D50) 4.3 (234) 50+ viewed in past month $59.99 $ 59 .

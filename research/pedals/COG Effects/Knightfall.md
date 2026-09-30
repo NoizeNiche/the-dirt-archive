@@ -62,6 +62,10 @@ COG positions Knightfall across warm drive, fuller distortion and higher-gain le
 
 COG's Knightfall product page and discontinued-pedal archive were checked together. The manufacturer sources support the control architecture and later replacement by Mini 66. [1][2]
 
+## What this pedal is
+
+COG Effects's Knightfall is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. COG Effects — Knightfall Distortion: https://www.cogeffects.co.uk/knightfall.php

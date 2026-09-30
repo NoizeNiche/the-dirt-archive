@@ -17,6 +17,10 @@
   - https://www.effectsdatabase.com/model/caseygooby/organdonor
   - https://www.talkbass.com/threads/pypb-44-like-tetris-with-boxes-wires-and-cables.1063732/page-695
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

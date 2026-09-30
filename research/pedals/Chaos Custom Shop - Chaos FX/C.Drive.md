@@ -61,6 +61,10 @@ The pedal is intended to retain the balanced boost/overdrive response associated
 
 RockBoard PedalPedia and an exact C.Drive+ Reverb record were cross-checked. The sources agree on the C.Drive identity, Klon lineage, selectable clipping/EQ/fatness functions and Polish construction. [1][2]
 
+## What this pedal is
+
+Chaos Custom Shop / Chaos FX's C.Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — Chaos Custom Shop C.Drive: https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/

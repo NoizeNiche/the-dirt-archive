@@ -39,6 +39,10 @@ The archive keeps the NYC row because the historical catalog used Big Ear n.y.c.
 
 Reverb's model record was compared with current Big Ear product coverage. The archive preserves the branding distinction without inventing an electrical or sonic difference that the surviving evidence does not support.
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Sources checked
 
 1. Reverb - BIG EAR Pedals LOAF: https://reverb.com/p/big-ear-pedals-loaf

@@ -65,6 +65,10 @@ Bad Pixel describes the Gold Face as sustaining strongly while cleaning up from 
 
 The builder's Gold Face page and exact Reverb listing were cross-checked. The documentation supports the GT402 pair, point-to-point construction, external Bias, positive-ground operation and gold-leaf finish. [1][2]
 
+## What this pedal is
+
+Bad Pixel Pedals's Germanium Gold Face Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Bad Pixel Pedals — Germanium Gold Face: https://badpixel.weebly.com/gold-face-germanium.html

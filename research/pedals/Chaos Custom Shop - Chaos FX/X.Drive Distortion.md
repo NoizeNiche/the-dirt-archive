@@ -58,6 +58,10 @@ X.Drive is positioned as a straightforward rock/metal distortion with broad inde
 
 One Thousand Pedals' exact-model entry was checked directly. It establishes the three-band control set, analog distortion classification, 9V operation, true bypass and Polish construction. [1]
 
+## What this pedal is
+
+Chaos Custom Shop / Chaos FX's X.Drive Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. One Thousand Pedals — Chaos Custom Shop X.Drive: https://onethousandpedals.com/pedal/chaos-custom-shop-x-drive

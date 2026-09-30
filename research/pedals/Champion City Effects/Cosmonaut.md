@@ -59,6 +59,10 @@ The Cosmonaut is designed around the thick, smooth low-end-heavy character of th
 
 RockBoard PedalPedia's exact-model entry was used as the controlling source because it preserves the builder's component-level description, including KT3102E/KT3102EM and KD521. [1]
 
+## What this pedal is
+
+Champion City Effects's Cosmonaut is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. RockBoard PedalPedia — Champion City Effects Cosmonaut: https://www.rockboard.de/en/pedalPedia/Champion-City-Effects/Cosmonaut/68976695/

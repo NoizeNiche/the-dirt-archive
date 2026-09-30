@@ -57,6 +57,10 @@ The standard range spans clean boost through medium-gain overdrive, while DisDri
 
 CKK's product archive and Mike Hermans' exact-model demonstration were cross-checked. The sources agree on the two-stage, three-clipping-option architecture and DisDrive function. [1][2]
 
+## What this pedal is
+
+CKK Electronic's Scream Drive is documented in the current archive evidence as a Overdrive / Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. CKK Electronic archive / AN2 Music: https://an2music.weebly.com/ckk-electronic.html

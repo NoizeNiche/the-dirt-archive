@@ -28,6 +28,14 @@ The sources reviewed for this correction do not establish a complete exact-model
 
 Secondary surviving-example references report specific finish and production details, but those do not establish a universal manufacturing or colorway history for every FX70.
 
+## What this pedal is
+
+DOD Electronics's FX70 Metal X is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for FX70 Metal X. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for the FX70.

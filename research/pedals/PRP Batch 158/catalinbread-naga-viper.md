@@ -18,6 +18,10 @@
   - https://reverb.com/item/69060992-catalinbread-naga-viper-treble-booster
   - https://catalinbread.com/products/naga-viper-mkii
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

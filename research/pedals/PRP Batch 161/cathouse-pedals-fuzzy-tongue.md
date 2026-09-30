@@ -16,6 +16,10 @@
 - **Research confidence:** High.
 - **Sources checked:** https://www.pedal-of-the-day.com/2017/01/09/cathouse-pedals-fuzzy-tongue-fuzz/
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

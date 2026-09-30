@@ -58,6 +58,10 @@ The Fettle side functions as boost/preamp while the Clart side extends into stro
 
 Champion Leccy's own Canny-vs-Fettle article and its manual were cross-checked. Together they establish the JFET/BJT two-stage architecture, expanded Clart section, Dunsh switching and filter controls. [1][2]
 
+## What this pedal is
+
+Champion Leccy's Canny Fettle Boost is documented in the current archive evidence as a Boost / Overdrive / Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Champion Leccy — Fettle Boost vs Canny Fettle Boost: https://championleccy.com/2020/10/23/the-fettle-boost-vs-the-canny-fettle-boost/

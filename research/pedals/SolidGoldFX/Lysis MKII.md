@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-The Lysis MKII is designed to meld the world of strings with that of synths.
+SolidGoldFX's Lysis MKII is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -38,6 +38,10 @@ Jackson Audio's GOAT HEAD is a **swappable analog fuzz module for the Jackson Au
 
 The Goat Head is a Ram's Head-style fuzz voice with high sustain and a strong fuzz character. Jackson Audio states that the module can be further shaped through the FUZZ pedal's parametric EQ, while the module itself includes Tone and Gain trimmers.
 
+## What this pedal is
+
+Jackson Audio's Goat Head is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Goat Head – Jackson Audio: https://jackson.audio/products/goat-head

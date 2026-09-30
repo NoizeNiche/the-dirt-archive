@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Mr. Black's Jalapeno is cataloged as an overdrive pedal.
+Mr. Black's Jalapeno is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 
@@ -35,7 +35,7 @@ Mr. Black's Jalapeno is cataloged as an overdrive pedal.
 
 ## Sound
 
-Top 25 spans modulation, overdrive, fuzz, distortion and utility.
+The reviewed evidence does not establish a reliable model-specific sound description for Jalapeno. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

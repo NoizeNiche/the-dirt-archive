@@ -36,6 +36,10 @@ Guitar Pedal X published its exact-model Dungeon Crawler coverage on **September
 - **Indicator behavior reported:** two LEDs shift from amber toward brighter red with increasing input gain
 - **Factory BOM:** not established in this pass
 
+## Sound
+
+The reviewed evidence does not establish a reliable model-specific sound description for Dungeon Crawler. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
+
 ## Photo
 
 - **Archive photo:** No verified local photo is currently archived for Dungeon Crawler.

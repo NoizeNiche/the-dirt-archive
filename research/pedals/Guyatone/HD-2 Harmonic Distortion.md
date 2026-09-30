@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Guyatone's HD-2 Harmonic Distortion is cataloged in the archive as a Distortion pedal.
+Guyatone's HD-2 Harmonic Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Colorways
 

@@ -43,6 +43,10 @@ The higher-headroom architecture is intended to retain clarity at levels where t
 
 Effects Database and independent Condor HiFi coverage were cross-checked. The evidence directly supports the OPA1662 architecture, internal headroom boost and redesigned-model distinction. [1][2]
 
+## What this pedal is
+
+Chase Bliss Audio's Condor Hifi - Analog EQ / Pre / Filter is documented in the current archive evidence as a EQ / Filter / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. Effects Database — Condor HiFi: https://www.effectsdatabase.com/model/chasebliss/condor/hifi
