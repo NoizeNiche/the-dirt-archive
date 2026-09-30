@@ -116,9 +116,15 @@ def main():
                     elif approved_page and str(result.get("image_source_page") or "").strip() != approved_page:
                         ok = False
                         reason = "recovered source page does not match the manually verified primary source"
+                elif method == "exact_source_page" and (v.get("curatedExactSourcePage") is True):
+                    # Conservative automatic path: only curator-listed,
+                    # model-specific source pages with raw image extraction may
+                    # pass without a manual primary row. Image-search results
+                    # remain manual-review-only.
+                    pass
                 else:
                     ok = False
-                    reason = "pending recovery has no manually verified primary photo"
+                    reason = "pending recovery has no manually verified primary photo or approved exact-source-page evidence"
                 if method == "verified_image_search":
                     ok = ok and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120
                 image_file = str(result.get("imageFile") or "").lstrip("./")
