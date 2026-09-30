@@ -22,3 +22,5 @@ finish-line recovery kick 2026-09-30T11:29:27.937Z
 commit-isolated recovery after queue contention fix
 
 full-size candidate selection fix 2026-09-30T11:47:45.236Z
+
+manual recovery kick 2026-09-30T10:06 PDT
