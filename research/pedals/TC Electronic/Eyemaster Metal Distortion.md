@@ -9,8 +9,6 @@
 
 ## What this pedal is
 
-Privacy Terms Accessibility Back to Products EYEMASTER METAL DISTORTION Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain 1 / 4 Zoom View in fullscreen EYEMASTER METAL DISTORTION Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain Share Overview Learning Features Downloads About this product Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain EYEMASTER METAL DISTORTION EYEMASTER METAL DISTORTION brings back the original metal credo of "loud and brutal" with its "simpler-than thou" 2-knob operation.Just set the volume (all the way up, right?) and adjust the gain (anything less than all-the-gain is sacrilege) and start riffing.EYEMASTER was specifically designed to channel the Swedish death metal tone, endearingly nicknamed the "Swedish buzzsaw".
-
 ## Colorways
 
 - EYEMASTER brings back elemental, primordial gain – the kind of raw gain by which empires are either built or shattered!
@@ -37,7 +35,6 @@ Customers say Customers praise the distortion pedal's sound quality, with one co
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products EYEMASTER METAL DISTORTION Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain 1 / 4 Zoom View in fullscreen EYEMASTER METAL DISTORTION Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain Share Overview Learning Features Downloads About this product Skull-Pounding Metal Distortion Pedal with 2-Knob Interface for Insane Gain EYEMASTER METAL DISTORTION EYEMASTER METAL DISTORTION brings back the original metal credo of "loud and brutal" with its "simpler-than thou" 2-knob operation.Just set the volume (all the way up, right?) and adjust the gain (anything less than all-the-gain is sacrilege) and start riffing.EYEMASTER was specifically designed to channel the Swedish death metal tone, endearingly nicknamed the "Swedish buzzsaw".
 As that term implies, EYEMASTER is not a subtle overdrive.It is not transparent and it does not "sit well in a mix".
 
 ## Sources checked

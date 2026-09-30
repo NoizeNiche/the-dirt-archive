@@ -9,8 +9,6 @@
 
 ## What this pedal is
 
-Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones 1 / 4 Zoom View in fullscreen RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones Share Overview Learning Features Downloads About this product Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones RUSTY FUZZ RUSTY FUZZ delivers those vintage silicon-based fuzz tones of yesteryear that we’ve all come to know and love, but at a price point so low everyone can play along.
-
 ## Colorways
 
 - One minute you’re rockin’ foxey velcro tones, the next you’re soaring over the White Cliffs of Dover with a sweet, harmonically-rich solo vibe.
@@ -37,7 +35,6 @@ Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones 1 / 4 Zoom View in fullscreen RUSTY FUZZ Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones Share Overview Learning Features Downloads About this product Silicon-Based Transistor Fuzz with Vintage Gated and Velcro-Like Fuzz Tones RUSTY FUZZ RUSTY FUZZ delivers those vintage silicon-based fuzz tones of yesteryear that we’ve all come to know and love, but at a price point so low everyone can play along.
 From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
 
 ## Sources checked

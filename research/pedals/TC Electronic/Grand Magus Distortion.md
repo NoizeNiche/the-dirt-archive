@@ -9,8 +9,6 @@
 
 ## What this pedal is
 
-Privacy Terms Accessibility Back to Products GRAND MAGUS DISTORTION Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag 1 / 4 Zoom View in fullscreen GRAND MAGUS DISTORTION Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag Share Overview Learning Features Downloads About this product Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag GRAND MAGUS DISTORTION Overflowing with organic tube amplifier-like distortion, tube compression and tight bottom-end tone, GRAND MAGUS DISTORTION channels the very essence of rock ‘n’ roll.
-
 ## Colorways
 
 - Raw Rock Power Nothing has shaped the musical landscape more than a roaring tube guitar amp set to 11 – that incredible sound remains the heart and soul of rock.
@@ -35,7 +33,6 @@ Privacy Terms Accessibility Back to Products GRAND MAGUS DISTORTION Organic Tube
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products GRAND MAGUS DISTORTION Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag 1 / 4 Zoom View in fullscreen GRAND MAGUS DISTORTION Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag Share Overview Learning Features Downloads About this product Organic Tube-Like Distortion with Tight Bottom-End and Natural Sag GRAND MAGUS DISTORTION Overflowing with organic tube amplifier-like distortion, tube compression and tight bottom-end tone, GRAND MAGUS DISTORTION channels the very essence of rock ‘n’ roll.
 Couple all that tone with the sultry feel of a vintage tube-rectified power supply and endorphin-elevating affordability – and you’ve got a shiny one-way trip to guitar Nirvana!
 
 ## Sources checked

@@ -35,7 +35,6 @@ IBANEZ TK999HT SCH Service Manual download, schematics, eeprom, repair info for 
 
 ## Sound
 
-IBANEZ TUBE KING DISTORTION TK999HT OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Table of Contents Contents Add to my manuals Delete from my manuals Share URL of this page: HTML Link: IBANEZ TUBE KING DISTORTION TK999HT OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to "My Manuals" Print this page × Bookmark added × Added to my manuals Manuals Brands Ibanez Manuals Music Pedal tube king distortion TK999HT Owner's manual Ibanez Tube King Distortion TK999HT Owner's Manual Tube king distortion Hide thumbs 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 page of 16 Go / 16 Contents Table of Contents FAQs Bookmarks Available languages EN FR DE ES IT CN JP More Available languages ENGLISH, page 4 FRANÇAIS, page 8 DEUTSCH, seite 6 ESPAÑOL, página 10 ITALIANO, pagina 12 汉语, 第 14 页 日本語, 2ページ Table of Contents 1 Connecting Diagram 2 Beschreibung der Bedienungselemente 3 Diagramme de Connexion 4 Esquema de Conexiones 5 Schema DI Collegamento Frequently Asked Questions (4) Download this manual Enlarged version This equipement fully conforms to the protection requirements of the following Council Directives.
 Yes No What kind of distortion sound does the Ibanez Tube King TK999HT produce?
 The Ibanez Tube King TK999HT produces a modern and aggressive tube distortion.
 

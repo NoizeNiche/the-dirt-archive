@@ -9,8 +9,6 @@
 
 ## What this pedal is
 
-Privacy Terms Accessibility Back to Products MAGUS PRO Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes 1 / 6 Zoom View in fullscreen MAGUS PRO Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes Share Overview Learning Features Downloads About this product Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes Versatile Classic Analog Distortion If you’ve ever needed a Classic Analog High Gain Distortion Pedal but been unable to find one with enough versatility to suit any scenario, the MAGUS PRO will be a very welcome surprise for you.
-
 ## Colorways
 
 - See all details Product details Brand TC Electronic Style Filter,Distortion Color Blue Product Dimensions 3.9"L x 2.24"W x 2.2"H Item Weight 290 g Voltage 9 volts Similar to your pick Page {currentPage} of {totalPages} Best Seller EX EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 (79) 50+ viewed in past month $42.99 $ 42 .
@@ -37,7 +35,6 @@ Privacy Terms Accessibility Back to Products MAGUS PRO Classic High Gain Distort
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products MAGUS PRO Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes 1 / 6 Zoom View in fullscreen MAGUS PRO Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes Share Overview Learning Features Downloads About this product Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping Modes Versatile Classic Analog Distortion If you’ve ever needed a Classic Analog High Gain Distortion Pedal but been unable to find one with enough versatility to suit any scenario, the MAGUS PRO will be a very welcome surprise for you.
 Its slow slew rate, treble filter control and three different modes of operation provide more than enough variance in approach and tone to compliment any playing style.
 
 ## Sources checked

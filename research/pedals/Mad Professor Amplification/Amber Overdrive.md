@@ -35,7 +35,6 @@
 
 ## Sound
 
-MAD PROFESSOR AMBER OVERDRIVE OWNER'S MANUAL Pdf Download | ManualsLib Sign In Upload Download Table of Contents Contents Add to my manuals Delete from my manuals Share URL of this page: HTML Link: MAD PROFESSOR AMBER OVERDRIVE OWNER'S MANUAL Pdf Download '> Pinterest Bookmark this page Add Manual will be automatically added to "My Manuals" Print this page × Bookmark added × Added to my manuals Manuals Brands Mad Professor Manuals Music Pedal Amber Overdrive Owner's manual Mad Professor Amber Overdrive Owner's Manual Hide thumbs 1 2 page of 2 Go / 2 Contents Table of Contents Bookmarks Table of Contents 1 Notes 2 Thank You for Purchasing Amber Overdrive!
 3 The Controls Are 4 Electrical Specification 5 Power Requirements Download this manual Notes: amber overdrive is protected against wrong dc eliminator polarity.
 Do you have a question about the Amber Overdrive and is the answer not in the manual?
 

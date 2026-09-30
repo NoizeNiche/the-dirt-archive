@@ -35,7 +35,6 @@ TC Electronic's Cinders Overdrive is cataloged as a Overdrive pedal.
 
 ## Sound
 
-Privacy Terms Accessibility Back to Products CINDERS OVERDRIVE 1 / 4 Zoom View in fullscreen CINDERS OVERDRIVE Share Overview Learning Downloads About this product
 TC Electronic Cinders Overdrive | Long & McQuade --> Contact Us Toronto (Bloor St.) ( Change?
 
 ## Sources checked
