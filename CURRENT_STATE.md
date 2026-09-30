@@ -355,3 +355,13 @@ The deployment browser audit now checks primary photo container count and geomet
 The existing photo-content auditor was retained as the canonical contamination checker and made worker-count configurable. Its high-confidence OCR/provenance checks specifically target embedded donation/support overlays such as “Buy Me a Coffee.”
 
 An independent exhaustive quality workflow now runs manually and on a daily schedule, with push triggers for changes that can affect public photo/detail rendering.
+
+## Pre-launch hardening checkpoint - September 30, 2026
+
+The site is now in the final production-quality lane rather than active catalog research. The current catalog/research snapshot is complete; remaining launch work is photo integrity/recovery plus exhaustive browser QA.
+
+The deployment gate exposed six shared primary-photo paths across distinct identities, and the recovery pipeline has been hardened to reset non-keeper assignments, prefer canonical Builder identities, and prevent reconciliation from resurrecting quarantined or already-owned assets. Photo-cache concurrency now favors the newest snapshot, and the cache lane refreshes derived production-state counts.
+
+The last completed exhaustive detail audit covered 4,199 researched parent pages and reported 32 failures. A fresh exhaustive audit is running with explicit per-record failure output so those pages can be corrected. A production deployment is not considered live until the validation and live browser audits pass.
+
+Visual/aesthetic redesign is intentionally deferred until these functional and data-quality gates are green.
