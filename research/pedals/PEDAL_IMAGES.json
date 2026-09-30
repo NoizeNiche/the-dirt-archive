@@ -28101,6 +28101,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Blues King",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Blues King.md"
   },
@@ -29139,6 +29140,7 @@
   {
     "builder": "Way Huge",
     "pedal": "Overrated Special",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Way Huge/Overrated Special.md"
   },
