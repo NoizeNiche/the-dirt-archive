@@ -73,7 +73,6 @@ The **Electro-Harmonix Hell Melter** is an **Advanced Metal Distortion**.
 
 ### Verified sound evidence
 Hell Melter Play Video Play Video Hell Melter Advanced Metal Distortion Summon cult-classic, high-gain heavy metal tones!
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Chainsaw Refueled Burn Mode with Boost On Gilmour Style Lead Doomed Out Burn Mode, Volume Roll-up Hell Melter on Bass & Guitar Stacking & Shaping Other Drive Pedals Menu Hell Melter
 Advanced Metal Distortion Hell Melter quantity Find a Dealer Hell Melter DESCRIPTION With its take on the cult-classic, chainsaw distortion pedal, the EHX Hell Melter takes distortion to its extremes.
 
 ### Sources checked in this pass
