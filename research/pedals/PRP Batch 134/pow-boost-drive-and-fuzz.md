@@ -315,3 +315,21 @@ Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 sold out Kompre
 
 ### Sources checked in this pass
 1. Pedals &mdash; Byron Amplification: https://byronamplification.com/pedals
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+is our version of the first overdrive pedal, a huge orange unit used by such greats as Jeff Beck and David Gilmour.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Boost/Drive and Fuzz Previous Green Concussion Fuzz Next Kompressor POW!
+Boost/Drive and Fuzz Sale Price: $149.00 Original Price: $159.00 POW!: Do you need an ass-kicking clean boost with EQ?
+Do you need a classic rock overdrive?
+
+### Sources checked in this pass
+1. POW! Boost/Drive and Fuzz &mdash; Byron Amplification: https://byronamplification.com/pedals/pow
