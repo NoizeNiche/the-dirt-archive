@@ -14063,7 +14063,9 @@
     "pedal": "OVD-5 Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md"
+    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kQDPQyGc--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/rfgbrdx39tpy9nancqsh.jpg",
+    "image_source_page": "https://reverb.com/item/77051434-locobox-ovd-5-vintage-overdrive-pedal-pre-owned"
   },
   {
     "builder": "Columbus",
@@ -14203,7 +14205,8 @@
     "image": "",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/compulsive_toneoracle_001.jpg"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/compulsive_toneoracle_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle"
   },
   {
     "builder": "Compulsive Audio",
