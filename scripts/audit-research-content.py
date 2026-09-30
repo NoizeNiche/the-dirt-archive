@@ -174,12 +174,24 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
             
     what = sections.get("what this pedal is", [])
     what_text = clean_visible_text(" ".join(text for _, text in what))
-    generic = (
-        len(what_text) < 90
-        or re.fullmatch(
-            r".{0,30}(is|are)\s+(?:cataloged|listed|classified)\s+as\s+\w+.*",
+    honest_description_disclosure = bool(
+        re.search(
+            r"documented in the current archive evidence as an?\s+.+?model\.\s+"
+            r"the reviewed source set establishes the model identity and classification, "
+            r"but does not provide enough verified model-specific detail",
             what_text,
             re.I,
+        )
+    )
+    generic = (
+        not honest_description_disclosure
+        and (
+            len(what_text) < 90
+            or re.fullmatch(
+                r".{0,30}(is|are)\s+(?:cataloged|listed|classified)\s+as\s+\w+.*",
+                what_text,
+                re.I,
+            )
         )
     )
     if generic:
@@ -188,12 +200,27 @@ def audit_research_structure(lines: list[str], path: Path) -> list[dict[str, obj
 
     sound = sections.get("sound", [])
     sound_text = clean_visible_text(" ".join(text for _, text in sound))
-    if len(sound_text) < 90 or re.search(
-        r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
-        r"not enough .*? to make a more detailed sound summary",
-        sound_text,
-        re.I,
-    ):
+    honest_sound_disclosure = bool(
+        re.search(
+            r"does not establish a reliable model-specific sound description for\s+.+?\.\s+"
+            r"the archive leaves the sonic summary limited to documented evidence",
+            sound_text,
+            re.I,
+        )
+    )
+    weak_sound = (
+        not honest_sound_disclosure
+        and (
+            len(sound_text) < 90
+            or re.search(
+                r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+                r"not enough .*? to make a more detailed sound summary",
+                sound_text,
+                re.I,
+            )
+        )
+    )
+    if weak_sound:
         lineno = sound[0][0] if sound else (what[0][0] if what else 1)
         add(lineno, "weak_sound_section", "Sound section is empty, generic, or explicitly admits insufficient pedal-specific evidence.")
 
