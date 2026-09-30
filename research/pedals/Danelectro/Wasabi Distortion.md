@@ -5,11 +5,11 @@
 - **Archive parent:** Wasabi Distortion
 - **Builder:** Danelectro
 - **Catalog type:** Distortion
-- **Identity:** Danelectro's Wasabi Distortion.
+- **Identity:** Danelectro's Wasabi Distortion AX-1.
 
 ## What this pedal is
 
-Yes No Submitted by skinsuit from Toronto (14 points) on Dec 28, 2004 picked up the wasabi distortion and the overdrive pedals today, they are going back tomorrow.
+The Wasabi Distortion AX-1 is a dual-function Danelectro pedal that combines distortion with a separate lead-boost function. Documented features include four preset EQ selections, separate bass and treble controls, a wet/dry mix control, a pickup-selector setting, and a built-in slap-echo/doubler feature.
 
 ## Colorways
 
@@ -35,9 +35,7 @@ Yes No Submitted by skinsuit from Toronto (14 points) on Dec 28, 2004 picked up 
 
 ## Sound
 
-GearBug - Danelectro Wasabi Distortion AX-1 gearbug .com Music gear info and reviews Search FAQ Sign In Danelectro Wasabi Distortion AX-1 « Previous Item Next Item » Close Close - Thick, fat distortion with nearly endless sustain 4 EQ presets - Separate bass and treble controls - Multilevel Lead Boost - Wet/dry mix control - Secret Slap Echo Doubler - Pickup selector - Rugged die-cast case Manufacturer’s Suggested Retail Price: $129.00 Looking to buy the Danelectro Wasabi Distortion AX-1?
-Add to My Bookmarks All items from Danelectro Add your review User Reviews of the Danelectro Wasabi Distortion AX-1 Submitted by AULOS from Hereford Uk (488 points) on Jun 4, 2008 I used to use this to make a tube amp match a modern amp for the style of music I was playing at the time.
-It's a cool shape, based on a car, but the tone is tiny and really high gain.
+Published and user-review descriptions characterize the AX-1 as a high-gain distortion with substantial sustain and a useful built-in boost. One detailed user review describes the distortion as aggressive and high gain, while noting that the mix control can blend dry and distorted signal and that the EQ presets provide distinctly different tonal shapes.
 
 ## Sources checked
 
@@ -45,6 +43,8 @@ It's a cool shape, based on a car, but the tone is tiny and really high gain.
 2. Danelectro AX-1 Wasabi Distortion - What To Know Where To Buy: https://equipboard.com/items/danelectro-ax-1-distortion
 3. GearBug - Danelectro Wasabi Distortion AX-1: https://www.gearbug.com/product_info/danelectro_wasabi_distortion
 4. NoiseGuide - Danelectro Wasabi Distortion AX-1: https://www.noiseguide.com/product_info/danelectro_wasabi_distortion
+5. MusikBoard user test report - Danelectro Wasabi AX-1: https://www.musiker-board.de/threads/testbericht-danelectro-wasabi-ax-1-distortion-booster.218564/
+6. JHS Pedals - Danelectro Wasabi series overview: https://www.youtube.com/watch?v=EO_Upu58vYY
 
 ## Photo
 
@@ -52,19 +52,21 @@ It's a cool shape, based on a car, but the tone is tiny and really high gain.
 
 ## Deep research verification
 
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+This pass removes scrape residue from the visible research and retains only model-specific claims supported by the checked evidence.
 
 ### Verified description
-Yes No Submitted by skinsuit from Toronto (14 points) on Dec 28, 2004 picked up the wasabi distortion and the overdrive pedals today, they are going back tomorrow.
+
+The AX-1 combines distortion and boost in one enclosure and includes four EQ presets, a bass/treble control, wet/dry mix, pickup selection, and a built-in slap-echo/doubler feature.
 
 ### Verified sound evidence
-It's a cool shape, based on a car, but the tone is tiny and really high gain.
-It does have a nice boost on it though which is actually pretty good.
-Good Points: Good boost, Looks cool.
+
+User and review sources describe the AX-1 as a distinctly high-gain distortion with strong sustain. The mix control allows the dry guitar signal to remain present alongside the distorted signal, and the EQ section provides multiple preset voicings plus bass/treble adjustment.
 
 ### Sources checked in this pass
+
 1. Danelectro Wasabi Distortion - Reverb: https://reverb.com/p/danelectro-wasabi-distortion
 2. Danelectro AX-1 Wasabi Distortion - What To Know Where To Buy: https://equipboard.com/items/danelectro-ax-1-distortion
 3. GearBug - Danelectro Wasabi Distortion AX-1: https://www.gearbug.com/product_info/danelectro_wasabi_distortion
 4. NoiseGuide - Danelectro Wasabi Distortion AX-1: https://www.noiseguide.com/product_info/danelectro_wasabi_distortion
-5. NoiseFX - Danelectro Wasabi Distortion AX-1: https://www.noisefx.com/product_info/danelectro_wasabi_distortion?ref=ngDumProdInfo
+5. MusikBoard user test report - Danelectro Wasabi AX-1: https://www.musiker-board.de/threads/testbericht-danelectro-wasabi-ax-1-distortion-booster.218564/
+6. JHS Pedals - Danelectro Wasabi series overview: https://www.youtube.com/watch?v=EO_Upu58vYY
