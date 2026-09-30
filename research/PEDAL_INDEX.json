@@ -6927,7 +6927,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1488,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--4ufVPyRd--/quality=medium-low,height=800,width=800,fit=contain/002cb2db-c2bf-4a4c-a1fe-5aa3b9c165a9.jpeg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--u9oXYAB8--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/a1fuwzpwxog8axluxa8w.png",
+      "image": "./assets/pedals/bad-penny-fx/dluxe-drive/primary.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -7016,7 +7017,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1515
+      "image_source_priority": 1515,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--dZWLE5-M--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/zasqlehrtdkhjpf3mogg.png",
+      "image": "./assets/pedals/bad-penny-fx/morse-fuzz-mini/primary.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -38592,7 +38595,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product=moth",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-2-100x100.jpg"
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_GUITAR-5-100x100.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
