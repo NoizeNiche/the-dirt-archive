@@ -747,3 +747,22 @@ Sustain, Tone and Mids controls are all up to the top, and the Blend and Level c
 ### Sources checked in this pass
 1. Cog Effects Grand Tarkin Mk2 - Bass Fuzz | Effects Database: https://www.effectsdatabase.com/model/cog/tarkin/grand/mk2
 2. Cog Effects Revamps Tarkin and Grand Tarkin Fuzz Pedals – No Treble: https://www.notreble.com/buzz/2016/04/21/cog-effects-revamps-tarkin-and-grand-tarkin-fuzz-pedals/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Grand Tarkin Mk2 - Bass Fuzz Published on August 23, 2016 Cog Effects fuzz pedal Information Cog Effects The original Grand Tarkin was designed as a workhorse bass fuzz for the gigging bass player.
+
+### Verified version references
+- The evidence references: MKII, Mk2, mk2.
+
+### Verified sound evidence
+Grand Tarkin Mk2 - Bass Fuzz Published on August 23, 2016 Cog Effects fuzz pedal Information Cog Effects The original Grand Tarkin was designed as a workhorse bass fuzz for the gigging bass player.
+No frills and no gimmicks, just solid bone-crushing tone to drive the bass in any band.
+Sustain, Tone and Mids controls are all up to the top, and the Blend and Level controls of the original have been replaced with two pairs of individual Fuzz and Clean level controls.
+
+### Sources checked in this pass
+1. Cog Effects Grand Tarkin Mk2 - Bass Fuzz | Effects Database: https://www.effectsdatabase.com/model/cog/tarkin/grand/mk2
+2. Cog Effects Revamps Tarkin and Grand Tarkin Fuzz Pedals – No Treble: https://www.notreble.com/buzz/2016/04/21/cog-effects-revamps-tarkin-and-grand-tarkin-fuzz-pedals/
