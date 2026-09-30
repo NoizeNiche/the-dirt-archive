@@ -2,11 +2,6 @@ name: Curated direct photo catch-up
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/15 * * * *"
-  push:
-    paths:
-      - research/PHOTO_FAST_KICK
 
 
 permissions:
