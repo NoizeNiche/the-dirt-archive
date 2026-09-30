@@ -540,13 +540,26 @@ def sanitize_visible_sections(markdown: str) -> str:
     updated = markdown
     for heading in ("What this pedal is", "Sound"):
         body = section_text(updated, heading)
-        if not body or not obvious_scrape_payload(body):
+        if not body:
             continue
         if heading == "What this pedal is" and builder and pedal:
-            replacement = f"{builder}'s {pedal} is cataloged in the archive as a {catalog_type} pedal."
-        else:
-            replacement = "No verified pedal-specific sonic summary is currently established in the archive."
-        updated = replace_section_body(updated, heading, replacement)
+            # Correct a legacy normalization artifact that lost the catalog type.
+            body = re.sub(
+                r"\b(?:an|a)\s+effect\s+model\b",
+                f"a {catalog_type} model",
+                body,
+                flags=re.I,
+            )
+        if obvious_scrape_payload(body):
+            if heading == "What this pedal is" and builder and pedal:
+                replacement = f"{builder}'s {pedal} is cataloged in the archive as a {catalog_type} pedal."
+            else:
+                replacement = "No verified pedal-specific sonic summary is currently established in the archive."
+            updated = replace_section_body(updated, heading, replacement)
+        elif heading == "What this pedal is":
+            # Persist safe taxonomy correction without rewriting otherwise useful prose.
+            corrected = replace_section_body(updated, heading, body)
+            updated = corrected
     return updated
 
 def substantive_section_excerpt(markdown: str, headings: tuple[str, ...]) -> str:
