@@ -15,8 +15,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-research-content-audit-v1
-  cancel-in-progress: false
+  group: dirt-research-content-audit-v2
+  cancel-in-progress: true
 
 jobs:
   audit:
