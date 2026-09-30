@@ -5,50 +5,44 @@
 - **Archive parent:** The Shag MkII
 - **Builder:** Stomp Under Foot
 - **Catalog type:** Fuzz
-- **Identity:** Stomp Under Foot's The Shag MkII.
+- **Identity:** Stomp Under Foot The Shag MkII.
 
 ## What this pedal is
 
-Browse More Stomp Under Foot Pedals Browse All Fuzz Pedals Need More Info?
-
-## Colorways
-
-- No specific factory colorway information was established in the verified evidence packet.
+The Shag MkII is a three-transistor germanium fuzz built in the Tone Bender family. The surviving model-specific sources describe it as a vintage-style germanium fuzz with a rich, harmonically dense response.
 
 ## Versions and factory options
 
-- The verified evidence references: MKI, MKII, MkII, V1, V3, V6, mk II, version 1.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The archive records **MkII** as the canonical identity. Related MkI references are kept separate and are not used to fill MkII-specific details.
 
-## Version changes
+## Colorways
 
-- No specific factory version changes were established in the verified evidence packet.
+Individual examples exist in different finishes and enclosure treatments. No complete factory colorway sequence was established.
+
+## Controls
+
+The exact control labels are not consistently preserved across the reviewed sources, so the archive does not reconstruct the panel from related Tone Bender variants.
 
 ## Transistor
 
-- Documented terms in the verified sources: Germanium Fuzz.
-- The archive records only the component information explicitly present in these sources.
+- **Germanium transistor fuzz:** documented.
+- Exact production transistor part numbers were not established in the reviewed sources.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Stomp Under Foot The Shag MkII - Germanium Tone Bender
-NOS Parts with NPN Germanium Transistors for that classic Germanium Fuzz tone.
-This three-transistor build delivers a fuzz circuit that hass a very rich, harmonic sound with a lot of gain.
+The Shag MkII is documented as a germanium Tone Bender-style fuzz with a rich, harmonically complex character and substantial gain. The archive does not transfer component or control information from other Stomp Under Foot fuzzes.
 
 ## Sources checked
 
-1. Stomp Under Foot The Shag MkII 2024 - Silver - Reverb: https://reverb.com/item/92211681-stomp-under-foot-the-shag-mkii-2024-silver
-2. Stomp Under Foot The Shag MkII - Germanium Tone Bender | Effects Database: https://www.effectsdatabase.com/model/stompunderfoot/shag/mk2
-3. Stomp Under Foot - The Shag MKII - Vintage Enclosure - Germanium Fuzz | Mass Street Music: https://massstreetmusic.com/products/stomp-under-foot-the-shag-mkii-vintage-enclosure-germanium-fuzz
-4. Stomp Under Foot - The Shag MKII - Vintage Enclosure - eBay: https://www.ebay.com.au/itm/187030545442
-5. Stomp Under Foot - The Shag MKII - Vintage Enclosure - Germanium Fuzz - Guitar, Bass & Pedals – Shop Stompboxes, Strings, Picks, Amps & Full Rig Gear: https://www.guitarfxpro.com/product/stomp-under-foot-the-shag-mkii-vintage-enclosure-germanium-fuzz/
-6. Shag mk II by Stomp Under Foot | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Shag-mk-II/68984671/
+1. Stomp Under Foot The Shag MkII 2024 | Reverb: https://reverb.com/item/92211681-stomp-under-foot-the-shag-mkii-2024-silver
+2. Stomp Under Foot The Shag MkII | Effects Database: https://www.effectsdatabase.com/model/stompunderfoot/shag/mk2
+3. Stomp Under Foot The Shag MkII | Mass Street Music: https://massstreetmusic.com/products/stomp-under-foot-the-shag-mkii-vintage-enclosure-germanium-fuzz
+4. Shag mk II by Stomp Under Foot | RockBoard: https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Shag-mk-II/68984671/
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
