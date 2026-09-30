@@ -454,7 +454,7 @@ def main() -> None:
                 "image": "./" + target.with_suffix(".webp").as_posix(),
                 "image_source_url": image_url,
                 "image_source_page": source_page,
-                "imageFile": "./" + target.with_suffix(".webp").as_posix(),
+                "imageFile": "./" + target.as_posix(),
                 "verification": {
                     "method": "direct_exact",
                     "identityVerified": True,
