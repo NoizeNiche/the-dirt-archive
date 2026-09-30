@@ -44,7 +44,7 @@ jobs:
 
       - name: Install tooling
         run: |
-          python -m pip install --disable-pip-version-check pillow pytesseract
+          python -m pip install --disable-pip-version-check pillow pytesseract playwright
           sudo apt-get update
           sudo apt-get install -y tesseract-ocr
           npm install --no-save playwright@1.63.0
