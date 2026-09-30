@@ -6927,7 +6927,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1488
+      "image_source_priority": 1488,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--u9oXYAB8--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/a1fuwzpwxog8axluxa8w.png"
     },
     {
       "company": "Bad Penny FX",
@@ -6989,7 +6990,8 @@
       "research_record": "./research/pedals/Bad Penny FX/Morse Fuzz Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
+      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg"
     },
     {
       "company": "Bad Penny FX",
@@ -36569,7 +36571,8 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Kerria Lacca.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy"
+      "image_source_page": "https://store.electrofoods.space/product/kerria-lacca",
+      "image_source_url": "https://assets.bigcartel.com/product_images/244976354/Kerria+Lacca+-+Knobbed+-+Website+Pedal+Images+_whitespace+below+III_.jpg?auto=format&fit=max&w=1500"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -40178,7 +40181,8 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/Animal Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://rockettpedals.com/"
+      "image_source_page": "https://www.gbase.com/gear/j-rockett-audio-designs-animal-overdrive-68-p",
+      "image_source_url": "https://guitars.gbase.com/aza/user/gear/j-rockett-audio-des-animal-overdrive-6-CTL03Bk.jpg?maxheight=500&maxwidth=500"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -40367,7 +40371,8 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/WTF Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz"
+      "image_source_page": "https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz",
+      "image_source_url": "https://willcuttguitars.com/cdn/shop/files/1289331-3_1600x.jpg?v=1790632667"
     },
     {
       "company": "Jackson Audio",
