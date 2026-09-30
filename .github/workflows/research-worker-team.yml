@@ -2,9 +2,8 @@ name: Research worker team
 
 on:
   workflow_dispatch:
-  schedule:
-    # Run every 15 minutes, staggered from the catalog-sync cadence.
-    - cron: '7,22,37,52 * * * *'
+  # Research is currently complete. Keep this lane event-driven so photo
+  # recovery and production QA are not competing with empty research cycles.
   push:
     paths:
       - 'research/RESEARCH_WORKER_KICK'
