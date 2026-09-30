@@ -307,30 +307,38 @@ def main():
                     f"Competing direct photos require exactly one PHOTO REVIEW: PRIMARY for pending identity: {k}"
                 )
 
-    manual_keys = set()
+    manual_groups = {}
     for row in manual_review:
         k = key(row.get("Builder"), row.get("Pedal"))
-        if k in manual_keys:
-            raise SystemExit(f"Duplicate manual primary review identity: {k}")
-        manual_keys.add(k)
         status = str(row.get("Status") or "").strip().upper()
         if status not in {"VERIFIED_PRIMARY", "REVIEW_REVISION"}:
             raise SystemExit(f"Unsupported manual photo review status: {k}")
-        if status == "REVIEW_REVISION":
-            # Review-only rows deliberately preserve an unresolved revision
-            # conflict. They must not silently resolve the photo to a primary
-            # override until the physical revision is visually established.
+        manual_groups.setdefault(k, []).append(row)
+
+    for k, rows_for_identity in manual_groups.items():
+        primary_reviews = [
+            row for row in rows_for_identity
+            if str(row.get("Status") or "").strip().upper() == "VERIFIED_PRIMARY"
+        ]
+        if not primary_reviews:
+            # REVIEW_REVISION rows intentionally preserve unresolved revision
+            # evidence and must not silently resolve a primary photo.
             continue
+
         matching = [
-            candidate for candidate in direct_overrides
+            candidate
+            for candidate in direct_overrides
             if key(candidate.get("Builder"), candidate.get("Pedal")) == k
-            and candidate.get("Image URL") == row.get("Image URL")
-            and candidate.get("Image Source Page") == row.get("Source Page")
             and "photo review: primary" in str(candidate.get("Notes") or "").lower()
+            and any(
+                candidate.get("Image URL") == row.get("Image URL")
+                and candidate.get("Image Source Page") == row.get("Source Page")
+                for row in primary_reviews
+            )
         ]
         if len(matching) != 1:
             raise SystemExit(
-                f"Manual photo review does not resolve to one primary override: {k}"
+                f"Manual photo review does not resolve to exactly one active primary override: {k}"
             )
 
     print(
