@@ -17,7 +17,9 @@ concurrency:
   group: dirt-photo-publishing-v1
   # Let an active recovery/merge finish. A newer trigger may supersede the queue,
   # but must not interrupt a photo batch after it has started modifying the archive.
-  cancel-in-progress: true
+  # Push/manual recovery runs may replace stale work. Scheduled passes wait
+  # rather than cancelling an active recovery batch.
+  cancel-in-progress: ${{ github.event_name != 'schedule' }}
 
 jobs:
   recover:
