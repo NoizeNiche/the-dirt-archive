@@ -59,10 +59,10 @@ ColorTone Fx / Pedal Tank's Gainer is cataloged as an overdrive pedal.
 - No reliable production colorway record was established from the checked sources.
 
 ### Verified version references
-- The evidence references: MkII, mkII, revision.
+- No reliable numbered production revision was established in the checked exact-model evidence.
 
 ### Verified transistor/device terms
-- Germanium Fuzz.
+- No exact transistor or device was established in the checked exact-model evidence.
 
 ### Verified sound evidence
 Reverb Tone Report 14:07 2019-08-13 The Guitar Show Jimi Hendrix - History of his Effects Pedals 15:56 2019-07-31 Guitar Bonedo 7 Unusual Effect Pedal Combinations (no talking) 8:33 2019-05-23 JHS Pedals The First Guitar Effects Ever 11:06 2019-05-10 That Pedal Show What's The Point Of Always-On Pedals?
