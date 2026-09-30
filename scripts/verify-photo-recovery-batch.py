@@ -116,12 +116,20 @@ def main():
                     elif approved_page and str(result.get("image_source_page") or "").strip() != approved_page:
                         ok = False
                         reason = "recovered source page does not match the manually verified primary source"
-                elif method == "exact_source_page" and (v.get("curatedExactSourcePage") is True):
-                    # Conservative automatic path: only curator-listed,
-                    # model-specific source pages with raw image extraction may
-                    # pass without a manual primary row. Image-search results
-                    # remain manual-review-only.
-                    pass
+                elif method == "exact_source_page" and v.get("rawVerifiedPageImage") is True:
+                    # An exact catalog page that passed the recovery identity gate
+                    # and yielded the page's own raw image is strong enough to enter
+                    # the automatic lane when the URL itself is model-specific.
+                    page = str(result.get("image_source_page") or "").lower()
+                    pedal_tokens = [
+                        token for token in re.sub(r"[^a-z0-9]+", " ", str(result.get("pedal") or "").lower()).split()
+                        if len(token) >= 4 or any(ch.isdigit() for ch in token)
+                    ]
+                    meaningful = [token for token in pedal_tokens if token not in {"the","and","with","pedal","effects","audio"}]
+                    model_specific = bool(meaningful) and sum(1 for token in meaningful if token in page) >= max(1, min(2, len(meaningful)))
+                    if not model_specific:
+                        ok = False
+                        reason = "exact-source-page evidence is not model-specific enough for automatic publication"
                 else:
                     ok = False
                     reason = "pending recovery has no manually verified primary photo or approved exact-source-page evidence"
