@@ -367,9 +367,21 @@ def strong_verified_description(candidate: str, pedal: str) -> bool:
 
 def strong_verified_sound(candidate: str) -> bool:
     visible = markdown_visible(candidate)
-    return len(visible) >= 90 and bool(
+    if len(visible) < 90 or obvious_scrape_payload(visible):
+        return False
+    if re.search(
+        r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+        r"not enough .*? to make a more detailed sound summary",
+        visible,
+        re.I,
+    ):
+        return False
+    lower = visible.casefold()
+    if "is cataloged in the archive as a" in lower or "is documented in the current archive evidence as a" in lower:
+        return False
+    return bool(
         re.search(
-            r"\b(?:tone|gain|fuzz|drive|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|headroom)\b",
+            r"\b(?:tone|gain|fuzz|drive|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|headroom|sustain|harmonic)\b",
             visible,
             re.I,
         )
