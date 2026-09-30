@@ -77,7 +77,6 @@ Fuzz Flatiron Fuzz quantity Find a Dealer Flatiron Fuzz DESCRIPTION The EHX Flat
 
 ### Verified sound evidence
 Flatiron Fuzz Play Video Play Video Flatiron Fuzz Fuzz Extremely versatile, classic op-amp powered fuzz/distortion inspired by the RAT2TM!
-Get it by · Order in Notify me when in stock Notify me of updates Notify me when in stock More Details Find a Dealer Sound Clips Ratty Distortion Full & Clear Drive Fat Compressed Overdrive Over the Edge Fuzztortion Menu Flatiron Fuzz
 Fuzz Flatiron Fuzz quantity Find a Dealer Flatiron Fuzz DESCRIPTION The EHX Flatiron Fuzz is a classic op-amp powered fuzz/distortion.
 
 ### Sources checked in this pass
