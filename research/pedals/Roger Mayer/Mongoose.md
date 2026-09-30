@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Mongoose Fuzz Published on March 23, 2006 Roger Mayer Rocket series fuzz pedal Information Roger Mayer The MONGOOSE FUZZ was developed in 1985 for guitarists who demand a guitar effect with lots of fat fuzz and enough bottom end to keep a metalhead happy.
+Roger Mayer's Mongoose is cataloged in the archive as a Fuzz pedal.
 
 ## Colorways
 
