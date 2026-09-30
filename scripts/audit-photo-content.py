@@ -19,7 +19,7 @@ import subprocess
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-from PIL import Image, ImageStat, ImageFilter
+from PIL import Image, ImageStat, ImageFilter, ImageOps
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = Path(".")
