@@ -31781,13 +31781,15 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
+      "image_source_page": "https://www.darkglass.com/products/dlx3",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1456
+      "image_source_priority": 1456,
+      "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Vintage-Deluxe-Gal-1.png?v=1747937557&width=1946",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-vintage-deluxe/primary.webp"
     },
     {
       "company": "Darkglass Electronics",
@@ -37310,13 +37312,15 @@
       "research_record": "./research/pedals/Fortin Amplification/Meshuggah.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fortinamps.com/",
+      "image_source_page": "https://motorcityguitar.com/products/fortin-meshuggah-preamp-distortion-pedal",
       "image_source_pages": [
         "https://fortinamps.com/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1428
+      "image_source_priority": 1428,
+      "image_source_url": "https://motorcityguitar.com/cdn/shop/files/Fortin_Meshuggah_Pedal_01_1400x.jpg?v=1745445491",
+      "image": "./assets/pedals/fortin-amplification/meshuggah/primary.webp"
     },
     {
       "company": "Fortin Amplification",

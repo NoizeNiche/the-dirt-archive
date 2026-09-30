@@ -16779,9 +16779,11 @@
   {
     "builder": "Darkglass Electronics",
     "pedal": "Microtubes Vintage Deluxe",
-    "image": null,
+    "image": "./assets/pedals/darkglass-electronics/microtubes-vintage-deluxe/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/vintagedeluxe",
-    "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md"
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes Vintage Deluxe.md",
+    "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Vintage-Deluxe-Gal-1.png?v=1747937557&width=1946",
+    "image_source_page": "https://www.darkglass.com/products/dlx3"
   },
   {
     "builder": "Darkglass Electronics",
@@ -19784,9 +19786,11 @@
   {
     "builder": "Fortin Amplification",
     "pedal": "Meshuggah",
-    "image": null,
+    "image": "./assets/pedals/fortin-amplification/meshuggah/primary.webp",
     "source_page": "https://quanta-brands.jp/fortin-amplification/products/",
-    "research_record": "./research/pedals/Fortin Amplification/Meshuggah.md"
+    "research_record": "./research/pedals/Fortin Amplification/Meshuggah.md",
+    "image_source_url": "https://motorcityguitar.com/cdn/shop/files/Fortin_Meshuggah_Pedal_01_1400x.jpg?v=1745445491",
+    "image_source_page": "https://motorcityguitar.com/products/fortin-meshuggah-preamp-distortion-pedal"
   },
   {
     "builder": "Fortin Amplification",
