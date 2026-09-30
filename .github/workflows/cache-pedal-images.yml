@@ -1,13 +1,8 @@
 name: Cache pedal images
 
 on:
-  # Manual fallback lane. The fast photo catch-up workflow is the primary
-  # continuous recovery worker and should own the shared photo concurrency lane.
+  # Manual fallback lane only. Fast photo catch-up is the primary recovery worker.
   workflow_dispatch:
-  push:
-    paths:
-      - 'research/PHOTO_RECOVERY_KICK'
-      - 'scripts/cache-curated-direct-photos.py'
 permissions:
   contents: write
   actions: write
