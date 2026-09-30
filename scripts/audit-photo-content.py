@@ -38,6 +38,15 @@ HIGH_CONFIDENCE = (
     "paypal dot me",
     "cash.app",
     "venmo",
+    "add as a preferred source on google",
+    "add as preferred source on google",
+    "preferred source on google",
+    "add as a preferred source",
+    "preferred source",
+    "search by image",
+    "search with google lens",
+    "google lens",
+    "upload a photo",
 )
 
 def norm(value: str) -> str:
