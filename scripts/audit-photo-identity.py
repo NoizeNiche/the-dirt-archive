@@ -156,7 +156,7 @@ def probable_conflicts(entry, text, builder_models, all_builder_tokens):
         if builder != entry["builder"]
         and tokens_for_builder
         and any(
-            re.search(r"\\b" + re.escape(token) + r"\\b", text)
+            re.search(r"\b" + re.escape(token) + r"\b", text)
             for token in tokens_for_builder
         )
     )
