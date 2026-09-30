@@ -173,7 +173,11 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", default="photo-identity-audit.csv")
     parser.add_argument("--workers", type=int, default=8)
+    parser.add_argument("--shard", type=int, default=0)
+    parser.add_argument("--shards", type=int, default=1)
     args = parser.parse_args()
+    if args.shards < 1 or args.shard < 0 or args.shard >= args.shards:
+        raise SystemExit("--shard must be between 0 and --shards-1")
 
     catalog = json.loads(INDEX.read_text(encoding="utf-8")).get("pedals", [])
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
@@ -237,6 +241,9 @@ def main() -> int:
                     "sha256": digest,
                     "records": rows,
                 }
+
+    if args.shards > 1:
+        targets = [target for index, target in enumerate(sorted(targets, key=lambda row: (row[0][0].casefold(), row[0][1].casefold()))) if index % args.shards == args.shard]
 
     ocr_results = {}
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as pool:
