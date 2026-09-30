@@ -93,6 +93,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
         imageCount:photo?.querySelectorAll('img').length||0,
         imageLoaded:!!image && image.complete && image.naturalWidth>0,
         imageSrc:image?.getAttribute('src')||'',
+        imageAlt:image?.getAttribute('alt')||'',
         fallbackCount:fallback?1:0,
         fallbackVisible,
         fallbackText:(fallback?.textContent||'').trim(),
@@ -120,6 +121,10 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(isLocalImage(entry.image)){
       if(result.imageCount!==1) problems.push('expected local primary image element missing');
       if(!result.imageLoaded) problems.push('local primary image did not load');
+      if(!result.imageAlt.toLowerCase().includes(String(entry.pedal).toLowerCase()) ||
+         !result.imageAlt.toLowerCase().includes(String(entry.company).toLowerCase())){
+        problems.push('local primary image alt text is not self-identifying');
+      }
     }else{
       if(result.fallbackCount!==1) problems.push('missing-photo fallback missing');
       const fallbackLower=result.fallbackText.toLowerCase();
