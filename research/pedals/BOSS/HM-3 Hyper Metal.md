@@ -40,7 +40,9 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Sources checked
 
 1. Boss HM-3 Hyper Metal | Effects Database: https://www.effectsdatabase.com/model/boss/compact/hm3
+2. Boss HM-3 Hyper Metal photograph | Wikimedia Commons (Kuriosatempel), CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Boss_HM-3_Hyper_Metal.jpg
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo source verified; local archival recovery is handled separately.
+- **Photo credit:** Kuriosatempel, Wikimedia Commons, CC BY-SA 4.0.
