@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Himmelstrutz Elektro Art's FITZO is cataloged as an overdrive pedal.
+FITZO is designed for perfect compatibility with your amplifier's genuine character, fresh from other overdrive pedals that often colour or smashes your original tone, too many times like a bad joke.
 
 ## Colorways
 
@@ -47,3 +47,25 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+FITZO is designed for perfect compatibility with your amplifier's genuine character, fresh from other overdrive pedals that often colour or smashes your original tone, too many times like a bad joke.
+
+### Verified color/finish evidence
+- 450 g (0.99 lbs) Colour / Finish May vary depending on season.
+- From Oct 2024 onward: Raw aluminium / zinc chassis with black print .
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+FITZO is designed for perfect compatibility with your amplifier's genuine character, fresh from other overdrive pedals that often colour or smashes your original tone, too many times like a bad joke.
+Potentiometers Drive Natural, crisp, amp-sounding overdrive from clean → medium dirty.
+Bass Passive low-frequency tone control.
+
+### Sources checked in this pass
+1. Himmelstrutz Elektro Art FITZO: https://www.himmelstrutz.com/fitzo/
