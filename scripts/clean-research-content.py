@@ -417,6 +417,8 @@ def replace_section_body(markdown: str, heading: str, body: str) -> str:
 VISIBLE_SCRAPE_MARKERS = (
     "javascript is disabled",
     "enable javascript",
+    "skip to navigation",
+    "skip to main navigation",
     "add to cart",
     "add to wishlist",
     "view wishlist",
