@@ -53,6 +53,19 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       const builder=(document.querySelector('#builder')?.textContent||'').trim();
       const record=document.querySelector('#record');
       const research=(document.querySelector('#research')?.textContent||'').trim();
+      const researchLower=research.toLowerCase();
+      const scrapeResidueSignals=[
+        'add to cart',
+        'shopping cart',
+        'shipping calculated at checkout',
+        'sign in',
+        'view cart',
+        'buy now',
+        'automotive / parts accessories',
+        'average product review',
+        'skip to content'
+      ];
+      const visibleScrapeResidue=scrapeResidueSignals.filter(signal=>researchLower.includes(signal));
       const photo=document.querySelector('#photoBox');
       const photos=[document.querySelector('#photoBox')].filter(Boolean);
       const image=photo?.querySelector('.photoImage');
@@ -73,7 +86,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       const firstContentRect=firstContent?.getBoundingClientRect();
       const headerRect=header?.getBoundingClientRect();
       return {
-        name,builder,researchLength:research.length,
+        name,builder,researchLength:research.length,visibleScrapeResidue,
         recordVisible:!!record && !record.hidden,
         photoCount:photos.length,photoBoxCount:photo?1:0,
         photoWidth:rect?.width||0,photoHeight:rect?.height||0,
@@ -96,6 +109,7 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
     if(result.builder !== entry.company) problems.push('builder mismatch');
     if(!result.recordVisible) problems.push('record hidden');
     if(result.researchLength<=40) problems.push('Pedal Info unexpectedly short');
+    if(result.visibleScrapeResidue?.length) problems.push('visible research contains scrape residue: '+result.visibleScrapeResidue.join(', '));
     if(result.photoCount!==1 || result.photoBoxCount!==1) problems.push('unexpected primary photo container count');
     if(result.photoHeight>600) problems.push('primary photo container oversized');
     if(result.fallbackVisible && result.photoHeight>220) problems.push('no-photo fallback reserves excessive vertical space');
