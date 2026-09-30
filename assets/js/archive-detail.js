@@ -107,6 +107,8 @@ function isObviousScrapeResidue(line){
   if(/home\s*\/\s*blog\s*\/|home\s+blog\s+categories\s+authors\s+about/.test(lower))return true;
   if(/home\s+store\b.*\b(?:faqs?|terms|about)\b.*\b(?:dealers|contact)\b.*\b(?:basket|cart)\b.*\bhome\s*\/\s*(?:pedals?|products?)\s*\//i.test(value))return true;
   if(/country\/region\s+[^|]+\|\s*(?:usd|cad|eur|gbp|aud|jpy|cny)\b/i.test(value))return true;
+  if(/(?:javascript is disabled|show me how to enable it|listen online for free on soundcloud)/i.test(value))return true;
+  if(/(?:your cart is empty|your cart loading|estimated total|select currency|add to (?:wish|shopping) list|continue shopping)/i.test(lower))return true;
   if(/(?:regular price\s*[$€£]|shipping calculated at checkout|add to cart|shopping cart|buy now|free shipping|(?:^|\s)out of stock(?:\s|$)|(?:^|\s)available:\s*in stock\b)/i.test(value))return true;
   if(value.length>1800 && /\b(?:home|search|login|log in|menu|categories|brands|shop by|related tags|related brands)\b/i.test(value))return true;
   return false;
