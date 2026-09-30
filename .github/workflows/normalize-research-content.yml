@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: dirt-research-content-normalizer-v1
@@ -46,6 +47,7 @@ jobs:
             if git rebase origin/main; then
               if git push origin HEAD:main; then
                 echo "Research normalization publication succeeded on attempt $attempt."
+                GH_TOKEN="${GH_TOKEN:-${{ github.token }}}" gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main
                 exit 0
               fi
             else
