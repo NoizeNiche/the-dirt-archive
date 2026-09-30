@@ -17,6 +17,7 @@ on:
       - 'identify.html'
       - 'corrections.html'
       - 'methodology.html'
+      - 'photo-credits.html'
       - 'audit.html'
       - '404.html'
       - 'sitemap.xml'
