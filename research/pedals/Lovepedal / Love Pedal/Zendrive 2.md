@@ -57,7 +57,7 @@ Zendrive 2 is a limited Hermida Audio/Lovepedal version of the Zendrive using hi
 ### Verified sound evidence
 Slight overdrive to mild distortion Great dynamic response and open sound Connectors: Input, Output, DC adapter Power Supply: 9VDC center neg.
 It seems to adapt really well to different amps...” —Sonny Landreth “One of the best sounding kind of overdrive pedals I’ve ever heard...
-fabulous.” —Vince Gill “You really won’t find a smoother overdrive that expands your tone so effortlessly.” —Adam Moore, Guitar Player © All rights reserved 2026 LOVEPEDAL L.L.C.
+fabulous.” —Vince Gill “You really won’t find a smoother overdrive that expands your tone so effortlessly.” —Adam Moore, Guitar Player
 
 ### Sources checked in this pass
 1. ZENDRIVE 2 | Love Pedal: https://www.lovepedal.com/zendrive-2/
