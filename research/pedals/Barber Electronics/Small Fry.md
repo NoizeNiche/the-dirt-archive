@@ -30,7 +30,7 @@ High for identity/features, colorway and alias relationship. Components remain u
 
 ## What this pedal is
 
-Barber Electronics's Small Fry is documented as a effect model. Volume, Tone, Dynamics, Burn. Technical reviews document additional internal shaping. Small Fry and Small Fry Burn Unit are treated as one parent identity.
+Barber Electronics's Small Fry is documented as a Distortion / Overdrive model. Volume, Tone, Dynamics, Burn. Technical reviews document additional internal shaping. Small Fry and Small Fry Burn Unit are treated as one parent identity.
 
 ## Photo
 
