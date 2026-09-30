@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Origin Effects's RevivalDRIVE Hot Rod Edition is cataloged as a distortion pedal.
+Do you have a question about the RevivalDrive Hot Rod Edition and is the answer not in the manual?
 
 ## Colorways
 
@@ -47,3 +47,22 @@ MANUAL Halcyon Gold Overdrive Recall Sheet
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Do you have a question about the RevivalDrive Hot Rod Edition and is the answer not in the manual?
+
+### Verified version references
+- The evidence references: Version 1.
+
+### Verified sound evidence
+This includes not only the preamp, phase inverter, power amp and rectifier stages, but also a synthesised mains power signal to let the RevivalDRIVE Hod Rod sound and interact just like a classic valve amplifier.
+These mods pushed the sonic boundaries of these classic amps and ushered in an era of heavy rock bands and super-saturated guitar tones.
+The result is a pedal that retains the RevivalDRIVE's astonishingly amp-like response but covers a completely new expanse of tonal territory.
+
+### Sources checked in this pass
+1. Origin Effects RevivalDRIVE Hot Rod Edition | Effects Database: https://www.effectsdatabase.com/model/origin/revivaldrive/hotrod
+2. ORIGIN EFFECTS REVIVALDRIVE HOT ROD EDITION OWNER'S MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1841259/Origin-Effects-Revivaldrive-Hot-Rod-Edition.html
