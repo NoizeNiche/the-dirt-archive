@@ -555,3 +555,18 @@ FET simulate the characteristic distortion of tube amplifier.
 
 ### Sources checked in this pass
 1. NuX HG-5 Modern High Gain | Effects Database: https://www.effectsdatabase.com/model/nux/hg5
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+HG-5 Modern High Gain Published on April 1, 2006 NuX distortion pedal Information Cherub Very high gain makes the distortion sound aggressive!
+
+### Verified sound evidence
+HG-5 Modern High Gain Published on April 1, 2006 NuX distortion pedal Information Cherub Very high gain makes the distortion sound aggressive!
+3 gain stages fully discrete circuit.
+FET simulate the characteristic distortion of tube amplifier.
+
+### Sources checked in this pass
+1. NuX HG-5 Modern High Gain | Effects Database: https://www.effectsdatabase.com/model/nux/hg5
