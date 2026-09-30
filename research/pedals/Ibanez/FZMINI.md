@@ -35,9 +35,7 @@ Ibanez's FZMINI is documented in the current archive evidence as a Fuzz model. T
 
 ## Sound
 
-Ibanez FZMINI 850 Fuzz Mini Fuzz Pedal
-Ibanez's FZMINI is cataloged in the archive as a Fuzz pedal.
-Guitar Center: 2.
+The reviewed evidence does not establish a reliable model-specific sound description for FZMINI. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

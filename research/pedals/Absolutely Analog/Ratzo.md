@@ -37,8 +37,7 @@ Absolutely Analog's Ratzo is documented in the current archive evidence as a Dis
 
 ## Sound
 
-The tone of legends in a brand new box!
-Absolutely Analog's Ratzo is cataloged in the archive as a Distortion pedal.
+The reviewed evidence does not establish a reliable model-specific sound description for Ratzo. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

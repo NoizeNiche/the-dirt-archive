@@ -35,8 +35,7 @@ Add+ Pedals's Der Fuzzer is documented in the current archive evidence as a Fuzz
 
 ## Sound
 
-Add+ Pedals's Der Fuzzer is cataloged in the archive as a Fuzz pedal.
-Archive parent: Der Fuzzer Builder: Add+ Pedals Catalog type: Fuzz Identity: Add+ Pedals's Der Fuzzer.
+The reviewed evidence does not establish a reliable model-specific sound description for Der Fuzzer. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 
