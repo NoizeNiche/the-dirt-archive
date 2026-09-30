@@ -5,23 +5,24 @@
 - **Archive parent:** Goat Head
 - **Builder:** Jackson Audio
 - **Catalog type:** Fuzz
-- **Identity:** Jackson Audio's Goat Head.
+- **Identity:** Jackson Audio's Goat Head analog fuzz plug-in module.
 
-## What this pedal is
+## What this product is
 
-Jackson Audio GOAT HEAD Analog Plug-In for Modular Fuzz Pedal - Electronic Drums, Zildjian Cymbals, Beginner Guitars & the Gear You Start With and Keep FLASH SALE: EVERYTHING HALF PRICE!
+Jackson Audio's GOAT HEAD is a **swappable analog fuzz module for the Jackson Audio FUZZ modular pedal**. It is not a standalone stompbox. Jackson Audio describes it as the FUZZ MODULE and provides installation instructions for replacing the module inside the FUZZ pedal. The circuit is based on the legendary Big Muff Pi Ram's Head, with internal Tone and Gain trimmers and access to the host pedal's parametric EQ.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+- The Goat Head is a module rather than a standalone enclosure, so the host FUZZ pedal determines its exterior presentation.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+- No separate Goat Head hardware revision was established in the checked evidence.
+- The module is designed for Jackson Audio's FUZZ pedal platform.
 
 ## Version changes
 
-- No specific factory version changes were established in the verified evidence packet.
+- The checked evidence supports the Goat Head as a modular plug-in voice rather than as an independent pedal model.
 
 ## Transistor
 
@@ -35,24 +36,16 @@ Jackson Audio GOAT HEAD Analog Plug-In for Modular Fuzz Pedal - Electronic Drums
 
 ## Sound
 
-Jackson Audio GOAT HEAD Analog Plug-In for Modular Fuzz Pedal - Electronic Drums, Zildjian Cymbals, Beginner Guitars & the Gear You Start With and Keep FLASH SALE: EVERYTHING HALF PRICE!
-Insane levels of fuzz and sustain are hallmarks of this circuit, but this plug-in does something that no other Big Muff can do!
-With the parametric EQ on the FUZZ, you can adjust the EQ so you can bring the mids forward on this circuit!
+The Goat Head is a Ram's Head-style fuzz voice with high sustain and a strong fuzz character. Jackson Audio states that the module can be further shaped through the FUZZ pedal's parametric EQ, while the module itself includes Tone and Gain trimmers.
 
 ## Sources checked
 
 1. Goat Head – Jackson Audio: https://jackson.audio/products/goat-head
 2. Jackson Audio GOAT HEAD | The Pedal Zone: https://thepedalzone.com/product/jackson-audio-goat-head/
 3. Jackson Audio Goat Head Fuzz Analog Plug-in Module - Reverb: https://reverb.com/item/102220798-jackson-audio-goat-head-fuzz-analog-plug-in-module
-4. Jackson Audio Goat Head - Fuzz Module — Rhythm Treasure: https://www.rhythmtreasure.com/product/jackson-audio-goat-head-fuzz-module/
-5. Goat Head Analog Plug-in for Modular FUZZ Pedal - Sweetwater: https://www.sweetwater.com/store/detail/FuzzJAFGoatM--jackson-audio-goat-head-analog-plug-in-for-modular-fuzz-pedal
-6. Jackson Audio GOAT HEAD Analog Plug-In for Modular Fuzz Pedal - Electronic Drums, Zildjian Cymbals, Beginner Guitars & the Gear You Start With and Keep: https://www.edrumco.com/product/jackson-audio-goat-head-analog-plug-in-for-modular-fuzz-pedal/
-7. Jackson Audio GOAT HEAD Module For Modular Fuzz: https://www.uslowenddistrict.com/product/jackson-audio-goat-head-module-for-modular-fuzz/
-8. Jackson Audio GOAT HEAD Analog Plug-In for Modular Fuzz Pedal: https://www.audioequipmenttop.com/product/jackson-audio-goat-head-analog-plug-in-for-modular-fuzz-pedal/
-9. Jackson Audio Goat Head Fuzz Plug-In Module for Modular Fuzz: https://www.zzounds.com/item--JCKGOATHEAD
-10. Jackson Audio Goat Head Analog Plug-in for Modular FUZZ Pedal: https://www.musicalsupplycentral.com/product/jackson-audio-goat-head-analog-plug-in-for-modular-fuzz-pedal/
-11. Jackson Audio Goat Head Module for FUZZ Pedal - Gbase: https://www.gbase.com/gear/jackson-audio-goat-head-module-for-fuzz-pedal
+4. Jackson Audio Goat Head Fuzz Plug-In Module - Sweetwater: https://www.sweetwater.com/store/detail/FuzzJAFGoatM--jackson-audio-goat-head-analog-plug-in-for-modular-fuzz-pedal
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Photo recovery is handled separately.
+- **Photo subject:** The correct representative image is the Goat Head module itself, not a generic standalone fuzz pedal.
