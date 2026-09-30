@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Radial Tonebone's Plexitube is cataloged as a distortion pedal.
+The Plexitube is a dual-channel tube distortion pedal combining the harmonic generation and natural warmth of a 12AX7 tube with the saturation and control of Radial’s distinct multi-stage solid-state drive...
 
 ## Colorways
 
@@ -49,3 +49,24 @@ The verified evidence packet did not contain enough pedal-specific sonic descrip
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Plexitube is a dual-channel tube distortion pedal combining the harmonic generation and natural warmth of a 12AX7 tube with the saturation and control of Radial’s distinct multi-stage solid-state drive...
+
+### Verified version references
+- The evidence references: V9.
+
+### Verified sound evidence
+The Plexitube is a dual-channel tube distortion pedal combining the harmonic generation and natural warmth of a 12AX7 tube with the saturation and control of Radial’s distinct multi-stage solid-state drive...
+This combination provides incredible gain with tons of overtones and, when combined with their unique passive-interactive EQ, produces four generations of Marshall Plexi tones worthy of a Shakespearian Ode.
+Channel-1 has been optimized for rhythm with chunk rhythm tones and scooped out mids for a thunderous wall-of-sound and complete world domination.
+
+### Sources checked in this pass
+1. Radial Tonebone Plexitube - Tonebox.com: https://www.tonebox.com/pedal/radial-tonebone-plexitube
+2. Radial Tonebone Plexitube | Effects Database: https://www.effectsdatabase.com/model/radial/tonebone/plexitube
+3. Plexitube - Radial Engineering: https://www.radialeng.com/product/plexitube
+4. Radial Tonebone Plexitube Tube Distortion Pedal | zZounds: https://www.zzounds.com/item--RADPLEXITUBE
