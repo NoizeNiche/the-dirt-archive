@@ -44,3 +44,5 @@ publish corrected cache batch after Silktone primary-review fix
 clean recovery after Silktone manual-review normalization
 2026-09-30T10:44:00Z
 deep-review photo pass with extended 120s hard-case recovery window
+2026-09-30T11:00:00Z
+current-head hard-case photo recovery pass after QA matcher verification
