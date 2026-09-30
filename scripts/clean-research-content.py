@@ -378,23 +378,25 @@ def strong_verified_sound(candidate: str) -> bool:
 
 def fallback_verified_sound(markdown: str) -> str:
     deep = section_text(markdown, "Deep research verification")
-    if not deep:
-        return ""
-    kept = []
-    for raw in deep.splitlines():
-        value = raw.strip()
-        if not value or value.startswith(("-", "*", "Source:")):
-            continue
-        visible = markdown_visible(value)
-        lower = visible.lower()
-        if len(visible) < 90 or obvious_scrape_payload(visible):
-            continue
-        if re.search(
-            r"\b(?:sound|tone|voic|fuzz|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|sustain|harmonic|aggressive|warm|sweet|buzzy|spitting|thick|tight|high-gain|low-gain)\b",
-            lower,
-        ):
-            kept.append(visible)
-    return "\n".join(kept[:4]).strip()
+    if deep:
+        kept = []
+        for raw in deep.splitlines():
+            value = raw.strip()
+            if not value or value.startswith(("-", "*", "Source:")):
+                continue
+            visible = markdown_visible(value)
+            lower = visible.lower()
+            if len(visible) < 90 or obvious_scrape_payload(visible):
+                continue
+            if re.search(
+                r"\b(?:sound|tone|voic|fuzz|distortion|overdrive|response|texture|saturation|breakup|grit|boost|crunch|dynamic|sustain|harmonic|aggressive|warm|sweet|buzzy|spitting|thick|tight|high-gain|low-gain)\b",
+                lower,
+            ):
+                kept.append(visible)
+        recovered = "\n".join(kept[:4]).strip()
+        if recovered:
+            return recovered
+    return fallback_sound_disclosure(markdown)
 
 
 def replace_section_body(markdown: str, heading: str, body: str) -> str:
@@ -510,7 +512,7 @@ def fallback_verified_description(markdown: str) -> str:
     )
 
 
-def fallback_verified_sound(markdown: str) -> str:
+def fallback_sound_disclosure(markdown: str) -> str:
     _, pedal, _ = archive_catalog_identity(markdown)
     if pedal:
         return (
