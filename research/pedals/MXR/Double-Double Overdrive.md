@@ -5,49 +5,43 @@
 - **Archive parent:** Double-Double Overdrive
 - **Builder:** MXR
 - **Catalog type:** Overdrive
-- **Identity:** MXR's Double-Double Overdrive.
+- **Identity:** MXR M250 Double-Double Overdrive.
 
 ## What this pedal is
 
-Review: MXR Double-Double Overdrive Pedal
+The MXR Double-Double Overdrive is a dual-voice overdrive in a single enclosure. Manufacturer material describes it as combining two classic overdrive-style voices in one pedal.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision sequence was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The retained model-specific references confirm the dual-overdrive concept, but the current archive evidence does not preserve a stable complete control transcription.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Review: MXR Double-Double Overdrive Pedal
-MXR® DOUBLE-DOUBLE™ OVERDRIVE - Dunlop Toggle menu Compare
-Warranty Information The Long Story The MXR Double-Double Overdrive serves up two classic overdrives in a single housing.
+The pedal combines two distinct overdrive voices in one enclosure, allowing the player to switch between them rather than requiring two separate pedals.
 
 ## Sources checked
 
-1. Review: MXR Double-Double Overdrive Pedal | Guitar World: https://www.guitarworld.com/gear/review-mxr-double-double-overdrive-pedal
-2. MXR M250 Double-Double Overdrive Pedal | Equipboard: https://equipboard.com/items/mxr-m250-double-double-overdrive
-3. MXR® DOUBLE-DOUBLE™ OVERDRIVE - Dunlop: https://www.jimdunlop.com/mxr-double-double-overdrive/
-4. MXR M250 Double-Double Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/M250--mxr-m250-double-double-overdrive-pedal
-5. MXR Double-Double Overdrive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/799/mxr-double-double-overdrive
-6. M250 Double-Double Overdrive by MXR | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/MXR/M250-Double-Double-Overdrive/68982727/
+1. Guitar World — MXR Double-Double Overdrive review: https://www.guitarworld.com/gear/review-mxr-double-double-overdrive-pedal
+2. Dunlop / MXR — Double-Double Overdrive: https://www.jimdunlop.com/mxr-double-double-overdrive/
+3. Sweetwater — MXR M250 Double-Double Overdrive: https://www.sweetwater.com/store/detail/M250--mxr-m250-double-double-overdrive-pedal
+4. RockBoard — M250 Double-Double Overdrive: https://www.rockboard.de/en/pedalPedia/MXR/M250-Double-Double-Overdrive/68982727/
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
