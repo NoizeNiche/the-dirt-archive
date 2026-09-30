@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Roger Mayer's Mongoose is cataloged in the archive as a Fuzz pedal.
+Mongoose Fuzz Published on March 23, 2006 Roger Mayer Rocket series fuzz pedal Information Roger Mayer The MONGOOSE FUZZ was developed in 1985 for guitarists who demand a guitar effect with lots of fat fuzz and enough bottom end to keep a metalhead happy.
 
 ## Colorways
 
@@ -50,6 +50,26 @@ The clipping circuit primarily comes from a passive diode circuit resulting in s
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Mongoose Fuzz Published on March 23, 2006 Roger Mayer Rocket series fuzz pedal Information Roger Mayer The MONGOOSE FUZZ was developed in 1985 for guitarists who demand a guitar effect with lots of fat fuzz and enough bottom end to keep a metalhead happy.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Mongoose Fuzz Published on March 23, 2006 Roger Mayer Rocket series fuzz pedal Information Roger Mayer The MONGOOSE FUZZ was developed in 1985 for guitarists who demand a guitar effect with lots of fat fuzz and enough bottom end to keep a metalhead happy.
+The MONGOOSE FUZZ also sounds as if it has a pre-set type wah voice that gives the distortion distinctive focus.
+It is more modern sounding and civilised sounding than the Axis or Classic Fuzz and has found a niche with those who want an alternative but not too radically different sound that the current range of mass produced units from the USA, Japan and Far East produce.
+
+### Sources checked in this pass
+1. Roger Mayer Mongoose Fuzz | Effects Database: https://www.effectsdatabase.com/model/rogermayer/rocket/mongoose
+2. Mongoose X by Roger Mayer | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Roger-Mayer/Mongoose-X/68983931/
+3. Guitar Effects Pedals by Roger Mayer - Mongoose - X: https://www.roger-mayer.co.uk/mongoosex.htm
 
 ## Deep research verification
 
