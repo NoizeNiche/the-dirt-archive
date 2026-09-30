@@ -5,44 +5,41 @@
 - **Archive parent:** GTO
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Overdrive
-- **Identity:** J. Rockett Audio Designs's GTO.
+- **Identity:** J. Rockett Audio Designs GTO.
 
 ## What this pedal is
 
-J. Rockett Audio Designs's GTO is cataloged as an overdrive pedal.
-
-## Colorways
-
-- No specific factory colorway information was established in the verified evidence packet.
+The GTO is an overdrive built around the Archer/Klon-style family, with a **six-band graphic EQ** providing additional tone-shaping control.
 
 ## Versions and factory options
 
-- The verified evidence references: V2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The reviewed evidence references a V2, but no complete revision chronology was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The model documentation specifically identifies a six-band graphic EQ. A complete verified transcription of every control and switch was not established in the retained evidence.
+
+## Colorways
+
+No complete factory colorway sequence was established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-It’s still definitely an Archer at heart (which is a Klon type pedal), but the 6-band graphic EQ gives it an insane amount of versatility for tone shaping.
-Rockett Audio Designs** as a **Overdrive** pedal.
+The available model-specific description places the GTO in the Archer/Klon-style overdrive family while emphasizing the wider tonal control supplied by the six-band graphic EQ.
 
 ## Sources checked
 
-1. Home - J. Rockett Audio Designs: https://rockettpedals.com/
+1. J. Rockett Audio Designs manufacturer site: https://rockettpedals.com/
+2. J. Rockett Audio Designs GTO model references retained by the archive.
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
