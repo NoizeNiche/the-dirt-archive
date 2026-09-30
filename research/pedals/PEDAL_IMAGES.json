@@ -23873,7 +23873,9 @@
     "pedal": "PART GARDEN",
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
-    "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp"
+    "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp",
+    "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161",
+    "image_source_page": "https://maskaudioelectronics.com/products/part-garden"
   },
   {
     "builder": "Mask Audio Electronics",
@@ -29817,10 +29819,11 @@
   {
     "builder": "VFE Pedals",
     "pedal": "Merman",
-    "image": null,
+    "image": "./assets/pedals/vfe-pedals/merman/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/Merman.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--xleOYrWE--/f_auto%2Ct_large/v1657779203/lceyaysrqocv0nergoo9.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--ozNfcsoV--/quality=medium-low,height=800,width=800,fit=contain/lceyaysrqocv0nergoo9.jpg",
+    "image_source_page": "https://reverb.com/item/55449632-vfe-merman-hand-painted-by-peter-rutter"
   },
   {
     "builder": "VFE Pedals",

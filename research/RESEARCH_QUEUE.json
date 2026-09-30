@@ -1,14 +1,14 @@
 {
   "version": "catalog-research-phase-v2",
-  "generated_at": "2026-09-30T00:37:25.301929+00:00",
+  "generated_at": "2026-09-30T00:38:21.809334+00:00",
   "active_phase": "Photo Recovery & Production QA",
   "canonical_source": "research/PEDAL_INDEX.json",
   "status_source": "research/PRP_TRACKER.csv",
   "counts": {
     "total": 4200,
     "researched": 4200,
-    "pictured": 4053,
-    "complete": 4053,
+    "pictured": 4054,
+    "complete": 4054,
     "research_pending": 0,
     "deep_research_pending": 0,
     "deep_researched": 4200,

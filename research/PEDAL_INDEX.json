@@ -45151,7 +45151,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp"
+      "image": "./assets/pedals/mask-audio-electronics/part-garden/primary.webp",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
     },
     {
       "company": "Mask Audio Electronics",
@@ -56550,10 +56551,11 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--xleOYrWE--/f_auto%2Ct_large/v1657779203/lceyaysrqocv0nergoo9.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ozNfcsoV--/quality=medium-low,height=800,width=800,fit=contain/lceyaysrqocv0nergoo9.jpg",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--xleOYrWE--/f_auto%2Ct_large/v1657779203/lceyaysrqocv0nergoo9.jpg"
-      ]
+      ],
+      "image": "./assets/pedals/vfe-pedals/merman/primary.webp"
     },
     {
       "company": "VFE Pedals",
