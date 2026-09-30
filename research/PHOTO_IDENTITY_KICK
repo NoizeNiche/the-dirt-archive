@@ -6,3 +6,5 @@ launch QA after Silktone manual-photo state normalization
 re-audit current post-recovery catalog after published photo batch
 2026-09-30T10:47:00Z
 run exhaustive QA against current whole-word residue matcher
+2026-09-30T11:50:00Z
+exhaustive detail QA on current main after whole-word residue fix and photo hardening
