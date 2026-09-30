@@ -35,9 +35,7 @@ Crysta Professional's OD-1 Overdrive is cataloged in the archive as a Overdrive 
 
 ## Sound
 
-Crysta Professional OD-1 Overdrive | Effects Database Skip to navigation Brands ▼ 0-9...
-Effect types ▼ boost distortion fuzz overdrive acoustic simulation amp simulation speaker/cabinet simulation chorus flanger phaser tremolo vibe vibrato other modulation pitch shifter octaver delay reverb looper/sampler hold/freeze eq filter wah fuzz-wah bitcrusher ring modulator samplerate reducer wavefolder synth effect granular effect multi effect vocal effect talkbox vocoder buffer compressor other...
-Crysta Professional browse by type distortion/fuzz/overdrive overdrive browse by enclosure pedal Your help is VERY welcome!
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 
