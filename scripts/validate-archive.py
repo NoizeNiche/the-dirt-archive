@@ -176,6 +176,11 @@ def main():
 
     catalog_by_key = {pair(x.get("company"), x.get("pedal")): x for x in pedals}
 
+    def photo_collision_identity(builder, pedal):
+        builder_key = str(builder or "").strip()
+        pedal_key = re.sub(r"[^a-z0-9+]+", "", str(pedal or "").strip().lower())
+        return (builder_key, pedal_key)
+
     local_image_owners = {}
     local_image_paths = {}
     for entry in pedals:
@@ -186,15 +191,17 @@ def main():
         if not image_path.is_file():
             continue
         identity = pair(entry.get("company"), entry.get("pedal"))
+        collision_identity = photo_collision_identity(entry.get("company"), entry.get("pedal"))
         normalized_path = image_path.relative_to(ROOT).as_posix()
-        local_image_paths.setdefault(normalized_path, []).append(identity)
+        local_image_paths.setdefault(normalized_path, []).append((identity, collision_identity))
         digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
         local_image_owners.setdefault(digest, []).append(identity)
 
     duplicate_local_paths = {
         image_path: keys
-        for image_path, keys in local_image_paths.items()
-        if len(set(keys)) > 1
+        for image_path, entries in local_image_paths.items()
+        if len({signature for _, signature in entries}) > 1
+        for keys in [[identity for identity, _ in entries]]
     }
     if duplicate_local_paths:
         examples = "; ".join(
