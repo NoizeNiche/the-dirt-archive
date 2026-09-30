@@ -646,7 +646,7 @@ def fallback_sound_disclosure(markdown: str) -> str:
 
 
 def promote_verified_prose(markdown: str) -> str:
-    title_match = re.search(r"^#\s+.+?\s+—\s+(.+?)\s*$", markdown, re.M)
+    title_match = re.search(r"^#\s+.+?\s+(?:—|-)\s+(.+?)\s*$", markdown, re.M)
     pedal = title_match.group(1).strip() if title_match else ""
     updated = markdown
 
@@ -775,7 +775,7 @@ def clean_file(path: Path) -> bool:
         line = html.unescape(raw)
         if line != raw:
             changed = True
-        title_heading = re.match(r"^#\s+.+?\s+—\s+(.+?)\s*$", line)
+        title_heading = re.match(r"^#\s+.+?\s+(?:—|-)\s+(.+?)\s*$", line)
         if title_heading:
             current_pedal = title_heading.group(1).strip()
         heading = re.match(r"^(#{2,6})\s+(.+?)\s*$", line)
