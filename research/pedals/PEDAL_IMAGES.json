@@ -16815,9 +16815,11 @@
   {
     "builder": "Darkglass Electronics",
     "pedal": "Microtubes X Ultra",
-    "image": null,
+    "image": "./assets/pedals/darkglass-electronics/microtubes-x-ultra/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
-    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md"
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md",
+    "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Microtubes-X-Ultra-Gal-1.png?v=1746824100&width=1946",
+    "image_source_page": "https://www.darkglass.com/products/mxu"
   },
   {
     "builder": "Darkglass Electronics",

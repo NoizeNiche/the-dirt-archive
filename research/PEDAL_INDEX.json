@@ -31817,13 +31817,15 @@
       "research_record": "./research/pedals/Darkglass Electronics/Microtubes X Ultra.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra",
+      "image_source_page": "https://www.darkglass.com/products/mxu",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/darkglass/microtubes/xultra"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1445
+      "image_source_priority": 1445,
+      "image_source_url": "https://www.darkglass.com/cdn/shop/files/Darkglass-Microtubes-X-Ultra-Gal-1.png?v=1746824100&width=1946",
+      "image": "./assets/pedals/darkglass-electronics/microtubes-x-ultra/primary.webp"
     },
     {
       "company": "Darkglass Electronics",
