@@ -509,6 +509,9 @@ def main():
             raise SystemExit(f"Operational queue hardening is missing: {marker}")
     if "build-pedal-facets.py" not in deploy_text:
         raise SystemExit("Deployment workflow is not generating the public technical facet index.")
+    for script_path in ("scripts/deploy-browser-audit.js", "scripts/serve-static.js", "scripts/live-photo-audit.js", "scripts/validate-archive.py"):
+        if script_path not in deploy_text:
+            raise SystemExit(f"Deployment workflow is not watching required operational script: {script_path}")
     facet_builder_text = FACET_BUILDER.read_text(encoding="utf-8")
     index_viewer_text = INDEX_JS.read_text(encoding="utf-8")
     home_text = HOME.read_text(encoding="utf-8")
