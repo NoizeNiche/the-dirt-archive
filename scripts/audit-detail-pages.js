@@ -68,7 +68,12 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
       const visibleScrapeResidue=scrapeResidueSignals.filter(signal=>{
         // Match scrape phrases as actual words. Plain substring matching makes
         // normal research prose such as "design intended" look like "sign in".
+        const escaped=signal.replace(/[.*+?^${}()|[\]\\]/g,'\\      const visibleScrapeResidue=scrapeResidueSignals.filter(signal=>{
+        // Match scrape phrases as actual words. Plain substring matching makes
+        // normal research prose such as "design intended" look like "sign in".
         const escaped=signal.replace(/[.*+?^${}()|[\]\\]/g,'\\      const visibleScrapeResidue=scrapeResidueSignals.filter(signal=>researchLower.includes(signal));');
+        return new RegExp("\\b"+escaped+"\\b","i").test(research);
+      });');
         return new RegExp("\\b"+escaped+"\\b","i").test(research);
       });
       const photo=document.querySelector('#photoBox');
