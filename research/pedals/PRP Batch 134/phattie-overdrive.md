@@ -408,3 +408,25 @@ There's plenty of gain on tap to satisfy most rock styles, and it's equally at h
 ### Sources checked in this pass
 1. Phattie Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/phattie
 2. Pedalboards of Doom | Byron Amplification Phattie overdrive pedal.: https://www.facebook.com/groups/pedalboardsofdoom/posts/10155309702727865/
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Phattie Overdrive Previous Her Majesty Drive/Fuzz Next Blood Drive Overdrive Phattie Overdrive Phattie Overdrive Sale Price: $149.00 Original Price: $159.00 Phattie: A high gain overdrive pedal, the Phattie gives you dynamic British amp-like response and a powerful three band EQ section.
+
+### Verified version references
+- The evidence references: v4.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Phattie Overdrive Previous Her Majesty Drive/Fuzz Next Blood Drive Overdrive Phattie Overdrive Phattie Overdrive Sale Price: $149.00 Original Price: $159.00 Phattie: A high gain overdrive pedal, the Phattie gives you dynamic British amp-like response and a powerful three band EQ section.
+Capable of light drive to quite heavy grind, it cleans up very, very well from your guitar's volume control.
+There's plenty of gain on tap to satisfy most rock styles, and it's equally at home as a primary rhythm sound, boosting an already dirty amp, or stacking with other dirt pedals.
+
+### Sources checked in this pass
+1. Phattie Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/phattie
+2. Pedalboards of Doom | Byron Amplification Phattie overdrive pedal.: https://www.facebook.com/groups/pedalboardsofdoom/posts/10155309702727865/
