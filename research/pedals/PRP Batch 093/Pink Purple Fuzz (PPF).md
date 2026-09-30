@@ -20,7 +20,7 @@ A vintage fuzz update released 9 March 2002 and retired in October 2007, with 17
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Pink Purple Fuzz (PPF). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

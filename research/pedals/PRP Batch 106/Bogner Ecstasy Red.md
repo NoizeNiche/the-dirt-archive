@@ -39,7 +39,7 @@ The Variac switch adds the characteristic dropped-voltage compression feel. Mode
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Ecstasy Red. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

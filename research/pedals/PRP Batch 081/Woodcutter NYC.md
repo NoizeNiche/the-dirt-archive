@@ -39,7 +39,7 @@ Big Ear's current Woodcutter page and secondary RAT-family coverage were cross-c
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Woodcutter. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

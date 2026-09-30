@@ -46,7 +46,7 @@ Cornerstone describes the Colosseum as a community pedal rather than a literal c
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Colosseum. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

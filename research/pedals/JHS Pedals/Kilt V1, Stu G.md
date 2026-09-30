@@ -46,7 +46,7 @@ JHS's Kilt 10 product page contains an explicit V1/V2/Kilt 10 version history. T
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Kilt V1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

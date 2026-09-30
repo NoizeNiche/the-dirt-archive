@@ -19,7 +19,7 @@ A BJFE fuzz design listed in the historical pedal reference. Folk Fuzz is includ
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Folk Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

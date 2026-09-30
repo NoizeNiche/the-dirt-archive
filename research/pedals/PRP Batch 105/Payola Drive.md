@@ -33,7 +33,7 @@ BLAMMO! describes the circuit as a distant cousin of the Tube Screamer with a fi
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Payola Drive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

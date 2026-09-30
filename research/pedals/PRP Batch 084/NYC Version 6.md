@@ -15,7 +15,7 @@ Recreation of the Big Muff Version 6 / Circuit 3034 variant manufactured around 
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for NYC Version 6. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

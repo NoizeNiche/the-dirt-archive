@@ -19,7 +19,7 @@ The DRD is a dynamic distortion that produces more dynamic distortion below noon
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Dyna Red Distortion (DRD). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

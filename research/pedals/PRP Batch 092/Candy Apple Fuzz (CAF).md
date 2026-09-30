@@ -19,7 +19,7 @@ A BJFE fuzz capable of sounds ranging from heavy gated fuzz through octave-doubl
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Candy Apple Fuzz (CAF). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

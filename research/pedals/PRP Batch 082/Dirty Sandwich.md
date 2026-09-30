@@ -48,7 +48,7 @@ The official Big John FAQ, Dirty Sandwich manual listing and historical informat
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Dirty Sandwich. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

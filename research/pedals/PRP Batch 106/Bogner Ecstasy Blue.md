@@ -38,7 +38,7 @@ The pedal includes Plexi/Blue gain modes, a Variac setting, pre-EQ and structure
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Ecstasy Blue. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

@@ -48,7 +48,7 @@ CopperSound's current page identifies the current form as Strategy V2. Earlier l
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Strategy Overdrive & Preamp. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

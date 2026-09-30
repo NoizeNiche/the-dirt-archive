@@ -20,7 +20,7 @@ https://theguitaraddict.blogspot.com/2008/07/biyang-ds-8.html
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for DS-8 Mouse. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

@@ -30,7 +30,7 @@ Crystal Dagger combines an octave-up fuzz with a ring-modulator/phaser section. 
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Crystal Dagger. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

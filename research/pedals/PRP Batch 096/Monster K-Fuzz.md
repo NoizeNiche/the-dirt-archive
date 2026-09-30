@@ -28,7 +28,7 @@ Monster K-Fuzz is Black Cat's hot-rodded take on the 1960s Kay Fuzztone. The 201
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Monster K-Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

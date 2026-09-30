@@ -22,7 +22,7 @@ Cornish describes the CC-1 as part of its standalone analog pedal range. Exact s
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for CC-1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Research confidence
 

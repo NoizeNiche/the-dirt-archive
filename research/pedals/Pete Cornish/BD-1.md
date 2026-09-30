@@ -23,7 +23,7 @@ Exact semiconductor devices and schematic topology were not published in the rev
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for BD-1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Research confidence
 

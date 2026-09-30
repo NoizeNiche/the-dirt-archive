@@ -15,7 +15,7 @@ Big Knob's own Muff mash-up, described as a high-gain fuzz monster with an alt-f
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Pig Stomp. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

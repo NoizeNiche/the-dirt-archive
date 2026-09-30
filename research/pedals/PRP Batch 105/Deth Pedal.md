@@ -34,7 +34,7 @@ BLAMMO! changes the clipping control to a continuous potentiometer that sweeps b
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Deth Pedal. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

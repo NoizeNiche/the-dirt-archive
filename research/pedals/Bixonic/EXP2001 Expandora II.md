@@ -20,7 +20,7 @@ Effects Database links EXP2001 Expandora II as a separate generation following t
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for EXP2001 Expandora II. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

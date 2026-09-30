@@ -30,6 +30,10 @@ The builder describes BRIT30 for light-to-medium overdrive/preamp use with mediu
 ### Sources checked in this pass
 1. BRIT30 preamplificador tipo vox ac30 overdrive: https://pedalescajita.mitiendanube.com/productos/brit30-preamplificador-tipo-vox-ac30-overdrive/
 
+## What this pedal is
+
+Cajita Stompboxes's BRIT30 preamplificador tipo Vox AC30 overdrive is documented in the current archive evidence as a effect model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.

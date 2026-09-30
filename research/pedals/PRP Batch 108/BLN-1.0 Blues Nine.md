@@ -29,7 +29,7 @@ The available surviving documentation is limited, so the archive records the mod
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for BLN-1.0 Blues#Nine. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

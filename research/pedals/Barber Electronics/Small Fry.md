@@ -28,6 +28,10 @@ Touch-sensitive overdrive from semi-clean punch to thicker sustaining drive. Dyn
 
 High for identity/features, colorway and alias relationship. Components remain unknown.
 
+## What this pedal is
+
+Barber Electronics's Small Fry is documented as a effect model. Volume, Tone, Dynamics, Burn. Technical reviews document additional internal shaping. Small Fry and Small Fry Burn Unit are treated as one parent identity.
+
 ## Photo
 
 https://www.truetonemusic.com/cdn/shop/files/2-DSCF6246_925d0418-fc6c-4b43-892a-9b609864b784_1200x828.jpg?v=1694214695

@@ -33,7 +33,7 @@ The circuit uses carefully selected components and a true-bypass footswitch. The
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for KUMI Distortion AK-1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

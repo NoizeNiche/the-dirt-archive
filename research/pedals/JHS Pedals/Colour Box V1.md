@@ -46,7 +46,7 @@ JHS's official history and V2 product page explicitly distinguish the V1 hardwar
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Colour Box V1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

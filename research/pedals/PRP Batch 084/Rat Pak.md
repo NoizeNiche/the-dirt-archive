@@ -15,7 +15,7 @@ Circuit and component recreation of the 1985 Whiteface RAT. Controls: Distortion
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Rat Pak. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

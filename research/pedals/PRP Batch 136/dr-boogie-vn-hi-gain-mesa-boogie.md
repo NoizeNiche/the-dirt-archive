@@ -19,6 +19,10 @@ Dr Boogie VN hi gain mesa boogie Dr Boogie VN hi gain mesa boogie $125.000,00 3 
 No acumulable con otras promociones Volver al producto DR.Boogie VN Distorsión hi gain, tipo mesa boogie, un clásico de Cajita.
 Usa transistores Fet para simular válvulas, ofreciendo todo el gain necesario y más.
 
+## What this pedal is
+
+Cajita Stompboxes's Dr Boogie VN Hi Gain Mesa Boogie is documented in the current archive evidence as a effect model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

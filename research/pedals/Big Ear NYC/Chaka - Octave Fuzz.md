@@ -52,7 +52,7 @@ The exact Effects Database CHAKA page was cross-checked with Premier Guitar's Su
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Chaka - Octave Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Sources checked
 

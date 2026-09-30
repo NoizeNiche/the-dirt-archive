@@ -32,7 +32,7 @@ Boorocks describes the pedal as hand-wired with selected parts, including German
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for LEON Multi-Driver MD-1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 

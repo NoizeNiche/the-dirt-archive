@@ -19,7 +19,7 @@ The Son of Pharaoh is the compact version of the Gold Standard Pharaoh platform.
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The reviewed evidence does not establish a reliable model-specific sound description for Son of Pharaoh. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
 ## Deep research verification
 
