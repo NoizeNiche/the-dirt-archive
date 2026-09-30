@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: dirt-photo-publishing-v1
+  group: dirt-photo-content-quarantine-v1
   cancel-in-progress: false
 
 jobs:
