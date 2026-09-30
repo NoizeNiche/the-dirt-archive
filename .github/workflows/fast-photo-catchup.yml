@@ -16,7 +16,7 @@ permissions:
 
   # Refreshing this workflow file also forces the newest-only concurrency lock to replace stale runs.
 concurrency:
-  group: dirt-photo-publishing-v4
+  group: dirt-photo-publishing-v5
   # Exactly one photo-production lane may run at a time. New kicks replace a
   # stale browser batch so improved recovery logic can take over promptly; every
   # publishing stage rehydrates main and re-verifies before writing canonical state.
