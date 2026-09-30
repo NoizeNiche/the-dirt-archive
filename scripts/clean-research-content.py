@@ -322,15 +322,27 @@ def weak_visible_description(markdown: str) -> bool:
 
 def weak_visible_sound(markdown: str) -> bool:
     text = markdown_visible(section_text(markdown, "Sound"))
-    return bool(
-        len(text) < 90
-        or re.search(
-            r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
-            r"not enough .*? to make a more detailed sound summary",
+    lower = text.casefold()
+    classification_only = (
+        bool(re.fullmatch(
+            r".{0,30}(?:is|are) (?:documented|cataloged|listed|classified) "
+            r"(?:in the current archive evidence )?(?:in the archive )?as (?:an? )?"
+            r"(?:fuzz|overdrive|distortion|distortion / overdrive|overdrive / distortion|"
+            r"fuzz / overdrive|fuzz / distortion|overdrive / fuzz|distortion / fuzz) "
+            r"(?:model|pedal)(?:\.|$)",
             text,
             re.I,
-        )
+        ))
+        or ("is cataloged in the archive as a" in lower and len(text) < 180)
+        or ("**archive parent:**" in lower and text.count("builder:") >= 1 and text.count("catalog type:") >= 1)
     )
+    insufficient = bool(re.search(
+        r"did not contain enough .*?(?:pedal-specific|product-specific).*?(?:description|evidence)|"
+        r"not enough .*? to make a more detailed sound summary",
+        text,
+        re.I,
+    ))
+    return len(text) < 90 or insufficient or classification_only
 
 
 def strong_verified_description(candidate: str, pedal: str) -> bool:
