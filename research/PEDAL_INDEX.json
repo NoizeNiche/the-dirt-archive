@@ -44368,13 +44368,15 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz",
+      "image_source_page": "https://mpamp.com/category/5/pedals",
       "image_source_pages": [
         "https://www.guitarworld.com/gear/mad-professor-amplification-unveils-loud-n-proud-overdrivefuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1406
+      "image_source_priority": 1406,
+      "image_source_url": "https://mpamp.com/tuotekuvat/600x600/madprofessor_loudnproud_web_tr_outer_glow_copy1.png",
+      "image": "./assets/pedals/mad-professor-amplification/loud-n-proud/primary.webp"
     },
     {
       "company": "Mad Professor Amplification",
@@ -57106,7 +57108,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1435,
-      "image_source_url": "https://voxamps.com/wp-content/uploads/2019/01/AC30HWHD-AC30-handwired-head-V212-cabinet.png"
+      "image_source_url": "https://voxamps.com/wp-content/uploads/2020/01/SILK_DRIVE_front_rev.png",
+      "image": "./assets/pedals/vox/silk-drive/primary.webp"
     },
     {
       "company": "VOX",

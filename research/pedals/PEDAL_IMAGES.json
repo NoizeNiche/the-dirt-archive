@@ -23522,9 +23522,11 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Loud 'n Proud",
-    "image": null,
+    "image": "./assets/pedals/mad-professor-amplification/loud-n-proud/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md"
+    "research_record": "./research/pedals/Mad Professor Amplification/Loud 'n Proud.md",
+    "image_source_url": "https://mpamp.com/tuotekuvat/600x600/madprofessor_loudnproud_web_tr_outer_glow_copy1.png",
+    "image_source_page": "https://mpamp.com/category/5/pedals"
   },
   {
     "builder": "Mad Professor Amplification",
@@ -30179,10 +30181,11 @@
   {
     "builder": "VOX",
     "pedal": "Silk Drive",
-    "image": null,
+    "image": "./assets/pedals/vox/silk-drive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/VOX/Silk Drive.md",
-    "image_source_url": "https://voxamps.com/wp-content/uploads/2019/01/AC30HWHD-AC30-handwired-head-V212-cabinet.png"
+    "image_source_url": "https://voxamps.com/wp-content/uploads/2020/01/SILK_DRIVE_front_rev.png",
+    "image_source_page": "https://voxamps.com/en-gb/product/silk-drive/"
   },
   {
     "builder": "VOX",
