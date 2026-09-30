@@ -4568,13 +4568,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/arc-effects/klone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
       "research_record": "./research/pedals/ARC Effects/Klone.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arceffects_klone_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/arceffects_klone_001.jpg"
     },
     {
       "company": "ARC Effects",
@@ -12711,13 +12711,14 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Snow White Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/bjfe-snow-white-fuzz-4-knob",
+      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
       "image_source_pages": [
         "https://reverb.com/p/bjfe-snow-white-fuzz-4-knob"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1495
+      "image_source_priority": 1495,
+      "image_source_url": "https://i270.photobucket.com/albums/jj112/DonnerBox/bjf1.jpg"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -21466,7 +21467,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/cat-s-eye-esp/hop-hed-fuzztone/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
       "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md",
       "image_source_page": "https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis",
@@ -21479,7 +21480,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 50000,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--G2yQdSys--/quality=medium-low,height=800,width=800,fit=contain/ruyzerihp5ffrdy3cyiu.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--3PA3E-B6--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/hwitvg6zpgic5h73sgno.png"
     },
     {
       "company": "Cat's Eye ESP",
