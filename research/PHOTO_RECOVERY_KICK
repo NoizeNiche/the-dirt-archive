@@ -58,3 +58,5 @@ exact-source hard cases: Himmelstrutz Under Overdriver; Columbus OVD-5 Overdrive
 current exact-source hard-case recovery pass from newest main
 2026-09-30T12:00:00Z
 relaunch current-head exact-source photo recovery after QA synchronization
+2026-09-30T12:10:00Z
+final current-head recovery after photo-source normalization and deduplication
