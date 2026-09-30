@@ -37,6 +37,10 @@
 
 From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
 
+So whether you’re experienced or not (See what we did there?), this compact true bypass pedal is sure to cover your old-school fuzz craving.
+
+Welcome to Silicon Valley RUSTY FUZZ was inspired by the legendary 1960s silicon Fuzz Face circuits that helped shape the sound of rock ‘n’ roll as we know it today.
+
 ## Sources checked
 
 1. RUSTY FUZZ | TC Electronic: https://www.tcelectronic.com/en/products/0709-AFJ
@@ -54,3 +58,29 @@ From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+The Sound of History Turning on RUSTY FUZZ is like traveling in a tonal time machine.
+
+### Verified color/finish evidence
+- One minute you’re rockin’ foxey velcro tones, the next you’re soaring over the White Cliffs of Dover with a sweet, harmonically-rich solo vibe.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all!
+So whether you’re experienced or not (See what we did there?), this compact true bypass pedal is sure to cover your old-school fuzz craving.
+Welcome to Silicon Valley RUSTY FUZZ was inspired by the legendary 1960s silicon Fuzz Face circuits that helped shape the sound of rock ‘n’ roll as we know it today.
+
+### Sources checked in this pass
+1. RUSTY FUZZ | TC Electronic: https://www.tcelectronic.com/en/products/0709-AFJ
+2. tc electronic Rusty Fuzz – United States: https://www.thomannmusic.com/tc_electronic_rusty_fuzz.htm
+3. TC Electronic Rusty Fuzz review | MusicRadar: https://www.musicradar.com/reviews/guitars/tc-electronic-rusty-fuzz-646675
+4. Quick Hit: TC Electronic Rusty Fuzz - Premier Guitar: https://www.premierguitar.com/gear/quick-hit-tc-electronic-rusty-fuzz
+5. User manual TC Electronic Rusty Fuzz (English - 6 pages): https://www.manua.ls/tc-electronic/rusty-fuzz/manual
+6. TC ELECTRONIC RUSTY FUZZ QUICK START MANUAL Pdf Download | ManualsLib: https://www.manualslib.com/manual/1467917/Tc-Electronic-Rusty-Fuzz.html

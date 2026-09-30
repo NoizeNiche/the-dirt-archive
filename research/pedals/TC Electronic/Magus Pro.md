@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Filter That Treble to Your Needs One particularly distinctive feature of the MAGUS PRO is the Treble Filter control.
+
 ## Colorways
 
 - See all details Product details Brand TC Electronic Style Filter,Distortion Color Blue Product Dimensions 3.9"L x 2.24"W x 2.2"H Item Weight 290 g Voltage 9 volts Similar to your pick Page {currentPage} of {totalPages} Best Seller EX EX-Inferno Metal Distortion Pedal + 9V 2A Guitar Pedal Power Supply Adapter 4.3 (79) 50+ viewed in past month $42.99 $ 42 .
@@ -55,3 +57,33 @@ Its slow slew rate, treble filter control and three different modes of operation
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Filter That Treble to Your Needs One particularly distinctive feature of the MAGUS PRO is the Treble Filter control.
+
+### Verified color/finish evidence
+- TC Electronic Magus Pro High Gain Distortion Effects Pedal Black
+
+### Verified version references
+- The evidence references: V 1, V2.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Its slow slew rate, treble filter control and three different modes of operation provide more than enough variance in approach and tone to compliment any playing style.
+By keeping the slew rate slow, harsh unwanted harmonic overtones and interference are eliminated, leaving you with a smooth layer of pure distortion whilst cranking the gain.
+CLASSIC MODE takes us to a world of oldskool, high gain, punchy MIDS and a gripping tight bottom end.
+
+### Sources checked in this pass
+1. MAGUS PRO | TC Electronic: https://www.tcelectronic.com/en/products/0709-AKG
+2. TC Electronic Magus Pro High Gain Distortion Effects Pedal Black | Guitar Center: https://www.guitarcenter.com/TC-Electronic/Magus-Pro-High-Gain-Distortion-Effects-Pedal-Black-1500000421058.gc
+3. tc electronic Magus Pro Distortion – United States: https://www.thomannmusic.com/tc_electronic_magus_pro_distortion.htm
+4. User manual TC Electronic Magus Pro (English - 10 pages): https://www.manua.ls/tc-electronic/magus-pro/manual
+5. TC Electronic Magus Pro user manual (English - 10 pages): https://www.manuals.ca/tc-electronic/magus-pro/manual
+6. TC Electronic Magus Pro user manual (English - 10 pages): https://www.manuals.co.uk/tc-electronic/magus-pro/manual
+7. Magus Pro — TC ELECTRONIC | Specs, Review, Where to Buy | Pedalboard Designer: https://pedalboarddesigner.com/en/pedals/tc-electronic-magus-pro

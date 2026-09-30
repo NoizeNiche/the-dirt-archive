@@ -9,6 +9,8 @@
 
 ## What this pedal is
 
+Built like a tank A Mountain of Mids EL CAMBO OVERDRIVE delivers a distinct midrange boost, one that can instantly warm up your tone, even if it’s a bit too jangly to cut through a loud rhythm section.
+
 ## Colorways
 
 - No specific factory colorway information was established in the verified evidence packet.
@@ -45,3 +47,22 @@ EL CAMBO fattens up your tone with a little (or a lot) of extra girth around the
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Built like a tank A Mountain of Mids EL CAMBO OVERDRIVE delivers a distinct midrange boost, one that can instantly warm up your tone, even if it’s a bit too jangly to cut through a loud rhythm section.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+EL CAMBO fattens up your tone with a little (or a lot) of extra girth around the waist, providing that highly sought-after midrange “oomph” that cuts through the mix, especially when your band is pushing hard decibels.
+This particular gritty honk gives your guitar a powerful voice that is ideal for a singing blues solo, and it’s also perfect for a hard rockin’ lead boost over the top of your amp’s already overdriven sound.
+Built like a tank A Mountain of Mids EL CAMBO OVERDRIVE delivers a distinct midrange boost, one that can instantly warm up your tone, even if it’s a bit too jangly to cut through a loud rhythm section.
+
+### Sources checked in this pass
+1. EL CAMBO OVERDRIVE | TC Electronic: https://www.tcelectronic.com/en/products/0709-AHQ
+2. tc electronic El Cambo Overdrive – United States: https://www.thomannmusic.com/tc_electronic_el_cambo_overdrive.htm

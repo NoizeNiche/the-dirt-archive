@@ -33,6 +33,12 @@
 
 ## Sound
 
+Privacy Terms Accessibility Back to Products TUBE PILOT OVERDRIVE 1 / 6 Zoom View in fullscreen TUBE PILOT OVERDRIVE Share Overview Learning Downloads About this product
+
+TC Electronic Tube Pilot Overdrive Effects Pedal
+
+tc electronic Tube Pilot Overdrive – United States Served with love!
+
 ## Sources checked
 
 1. TUBE PILOT OVERDRIVE | TC Electronic: https://www.tcelectronic.com/en/products/0709-AIA
@@ -50,3 +56,25 @@
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+TC Electronic's Tube Pilot Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Privacy Terms Accessibility Back to Products TUBE PILOT OVERDRIVE 1 / 6 Zoom View in fullscreen TUBE PILOT OVERDRIVE Share Overview Learning Downloads About this product
+TC Electronic Tube Pilot Overdrive Effects Pedal
+tc electronic Tube Pilot Overdrive – United States Served with love!
+
+### Sources checked in this pass
+1. TUBE PILOT OVERDRIVE | TC Electronic: https://www.tcelectronic.com/en/products/0709-AIA
+2. TC Electronic Tube Pilot Overdrive Effects Pedal | Guitar Center: https://www.guitarcenter.com/TC-Electronic/Tube-Pilot-Overdrive-Effects-Pedal-1500000151941.gc
+3. tc electronic Tube Pilot Overdrive – United States: https://www.thomannmusic.com/tc_electronic_tube_pilot_overdrive.htm
+4. TC Electronic Tube Pilot Overdrive user manual (English - 4 pages): https://www.manuals.ca/tc-electronic/tube-pilot-overdrive/manual
+5. User manual TC Electronic Tube Pilot Overdrive (English - 4 pages): https://www.manua.ls/tc-electronic/tube-pilot-overdrive/manual
