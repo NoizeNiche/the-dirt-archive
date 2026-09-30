@@ -130,9 +130,9 @@ jobs:
         if: steps.freshness.outputs.current == 'true' && steps.browser_freshness.outputs.current == 'true'
         env:
           DEPLOY_IMAGE_AUDIT_MODE: all
-          DEPLOY_IMAGE_AUDIT_WORKERS: 24
+          DEPLOY_IMAGE_AUDIT_WORKERS: 16
           DEPLOY_RESEARCH_AUDIT_MODE: all
-          DEPLOY_RESEARCH_AUDIT_WORKERS: 24
+          DEPLOY_RESEARCH_AUDIT_WORKERS: 16
         run: |
           node scripts/serve-static.js >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
