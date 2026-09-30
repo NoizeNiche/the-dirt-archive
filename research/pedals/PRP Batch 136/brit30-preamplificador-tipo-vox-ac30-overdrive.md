@@ -27,7 +27,7 @@ This pass adds only claims supported by the newly admitted exact-model evidence.
 Cajita Stompboxes's BRIT30 preamplificador tipo Vox AC30 overdrive is cataloged as an overdrive pedal.
 
 ### Verified transistor/device terms
-- ac30, ac30-overdrive.
+- Vox AC30-style overdrive.
 
 ### Verified sound evidence
 BRIT30 preamplificador tipo vox ac30 overdrive BRIT30 preamplificador tipo vox ac30 overdrive $129.000,00 3 cuotas sin interes de $43.000,00 0% de descuento pagando con No acumulable con algunas promociones Ver mas detalles ¡No te lo pierdas, es el ultimo!
