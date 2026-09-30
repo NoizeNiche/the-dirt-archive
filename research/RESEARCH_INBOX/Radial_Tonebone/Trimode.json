@@ -4,7 +4,7 @@
   "original_builder": "Radial Tonebone",
   "original_pedal": "Trimode",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 5,
+  "independent_exact_source_count": 6,
   "sources": [
     {
       "url": "https://www.guitarcenter.com/Radial-Engineering/Tonebone-TriMode-Distortion-Pedal.gc",
@@ -45,6 +45,14 @@
       "excerpt": "Trimode Published on March 22, 2006 Radial Tonebone distortion pedal prototype? prototype? Information Radial Tonebone True bypass clean mode Dynamic rhythm distortion mode Sustaining lead distortion mode 12AX7 tube for natural overdrive tone Effects loop on lead solo channel The Tonebone Classic Trimode is our most progressive pedal ever! Trimode gives you instant access to superb clean, rhythm and lead tones without tap dancing. And tone you will receive. Based on the heritage of America's finest tube amplifiers, the Trimode delivers five generations of tone from the slight overdrive of early rock & roll to blistering power tones of today's high gain amps. Following the award-winning Tonebone Classic, the Trimode combines the warmth and even harmonics of a 12AX7 tube with our unique dual-stage drive for the natural dynamics and response of a vintage tube amp. As the name implies, Trimode has three settings: 'True Bypass Clean Mode' for the natural tone of your guitar - direct to your amp; 'Rhythm Mode' with input drive, output gain and our unique Interstage\u2122 drive to precision-tune the mayhem you are about to unleash; and 'Solo Mode' with its own input drive, output gain, and mid boost for days of sustain. Trimode goes even further with a built-in effects loop on the solo channel that lets you instantly engage a delay or pedal chain with a single foot action. Trimode: 3 modes, huge tone and amazing dynamics - finally, a pedal that sounds and feels like a real tube amp! Video Date \u25bc\u25b2 Maker \u25bc\u25b2 Video \u25bc\u25b2 Time \u25bc\u25b2 2025-08-24 iguitarmag Radial Tonebone TriMode Tube Distortion Pedal | Review | Guitar Interactive Magazine 15:49 2014-05-04 TheToneshack Radial Tonebone Trimode Overdrive Distortion Pedal Demo 10:17 2013-07-06 jamesm5744 Radial Tonebone Trimode Demo 10:21 2013-01-24 Don Felipe radial tonebone trimode 4:49 2010-07-08 ProGuitarShopDemos Radial Tonebone Trimode Tube Distortion / Overdrive Pedal 9:54 2008-12-12 GearWire Radial Tonebone Classic Trimode Inspires Rush Songs 7:12",
       "host": "www.effectsdatabase.com",
       "source_kind": "effects_database"
+    },
+    {
+      "url": "https://www.radialeng.com/product/trimode",
+      "title": "Trimode - Radial Engineering",
+      "h1": "Trimode Tube Distortion Pedal",
+      "excerpt": "Trimode - Radial Engineering Open Nav Products Artists Blog Company Products Category Direct Box Power Conditioners Splitters Instrument Preamp Interfaces Switchers Reamp\u00ae 500 Series Studio Tools Amp Simulators Isolators Audio Over Cat 5 Accessories Legacy Products All Products Applications Acoustic Electric Bass Keyboard Pro Audio Recording Find a Dealer \u2192 Artists Blog News Radial On Record Tech Corner Reviews Artists Videos Education Press Releases Design Insights Tales from the Rhodes Company Contact History Client List Careers Policies Radial Warranty This product has been discontinued and is no longer shipping. Manufacturing specs and user information is provided below for owners of the product. Trimode Tube Distortion Pedal Part # R800 7015 00 Photos About the Trimode Clean, rhythm and lead channel switching in one pedal Powerful post-distortion EQ controls Channel 2 features insert loop for effects pedals True-bypass switching to retain your tone Photos The Trimode is a true-bypass, dual-channel tube distortion pedal that utilizes the warmth and harmonics from a 12AX7 tube to deliver a wide array of American-style distortion tones. Photos Resources Photos User Guide Smart Sheet High Res All Photos Zip Product --> Company Contact Careers History Artist Relations Client List Support Technical Support Product Questions Radial Warranty Privacy Policy Quick Links What is a DI? Comparing DIs DI Questions Radial Family Primacoustic Jensen Transformers Stay In Touch Email Address * &copy; 2026 Radial Engineering. All Rights Reserved.",
+      "host": "www.radialeng.com",
+      "source_kind": "catalog_verified"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
