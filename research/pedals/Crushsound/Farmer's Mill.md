@@ -37,9 +37,7 @@ Crushsound's Farmer's Mill is cataloged in the archive as a Distortion / Fuzz / 
 
 ## Sound
 
-Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal Information The Crushsound Farmer's Mill is a handmade analog guitar effects pedal developed to produce controlled "broken sound" textures by introducing irregular signal degradation, interruption, and instability.
-
-Its circuit is designed to preserve the underlying tone of the instrument, allowing the processed signal to be layered with the dry signal rather than replacing it.
+No verified pedal-specific sonic summary is currently established in the archive.
 
 ## Sources checked
 
@@ -49,25 +47,6 @@ Its circuit is designed to preserve the underlying tone of the instrument, allow
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal Information The Crushsound Farmer's Mill is a handmade analog guitar effects pedal developed to produce controlled "broken sound" textures by introducing irregular signal degradation, interruption, and instability.
-
-### Verified color/finish evidence
-- The pedal is constructed as a heavy-duty unit with a steel enclosure, powder-coated finish, and true bypass switching.
-- Visual design and physical construction were developed with attention to balancing appearance and functional layout, including custom oxidized screws and a distinctive industrial finish.
-
-### Verified sound evidence
-Published on April 4, 2012 Crushsound distortion/fuzz/overdrive modulation pedal Information The Crushsound Farmer's Mill is a handmade analog guitar effects pedal developed to produce controlled "broken sound" textures by introducing irregular signal degradation, interruption, and instability.
-Its circuit is designed to preserve the underlying tone of the instrument, allowing the processed signal to be layered with the dry signal rather than replacing it.
-
-### Sources checked in this pass
-1. Stream Crushsound | Listen to Crushsound Farmer's Mill / Music playlist online for free on SoundCloud: https://soundcloud.com/crushsound/sets/crushsound-farmers-mill
-2. Crushsound Farmer's Mill | Effects Database: https://www.effectsdatabase.com/model/crushsound/farmersmill
 
 ## Deep research verification
 
