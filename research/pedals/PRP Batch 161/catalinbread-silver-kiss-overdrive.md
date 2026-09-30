@@ -18,7 +18,8 @@
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The Catalinbread Silver Kiss Overdrive Reissue brings back their smooth overdrive by popular demand.
+1. Silver Kiss Overdrive (Reissue) — Catalinbread Overdrive Pedal | PedalFilter | PedalFilter:
 
 ## Deep research verification
 

@@ -40,7 +40,8 @@ The pedal is based on early-1960s germanium fuzz practice and was documented by 
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+The transistors used in the 1st Fuzz pedal are selected according to the parameters of DC developments, but even then the 1st fuzz has an added a bias pot because this type of transistor is likely to drift over a period of time or in varying temperatures.
+MG ID: 27176 Classic germanium fuzz Fuzz face like germanium fuzz by Dennis Cornell From Cornell: Named The First Fuzz because that's just what it is.
 
 ## Sources checked
 

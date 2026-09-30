@@ -42,7 +42,7 @@ Planet Guitar describes Gladio SC as having been developed from the larger Big G
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+Jan 18, 2021 Cornerstone Music Gear Gladio SC Preamp Dumble Style Overdrive Pedal YouTube Max Guitar Store YouTube
 
 ## Sources checked
 

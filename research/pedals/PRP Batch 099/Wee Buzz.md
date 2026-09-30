@@ -20,7 +20,8 @@ The Wee Buzz is a compact, simplified version of the Black Cat Bee Buzz, both ba
 
 ## Sound
 
-The reviewed evidence does not establish a reliable model-specific sound description.
+But the biggest difference between the Wee and the Bee is the absence of the Boost channel… FUZZ!
+With its two switchable and distinctly different tone settings, the Bee Baa produced a roaring wall of fuzz that was unmistakably unique.
 
 ## Deep research verification
 
