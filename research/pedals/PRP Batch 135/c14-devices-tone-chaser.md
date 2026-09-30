@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-Tone Chaser Published on January 28, 2023 C14 Devices distortion fuzz overdrive pedal Information C14 Devices The Tone Chaser is the first completely carbon fiber pedal in the world.
+C14 Devices's Tone Chaser is cataloged in the archive as a Overdrive pedal.
 
 ## Colorways
 
