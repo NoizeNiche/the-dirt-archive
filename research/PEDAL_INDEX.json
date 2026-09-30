@@ -144,12 +144,7 @@
       "image_source_page": "https://www.effectsdatabase.com/model/6degrees/eleven/hypercatalyst",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1000000,
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/6degrees_eleven-hypercatalyst_001.jpg",
-      "image_source_urls": [
-        "https://files.effectsdatabase.com/gear/thumbs/6degrees_eleven-hypercatalyst_001.jpg"
-      ],
-      "image": "./assets/pedals/6-degrees-fx/hyper-catalyst/primary.webp"
+      "image_source_priority": 1000000
     },
     {
       "company": "6 Degrees FX",
@@ -168,12 +163,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1000000,
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/6degrees_rodeodrive_001.jpg",
-      "image_source_urls": [
-        "https://files.effectsdatabase.com/gear/thumbs/6degrees_rodeodrive_001.jpg"
-      ],
-      "image": "./assets/pedals/6-degrees-fx/rodeo-drive/primary.webp"
+      "image_source_priority": 1000000
     },
     {
       "company": "6 Degrees FX",
@@ -192,12 +182,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1000000,
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/6degrees_sallydrive_001.jpg",
-      "image_source_urls": [
-        "https://files.effectsdatabase.com/gear/thumbs/6degrees_sallydrive_001.jpg"
-      ],
-      "image": "./assets/pedals/6-degrees-fx/sally-drive/primary.webp"
+      "image_source_priority": 1000000
     },
     {
       "company": "A Sound Of Failure",
@@ -15296,10 +15281,8 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/boss/bd-2-blues-driver/primary.webp",
       "source_page": "https://www.boss.info/global/products/bd-2/",
       "research_record": "./research/pedals/PRP Batch 109/BD-2 Blues Driver.md",
-      "image_source_url": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg",
       "image_source_page": "https://www.boss.info/global/products/bd-2/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -15413,9 +15396,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1420,
-      "image": "./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png"
+      "image_source_priority": 1420
     },
     {
       "company": "BOSS",
@@ -15521,12 +15502,10 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/boss/hm-2-heavy-metal/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/hm2",
       "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png",
       "image_source_page": "https://www.boss.info/us/whats_new/press_releases/2021/BOSS-Announces-the-HM-2W-Heavy-Metal-Pedal/"
     },
     {
@@ -15563,10 +15542,8 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/boss/jb-2-angry-driver/primary.webp",
       "source_page": "https://www.boss.info/us/products/jb-2/",
       "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md",
-      "image_source_url": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg",
       "image_source_page": "https://www.boss.info/us/products/jb-2/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED"
@@ -15672,12 +15649,10 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/boss/od-1-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/boss/compact/od1",
       "research_record": "./research/pedals/BOSS/OD-1 OverDrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_tr-1000.png",
       "image_source_page": "https://www.roland.com/us/products/rc_boss_effects_pedals/support/"
     },
     {
@@ -16807,9 +16782,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000,
-      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025",
-      "image": "./assets/pedals/browne-amplification/atom-nashville-drive/primary.webp"
+      "image_source_priority": 50000
     },
     {
       "company": "Browne Amplification",

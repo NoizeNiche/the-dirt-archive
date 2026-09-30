@@ -840,7 +840,7 @@ Boot-Leg Hand Made Effects,RRP-2.0 Rock'n Roll Party,Distortion / Overdrive,DONE
 Bootlegger Guitar,Shifty's 8 Ball Boost Drive Analog 12AT7,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Shifty's 8 Ball Boost Drive Analog 12AT7.md
 Bootlegger Guitar,Tube Shooter Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Tube Shooter Overdrive.md
 Bootlegger Guitar,Zapped Up Yours Analog Tube Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 109/Zapped Up Yours Analog Tube Distortion.md
-BOSS,BD-2 Blues Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 109/BD-2 Blues Driver.md
+BOSS,BD-2 Blues Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 109/BD-2 Blues Driver.md
 BOSS,BD-2W Blues Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 110/BD-2W Blues Driver.md
 BOSS,DS-1 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1 Distortion.md
 BOSS,DS-1W Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/DS-1W Distortion.md
@@ -849,7 +849,7 @@ BOSS,DS-2 TURBO Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch
 BOSS,FZ-1W Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 110/FZ-1W Fuzz.md
 BOSS,FZ-5 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 110/FZ-5 Fuzz.md
 BOSS,HM-2W Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/HM-2W Heavy Metal.md
-BOSS,JB-2 Angry Driver,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 110/JB-2 Angry Driver.md
+BOSS,JB-2 Angry Driver,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 110/JB-2 Angry Driver.md
 BOSS,MD-2 Mega Distortion,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 110/MD-2 Mega Distortion.md
 BOSS,ML-2 Metal Core,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 111/ML-2 Metal Core.md
 BOSS,MT-2 Metal Zone,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 111/MT-2 Metal Zone.md
@@ -918,7 +918,7 @@ Broughton Audio,Sunray,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/
 Broughton Audio,SV-Pre,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/broughton-audio-sv-pre.md
 Broughton Audio,Terraformer,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 119/broughton-audio-terraformer.md
 Browne Amplification,Alkene - Nashville Drive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md
-Browne Amplification,Atom - Nashville Drive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md
+Browne Amplification,Atom - Nashville Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 120/browne-amplification-atom-nashville-drive.md
 Browne Amplification,Carbon X Dual Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 120/browne-amplification-carbon-x-dual-overdrive.md
 Browne Amplification,Ethane Dual Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 121/browne-amplification-ethane-dual-overdrive.md
 Browne Amplification,Gritador Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 121/browne-amplification-gritador-overdrive.md
@@ -3732,9 +3732,9 @@ ZVEX Effects,Mastotron,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Mastot
 ZVEX Effects,Octane 3,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Octane 3.md
 ZVEX Effects,Woolly Mammoth,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Woolly Mammoth.md
 ZVEX Effects,Woolly Mammoth 7,Fuzz,DONE,DONE,DONE,./research/pedals/ZVEX Effects/Woolly Mammoth 7.md
-6 Degrees FX,Hyper Catalyst,Overdrive,DONE,DONE,DONE,./research/pedals/6 Degrees FX/Hyper Catalyst.md
-6 Degrees FX,Rodeo Drive,Overdrive,DONE,DONE,DONE,./research/pedals/6 Degrees FX/Rodeo Drive.md
-6 Degrees FX,Sally Drive,Overdrive,DONE,DONE,DONE,./research/pedals/6 Degrees FX/Sally Drive.md
+6 Degrees FX,Hyper Catalyst,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/6 Degrees FX/Hyper Catalyst.md
+6 Degrees FX,Rodeo Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/6 Degrees FX/Rodeo Drive.md
+6 Degrees FX,Sally Drive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/6 Degrees FX/Sally Drive.md
 Aguilar,Tone Hammer,Overdrive,DONE,DONE,DONE,./research/pedals/Aguilar/Tone Hammer.md
 Alexander Pedals,Riff Instant Tone Sanitizer,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Alexander Pedals/Riff Instant Tone Sanitizer.md
 Ampeg,A-1 Distortion,Distortion,DONE,DONE,DONE,./research/pedals/Ampeg/A-1 Distortion.md
@@ -3859,14 +3859,14 @@ BOSS,BP-1W Booster/Preamp,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/BP-1W 
 BOSS,DA-2 Adaptive Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/DA-2 Adaptive Distortion.md
 BOSS,DF-2 Super Feedbacker & Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/DF-2 Super Feedbacker & Distortion.md
 BOSS,DN-2 Dyna Drive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/DN-2 Dyna Drive.md
-BOSS,DS-1-4A 40th Anniversary Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md
+BOSS,DS-1-4A 40th Anniversary Distortion,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md
 BOSS,FZ-2 Hyper Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-2 Hyper Fuzz.md
 BOSS,FZ-3 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-3 Fuzz.md
-BOSS,HM-2 Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-2 Heavy Metal.md
+BOSS,HM-2 Heavy Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/HM-2 Heavy Metal.md
 BOSS,HM-3 Hyper Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-3 Hyper Metal.md
 BOSS,MT-2-3A 30th Anniversary Metal Zone,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md
 BOSS,MZ-2 Digital Metalizer,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/MZ-2 Digital Metalizer.md
-BOSS,OD-1 OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/OD-1 OverDrive.md
+BOSS,OD-1 OverDrive,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/BOSS/OD-1 OverDrive.md
 BOSS,OD-2 Turbo OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/OD-2 Turbo OverDrive.md
 BOSS,OD-2R Turbo OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/OD-2R Turbo OverDrive.md
 BOSS,ODB-3 Bass OverDrive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/ODB-3 Bass OverDrive.md
