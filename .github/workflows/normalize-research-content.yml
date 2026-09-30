@@ -41,4 +41,18 @@ jobs:
             exit 0
           fi
           git commit -m "Normalize research content structure"
-          git push origin main
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then
+                echo "Research normalization publication succeeded on attempt $attempt."
+                exit 0
+              fi
+            else
+              git rebase --abort || true
+            fi
+            echo "Research normalization publication race on attempt $attempt; retrying."
+            sleep 3
+          done
+          echo "Research normalization publication failed after 5 attempts."
+          exit 1
