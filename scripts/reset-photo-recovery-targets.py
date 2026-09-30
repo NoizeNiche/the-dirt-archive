@@ -137,6 +137,13 @@ def suspicious_values(entry):
     return reasons
 
 
+def collision_identity(builder, pedal):
+    """Match the deployment gate's identity normalization for shared photos."""
+    builder_key = str(builder or "").strip()
+    pedal_key = re.sub(r"[^a-z0-9+]+", "", str(pedal or "").strip().lower())
+    return (builder_key, pedal_key)
+
+
 def canonical_builder_names():
     names = set()
     master = Path("research/BUILDER_MASTER_INDEX.md")
@@ -170,7 +177,14 @@ def build_collision_keepers(catalog, manual_review):
 
     keepers = {}
     for image, entries in owners.items():
-        if len(entries) < 2:
+        signatures = {
+            collision_identity(
+                entry.get("company") or entry.get("builder"),
+                entry.get("pedal"),
+            )
+            for entry in entries
+        }
+        if len(signatures) < 2:
             continue
 
         def rank(entry):
