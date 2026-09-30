@@ -20987,7 +20987,10 @@
     "builder": "Ibanez",
     "pedal": "TSV808",
     "source_page": null,
-    "research_record": "./research/pedals/Ibanez/TSV808.md"
+    "research_record": "./research/pedals/Ibanez/TSV808.md",
+    "image_source_url": "https://img07.shop-pro.jp/PA01440/682/product/180317046_o1.jpg?cmsp_timestamp=20240404220000",
+    "image_source_page": "https://www.mg-vintage-style.com/?pid=180317046",
+    "image": "./assets/pedals/ibanez/tsv808/primary.webp"
   },
   {
     "builder": "IdiotBox Effects",
@@ -23877,8 +23880,7 @@
     "source_page": null,
     "research_record": "./research/pedals/Mask Audio Electronics/PART GARDEN.md",
     "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-    "image": "",
-    "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+    "image": ""
   },
   {
     "builder": "Mask Audio Electronics",

@@ -39542,13 +39542,19 @@
       "research_record": "./research/pedals/Ibanez/TSV808.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.ibanez.com/usa/products/detail/tsv808_01.html",
+      "image_source_page": "https://www.mg-vintage-style.com/?pid=180317046",
       "image_source_pages": [
-        "https://www.ibanez.com/usa/products/detail/tsv808_01.html"
+        "https://www.ibanez.com/usa/products/detail/tsv808_01.html",
+        "https://www.mg-vintage-style.com/?pid=180317046"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1376
+      "image_source_priority": 1000000,
+      "image_source_url": "https://img07.shop-pro.jp/PA01440/682/product/180317046_o1.jpg?cmsp_timestamp=20240404220000",
+      "image_source_urls": [
+        "https://img07.shop-pro.jp/PA01440/682/product/180317046_o1.jpg?cmsp_timestamp=20240404220000"
+      ],
+      "image": "./assets/pedals/ibanez/tsv808/primary.webp"
     },
     {
       "company": "IdiotBox Effects",
@@ -45144,8 +45150,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -56436,12 +56441,13 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://reverb.com/p/vfe-dark-horse"
+        "https://reverb.com/p/vfe-dark-horse",
+        "https://reverb.com/item/237415-vfe-pedals-dark-horse-distortion-20-demo-discount"
       ],
-      "image_source_page": "https://reverb.com/p/vfe-dark-horse",
+      "image_source_page": "https://reverb.com/item/237415-vfe-pedals-dark-horse-distortion-20-demo-discount",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1413
+      "image_source_priority": 1459
     },
     {
       "company": "VFE Pedals",
