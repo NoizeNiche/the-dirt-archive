@@ -5,43 +5,40 @@
 - **Archive parent:** ND Never Drive
 - **Builder:** Devi Ever FX
 - **Catalog type:** Fuzz
-- **Identity:** Devi Ever FX's ND Never Drive.
+- **Identity:** Devi Ever FX ND Never Drive.
 
 ## What this pedal is
 
-Devi Ever FX's ND Never Drive is cataloged as a fuzz pedal.
+ND Never Drive is a Devi Ever FX fuzz model preserved in the builder's historical range. The surviving exact-model material is too sparse to safely reconstruct the circuit or external control set.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered revision sequence was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control transcription was not securely established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Interview with Devi Ever Links Devi Ever FX Devi Ever FX Devi Ever FX Fuzz Goddess (online shop) Multimedia all
-The Dirt Archive currently catalogs **ND Never Drive** by **Devi Ever FX** as a **Fuzz / Overdrive** pedal.
+The available evidence establishes the fuzz identity but does not preserve enough model-specific tonal description for a responsible detailed summary. The archive does not substitute information from the similarly named Never Drive family or other Devi Ever pedals.
 
 ## Sources checked
 
-1. Devi Ever FX | Effects Database: https://www.effectsdatabase.com/model/deviever
+1. Effects Database — Devi Ever FX: https://www.effectsdatabase.com/model/deviever
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
