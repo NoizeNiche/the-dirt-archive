@@ -33,8 +33,6 @@
 
 ## Sound
 
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
-
 ## Sources checked
 
 1. ULTRA 47 RAM'S HEAD – Stomp Under Foot: https://stompunderfoot.com/products/ultra-47
@@ -48,10 +46,8 @@ Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdri
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
 
 ### Verified description
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ### Verified sound evidence
-Checkout Close Your bag is empty Browse our collection of handmade fuzz, overdrive, and distortion pedals.
 
 ### Sources checked in this pass
-1. ULTRA 47 RAM'S HEAD &ndash; Stomp Under Foot: https://stompunderfoot.com/products/ultra-47
+1. ULTRA 47 RAM'S HEAD – Stomp Under Foot: https://stompunderfoot.com/products/ultra-47
