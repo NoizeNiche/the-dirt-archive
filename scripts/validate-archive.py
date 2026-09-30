@@ -641,3 +641,4 @@ def main():
         raise SystemExit("Detail page contains inline JavaScript.")
 
 # Finish-line validation checkpoint: validate current main photo/research state.
+# Final current-main validation trigger.
