@@ -506,12 +506,29 @@ def obvious_scrape_payload(text: str) -> bool:
 
 def archive_catalog_identity(markdown: str) -> tuple[str, str, str]:
     title_match = re.search(r"^#\s+(.+?)\s+[—-]\s+(.+?)\s*$", markdown, re.M)
+
     builder_match = re.search(r"^\s*-\s+\*\*Builder:\*\*\s+(.+?)\s*$", markdown, re.M)
     if not builder_match:
-        builder_match = re.search(r"^\s*Builder:\s+(.+?)(?=\.\s+(?:Type|Catalog type):|$)", markdown, re.M)
+        builder_match = re.search(
+            r"^\s*Builder:\s+(.+?)(?=\.\s+(?:Type|Catalog type):|$)",
+            markdown,
+            re.M,
+        )
+
     type_match = re.search(r"^\s*-\s+\*\*Catalog type:\*\*\s+(.+?)\s*$", markdown, re.M)
     if not type_match:
-        type_match = re.search(r"^\s*(?:Type|Catalog type):\s+(.+?)(?:\.|$)", markdown, re.M)
+        type_match = re.search(
+            r"(?:^|\n)\s*(?:Type|Catalog type):\s+(.+?)(?:\.|$)",
+            markdown,
+            re.M,
+        )
+    if not type_match:
+        type_match = re.search(
+            r"^\s*Builder:.+?\.\s+(?:Type|Catalog type):\s+(.+?)(?:\.|$)",
+            markdown,
+            re.M,
+        )
+
     builder = builder_match.group(1).strip() if builder_match else (title_match.group(1).strip() if title_match else "")
     pedal = title_match.group(2).strip() if title_match else ""
     catalog_type = type_match.group(1).strip() if type_match else "effect"
