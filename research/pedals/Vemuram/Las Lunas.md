@@ -5,49 +5,44 @@
 - **Archive parent:** Las Lunas
 - **Builder:** Vemuram
 - **Catalog type:** Distortion
-- **Identity:** Vemuram's Las Lunas.
+- **Identity:** Vemuram Las Lunas.
 
 ## What this pedal is
 
-Vemuram's Las Lunas is cataloged as a distortion pedal.
+Las Lunas is a Vemuram distortion pedal with multiple drive modes and a three-band passive EQ. The reviewed model-specific sources also document internal adjustment controls associated with the pedal's different operating modes.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- The verified evidence references: MKII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The retained evidence references **MKII**, but does not establish a complete numbered production chronology.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The model is documented with a three-band passive EQ covering bass, midrange, and treble. The exact full external control transcription is not consistently preserved across the reviewed sources.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Documented terms in the verified sources: LED.
-- The archive records only the component information explicitly present in these sources.
+- **LED clipping/device reference:** documented in the retained source material.
+- Exact complete clipping network is not established.
 
 ## Sound
 
-Tone shaping is managed by a three-band passive EQ with wide-ranging controls for bass, midrange tone, and upper-register treble.
-Vemuram Las Lunas Distortion Overdrive – United States Served with love!
+The model-specific descriptions emphasize broad tone shaping from the three-band passive EQ and distinct drive modes. The archive keeps those characteristics separate from other Vemuram overdrive models.
 
 ## Sources checked
 
-1. Vemuram Las Lunas: 2 Drive Modes and a Rare Trimmer Pair: https://mijguitarguide.com/new-releases/vemuram-las-lunas-distortion/
-2. Las Lunas by Vemuram | RockBoard | PedalPedia: https://www.rockboard.de/en/pedalPedia/Vemuram/Las-Lunas/8654941456/
-3. Vemuram Las Lunas - What To Know & Where To Buy | Equipboard: https://equipboard.com/items/vemuram-las-lunas
-4. [Highly Recommended] VEMURAM Las Lunas: The ultimate distortion pedal ...: https://xtones.net/en/vemuram-laslunas/
-5. Vemuram Las Lunas Distortion Pedal - Reverb: https://reverb.com/item/99573472-vemuram-las-lunas-distortion-pedal
-6. Vemuram Las Lunas Distortion Overdrive – United States: https://www.thomannmusic.com/vemuram_las_lunas_distortion_overdrive.htm
+1. RockBoard — Vemuram Las Lunas: https://www.rockboard.de/en/pedalPedia/Vemuram/Las-Lunas/8654941456/
+2. Reverb — Vemuram Las Lunas: https://reverb.com/item/99573472-vemuram-las-lunas-distortion-pedal
+3. Equipboard — Vemuram Las Lunas: https://equipboard.com/items/vemuram-las-lunas
+4. Miki Guitar Guide — Vemuram Las Lunas: https://mijguitarguide.com/new-releases/vemuram-las-lunas-distortion/
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
