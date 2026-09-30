@@ -331,6 +331,38 @@
       "pattern": "https://static.xx.fbcdn.net/rsrc.php/y4/r/cCUc36Es1cc.webp",
       "reason": "Generic Facebook CDN asset surfaced in place of a pedal photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/6degrees_eleven-hypercatalyst_001.jpg"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/6degrees_rodeodrive_001.jpg"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://files.effectsdatabase.com/gear/thumbs/6degrees_sallydrive_001.jpg"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.roland.com/assets/images/articles/thumbnails/avp_the_boss_bd-2_blues_driver_touchstone_tn.jpg"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.roland.com/assets/promos/png/menu_eurus_gs-1.png"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://static.roland.com/assets/promos/png/menu_tr-1000.png"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.chicagomusicexchange.com/cdn/shop/files/icon-phone_small.png?v=1696215025"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://assets.bigcartel.com/account_images/3985671/BSRI+Logo.png"
     }
   ]
 }
