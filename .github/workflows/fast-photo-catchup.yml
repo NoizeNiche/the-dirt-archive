@@ -12,6 +12,7 @@ permissions:
   contents: write
   actions: write
 
+  # Refreshing this workflow file also forces the newest-only concurrency lock to replace stale runs.
 concurrency:
   group: dirt-photo-publishing-v1
   # Let an active recovery/merge finish. A newer trigger may supersede the queue,
