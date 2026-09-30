@@ -1,23 +1,19 @@
 name: Emergency photo catch-up
 
 on:
+  # Manual fallback only. Fast photo catch-up is the primary recovery worker.
   workflow_dispatch:
-  schedule:
-    - cron: "*/10 * * * *"
-  push:
-    paths:
-      - research/PHOTO_EMERGENCY_KICK
 
 permissions:
   contents: write
   actions: write
 
 concurrency:
-  group: dirt-photo-publishing-v1
+  group: dirt-photo-emergency-${{ github.sha }}
   # A newer emergency pass supersedes an older queued attempt.
   # Push/manual recovery runs may replace stale work. Scheduled passes wait
   # rather than cancelling an active recovery batch.
-  cancel-in-progress: ${{ github.event_name != 'schedule' }}
+  cancel-in-progress: false
 
 jobs:
   recover:
