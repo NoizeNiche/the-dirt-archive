@@ -75,9 +75,9 @@ jobs:
       - name: Recover exact pedal photo batch
         env:
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
-          PHOTO_BROWSER_DEEP_REVIEW: "true"
+          PHOTO_BROWSER_DEEP_REVIEW: "false"
           PHOTO_BROWSER_ALLOW_PARKED_RETRY: "true"
-          PHOTO_BROWSER_REVISIT_PARKED: "true"
+          PHOTO_BROWSER_REVISIT_PARKED: "false"
           PHOTO_BROWSER_CACHE_LIMIT: "120"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "16"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "10000"
