@@ -642,3 +642,4 @@ def main():
 
 # Finish-line validation checkpoint: validate current main photo/research state.
 # Final current-main validation trigger.
+# Validate current main after LOAF photo-review consolidation.
