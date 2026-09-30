@@ -7015,14 +7015,12 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://reverb.com/item/36572528-bad-penny-fx-morse-fuzz",
-      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg",
       "image_source_pages": [
         "https://reverb.com/item/36572528-bad-penny-fx-morse-fuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1515,
-      "image": "./assets/pedals/bad-penny-fx/morse-fuzz-mini/primary.webp"
+      "image_source_priority": 1515
     },
     {
       "company": "Bad Penny FX",
@@ -7041,9 +7039,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1551,
-      "image": "./assets/pedals/bad-penny-fx/nerd-fuzz-boost/primary.webp",
-      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg"
+      "image_source_priority": 1551
     },
     {
       "company": "Bad Penny FX",
@@ -7061,9 +7057,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1552,
-      "image": "./assets/pedals/bad-penny-fx/old-fuzz-mini/primary.webp",
-      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg"
+      "image_source_priority": 1552
     },
     {
       "company": "Bad Penny FX",
