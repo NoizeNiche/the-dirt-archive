@@ -126,12 +126,15 @@ def main() -> int:
             continue
 
         try:
-            candidate_digest = hashlib.sha256(candidate.read_bytes()).hexdigest().lower()
+            candidate_bytes = candidate.read_bytes()
+            candidate_sha256 = hashlib.sha256(candidate_bytes).hexdigest().lower()
+            candidate_sha1 = hashlib.sha1(candidate_bytes).hexdigest().lower()
         except OSError:
             continue
 
         quarantined_for_identity = (
-            candidate_key in quarantined_digests.get(candidate_digest, set())
+            candidate_key in quarantined_digests.get(candidate_sha256, set())
+            or candidate_key in quarantined_digests.get(candidate_sha1, set())
             or candidate_key in quarantined_paths.get(candidate_rel, set())
         )
         if quarantined_for_identity:
