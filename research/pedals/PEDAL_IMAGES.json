@@ -15343,9 +15343,9 @@
   {
     "builder": "Darkglass Electronics",
     "pedal": "Microtubes B1K",
-    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/b1k",
-    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md"
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes B1K.md",
+    "image_source_page": "https://thedarkglass.shop/products/b1k"
   },
   {
     "builder": "Darkglass Electronics",
@@ -25502,7 +25502,8 @@
     "pedal": "FAT Drive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
+    "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
   },
   {
     "builder": "Pigtronix",
@@ -26006,7 +26007,8 @@
     "pedal": "The Klone",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/RYRA/The Klone.md"
+    "research_record": "./research/pedals/RYRA/The Klone.md",
+    "image_source_page": "https://theklonepedal.com/the-klone-pedal"
   },
   {
     "builder": "RYRA",
@@ -26034,7 +26036,8 @@
     "pedal": "Dark Bass Anger",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md"
+    "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
+    "image_source_page": "https://sbgo-effects.com/en/"
   },
   {
     "builder": "SBGO Effects",
@@ -29219,7 +29222,8 @@
     "pedal": "Overrated Special",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Overrated Special.md"
+    "research_record": "./research/pedals/Way Huge/Overrated Special.md",
+    "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/"
   },
   {
     "builder": "Way Huge",
@@ -29247,14 +29251,16 @@
     "pedal": "Russian-Pickle",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Russian-Pickle.md"
+    "research_record": "./research/pedals/Way Huge/Russian-Pickle.md",
+    "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/"
   },
   {
     "builder": "Way Huge",
     "pedal": "Saucy Box Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md"
+    "research_record": "./research/pedals/Way Huge/Saucy Box Overdrive.md",
+    "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230"
   },
   {
     "builder": "Way Huge",
@@ -29576,7 +29582,8 @@
     "pedal": "Bass BB Preamp V1.5",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md"
+    "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5.md",
+    "image_source_page": "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre"
   },
   {
     "builder": "Xotic Effects",
@@ -29639,7 +29646,8 @@
     "pedal": "SL Drive — Distortion / Overdrive",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md"
+    "research_record": "./research/pedals/Xotic Effects/SL Drive — Distortion / Overdrive.md",
+    "image_source_page": "https://xotic.us/effects/sl-drive/"
   },
   {
     "builder": "Xotic Effects",
