@@ -45138,8 +45138,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/part-garden",
-      "image": "",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/20250920_092003_160x160.jpg?v=1769883161"
+      "image": ""
     },
     {
       "company": "Mask Audio Electronics",
@@ -51337,7 +51336,7 @@
       "research_record": "./research/pedals/Pigtronix/Bass FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://equipboard.com/items/pigtronix-bass-fat-drive",
+      "image_source_page": "https://reverb.com/p/pigtronix-bass-fat-drive",
       "image_source_pages": [
         "https://reverb.com/p/pigtronix-bass-fat-drive"
       ],
@@ -51504,13 +51503,19 @@
       "research_record": "./research/pedals/Pigtronix/PolySaturator.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/pigtronix/polysaturator",
+      "image_source_page": "https://reverb.com/p/pigtronix-polysaturator?ended_listing=94312982",
       "image_source_pages": [
-        "https://www.effectsdatabase.com/model/pigtronix/polysaturator"
+        "https://www.effectsdatabase.com/model/pigtronix/polysaturator",
+        "https://reverb.com/p/pigtronix-polysaturator?ended_listing=94312982"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1453
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--6b19GYJe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/axqunhaydkpz1ifnycbn.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/i/s--6b19GYJe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/axqunhaydkpz1ifnycbn.jpg"
+      ],
+      "image": "./assets/pedals/pigtronix/polysaturator/primary.webp"
     },
     {
       "company": "Pigtronix",
@@ -56524,12 +56529,17 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
-        "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Merman/68986081/"
+        "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Merman/68986081/",
+        "https://reverb.com/item/55449632-vfe-merman-hand-painted-by-peter-rutter"
       ],
-      "image_source_page": "https://www.rockboard.de/en/pedalPedia/VFE-Pedals/Merman/68986081/",
+      "image_source_page": "https://reverb.com/item/55449632-vfe-merman-hand-painted-by-peter-rutter",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1451
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--xleOYrWE--/f_auto%2Ct_large/v1657779203/lceyaysrqocv0nergoo9.jpg",
+      "image_source_urls": [
+        "https://rvb-img.reverb.com/image/upload/s--xleOYrWE--/f_auto%2Ct_large/v1657779203/lceyaysrqocv0nergoo9.jpg"
+      ]
     },
     {
       "company": "VFE Pedals",
@@ -56573,7 +56583,12 @@
       "image_source_page": "https://www.vfepedals.com/product-page/rup",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1414
+      "image_source_priority": 1000000,
+      "image_source_url": "https://static.wixstatic.com/media/3cfc56_97a0bc782daf4d5694b41c9fcb7ceeae~mv2.png/v1/fill/w_1325%2Ch_1080%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/3cfc56_97a0bc782daf4d5694b41c9fcb7ceeae~mv2.png",
+      "image_source_urls": [
+        "https://static.wixstatic.com/media/3cfc56_97a0bc782daf4d5694b41c9fcb7ceeae~mv2.png/v1/fill/w_1325%2Ch_1080%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/3cfc56_97a0bc782daf4d5694b41c9fcb7ceeae~mv2.png"
+      ],
+      "image": "./assets/pedals/vfe-pedals/rup-mkii/primary.webp"
     },
     {
       "company": "VFE Pedals",
@@ -58555,7 +58570,7 @@
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal"
       ],
-      "image_source_page": "https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230",
+      "image_source_page": "https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1449
