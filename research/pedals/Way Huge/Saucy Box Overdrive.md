@@ -5,51 +5,43 @@
 - **Archive parent:** Saucy Box Overdrive
 - **Builder:** Way Huge
 - **Catalog type:** Overdrive
-- **Identity:** Way Huge's Saucy Box Overdrive.
+- **Identity:** Way Huge WHE205 Saucy Box Overdrive.
 
 ## What this pedal is
 
-Login Create Account Home Way Huge WHE205 Saucy Box Overdrive Pedal Way Huge WHE205 Saucy Box Overdrive Pedal Product Description
+The Saucy Box is Way Huge model **WHE205**, an overdrive pedal in the company's historical catalog.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision sequence was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The retained exact-model sources do not preserve a sufficiently stable complete control transcription to reproduce it here with confidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Way Huge Saucy Box Overdrive review
-Login Create Account Home Way Huge WHE205 Saucy Box Overdrive Pedal Way Huge WHE205 Saucy Box Overdrive Pedal Product Description
-Sku: 710137067257 Brand: WAY HUGE Saucy Box From the visionary depths of the Way Huge laboratory comes the Saucy Box Overdrive.
+The archive records the Saucy Box as an overdrive without importing specifications or tonal language from other Way Huge products.
 
 ## Sources checked
 
-1. Way Huge WHE205 Saucy Box Overdrive - Reverb: https://reverb.com/p/way-huge-whe205-saucy-box-overdrive
-2. Way Huge Saucy Box Overdrive Pedal | Sweetwater: https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal
-3. Way Huge Saucy Box Overdrive review | MusicRadar: https://www.musicradar.com/reviews/guitars/way-huge-saucy-box-overdrive-619283
-4. Way Huge WHE205 Saucy Box OD – Motor City Guitar: https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal?variant=45058457230
-5. Way Huge Saucy Box Overdrive Dimensions, Specs & Details: https://www.stompboxgarden.com/gear/pedal/1249/way-huge-saucy-box-overdrive
-6. Way Huge Pedals Saucy Box™ Overdrive images, videos, reviews, and more ...: https://rigshare.com/products/saucy-box-overdrive-503649
-7. Way Huge WHE205 Saucy Box Overdrive Guitar Effects Pedal - Natural Reverb Effects Pedals That Create Dreamy Soundscapes: https://www.tonereverb.com/product/way-huge-whe205-saucy-box-overdrive-guitar-effects-pedal/
-8. Way Huge Saucy Box — Overdrive Pedal | Equipboard: https://equipboard.com/items/way-huge-saucy-box
+1. Reverb — Way Huge WHE205 Saucy Box Overdrive: https://reverb.com/p/way-huge-whe205-saucy-box-overdrive
+2. Sweetwater — Way Huge Saucy Box Overdrive: https://www.sweetwater.com/store/detail/SaucyBox--way-huge-saucy-box-overdrive-pedal
+3. MusicRadar — Way Huge Saucy Box review: https://www.musicradar.com/reviews/guitars/way-huge-saucy-box-overdrive-619283
+4. Motor City Guitar — Way Huge WHE205 Saucy Box: https://motorcityguitar.com/products/way-huge-whe205-saucy-box-overdrive-br-pedal
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
