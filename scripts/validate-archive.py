@@ -639,3 +639,5 @@ def main():
         raise SystemExit("Home page contains inline JavaScript.")
     if re.search(r"<script(?![^>]*src=)[^>]*>", detail_text, re.I):
         raise SystemExit("Detail page contains inline JavaScript.")
+
+# Finish-line validation checkpoint: validate current main photo/research state.
