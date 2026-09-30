@@ -1594,7 +1594,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   html = String(html)
     .replace(/\\u002f/gi, '/')
     .replace(/\\\//g, '/');
-  const add = value => {
+  const add = (value, allowExtensionless = false) => {
     if (!value || typeof value !== 'string') return;
     for (const part of value.split(/[\s,]+/)) {
       const raw = part.replace(/&amp;/g, '&').replace(/^["']|["']$/g, '');
@@ -1603,8 +1603,22 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
         const url = /^https?:/i.test(raw) ? raw : new URL(raw, pageUrl).href;
         if (!/^https?:/i.test(url)) return;
         if (/(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel)/i.test(url)) return;
-        const pathname = new URL(url).pathname;
-        if (/\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) || /\/gear\/(?:pics|thumbs)\//i.test(pathname)) out.add(url);
+        const parsed = new URL(url);
+        const pathname = parsed.pathname.toLowerCase();
+        const conventionalImage =
+          /\.(?:jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(url) ||
+          /\/gear\/(?:pics|thumbs)\//i.test(pathname);
+        const knownImageHost =
+          /(?:^|\.)static\.wixstatic\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)rvb-img\.reverb\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)i\.ebayimg\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)images\.squarespace-cdn\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)cdn\.shopify\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)shopifycdn\.com$/i.test(parsed.hostname) ||
+          /(?:^|\.)cloudinary\.com$/i.test(parsed.hostname) ||
+          /\/wp-content\/uploads\//i.test(pathname);
+        const imagePathHint = /\/(?:media|image|images|upload|uploads|files)\//i.test(pathname);
+        if (conventionalImage || (allowExtensionless && (knownImageHost || imagePathHint))) out.add(url);
       } catch {}
     }
   };
@@ -1622,6 +1636,13 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
     add(match[0]);
   }
+  // Some product JSON embeds image endpoints without a filename extension.
+  // Keep these only when the surrounding key explicitly identifies an image
+  // field, or when the endpoint comes from a known image/CDN host.
+  for (const match of html.matchAll(/["'](?:image|images|imageUrl|image_url|contentUrl|thumbnailUrl|src|srcset)["']\s*:\s*["'](https?:\/\/[^"']+)["']/gi)) {
+    add(match[1], true);
+  }
+
   // Effects Database hosts legacy pedal photography without relying on
   // conventional image-file paths being present in the surrounding markup.
   // Harvest its canonical gear/pics and gear/thumbs assets directly.
