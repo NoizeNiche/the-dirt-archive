@@ -4,21 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
-  push:
-    paths:
-      - research/PHOTO_FAST_KICK
-      - research/PHOTO_SOURCE_OVERRIDES.csv
-      - research/PHOTO_MANUAL_REVIEW.csv
-      - research/PHOTO_IDENTITY_QUARANTINE.csv
-      - research/PHOTO_HASH_QUARANTINE.csv
-      - research/PHOTO_SOURCE_BLOCKLIST.json
-      - research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv
-      - research/PEDAL_IDENTITY_ALIASES.csv
-      - scripts/browser-photo-cache.mjs
-      - scripts/cache-pedal-images.py
-      - scripts/merge-photo-recovery-results.py
-      - scripts/reset-photo-recovery-targets.py
-      - scripts/cache-curated-direct-photos.py
 
 permissions:
   contents: write
