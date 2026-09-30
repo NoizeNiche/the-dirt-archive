@@ -57,6 +57,7 @@ def main() -> None:
         BASE + "identify.html",
         BASE + "corrections.html",
         BASE + "methodology.html",
+        BASE + "photo-credits.html",
         BASE + "audit.html",
         BASE + "compare.html",
         *[builder_url(builder) for builder in builders],
