@@ -14,6 +14,7 @@
 The Vezzpa is a compact **dual-mode op-amp fuzz** with two distinct voices: FUZZZZ for thick gated fuzz and STINGER for aggressive high-octave fuzz. Beetronics also documents momentary/toggle operation from its multifunction footswitch.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification

@@ -14,6 +14,7 @@
 The Swarm is an **analog fuzz harmonizer** that creates a square-wave fuzz signal and stacks it with pitch-shifted harmony voices. Beetronics documents nine selectable harmony intervals across two octaves, with controls for blending the upper and lower voices and for interactive modulation.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification

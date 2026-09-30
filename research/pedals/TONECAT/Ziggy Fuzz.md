@@ -9,7 +9,6 @@
 
 ## What this pedal is
 
-
 ## Colorways
 
 - No specific factory colorway information was established in the verified evidence packet.

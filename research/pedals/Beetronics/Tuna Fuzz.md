@@ -14,6 +14,7 @@
 The Tuna Fuzz is a **three-transistor fuzz** housed in a tuna-can-style enclosure. Its single STINKER control sets master volume, while Beetronics recommends using the guitar's volume control to shape gain and cleanup.
 
 ## Catalog source
+
 - Catalog source page on file: https://www.beetronicsfx.com/collections/all-pedals-1
 
 ## Deep research verification
