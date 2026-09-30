@@ -135,16 +135,17 @@ jobs:
 
           for row in recovered_rows:
               image = str(row.get("image") or "").strip()
-              if not image:
+              image_file = str(row.get("imageFile") or "").strip()
+              if not image or not image_file:
                   continue
-              image_path = Path(image.lstrip("./"))
-              source_path = (root / image_path).with_suffix(".source")
+              source_path = root / image_file.lstrip("./")
               if not source_path.is_file():
                   print(f"Skipping recovered record with missing source file: {row.get('builder')} / {row.get('pedal')}")
                   continue
 
+              source_rel = Path(image_file.lstrip("./"))
               item_dir = root / "artifact" / "recoveries" / str(packaged)
-              source_dest = item_dir / image_path.with_suffix(".source")
+              source_dest = item_dir / source_rel
               source_dest.parent.mkdir(parents=True, exist_ok=True)
               shutil.copy2(source_path, source_dest)
 
@@ -154,7 +155,7 @@ jobs:
                   "image": image,
                   "image_source_url": row.get("image_source_url"),
                   "image_source_page": row.get("image_source_page"),
-                  "imageFile": "./" + image_path.with_suffix(".source").as_posix(),
+                  "imageFile": "./" + source_rel.as_posix(),
                   "verification": row.get("verification") or {},
               }
               (item_dir / "photo-recovery-result.json").write_text(
