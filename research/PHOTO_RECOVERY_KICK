@@ -38,3 +38,5 @@ block quarantined/shared assets from post-rebase photo reconciliation
 run newest-only recovery after concurrency hardening
 2026-09-30T08:31:30Z
 final prelaunch recovery kick on fully hardened workflow
+2026-09-30T10:12:00Z
+publish corrected cache batch after Silktone primary-review fix
