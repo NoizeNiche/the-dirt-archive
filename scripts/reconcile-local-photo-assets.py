@@ -39,7 +39,7 @@ def load_photo_hash_quarantine() -> tuple[dict[str, set[tuple[str, str]]], dict[
         with PHOTO_HASH_QUARANTINE.open(newline="", encoding="utf-8") as handle:
             for row in csv.DictReader(handle):
                 key = ((row.get("Builder") or "").strip(), (row.get("Pedal") or "").strip())
-                image_path = (row.get("Image File") or "").strip().lstrip("./")
+                image_path = (row.get("Image Path") or "").strip().lstrip("./")
                 digest = (row.get("Blob SHA256") or "").strip().lower()
                 if not key[0] or not key[1]:
                     continue
