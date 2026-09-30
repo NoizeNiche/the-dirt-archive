@@ -5,63 +5,43 @@
 - **Archive parent:** Truly Beautiful Disaster
 - **Builder:** Devi Ever : FX
 - **Catalog type:** Fuzz
-- **Identity:** Devi Ever : FX's Truly Beautiful Disaster.
+- **Identity:** Devi Ever : FX Truly Beautiful Disaster.
 
 ## What this pedal is
 
-00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal | Octave Fuzz that pays homage to 1970s Electro-Harmonix design!
+Truly Beautiful Disaster is a Devi Ever : FX fuzz model documented in surviving historical and marketplace references. It is kept separate from the similarly named **Beautiful Disaster** and **Tri-Fuzz** records.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision chronology was established in the reviewed exact-model sources.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control layout was not securely established in the retained evidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-.us Delivering to Phoenix 85001 Update location Musical Instruments Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Fresh Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Bashas' Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Same-Day Store Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market Search Amazon EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Early Prime Deals Groceries Coupons Prime Pharmacy Amazon Home Automotive Registry Music Whole Foods Audible Video Games New Releases Baby Fashion Works with Alexa Sports & Outdoors Smart Home Toys & Games Custom Products Gift Shop Subscribe & Save Amazon Haul Best Sellers Kindle Books Books TV & Video Luxury Gift Cards Handmade Musical Instruments Deals Guitars Bass Amplifiers & Effects Keyboards Drums Recording DJ & Karaoke Band & Orchestra Live Sound Pro Store Consider these alternative items JOYO Octave Fuzz Guitar Pedal, Germanium-Driven 60's Fuzz Tone with Octave Up Mid-Cut Switch for Electric Guitar, True Bypass (Voodoo JF-12) 4.0 527 $35.99 $ 35 .
-99 Death by Audio Fuzz War Effect Pedal 4.9 73 $180.00 $ 180 .
-00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal | Octave Fuzz that pays homage to 1970s Electro-Harmonix design!
+The retained exact-model references establish the Truly Beautiful Disaster as a fuzz pedal but do not provide sufficiently clean model-specific technical or tonal documentation for a more detailed description. Unrelated retailer recommendations and search results are excluded from the archive's description.
 
 ## Sources checked
 
-1. Devi Ever : FX Truly Beautiful Disaster | Reverb: https://reverb.com/p/devi-ever-fx-truly-beautiful-disaster
-2. Amazon.com: Devi Ever Truly Beautiful Disaster : Musical Instruments: https://www.amazon.com/Devi-Ever-Truly-Beautiful-Disaster/dp/B003G59BOM
-3. Devi Ever : FX Truly Beautiful Disaster (TBD) Used In Good Condition - eBay: https://www.ebay.com/itm/366243571489
-4. Used Devi Ever : FX Truly Beautiful Disaster Fuzz Pedal: https://www.sweetwater.com/used/listings/507334-used-devi-ever-fx-truly-beautiful-disaster-fuzz-pedal
+1. Reverb — Devi Ever : FX Truly Beautiful Disaster: https://reverb.com/p/devi-ever-fx-truly-beautiful-disaster
+2. Amazon product record — Devi Ever Truly Beautiful Disaster: https://www.amazon.com/Devi-Ever-Truly-Beautiful-Disaster/dp/B003G59BOM
+3. eBay — Devi Ever : FX Truly Beautiful Disaster: https://www.ebay.com/itm/366243571489
+4. Sweetwater used listing — Devi Ever : FX Truly Beautiful Disaster: https://www.sweetwater.com/used/listings/507334-used-devi-ever-fx-truly-beautiful-disaster-fuzz-pedal
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal
-
-### Verified sound evidence
-99 Death by Audio Fuzz War Effect Pedal 4.9 73 $180.00 $ 180 .
-00 Electro-Harmonix Lizard Queen Octave Fuzz Pedal
-Octave Fuzz that pays homage to 1970s Electro-Harmonix design!
-
-### Sources checked in this pass
-1. Devi Ever : FX Truly Beautiful Disaster | Reverb: https://reverb.com/p/devi-ever-fx-truly-beautiful-disaster
-2. Amazon.com: Devi Ever Truly Beautiful Disaster : Musical Instruments: https://www.amazon.com/Devi-Ever-Truly-Beautiful-Disaster/dp/B003G59BOM
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
