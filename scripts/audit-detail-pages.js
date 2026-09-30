@@ -134,40 +134,76 @@ function sleep(ms){ return new Promise(resolve => setTimeout(resolve, ms)); }
   }
 
   async function worker(id){
-    const context=await browser.newContext({
-      viewport:{width:1440,height:1000},
-      serviceWorkers:'block'
-    });
-    const page=await context.newPage();
-    page.setDefaultTimeout(10000);
-    await page.route('**/*',async route=>{
-      const request=route.request();
-      const url=request.url();
-      if(/.(?:png|jpe?g|gif|webp|avif)(?:[?#].*)?$/i.test(url) && !url.startsWith(BASE+'/assets/')){
-        await route.abort().catch(()=>{});
-      }else{
-        await route.continue().catch(()=>{});
-      }
-    });
-    try{
-      while(true){
-        const index=cursor++;
-        if(index>=targetEntries.length) break;
-        const entry=targetEntries[index];
-        try{
-          await auditEntry(page,entry);
-        }catch(error){
-          failures.push({
-            builder:entry.company,pedal:entry.pedal,
-            url:BASE+'/pedal-detail.html?builder='+encodeURIComponent(entry.company)+'&pedal='+encodeURIComponent(entry.pedal),
-            problems:['page load/audit error: '+String(error?.message||error)]
-          });
+    let context=null;
+    let page=null;
+    let processed=0;
+
+    async function openFreshPage(){
+      if(context) await context.close().catch(()=>{});
+      context=await browser.newContext({
+        viewport:{width:1440,height:1000},
+        serviceWorkers:'block'
+      });
+      page=await context.newPage();
+      page.setDefaultTimeout(10000);
+      await page.route('**/*',async route=>{
+        const request=route.request();
+        const url=request.url();
+        if(/.(?:png|jpe?g|gif|webp|avif)(?:[?#].*)?$/i.test(url) && !url.startsWith(BASE+'/assets/')){
+          await route.abort().catch(()=>{});
+        }else{
+          await route.continue().catch(()=>{});
         }
+      });
+    }
+
+    try{
+      await openFreshPage();
+      while(true){
+        const index = cursor++;
+        if(index>=targetEntries.length) break;
+
+        // Recycle the browser context regularly. This keeps a 4,000+ page
+        // archive sweep from accumulating page/request state in one context.
+        if(processed > 0 && processed % 80 === 0){
+          await openFreshPage();
+        }
+
+        const entry=targetEntries[index];
+        let succeeded=false;
+        for(let attempt=0; attempt<2 && !succeeded; attempt++){
+          try{
+            await auditEntry(page,entry);
+            succeeded=true;
+          }catch(error){
+            const message=String(error?.message||error);
+            const closed=/Target page, context or browser has been closed|Browser has been closed|Target page has been closed/i.test(message);
+            if(closed && attempt===0){
+              try{
+                await openFreshPage();
+                continue;
+              }catch(reopenError){
+                failures.push({
+                  builder:entry.company,pedal:entry.pedal,
+                  url:BASE+'/pedal-detail.html?builder='+encodeURIComponent(entry.company)+'&pedal='+encodeURIComponent(entry.pedal),
+                  problems:['page/context recovery failed: '+String(reopenError?.message||reopenError)]
+                });
+              }
+            }else{
+              failures.push({
+                builder:entry.company,pedal:entry.pedal,
+                url:BASE+'/pedal-detail.html?builder='+encodeURIComponent(entry.company)+'&pedal='+encodeURIComponent(entry.pedal),
+                problems:['page load/audit error: '+message]
+              });
+            }
+          }
+        }
+        processed++;
       }
     }catch(error){
       workerErrors.push({worker:id,error:String(error?.message||error)});
     }finally{
-      await context.close().catch(()=>{});
+      if(context) await context.close().catch(()=>{});
     }
   }
 
