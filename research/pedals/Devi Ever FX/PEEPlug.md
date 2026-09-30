@@ -5,42 +5,40 @@
 - **Archive parent:** PEEPlug
 - **Builder:** Devi Ever FX
 - **Catalog type:** Fuzz
-- **Identity:** Devi Ever FX's PEEPlug.
+- **Identity:** Devi Ever FX PEEPlug.
 
 ## What this pedal is
 
-Devi Ever FX's PEEPlug is cataloged as a fuzz pedal.
+PEEPlug is a Devi Ever FX fuzz model retained as a distinct historical catalog identity. The current evidence packet does not preserve enough exact-model documentation to reconstruct its circuit or complete controls.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision sequence was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete model-specific control transcription was not securely established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-The Dirt Archive currently catalogs **PEEPlug** by **Devi Ever FX** as a **Fuzz** pedal.
+The exact-model evidence confirms the fuzz classification but does not preserve sufficient clean technical or tonal documentation for a more specific description.
 
 ## Sources checked
 
-1. catalog/override source: https://www.effectsdatabase.com/model/deviever
+1. Effects Database — Devi Ever FX: https://www.effectsdatabase.com/model/deviever
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
