@@ -5,66 +5,40 @@
 - **Archive parent:** Russian-Pickle
 - **Builder:** Way Huge
 - **Catalog type:** Fuzz
-- **Identity:** Way Huge's Russian-Pickle.
+- **Identity:** Way Huge Russian-Pickle Fuzz.
 
 ## What this pedal is
 
-Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard.
-
-## Colorways
-
-- No specific factory colorway information was established in the verified evidence packet.
+The Way Huge **Russian-Pickle** is a fuzz based on the character of the classic Black Russian-style circuit. The later **Smalls Russian-Pickle (WM42)** is a separate compact enclosure. Way Huge states that the Smalls model uses the same circuit and controls as the original.
 
 ## Versions and factory options
 
-- The verified evidence references: MkIII.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Russian-Pickle:** original full-size model.
+- **Smalls Russian-Pickle (WM42):** later compact version.
+- The archive keeps these as separate identities.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The manufacturer's later Smalls documentation identifies the same circuit and controls as the original Russian-Pickle, but the reviewed material does not provide enough detail here to reconstruct the complete original control specification without ambiguity.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+The reviewed documentation describes the Russian-Pickle as a Black Russian-style fuzz and a separate retailer reference identifies a BC183 silicon-transistor implementation. Because that component detail is not directly confirmed by Way Huge's current manufacturer page, the archive does not promote it to an exact production specification.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-WM42 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz MkIII dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package.
-Warranty Information The Long Story Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package.
-Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard.
+The manufacturer's description of the Smalls version describes smooth, creamy fuzz with the same circuit and controls as the original Russian-Pickle. The pedal is associated with '90s grunge, stoner and garage-rock fuzz applications.
 
 ## Sources checked
 
-1. WAY HUGE® SMALLS™ RUSSIAN-PICKLE™ FUZZ - Dunlop: https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/
-2. Quick Hit: Way Huge Russian-Pickle Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/quick-hit-way-huge-russian-pickle-review
+1. Dunlop / Way Huge — Smalls Russian-Pickle Fuzz: https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/
+2. Sweetwater — Way Huge Russian-Pickle: https://www.sweetwater.com/store/detail/RussianPickle--way-huge-russian-pickle-fuzz-pedal
+3. Premier Guitar — Quick Hit: Way Huge Russian-Pickle Review: https://www.premierguitar.com/gear/reviews/quick-hit-way-huge-russian-pickle-review
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
-
-## Deep research verification
-
-This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
-
-### Verified description
-Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard.
-
-### Verified version references
-- The evidence references: MkIII.
-
-### Verified sound evidence
-WM42 Description *LEGACY PRODUCT / NO LONGER IN PRODUCTION Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz MkIII dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package.
-Warranty Information The Long Story Now in a Way Huge Smalls housing, the Russian-Pickle Fuzz dishes out smooth, creamy fuzz tones in a much more pedalboard-friendly package.
-Whether you're going for '90s-era grunge, swinging stoner grooves, or raw two-piece garage rock riffage, the Russian-Pickle Fuzz is the perfect comrade for your pedalboard.
-
-### Sources checked in this pass
-1. WAY HUGE® SMALLS™ RUSSIAN-PICKLE™ FUZZ - Dunlop: https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/
-2. Quick Hit: Way Huge Russian-Pickle Review - Premier Guitar: https://www.premierguitar.com/gear/reviews/quick-hit-way-huge-russian-pickle-review
-3. catalog/override source: https://reverb.com/item/97473107-way-huge-russian-pickle-whe-408
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
