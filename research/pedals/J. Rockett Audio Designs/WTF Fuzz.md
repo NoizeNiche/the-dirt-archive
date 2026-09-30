@@ -5,52 +5,42 @@
 - **Archive parent:** WTF Fuzz
 - **Builder:** J. Rockett Audio Designs
 - **Catalog type:** Fuzz
-- **Identity:** J. Rockett Audio Designs's WTF Fuzz.
+- **Identity:** J. Rockett Audio Designs WTF Fuzz.
 
 ## What this pedal is
 
-Rockett Audio Designs WTF Fuzz is characterized by balanced EQ, high-gain gain.
+The WTF Fuzz is a J. Rockett Audio Designs fuzz model. Surviving product references describe a wide range that can move from mild overdrive-like sounds into aggressive fuzz with octave-like textures.
 
 ## Colorways
 
-- Rockett Audio Designs Blue Note Overdrive 0 tone s Pedal J.
+Individual listings show different finishes, but no complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No complete numbered production revision chronology was established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control transcription was not securely established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Rockett Audio Designs WTF Fuzz - Willcutt Guitars
-Get mild OD sounds all the way to crazy random octave fuzz.
-Rockett Audio Designs WTF Fuzz - Songs That Use This Pedal and How to Dial It In
+The exact-model references describe the WTF Fuzz as capable of mild overdrive-like sounds through more extreme octave-fuzz textures. The archive keeps that description at the product level rather than importing circuitry from the later Hooligan.
 
 ## Sources checked
 
-1. J. Rockett Audio Designs WTF Fuzz - Willcutt Guitars: https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz
-2. J. Rockett Audio Designs WTF Fuzz - Songs That Use This Pedal and How to Dial It In | ToneMirror: https://www.tonemirror.so/pedals/j-rockett-wtf-fuzz
-3. J. Rockett Audio Designs WTF Fuzz • Beat Groove Music: https://www.beatgroovemusic.com/product/j-rockett-audio-designs-wtf-fuzz/
-4. J. Rockett Audio Designs WTF Fuzz - Guitar Straps — Leather & Woven Padded for Acoustic Electric: https://www.guitarstrapco.com/product/j-rockett-audio-designs-wtf-fuzz/
-5. J. Rockett Audio Designs WTF Fuzz | Music Tools Central: https://www.musictoolscentral.com/product/j-rockett-audio-designs-wtf-fuzz/
-6. J. Rockett Audio Designs WTF Fuzz - Classical Guitars Crafted for Warm Nylon Tone Expressive Playability and Musical Depth: https://www.nobleguitar.com/product/j-rockett-audio-designs-wtf-fuzz/
-7. J. Rockett Audio Designs WTF Fuzz Pedal Orange, Brand New, $229.00 - Gbase: https://www.gbase.com/gear/j-rockett-audio-designs-wtf-fuzz-pedal-orange
-8. J. Rockett Audio Designs WTF Fuzz - www.best-audioshop.com: https://www.best-audioshop.com/product/j-rockett-audio-designs-wtf-fuzz/
-9. J. Rockett Audio Designs WTF Fuzz - Overdrive, Octave, Pitch | Reverb: https://reverb.com/item/102353-j-rockett-audio-designs-wtf-fuzz-overdrive-octave-pitch-shifting-fuzz
+1. Willcutt Guitars — J. Rockett Audio Designs WTF Fuzz: https://willcuttguitars.com/products/j-rockett-audio-designs-wtf-fuzz
+2. Reverb — J. Rockett Audio Designs WTF Fuzz: https://reverb.com/item/102353-j-rockett-audio-designs-wtf-fuzz-overdrive-octave-pitch-shifting-fuzz
+3. J. Rockett Audio Designs product references retained by the archive.
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
