@@ -116,6 +116,35 @@ def slug(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", raw).strip("-") or "unknown"
 
 
+def collision_slug(value: str) -> str:
+    raw = str(value or "").strip()
+    readable = slug(raw.replace("+", " plus "))
+    base = slug(raw)
+    if readable != base:
+        return readable
+    return base + "-" + hashlib.sha1(raw.encode("utf-8")).hexdigest()[:8]
+
+
+def same_identity(owner, entry: dict) -> bool:
+    if not owner:
+        return False
+    eb = str(entry.get("company") or entry.get("builder") or "").strip().lower()
+    ep = str(entry.get("pedal") or "").strip().lower()
+    ob = str(owner.get("builder") or owner.get("company") or "").strip().lower()
+    op = str(owner.get("pedal") or "").strip().lower()
+    return eb == ob and ep == op
+
+
+def load_manifest_owners(catalog: dict) -> dict[str, dict]:
+    owners = {}
+    for item in catalog.get("pedals", []):
+        image = str(item.get("image") or "").strip().lstrip("./")
+        if not image.startswith("assets/pedals/"):
+            continue
+        owners.setdefault(image, item)
+    return owners
+
+
 def is_http_image_url(value: str) -> bool:
     # Curated direct overrides are already tied to an exact source page. Do not
     # require a filename extension here because some legitimate CDN/image
@@ -124,10 +153,19 @@ def is_http_image_url(value: str) -> bool:
     return bool(re.match(r"^https?://", value, re.I))
 
 
-def target_path(entry: dict) -> Path:
+def target_path(entry: dict, manifest_owners: dict[str, dict]) -> Path:
     builder = entry.get("company") or entry.get("builder") or ""
     pedal = entry.get("pedal") or ""
-    return ASSET_ROOT / slug(builder) / slug(pedal) / "primary.source"
+    builder_dir = ASSET_ROOT / slug(builder)
+    base = slug(pedal)
+    candidate = builder_dir / base / "primary.source"
+    owner = manifest_owners.get(candidate.as_posix())
+    if candidate.exists() and owner and not same_identity(owner, entry):
+        base = collision_slug(pedal)
+        candidate = builder_dir / base / "primary.source"
+        if candidate.exists():
+            base = slug(pedal) + "-" + hashlib.sha1(str(pedal).encode("utf-8")).hexdigest()[:8]
+    return builder_dir / base / "primary.source"
 
 
 def fetch(url: str, source_page: str = "") -> bytes:
@@ -297,6 +335,8 @@ def main() -> None:
         for entry in catalog.get("pedals", [])
     }
 
+    manifest_owners = load_manifest_owners(catalog)
+
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
     manual_verified = {}
@@ -355,7 +395,7 @@ def main() -> None:
             print(f"Missing catalog identity for direct photo override: {k[0]} / {k[1]}")
             continue
 
-        target = target_path(entry)
+        target = target_path(entry, manifest_owners)
         image_url, source_page, notes = rows[-1]
         if target.exists():
             try:
