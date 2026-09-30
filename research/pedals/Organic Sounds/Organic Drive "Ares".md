@@ -5,48 +5,47 @@
 - **Archive parent:** Organic Drive "Ares"
 - **Builder:** Organic Sounds
 - **Catalog type:** Overdrive
-- **Identity:** Organic Sounds's Organic Drive "Ares".
+- **Identity:** Organic Sounds Organic Drive "Ares".
 
 ## What this pedal is
 
-Product Details ________________________________ This is the first original Overdrive pedal of Organics Sounds!
+Organic Drive "Ares" is the first original overdrive listed by Organic Sounds in the surviving product references. The archive keeps the model distinct from unrelated Organic Sounds products and does not import specifications from other drives.
 
 ## Colorways
 
-- Buffered bypass for a natural, deep sound when the pedal is off.
+Individual listings show finishes such as gold, but no complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision chronology was established in the reviewed sources.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The surviving exact-model sources do not provide a sufficiently stable complete control transcription to reproduce it here with confidence.
+
+## Bypass and power
+
+The reviewed references describe a **buffered bypass** design. An exact production power specification was not independently established from the retained evidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-ORGANIC SOUNDS Organic Drive “Ares”
-When the pedal is on and using low gain, you'll hear a unique elastic sound.
-When the pedal is on and using low gain, you’ll hear a unique elastic sound.
+Exact-model product descriptions characterize the Ares as an overdrive with an unusual, elastic character at lower gain settings. The archive retains that product-level description without extending it into unsupported circuit claims.
 
 ## Sources checked
 
-1. Organic Sounds Organic Drive "Ares" (NEW) - Reverb: https://reverb.com/item/96442659-organic-sounds-organic-drive-ares-new
-2. ORGANIC SOUNDS Organic Drive “Ares” | Pedals and FX | guitarxrange.com: https://www.guitarxrange.com/product/organic-sounds-organic-drive-ares/
-3. Organic Sounds Organic Drive 'Ares' (Gold) 2010 0 Effect For Sale TCGAKKI: https://www.vintageandrare.com/product/Organic-Sounds-Organic-Drive-Ares-Gold-2010-99043
-4. Organic Sounds Organic Drive "Ares" (NEW) - TCGAKKI - TCGAKKI: https://tcgakki.com/en/products/organic-sounds-organic-drive-ares-new
-5. Organic Drive "Ares" | Organic Sounds: https://organic-sounds.com/products/organic-drive
+1. Organic Sounds Organic Drive "Ares" | Reverb: https://reverb.com/item/96442659-organic-sounds-organic-drive-ares-new
+2. Organic Sounds Organic Drive "Ares" | Guitar X Range: https://www.guitarxrange.com/product/organic-sounds-organic-drive-ares/
+3. Organic Sounds Organic Drive "Ares" | TCGAKKI: https://tcgakki.com/en/products/organic-sounds-organic-drive-ares-new
+4. Organic Drive "Ares" | Organic Sounds: https://organic-sounds.com/products/organic-drive
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
