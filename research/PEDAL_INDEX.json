@@ -297,7 +297,9 @@
       "source_page": "https://www.fullcompass.com/prod/558032-a-da-amplification-discontinued-final-phase-reissue-of-a-da-final-phase-guitar-pedal",
       "research_record": "./research/pedals/A/DA/Final Phase.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/ada_finalphase_001.jpg",
+      "image_source_page": "https://www.effectsdatabase.com/model/ada/finalphase"
     },
     {
       "company": "A/DA",
@@ -1140,13 +1142,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/acoustic-imaginearing/quantumdrive/primary.webp",
       "source_page": "https://www.acousticimaginearing.com/",
       "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
-      "image_source_page": "https://acousticimaginearing.com/",
+      "image_source_page": "https://reverb.com/item/81350286-acoustic-imaginearing-quantum-drive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://acousticimaginearing.com/images/ssthumb.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--OJzQRdAt--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/ilvooih9pytwymosd5li.jpg"
     },
     {
       "company": "AD Pedals",
@@ -4606,7 +4608,8 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.arceffects.com/shepherd/",
       "image_source_priority": 50000,
-      "image": null
+      "image": "./assets/pedals/arc-effects/shepherd/primary.webp",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1456503279400-LBOFYYR61OH3LF2FRCGN/Shepherd.jpg?format=1500w"
     },
     {
       "company": "ARC Effects",
@@ -5029,13 +5032,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/asheville-guitar-pedals/fuzz-driver-distortion/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/ashevillegp/fuzzdriver",
       "research_record": "./research/pedals/PRP Batch 059/Fuzz Driver Distortion.md",
       "image_source_page": "https://reverb.com/item/79928060-asheville-guitar-pedals-fuzz-driver-2023-green",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://img.youtube.com/vi/vDCzxB4mFg8/hqdefault.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--L-k38Ba6--/quality=medium-low,height=800,width=800,fit=contain/qfnpehnrk6vr0rvwigdr.jpg"
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -5128,10 +5131,11 @@
       ],
       "source_page": "https://www.atlaspedal.com/sutherland-overdrive",
       "research_record": "./research/pedals/Atlas Pedal/Sutherland OverDrive.md",
-      "image_source_page": "https://www.atlaspedal.com/sutherland-overdrive",
+      "image_source_page": "https://www.musicland.co.jp/fs/musiclandkey/atlas-sutherland-od",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": null,
+      "image_source_url": "https://www.musicland.co.jp/shop/item/musiclandkey/design/template01/btn/ArrivalInformationButton.gif"
     },
     {
       "company": "Atmosfera 6",
@@ -10313,21 +10317,21 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 081/The LOAF Fuzz.md",
-      "image_source_page": "https://reverb.com/item/609697-big-ear-n-y-c-loaf",
+      "image_source_page": "https://www.ricardo.ch/de/a/big-ear-pedals-loaf-fuzz-1259701572/",
       "image_source_priority": 1000000,
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_urls": [
         "https://rvb-img.reverb.com/image/upload/s--lQNVAHuF--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1428602771/vq1nlfbderqvnfwkyaqi.jpg"
       ],
-      "image": null,
+      "image": "./assets/pedals/big-ear-nyc/the-loaf-fuzz/primary.webp",
       "image_source_pages": [
         "https://www.bigearpedals.com/product-page/loaf",
         "https://reverb.com/item/609697-big-ear-n-y-c-loaf"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--lQNVAHuF--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1428602771/vq1nlfbderqvnfwkyaqi.jpg"
+      "image_source_url": "https://img.ricardostatic.ch/images/fb785642-42c1-40c7-a274-249cecf6d43f/t_1800x1350/big-ear-pedals-loaf-fuzz"
     },
     {
       "company": "Big Ear NYC",
@@ -13218,10 +13222,10 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-cat-amps/djenttonic/primary.webp",
       "source_page": "https://blackcatamps.com/",
       "research_record": "./research/pedals/PRP Batch 096/DJENTTONIC.md",
-      "image_source_page": "https://blackcatamps.com/",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/black-cat-pedals-djenttonic-1354064",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -13229,7 +13233,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 203
+      "image_source_priority": 203,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/black-cat-pedals-effects-and-pedals-fuzz-black-cat-pedals-djenttonic-u3536125701-28770476720263.jpg?v=1645409465&width=1946"
     },
     {
       "company": "Black CAT Amps",
@@ -15401,7 +15406,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1558,
-      "image": null
+      "image": "./assets/pedals/boss/bd-2-blues-driver/primary.webp",
+      "image_source_url": "https://static.roland.com/products/bd-2/images/bd-2_hero.jpg"
     },
     {
       "company": "BOSS",
@@ -15662,12 +15668,12 @@
       ],
       "source_page": "https://www.boss.info/us/products/jb-2/",
       "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md",
-      "image_source_page": "https://www.boss.info/global/support/by_product/jb-2/product_images/",
+      "image_source_page": "https://www.boss.info/us/products/jb-2/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1525,
-      "image": null,
-      "image_source_url": "https://static.roland.com/assets/promos/png/menu_nextone_special.png"
+      "image": "./assets/pedals/boss/jb-2-angry-driver/primary.webp",
+      "image_source_url": "https://static.roland.com/products/jb-2/image/jb-2_hero.jpg"
     },
     {
       "company": "BOSS",
@@ -16332,10 +16338,10 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/brantone-electronics/wem-pepbox-official-reissue/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 115/brantone-electronics-wem-pepbox-official-reissue.md",
-      "image_source_page": "https://www.breakthemachine.co.uk/brantone-electronics-qa/",
+      "image_source_page": "https://reverb.com/item/160502-wem-pep-box-official-re-issue-fuzz-brand-new-authorised-dealer-beatles-lennon-interest",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -16343,7 +16349,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 204
+      "image_source_priority": 204,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--pUptPUwa--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cw2jp6xvdou9yaz7jucd.jpg"
     },
     {
       "company": "Brantone Electronics",
@@ -16912,7 +16919,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 50000,
-      "image": null
+      "image": "./assets/pedals/browne-amplification/atom-nashville-drive/primary.webp",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/browne-amplification-effects-and-pedals-overdrive-and-boost-browne-amplification-atom-nashville-drive-overdrive-pedal-atom-30209635844231.jpg?v=1674849357&width=1946"
     },
     {
       "company": "Browne Amplification",
@@ -27030,7 +27038,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/comodoro-pedales/botfly-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Comodoro Pedales/Botfly Fuzz.md",
       "research_level": "deep",
@@ -27038,10 +27046,11 @@
       "image_source_pages": [
         "https://reverb.com/item/79907815-comodoro-botfly-fuzz"
       ],
-      "image_source_page": "https://reverb.com/item/79907815-comodoro-botfly-fuzz",
+      "image_source_page": "https://rockbox.es/5875-botfly-fuzz-ltd-rockbox-fuzz-by-comodoro-pedals-5787.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 557
+      "image_source_priority": 557,
+      "image_source_url": "https://rockbox.es/img/cms/subvencion/xunta-subvencion-2026.png"
     },
     {
       "company": "Comodoro Pedales",
@@ -57135,10 +57144,12 @@
       "image_source_pages": [
         "https://reverb.com/item/110788-vfe-pedals-blues-king-scratch-n-dent"
       ],
-      "image_source_page": "https://reverb.com/item/110788-vfe-pedals-blues-king-scratch-n-dent",
+      "image_source_page": "https://www.truetonemusic.com/products/used-vfe-blues-king-overdrive-distortion-pedal-with-box",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1402
+      "image_source_priority": 1402,
+      "image_source_url": "https://www.truetonemusic.com/cdn/shop/files/1-DSCF6632_bafa39e2-3d1b-4d1c-9283-77e8865f3ff9_700x700.jpg?v=1695149455",
+      "image": "./assets/pedals/vfe-pedals/blues-king/primary.webp"
     },
     {
       "company": "VFE Pedals",
@@ -59254,10 +59265,12 @@
       "image_source_pages": [
         "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/"
       ],
-      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/",
+      "image_source_page": "https://www.mozeguitars.com/products/way-huge-smalls-overrated-special",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1437
+      "image_source_priority": 1437,
+      "image_source_url": "https://www.mozeguitars.com/cdn/shop/files/Way_Huge_Smalls_Overrated_Special_-69efd68c8ff6d_bfac6903-3d65-4e46-a3cf-398038fed28a_1024x1024.jpg?v=1777325894",
+      "image": "./assets/pedals/way-huge/overrated-special/primary.webp"
     },
     {
       "company": "Way Huge",
