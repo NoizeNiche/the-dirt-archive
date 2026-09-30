@@ -4,15 +4,23 @@
   "original_builder": "Fuzzrocious Pedals",
   "original_pedal": "Cat King",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 1,
+  "independent_exact_source_count": 2,
   "sources": [
     {
-      "url": "https://fuzzrociouspedals.com/?product_cat=current",
-      "title": "Current | FUZZROCIOUS PEDALS",
-      "h1": "Category Archive",
-      "excerpt": "Current | FUZZROCIOUS PEDALS Skip to content Navigation $ 0.00 0 Items $ 0.00 0 Items Category Archive Showing all 17 results Sorted by latest Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low GREY STACHE/HELIOTROPIC $ 189.00 Read more <a href=\"https://fuzzrociouspedals.com/?product=cat-king-new\"",
+      "url": "https://fuzzrociouspedals.com/?product=cat-king-new",
+      "title": "CAT KING | FUZZROCIOUS PEDALS",
+      "h1": "Pedal Shop",
+      "excerpt": "CAT KING | FUZZROCIOUS PEDALS Skip to content Navigation $ 0.00 0 Items <bdi",
       "host": "fuzzrociouspedals.com",
       "source_kind": "manufacturer"
+    },
+    {
+      "url": "https://allthepedals.com/pedals/fuzzrocious-pedals-cat-king/",
+      "title": "Fuzzrocious Pedals CAT KING | AllThePedals",
+      "h1": "CAT KING",
+      "excerpt": "Fuzzrocious Pedals CAT KING | AllThePedals Articles Genealogy Browse Search results for &quot; &quot; Gain / Distortion / Fuzzrocious Pedals CAT KING CAT KING The Fuzzrocious Pedals Cat King is a versatile distortion pedal, a &quot;king-sized&quot; version of the Cat Tail, offering low to high gain overdrive and distortion sounds. Based on a classic distortion circuit, it can transform a clean amp into something dirty, and a dirty amp into something much more extreme. Optimized for both guitar and bass, the Cat King features a diode toggle for clipping options, and the Beavis double resistor mod (Clipping 1 and 2 pots) for fine-tuning high and low frequencies. It's a great option if you're looking for a Rat style pedal. What Fuzzrocious Pedals say about the CAT KING What is the CAT KING? The Cat King is the \u201cking sized\u201d version of our Cat Tail, a low to high gain distortion with overdrive capabilities (some even say at high gain settings, it sounds like a fuzz). This circuit is based on a well-loved, classic distortion that make a clean amp dirty and a dirty amp disgusting. We have tweaked the original circuit to better meet the needs of guitarists and bassists alike. With the addition of a diode toggle for extra tweakability for clipping options, we have added to the modifications the Beavis double resistor mod (Clipping 1 and 2 pots) to allow the user to subtly fine tune how the signal clips on the highs and lows. Please view the for more information about the pedal. PLEASE NOTE This is in fact the pedal known formerly known as \u201cRat King.\u201d We changed the name in July 2015 to avoid product confusion. The circuit remains the same. fuzzrociouspedals.com CAT KING compared to ... CAT KING Fuzzrocious Pedals Link CAT KING Type Distortion - Popularity - Average Price - Status Unknown - Genealogy Our Genealogy Project attempts to create a family tree of all gain effects by mapping the pedal(s) that directly preceded them. From our pedal geneology project FZ-1 Fuzz-Tone Tone Bender Triangle Big Muff Big Muff Pi RAT CAT KING Fuzzrocious Pedals CAT KING Family Tree FZ-1 Fuzz-Tone Tone Bender Triangle Big Muff Big Muff Pi RAT CAT KING All The Pedals Newsletter Sign up to our newsletter too for monthly news and articles in the world of guitar effects pedals. Subscribe About Browse Pedals Search Cookies Terms Privacy Contact",
+      "host": "allthepedals.com",
+      "source_kind": "other"
     }
   ],
   "next_action": "Use this evidence to write the canonical research record; do not infer unsupported component/version claims."
