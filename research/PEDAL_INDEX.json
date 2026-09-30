@@ -1145,7 +1145,8 @@
       "research_record": "./research/pedals/Acoustic Imaginearing/QuantumDrive.md",
       "image_source_page": "https://acousticimaginearing.com/",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://acousticimaginearing.com/images/ssthumb.jpg"
     },
     {
       "company": "AD Pedals",
@@ -4573,7 +4574,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arceffects_klone_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/arceffects_klone_001.jpg"
     },
     {
       "company": "ARC Effects",
@@ -5034,7 +5035,7 @@
       "image_source_page": "https://reverb.com/item/79928060-asheville-guitar-pedals-fuzz-driver-2023-green",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://rvb-img.reverb.com/i/s--lVSvfVNw--/gravity=auto,quality=medium-low,width=200,height=200,format=jpeg/kzzymbmpnlqo4esm3wdv.jpg"
+      "image_source_url": "https://img.youtube.com/vi/vDCzxB4mFg8/hqdefault.jpg"
     },
     {
       "company": "Asheville Guitar Pedals",
@@ -6884,7 +6885,7 @@
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/badcat_siamesedrive_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/badcat_siamesedrive_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/badcat/siamesedrive"
     },
     {
@@ -6925,7 +6926,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1488
+      "image_source_priority": 1488,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--4ufVPyRd--/quality=medium-low,height=800,width=800,fit=contain/002cb2db-c2bf-4a4c-a1fe-5aa3b9c165a9.jpeg"
     },
     {
       "company": "Bad Penny FX",
@@ -13564,7 +13566,8 @@
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald"
+      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald",
+      "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982"
     },
     {
       "company": "Black Mass Electronics",
@@ -15657,7 +15660,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1525,
-      "image": null
+      "image": null,
+      "image_source_url": "https://static.roland.com/assets/promos/png/menu_nextone_special.png"
     },
     {
       "company": "BOSS",
@@ -33783,13 +33787,14 @@
       "research_record": "./research/pedals/Devi Ever FX/US.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz",
+      "image_source_page": "https://dirtboxlayouts.blogspot.com/2023/06/devi-ever-us-fuzz.html",
       "image_source_pages": [
         "https://reverb.com/p/devi-ever-fx-us-fuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1501
+      "image_source_priority": 1501,
+      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibV1zTXj0c4bjxaE1MF-rR9_JyukdfRbA8G9YPm7J3PDCwnCrLWUMsXsDDVCqt5odfaDhOtNiQqwLHhNmN7x45cA85qm-DTtWIM4u2Jmd4a1s0VkMhLoWO9dbovjG6TwcCj1ug_YKavcHIFT78uaB4lmdNTkMxF3SfCAIEhDWV6nydcPnKBlE25MmRGQ/w400-h400/DEvi%20Ever%20US%20Fuzzz.png"
     },
     {
       "company": "Devi Ever FX",
@@ -34019,7 +34024,7 @@
       "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/dinosaural_cogmeister_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/dinosaural_cogmeister_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/dinosaural/cogmeister"
     },
     {
@@ -35583,7 +35588,8 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1526,
-      "image": null
+      "image": null,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1550516974624-Z9PVGQM4C8Y12MB90S9H/Hoof-Reaper-Double-Fuzz.jpg?format=750w"
     },
     {
       "company": "EarthQuaker Devices",
@@ -36745,7 +36751,8 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/pedals/citadel"
+      "image_source_page": "https://www.electronicaudioexperiments.com/pedals/citadel",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1b9966c7-e8f8-410e-8238-91c74681bfda/EAE+Web+Banner+Logo+Transparent.png?format=750w"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -38395,7 +38402,8 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Blast Furnace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace"
+      "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2017/01/blastfurnace_site-100x100.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38508,7 +38516,8 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic",
       "image_source_priority": 50000,
-      "image": null
+      "image": null,
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2026/02/Guitar_Demo_collector_emitter-100x100.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38892,7 +38901,7 @@
       "research_record": "./research/pedals/Greer Amps/Little Samson.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/greer_littlesamson_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/greer_littlesamson_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/greer/littlesamson"
     },
     {
@@ -40853,7 +40862,8 @@
       "deep_research_status": "VERIFIED",
       "image": null,
       "image_source_page": "https://jackson.audio/products/golden-boy-mini",
-      "image_source_priority": 1527
+      "image_source_priority": 1527,
+      "image_source_url": "https://jackson.audio/cdn/shop/products/GoldAnglenobackground.png?v=1686858667&width=2"
     },
     {
       "company": "Jackson Audio",
@@ -45603,7 +45613,8 @@
       "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maskaudioelectronics.com/products/ge-part-garden"
+      "image_source_page": "https://maskaudioelectronics.com/products/ge-part-garden",
+      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/PGGE_09_160x160.jpg?v=1687617003"
     },
     {
       "company": "Mask Audio Electronics",
@@ -50442,7 +50453,7 @@
       "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/4791843966.png",
+      "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/products/772253144/5086401083.jpg",
       "image_source_page": "https://okko-fx.com/DIRTY-DIABLO-Dual-Raw-Black-p772253144"
     },
     {
@@ -52345,7 +52356,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/proco/solo",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/proco_solo_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/proco_solo_001.jpg"
     },
     {
       "company": "ProCo Sound",
@@ -53876,7 +53887,8 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://solidgoldfx.com/products/imperial-mkii",
       "image_source_priority": 1529,
-      "image": null
+      "image": null,
+      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_10x10.jpg?v=1681406902"
     },
     {
       "company": "SolidGoldFX",
@@ -54974,7 +54986,8 @@
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://subdecay.com/blackstar-ultimate-overdrive"
+      "image_source_page": "https://subdecay.com/blackstar-ultimate-overdrive",
+      "image_source_url": "https://subdecay.com/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif"
     },
     {
       "company": "Subdecay",
@@ -56720,7 +56733,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.effectsdatabase.com/model/vemuram/myriad",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/vemuram_myriad_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/vemuram_myriad_001.jpg"
     },
     {
       "company": "Vemuram",
@@ -60013,7 +60026,8 @@
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://xotic.us/effects/acbv2/"
+      "image_source_page": "https://xotic.us/effects/acbv2/",
+      "image_source_url": "https://xotic.us/effects/acbv2/img/trebbass.png"
     },
     {
       "company": "Xotic Effects",
