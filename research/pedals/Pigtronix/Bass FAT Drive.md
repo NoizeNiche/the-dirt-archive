@@ -5,49 +5,43 @@
 - **Archive parent:** Bass FAT Drive
 - **Builder:** Pigtronix
 - **Catalog type:** Overdrive
-- **Identity:** Pigtronix's Bass FAT Drive.
+- **Identity:** Pigtronix Bass FAT Drive.
 
 ## What this pedal is
 
-Pigtronix's Bass FAT Drive is cataloged as an overdrive pedal.
+The Bass FAT Drive is Pigtronix's bass-focused version of the FAT Drive concept, providing analog, tube-emulated overdrive with emphasis on retaining low-end impact.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No reliable numbered production revision chronology was established in the reviewed evidence.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+A complete exact-model control transcription was not securely established.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-Pigtronix Bass Fat Drive - Cellos with Full Tone for Study and Performance FLASH SALE: EVERYTHING HALF PRICE!
-Home Cello Cello Strings Clarinet Accessories Clarinet Reeds Bass Guitar Bass Guitar Strings Cart Shop Home / Pedals / Pigtronix Bass Fat Drive Sale!
-Fine-tuned for low end muscle and grind, the Bass FAT Drive slams your amp with all analog, tube emulated overdrive that ranges from soft and warm to ripping high gain apocalyptic thunder.
+Exact-model product descriptions characterize the Bass FAT Drive as a low-end-focused analog overdrive ranging from softer, warmer drive into substantially heavier gain. The archive keeps that description at the model level.
 
 ## Sources checked
 
-1. Pigtronix Bass Fat Drive - Reverb: https://reverb.com/p/pigtronix-bass-fat-drive
-2. Pigtronix Bass FAT Drive — Bass Effects Pedal | Equipboard: https://equipboard.com/items/pigtronix-bass-fat-drive
-3. Pigtronix Bass Fat Drive - what's the verdict? - TalkBass.com: https://www.talkbass.com/threads/pigtronix-bass-fat-drive-whats-the-verdict.989433/
-4. Pigtronix Bass FAT Drive - Tonebox.com: https://www.tonebox.com/pedal/pigtronix-bass-fat-drive
-5. Pigtronix Bass Fat Drive - Cellos with Full Tone for Study and Performance: https://www.cellvrax.com/product/pigtronix-bass-fat-drive/
-6. Pigtronix Bass FAT Drive - Best Bass Gear: https://www.bestbassgear.com/pigtronix-bass-fat-drive.htm
+1. Reverb — Pigtronix Bass FAT Drive: https://reverb.com/p/pigtronix-bass-fat-drive
+2. Equipboard — Pigtronix Bass FAT Drive: https://equipboard.com/items/pigtronix-bass-fat-drive
+3. TalkBass — Pigtronix Bass FAT Drive: https://www.talkbass.com/threads/pigtronix-bass-fat-drive-whats-the-verdict.989433/
+4. Best Bass Gear — Pigtronix Bass FAT Drive: https://www.bestbassgear.com/pigtronix-bass-fat-drive.htm
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
