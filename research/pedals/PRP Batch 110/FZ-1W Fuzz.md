@@ -57,6 +57,10 @@ Vintage mode is raspy, dynamic, and particularly responsive to guitar-volume cha
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://m.cosmosmusicmall.com/product/boss-fz-1w-waza-craft-fuzz/
 
+## What this pedal is
+
+BOSS's FZ-1W Fuzz is documented as a Fuzz model. Vintage mode: broader gain range and vintage style response. Modern mode: more gain, focused mids, and fuller sustain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -24,6 +24,10 @@ Vat Laney BCC MONOLITH Black Country Customs Monolith Distortion Guitar Pedal £
 Versatility is key, voiced with a highly reactive gain section.
 You can achieve everything from subtle grit to an all out sonic assault.
 
+## What this pedal is
+
+The Monolith is a tri mode analog guitar distortion from Laney's Black Country Customs range.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

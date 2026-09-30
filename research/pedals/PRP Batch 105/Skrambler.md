@@ -36,6 +36,19 @@ The Texture control changes character in both modes, and the Blend control can m
 
 The reviewed evidence does not establish a reliable model-specific sound description for Skrambler. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's Skrambler is documented as a Fuzz model. STOCK and MOD modes
+Analog octave up fuzz
+Texture control
+Blend control
+Master volume
+Relay true bypass
+Momentary or latching soft switching
+125B enclosure
+9V center negative
+52mA current draw
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

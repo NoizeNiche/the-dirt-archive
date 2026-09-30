@@ -22,6 +22,10 @@ The Basilisk is a warm, mid-gain fuzz based on the Roland Bee Baa concept, expan
 
 The cited Blackhawk sources document Basilisk as a warm, mid gain fuzz derived from the Roland Bee Baa concept but expanded with additional tone shaping. Verified controls include Gain, Volume, Bass, Mids and Tone . The model is intended to retain low end weight, provide a strong mid voice and function as a gain stage into other dirt.
 
+## What this pedal is
+
+Blackhawk Amplifiers's Basilisk Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Blackhawk sources document Basilisk as a warm, mid-gain fuzz derived from the Roland Bee Baa concept but expanded with additional tone shaping. Verified controls include **Gain, Volume, Bass, Mids and Tone**. The model is intended to retain low-end weight, provide a strong mid voice and function as a gain stage into other dirt.

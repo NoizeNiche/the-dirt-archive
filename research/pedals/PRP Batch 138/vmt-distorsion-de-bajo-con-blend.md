@@ -20,6 +20,10 @@ USOS OVERDRIVE DISTORSION Es un pedal cercano al estilo Ampeg de distorsión, gr
 GAIN cantidad de ganancia VOL Volumen de la Distorsion.
 TAMAÑO 12CM X 8CM Productos similares 0 % OFF Envío gratis Preamplificador de bajo Bdi.ts con Overdrive $165.000,00 $0,00 3 cuotas sin interés de $55.000,00 Comprar ¡Listo!
 
+## What this pedal is
+
+Cajita Stompboxes's VMT Distorsion de Bajo con Blend is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

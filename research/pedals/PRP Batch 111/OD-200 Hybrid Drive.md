@@ -63,6 +63,10 @@ The OD-200 covers a broad spectrum from transparent and mid-focused overdrive th
 - **Image source:** https://www.boss.info/us/products/od-200/
 - **Image source URL:** https://static.roland.com/assets/images/products/main/od-200_main.jpg
 
+## What this pedal is
+
+BOSS's OD-200 Hybrid Drive is documented as a Overdrive model. The cataloged hardware model is the OD 200 Hybrid Drive . Firmware Version 1.1 expands the memory system to 128 user setups, but this is a software update rather than a separate pedal hardware version.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

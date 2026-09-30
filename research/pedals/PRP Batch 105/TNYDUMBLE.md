@@ -37,6 +37,20 @@ The boost section adds a high-frequency control and an input control that reduce
 
 The reviewed evidence does not establish a reliable model-specific sound description for TNYDUMBLE. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's TNYDUMBLE is documented as a Overdrive model. JFET clean boost
+Overdrive section
+Independent boost and drive switching
+Order switching
+Boost high frequency control
+Input control for bass/gain shaping
+Internal presence control
+Asymmetrical MOSFET clipping
+125B enclosure
+9V center negative
+32mA one side / 60mA both sides
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -19,6 +19,10 @@ Fuzz Womut para bajo Fuzz Womut para bajo $105.000,00 3 cuotas sin interés de $
 USOS FUZZ especialmente diseñado para bajo electrico CARACTERISTICAS Control, VOL regula la salida del pedal.
 Agregando Fuzz RBmuff TBmuff $105.000,00 $0,00 3 cuotas sin interés de $35.000,00 Comprar 0 % OFF Envío gratis Distorsión RAT 6 6 modos $129.000,00 $0,00 3 cuotas sin interés de $43.000,00 Comprar ¡Listo!
 
+## What this pedal is
+
+Cajita Stompboxes's Fuzz Womut is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

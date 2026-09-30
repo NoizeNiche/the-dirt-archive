@@ -35,6 +35,10 @@ OD-Boost is built around raw gain rather than tone shaping. Stacking the channel
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+Great sounding boutique guitar effects pedal The OD Boost from Black Cat Pedals is a great sounding, dual channel Overdrive / Boost guitar effects pedal that combines the Black Cat OD 1 with a clean boost circuit.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

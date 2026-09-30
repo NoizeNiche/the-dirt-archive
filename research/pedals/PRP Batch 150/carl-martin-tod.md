@@ -24,6 +24,10 @@ Toggle Menu TOD High gain overdrive pedal in iconic yellow finish, recreating Ti
 More details · Find a dealer Get the authentic Dizzy Mizz Lizzy sound—designed to recreate and improve upon Tim Christensen's original Boss Turbo Overdrive tone from the band's peak in the early 1990s.
 Originally created as "Limited Edition Dizzy Drive" celebrating Dizzy Mizz Lizzy's reunion tour, with only 500 original units selling out rapidly in Denmark and Japan.
 
+## What this pedal is
+
+Carl Martin's **Builder:** Carl Martin is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

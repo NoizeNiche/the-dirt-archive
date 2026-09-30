@@ -23,6 +23,10 @@ Caline CP 75 Emerald Night Overdrive Guitar Effect Pedal with True Bypass – Th
 , Tone City Description Description Caline CP 75 Emerald Night Overdrive Guitar Effect Pedal with True Bypass The caline CP 75 “Emerald Knight” Overdrive is inspired by the legendary TS808 tube screamer,popular with blues rock and metal guitarist the world over.
 This is a classic sounding overdrive with a wide mixture of clean to soft warm overdrive tones while also producing a soft distortion without losing the fullness in of your tone.
 
+## What this pedal is
+
+Caline's Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

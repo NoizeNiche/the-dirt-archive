@@ -23,6 +23,10 @@ Big Tone Music Brewery Royal Beaver
 The Royal Beaver is a big muff pi clone that can give you the exact tone of any vintage muff version.
 We found which components were crucial to the tone of each version, and how to manipulate them so that the tone of any version can be acheived.
 
+## What this pedal is
+
+The Royal Beaver is a big muff pi clone that can give you the exact tone of any vintage muff version.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

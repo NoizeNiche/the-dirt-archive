@@ -21,6 +21,10 @@ https://www.bigfootengineering.com/store/p156/king-fuzz-xl.html
 
 The cited Bigfoot Engineering product page documents King Fuzz XL as a two in one pedal combining Thunder Pup overdrive and King Fuzz . Verified controls are Overdrive Gain, Overdrive Volume, Fuzz Gain and Fuzz Volume, with independent engagement/mode switching. The builder specifies all analogue hand construction in England, 9VDC without battery, and buffered bypass.
 
+## What this pedal is
+
+Bigfoot Engineering's Bigfoot King Fuzz XL is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Bigfoot Engineering product page documents King Fuzz XL as a two-in-one pedal combining **Thunder Pup overdrive** and **King Fuzz**. Verified controls are Overdrive Gain, Overdrive Volume, Fuzz Gain and Fuzz Volume, with independent engagement/mode switching. The builder specifies all-analogue hand construction in England, 9VDC without battery, and buffered bypass.

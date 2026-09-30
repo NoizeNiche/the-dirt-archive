@@ -21,6 +21,10 @@
 With the the Hybrid Fuzz you get the best of both worlds: Germanium for its awesome tone and silicon for its high gain.
 Fat with loads of volume, rich harmonics and gobs of sustain, the Hybrid Fuzz shines through a small combo amp and is an absolute "Tone Monster" through a half stack!
 
+## What this pedal is
+
+Cat's Eye ESP's **Builder:** Cat's Eye ESP is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

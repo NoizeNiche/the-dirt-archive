@@ -23,6 +23,10 @@ Caline DCP 09 Tiger Shark Gate/Distortion
 The right channel is high gain with a choice of a more compressed classic tone as well as a toggle switch to change to a more open modern sound.
 But with all that distortion and gain you're going to need a noise gate.
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

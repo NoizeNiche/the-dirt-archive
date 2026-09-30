@@ -23,6 +23,10 @@ First, I wanted a fuzz full of aggression, and raunchy raucousness.
 No tone knob, no active tone stacks, no adjustable high pass filters.
 I found when I was playing at lower fuzz volumes I liked more treble, but as I turned up the volume they could get out of control.
 
+## What this pedal is
+
+Black Mass Electronics's Kill Chain is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

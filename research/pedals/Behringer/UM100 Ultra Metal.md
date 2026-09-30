@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer Ultra Metal compact high-gain distortion pedal.
+Behringer's UM100 Ultra Metal is documented as a Distortion model. Historical Behringer product identity. Detailed production dates and revision changes remain pending deeper verification.
 
 ## Versions and history
 

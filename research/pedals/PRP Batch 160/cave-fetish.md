@@ -25,6 +25,10 @@ Cave Pedals FETish Prime — Overdrive Pedal Specs & Where to Buy
 See it in action here The all JFET pre amp, overdrive and fuzz there’s no op amps or clipping diodes in this box!
 It behaves more like a triode vacuum valve (tube) than any other solid state device and is therefore ideal for guitar amplification duties, giving a more natural roll into overdrive without the need for clipping diodes, and cleaning up gradually as you roll down the volume knob on your guitar.
 
+## What this pedal is
+
+Cave Pedals's **Builder:** Cave Pedals is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

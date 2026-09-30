@@ -17,6 +17,10 @@ An original Big Knob overdrive designed to maximize playing dynamics and interac
 
 Used with your guitar’s volume and tone knobs, it produces an extraordinarily wide range of overdrive and distortion palettes.
 
+## What this pedal is
+
+Big Knob Pedals's Rock-Ola is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

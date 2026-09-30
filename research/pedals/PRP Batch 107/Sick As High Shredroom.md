@@ -39,6 +39,10 @@ The sweep of the gain control has been narrowed for usability meaning it does no
 All day distortion Dynamic and natural, responsive to your pick attack or volume knob.
 Internally boosted to 18 volts for maximum headroom and clarity.
 
+## What this pedal is
+
+Bondi Effects's Sick As High Shredroom is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

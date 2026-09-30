@@ -20,6 +20,10 @@
 
 The surviving exact model Reverb documentation confirms the Carvin UD 1 Ultra Distortion as a high gain distortion with LEVEL, COLOR, DISTORTION controls. The seller's description of one modified unit characterizes its original sound as very compressed and splatty at high gain, but that is explicitly treated as a single unit observation rather than universal factory behavior. Exact circuit topology, transistor/diode part numbers, and factory power specification remain unresolved.
 
+## What this pedal is
+
+Carvin's **Builder:** Carvin is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The surviving exact-model Reverb documentation confirms the **Carvin UD-1 Ultra Distortion** as a high-gain distortion with **LEVEL, COLOR, DISTORTION** controls. The seller's description of one modified unit characterizes its original sound as very compressed and splatty at high gain, but that is explicitly treated as a single-unit observation rather than universal factory behavior. Exact circuit topology, transistor/diode part numbers, and factory power specification remain unresolved.

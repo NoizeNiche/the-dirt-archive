@@ -58,6 +58,10 @@ The ST-2 responds to playing intensity and guitar-volume changes, moving from re
 - **Image source:** https://www.boss.info/us/products/st-2/
 - **Image source URL:** https://static.roland.com/products/st-2/images/st-2_hero.jpg
 
+## What this pedal is
+
+Downloads Support Authentic Stack Amp Sounds from a Stompbox The ST 2 Power Stack delivers fat, powerful tones inspired by classic tube based stack amps.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

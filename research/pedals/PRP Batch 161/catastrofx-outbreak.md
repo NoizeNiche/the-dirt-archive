@@ -22,6 +22,10 @@ This is pretty much a blow by blow remake of those High Velocity and Southerly H
 Controls : Level, Tone, Drive, Stage : Up is High Velocity / Down is Southerly Harmonics and adds a hard clipping gain stage into the mix.
 I’m not even going to dwell on the economics of the pedal which is spectacularly well priced I’m rather going to focus on the practicalities of having two of he best loved overdrive circuit in the same enclosure which means it’s even easier to fit both of them onto your board.
 
+## What this pedal is
+
+CatastroFX's **Builder:** CatastroFX is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

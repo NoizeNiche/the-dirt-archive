@@ -23,6 +23,10 @@ CROM is a BC184 Supa Tone Bender style fuzzstortion like our original Olympia™
 It is a LOT less lossy and less scooped than the classic M ff style tone control in these circuits, giving the pedal an immediate and punchy response.
 A TURBO button on the side gives it extra power and gain.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

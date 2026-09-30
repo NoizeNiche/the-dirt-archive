@@ -36,6 +36,10 @@ The Pi π Fuzz is a high-gain fuzz/distortion circuit built from cascaded transi
 BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 
+## What this pedal is
+
+Taking influence from the different versions of the PI π FUZZ, designed with my knowledge of years of analyzing and tweaking the circuits and wrapping up all my favorite mods into one beautiful beast:
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

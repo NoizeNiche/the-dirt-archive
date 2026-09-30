@@ -22,6 +22,10 @@ Casimir Effects Pedals Entropy Fuzz
 The Casimir Effects "Entropy Fuzz" is perfect for everything from smooth, defined growl to a rich, thick wall of fuzz.
 OD/Distortion, Fuzz, Octave Up, Guitar Synth, Drone&Noise Machine
 
+## What this pedal is
+
+Casimir Effects Pedals's **Builder:** Casimir Effects Pedals is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

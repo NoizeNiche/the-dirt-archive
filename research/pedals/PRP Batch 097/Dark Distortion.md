@@ -34,6 +34,10 @@ Dark Distortion is designed for brutal, saturated metal and heavy-rock sounds bu
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+BigNoise Amplification's Dark Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited BigNoise Amplification pages support the exact Dark Distortion identity. Verified architecture includes three-knob active tone shaping plus **Fat, Crush, and Bright** three-position switches. Fat alters low-end weight, Crush shifts gain/saturation character, and Bright shifts high-frequency emphasis. The builder positions it for heavy metal, heavy rock and aggressive blues. Exact transistor and diode part numbers remain undocumented.

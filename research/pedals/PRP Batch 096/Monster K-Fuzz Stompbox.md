@@ -26,6 +26,10 @@ The Monster K-Fuzz Stompbox is the 2016 pedalboard-friendly form of the Monster 
 
 Premier Guitar and Effects Database document the Monster K Fuzz Stompbox as the pedalboard oriented form of the Monster K Fuzz platform. Verified features include expression control for fuzz frequency, three way clipping/voicing switching, input gain control, 3PDT true bypass, Switchcraft jacks, through hole construction and hand built production in the USA. The broader Monster K Fuzz platform documents selectable germanium, silicon and Schottky clipping arrangements.
 
+## What this pedal is
+
+Black Cat Pedals's Monster K-Fuzz Stompbox is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Premier Guitar and Effects Database document the Monster K-Fuzz Stompbox as the pedalboard-oriented form of the Monster K-Fuzz platform. Verified features include expression control for fuzz frequency, three-way clipping/voicing switching, input-gain control, 3PDT true bypass, Switchcraft jacks, through-hole construction and hand-built production in the USA. The broader Monster K-Fuzz platform documents selectable **germanium, silicon and Schottky** clipping arrangements.

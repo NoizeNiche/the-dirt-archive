@@ -23,6 +23,10 @@ Versatile Boost,distortion,drive pedal You need to choose options for product.
 The four main control knobs Gain, Treble, Vol, and Bass gives the flexibility to go from a subtle boost to a boost with fuzz.
 The versitility of the EQ will provide a highy controllable dynamic range , from a near clean boost to a very organic sounding overdrive.
 
+## What this pedal is
+
+Caline's CP-516 Orange Burst is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

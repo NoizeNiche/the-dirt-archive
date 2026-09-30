@@ -23,6 +23,10 @@ Caline CP 20 Crazy Cacti Overdrive Guitar Effect Pedal True Bypass Guitar Access
 Description We took a look at the Caline CP 20 Crazy Cacti Overdrive Guitar Effect Pedal True Bypass Guitar Accessories by CALINE available for delivery direct.
 CompCut: removes the bounding from the feedback loop allowing for Monster Clean Boost tones and some rougher OD sounds with the OD and Boost knobs turned up.
 
+## What this pedal is
+
+Caline's CP-20 Crazy Cacti is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

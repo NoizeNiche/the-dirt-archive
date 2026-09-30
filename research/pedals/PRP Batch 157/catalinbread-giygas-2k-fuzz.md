@@ -24,6 +24,10 @@ Unlike traditional Muff pedals that employ a dual filter tone circuit, the Giyga
 The fuzz control provides a wide sweep, ranging from a warm, gritty boost at lower settings to thick, square wave fuzz saturation at higher levels.
 Controls Loud: Sets the overall output volume, from quiet to high gain levels.
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

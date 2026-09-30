@@ -59,6 +59,10 @@ The MT-2 produces thick, saturated high-gain distortion with a tight, aggressive
 - **Image source:** https://www.boss.info/global/products/mt-2/
 - **Image source URL:** https://static.roland.com/assets/images/products/gallery/mt-2_top_gal.jpg
 
+## What this pedal is
+
+BOSS's MT-2 Metal Zone is documented as a Distortion model. The standard production model is the MT 2 Metal Zone . The later MT 2W Metal Zone is treated as a separate public model/version in the catalog and is not folded into the standard MT 2 record.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

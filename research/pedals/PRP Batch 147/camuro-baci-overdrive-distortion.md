@@ -20,6 +20,10 @@
 Camuro's primary Baci page confirms two independent dirt sections in one enclosure, ordered overdrive distortion . Verified controls are:
 Camuro documents a major enclosure evolution: early compact case Baci units and later large case units retain the same basic configuration and circuit, while the larger enclosure allowed greater freedom in component selection and was intended to improve sound quality. Power is 9V via P006 battery or centre negative DC adapter.
 
+## What this pedal is
+
+Camuro's **Builder:** Camuro is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Camuro's primary Baci page confirms two independent dirt sections in one enclosure, ordered **overdrive -> distortion**. Verified controls are:

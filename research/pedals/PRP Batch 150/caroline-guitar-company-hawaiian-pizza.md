@@ -27,6 +27,10 @@ Your quest for toanz have brought you to our HAWAIIAN PIZZA™: a bespoke artisa
 This thing really is "three knobs and the truth" and can both fulfill and surpass what you think a fuzz is capable of.) Your pedal was dreamed, designed and created at our small batch distortery™ in Columbia, S.C Thank you for supporting our work!
 to navigate to select ESC to close Gear Review: Caroline Guitar Company Hawaiian Pizza The Tone Ranger Caroline guitar company , Hawaiian pizza , Fuzz , Guitar effects February 5, 2024 Hold onto your pineapple chunks, because the Caroline Guitar Company’s Hawaiian Pizza fuzz pedal will take your tone on a wild ride.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

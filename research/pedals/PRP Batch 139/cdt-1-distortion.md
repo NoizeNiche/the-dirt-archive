@@ -21,6 +21,10 @@
 
 Effects Database documents the exact California (by Eleca) CDT 1 Distortion as an OEM compact analogue distortion that also appeared under labels including GMF Bullseye DS 1 and Gravity GDT 1. Verified controls are Level, Gain, Tone , with a two stage gain design and true bypass. The record describes 9V battery or 9V centre negative adapter operation and a compact metal enclosure, with a range from light crunch to heavier saturation.
 
+## What this pedal is
+
+California (by Eleca)'s CDT-1 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents the exact California (by Eleca) **CDT-1 Distortion** as an OEM compact analogue distortion that also appeared under labels including GMF Bullseye DS-1 and Gravity GDT-1. Verified controls are **Level, Gain, Tone**, with a two-stage gain design and true bypass. The record describes 9V battery or 9V centre-negative adapter operation and a compact metal enclosure, with a range from light crunch to heavier saturation.

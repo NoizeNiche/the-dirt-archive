@@ -23,6 +23,10 @@ Carvin VLD1 Steve Vai Legacy Drive Preamp
 Take your tone anywhere with the versatility and portability of the Legacy DRIVE pedal.
 Steve Vai wanted his Legacy tube tone in a format he could pack in a carry on, so Carvin Audio worked with Steve to create the new Legacy Drive pedal.
 
+## What this pedal is
+
+Carvin's **Builder:** Carvin is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

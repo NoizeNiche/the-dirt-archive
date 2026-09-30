@@ -21,6 +21,10 @@ https://www.bigfootengineering.com/ltd.html
 
 Bigfoot Engineering's Limited Edition catalog confirms this exact Special Reserve Bigfoot Germanium Fuzz as distinct from the (+Buffer) model. The cited source does not establish exact controls, transistor part number, bypass arrangement or power details, so those are left unresolved rather than borrowed from the related variant.
 
+## What this pedal is
+
+Bigfoot Engineering's Bigfoot Germanium Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Bigfoot Engineering's Limited Edition catalog confirms this exact **Special Reserve Bigfoot Germanium Fuzz** as distinct from the **(+Buffer)** model. The cited source does not establish exact controls, transistor part number, bypass arrangement or power details, so those are left unresolved rather than borrowed from the related variant.

@@ -32,6 +32,16 @@ Fix'd Fuzz Deluxe expands the original Fix'd Fuzz with more external control. Ef
 
 The exact Deluxe record documents an expanded Fix'd Fuzz with more external control over the multiple stages. The architecture combines two contrasting fuzz voices, a full range boost/overdrive section and broad tone shaping. The Deluxe generation became the control platform used in later Twosome special runs.
 
+## What this pedal is
+
+BlackOutEffectors's Fix'd Fuzz Deluxe is documented as a Fuzz / Overdrive model. Two contrasting fuzz voices
+Clean boost through overdrive
+Wide tone sculpting stage
+External controls for the fuzz stages
+Multiple switchable stages
+True bypass
+Handmade construction
+
 ## Deep research verification
 
 The exact Deluxe record documents an expanded Fix'd Fuzz with more external control over the multiple stages. The architecture combines two contrasting fuzz voices, a full-range boost/overdrive section and broad tone shaping. The Deluxe generation became the control platform used in later Twosome special runs.

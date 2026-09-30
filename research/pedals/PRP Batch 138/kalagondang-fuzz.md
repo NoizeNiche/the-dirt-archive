@@ -15,6 +15,10 @@ re creating the mother of all fuzz pedals 1962 Maestro Fuzz Tone with more moder
 We use exact the same component value as the original without adding any modification to produce the pure sound of mid 60â€™s fuzz, but used better quality component.
 Carefully selected, matched and tested(by gain, leakage, noise and sound character) to make sure each unit sound consistently the same.
 
+## What this pedal is
+
+Calangary Pedals's Kalagondang Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

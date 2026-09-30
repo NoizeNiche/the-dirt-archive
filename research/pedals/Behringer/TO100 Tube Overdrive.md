@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer tube-style overdrive from the compact series.
+The Behringer TUBE OVERDRIVE TO100 is an analog overdrive pedal marketed around tube like distortion, smooth sustain and a fat response.
 
 ## Versions and history
 

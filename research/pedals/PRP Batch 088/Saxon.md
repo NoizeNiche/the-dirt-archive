@@ -21,6 +21,10 @@ https://www.guitarpedalx.com/news/gpx-blog/the-new-v1-5-edition-of-bispell-audio
 
 The cited Guitar Pedal X coverage documents the Bispell Audio Saxon V1.5 as a JTM45/Super Lead Plexi amp in a box with Bass, Middle, Treble, Volume, Presence, Gain , plus Bass Boost and Bright Boost switching. Bass Boost selects JTM45 versus Super Lead character. Internal Fender/Marshall and DI/Amp switching adds further response shaping. The V1.5 revision is described as increasing gain and refining the tone stack.
 
+## What this pedal is
+
+Bispell Audio's Saxon is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Guitar Pedal X coverage documents the Bispell Audio Saxon **V1.5** as a JTM45/Super Lead Plexi amp-in-a-box with **Bass, Middle, Treble, Volume, Presence, Gain**, plus Bass Boost and Bright Boost switching. Bass Boost selects JTM45 versus Super Lead character. Internal Fender/Marshall and DI/Amp switching adds further response shaping. The V1.5 revision is described as increasing gain and refining the tone stack.

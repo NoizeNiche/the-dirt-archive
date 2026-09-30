@@ -17,6 +17,10 @@ Monk Boost is a modern update of the 18V Colorsound Powerboost concept. The buil
 
 A surviving 2025 Big Monk Electronic Device Co. Monk Boost listing identifies the pedal as a modern update of the 18V Colorsound Power Boost/Powerboost concept. The listing documents Boost Volume , EQ , and a separate Master control, with the Master added to expand the tonal/output options of the original style architecture. Product classification is Overdrive and Boost / Distortion. Exact circuit topology and semiconductor part numbers are not published in the surviving listing. citeturn839557search0
 
+## What this pedal is
+
+Big Monk Electronic Device Co.'s Monk Boost is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 A surviving 2025 Big Monk Electronic Device Co. Monk Boost listing identifies the pedal as a modern update of the 18V Colorsound Power Boost/Powerboost concept. The listing documents **Boost Volume**, **EQ**, and a separate **Master** control, with the Master added to expand the tonal/output options of the original-style architecture. Product classification is Overdrive and Boost / Distortion. Exact circuit topology and semiconductor part numbers are not published in the surviving listing. citeturn839557search0

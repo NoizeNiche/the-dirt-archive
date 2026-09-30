@@ -19,6 +19,10 @@
 
 Anodized Brown Distortion デモ Comment: 0 Comment Form お名前 ウェブサイト コメント欄 Information Line 6 “DL4 MkII”活用例 Studio Daydream “KCM OD”レビュー エフェクターのレビュー多数掲載 Line 6 “DL4 MkII” One Control special movie feat.
 
+## What this pedal is
+
+Camuro's **Builder:** Camuro is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

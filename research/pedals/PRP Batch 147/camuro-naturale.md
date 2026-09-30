@@ -19,6 +19,10 @@
 
 Camuro's primary product catalog identifies Naturale Overdrive Preamp as an amplifier like overdrive preamp designed to track the guitar closely. The accessible builder text emphasizes natural player interaction rather than a named clone circuit. Exact controls and semiconductor details remain undocumented in the reviewed primary material.
 
+## What this pedal is
+
+Camuro's **Builder:** Camuro is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Camuro's primary product catalog identifies **Naturale Overdrive Preamp** as an amplifier-like overdrive preamp designed to track the guitar closely. The accessible builder text emphasizes natural player interaction rather than a named clone circuit. Exact controls and semiconductor details remain undocumented in the reviewed primary material.

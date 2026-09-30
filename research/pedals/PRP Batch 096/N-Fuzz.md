@@ -37,6 +37,10 @@ The original N Fuzz was made in limited numbers between 2001 and 2003, and was o
 Like the names of most other Black Cat products, "N Fuzz" was more short and to the point than "N Channel Fuzz." Black Cat owner Tom Hughes states, "The new N Fuzz also uses N Channel (NPN) transistors.
 The toggle switch of the original N Fuzz selected between two fixed bias points, which resulted in one position having a High output, and the other position having a Low output.
 
+## What this pedal is
+
+Black Cat Pedals's N-Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

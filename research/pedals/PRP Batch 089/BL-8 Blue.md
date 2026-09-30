@@ -22,6 +22,10 @@ https://www.effectsdatabase.com/model/biyang/tonefancier/bl8
 A smooth, rich and creamy Blues overdrive pedal from the Biyang Tonefancier range.
 However it’s a versatile pedal and can produce a wide range of sounds depending on how you manipulate the Level and Drive controls.
 
+## What this pedal is
+
+Biyang's BL-8 Blue is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

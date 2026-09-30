@@ -20,6 +20,10 @@
 
 Used to boost an amp into distortion, this pedal is ideal for lead lines and solos, or with the Distortion control pushed and going into a clean platform, the Sathanas emulates a cranked 100W stack that could blow down walls!
 
+## What this pedal is
+
+Caline's CP-501S Sathanas Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

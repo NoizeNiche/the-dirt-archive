@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-O-300 Over Drive is a compact two-control overdrive in Coron's later, last-series range.
+Coron's O-300 Over Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Controls
 

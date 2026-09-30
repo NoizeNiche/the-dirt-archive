@@ -32,6 +32,15 @@ The control interaction is especially important: Range shapes frequency emphasis
 
 The exact Fuzz Bear record documents a silicon fuzz rooted in the Tone Bender MkII family with unusually interactive Range, Bias, Sag, Fuzz and Level controls. Range changes frequency emphasis and input drive, Bias alters the fuzz transistor operating point, and Sag lowers the circuit voltage. The combined controls allow conventional thick fuzz as well as gated, splatty, oscillating and noisemaker like textures.
 
+## What this pedal is
+
+BlackOutEffectors's Fuzz Bear is documented as a Fuzz model. Range
+Bias
+Sag
+Fuzz
+Level
+The control interaction is especially important: Range shapes frequency emphasis and input drive, Bias adjusts the fuzz transistor operating point, and Sag reduces the voltage available to the circuit.
+
 ## Deep research verification
 
 The exact Fuzz Bear record documents a silicon fuzz rooted in the Tone Bender MkII family with unusually interactive **Range, Bias, Sag, Fuzz and Level** controls. Range changes frequency emphasis and input drive, Bias alters the fuzz transistor operating point, and Sag lowers the circuit voltage. The combined controls allow conventional thick fuzz as well as gated, splatty, oscillating and noisemaker-like textures.

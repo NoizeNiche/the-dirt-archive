@@ -56,6 +56,10 @@ Standard mode stays close to the familiar DS-1 voice, including its hard-edged a
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_ds_1w_waza_craft_distortion.htm
 
+## What this pedal is
+
+BOSS's DS-1W Distortion is documented as a Distortion model. Standard mode: classic DS 1 character. Custom mode: fatter, more mid focused distortion with greater touch response.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -23,6 +23,10 @@ TONEHOME the World of Vintage Guitar Effects Pedals Suzz TONEHOME the World of V
 Dixi CBS/Arbiter Colorsound/Sola Sound CosmoSound Dharma Sound EKO Electro Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
 The name is somewhat misleading as it seems to imply that this would be some sort of sustain+fuzz=suzz pedal: However the circuit has more in common with an MXR Distortion +.
 
+## What this pedal is
+
+Carlsbro's **Builder:** Carlsbro is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

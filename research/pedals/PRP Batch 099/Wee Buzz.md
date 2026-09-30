@@ -23,6 +23,10 @@ The Wee Buzz is a compact, simplified version of the Black Cat Bee Buzz, both ba
 But the biggest difference between the Wee and the Bee is the absence of the Boost channel… FUZZ!
 With its two switchable and distinctly different tone settings, the Bee Baa produced a roaring wall of fuzz that was unmistakably unique.
 
+## What this pedal is
+
+Black Cat Pedals's Wee Buzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

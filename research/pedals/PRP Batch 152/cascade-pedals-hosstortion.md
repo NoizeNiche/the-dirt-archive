@@ -24,6 +24,10 @@ Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal
 Learn more Featured Deal A distortion legend: the Pro Co RAT 2 for just $88!
 Claim News Cascade Pedals debut the Hosstortion, a MOSFET distortion pedal Based off the short lived but revered Ibanez MT 10 Mostortion.
 
+## What this pedal is
+
+Cascade Pedals's **Builder:** Cascade Pedals is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

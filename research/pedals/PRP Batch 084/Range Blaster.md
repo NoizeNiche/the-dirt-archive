@@ -18,6 +18,10 @@ Recreation of a Dallas Rangemaster-style treble boost. Controls: Range and Boost
 Known primarily as the classic treble boost popularized by Brian May of Queen and Tony Iommi of Black Sabbath, it’s been re discovered time and again by guitarists of every generation.
 If your goal is to drive your tube amplifier into a natural sounding overdrive with a brilliant sounding bite, then this is your pedal!
 
+## What this pedal is
+
+Big Knob Pedals's Range Blaster is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

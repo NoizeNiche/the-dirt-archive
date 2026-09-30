@@ -34,3 +34,7 @@ A1 moves from transparent crunch and overdrive into full distortion and a dedica
 ## Archive photo
 
 - **Archive status:** **No Photo Archived**
+
+## What this pedal is
+
+BIXONIC's AXENTRIX A1 is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.

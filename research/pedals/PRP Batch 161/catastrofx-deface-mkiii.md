@@ -22,6 +22,10 @@ Builder: CatastroFX Catalog type: Fuzz Catalog identity: Deface Mk.III What this
 Version changes: MkIII adds two controls beyond the basic two control Fuzz Face arrangement, expanding the range of available sounds.
 Sound: Traditional Fuzz Face style cleanup and fuzz tones with a broader modern range than the original two control format.
 
+## What this pedal is
+
+CatastroFX's **Builder:** CatastroFX is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

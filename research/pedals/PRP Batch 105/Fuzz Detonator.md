@@ -34,6 +34,17 @@ BLAMMO! uses a relay-based true-bypass system, NOS Tropical Fish tone capacitors
 
 The reviewed evidence does not establish a reliable model-specific sound description for Fuzz Detonator. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's Fuzz Detonator is documented as a Fuzz model. Main vintage style fuzz section
+Feedback/oscillation section
+Guitar volume cleanup
+NOS Tropical Fish tone capacitors
+Relay true bypass
+Momentary or latching feedback switch
+1590BB enclosure
+9V center negative
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

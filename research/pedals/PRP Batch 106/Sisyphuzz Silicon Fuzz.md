@@ -39,6 +39,10 @@ The pedal is designed to clean up from the guitar volume control and spans light
 Open media 3 in modal Play video Sisyphuzz Silicon Fuzz opens full screen video in same window.
 Dimensions 2.9" W x 4.5" L (73.7mm x 114.3mm) Operating DC 9v Current Draw 2mA Download Instructions for the Sisyphuzz Silicon Fuzz Color and/or graphics subject to change.
 
+## What this pedal is
+
+BMF Effects's Sisyphuzz Silicon Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

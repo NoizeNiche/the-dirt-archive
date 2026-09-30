@@ -32,6 +32,10 @@ The circuit identity stays with the High Shredroom design: higher gain than the 
 
 Bondi's High Shredroom platform is the higher gain branch of Sick As, developed with Earthling Designs. The documented circuit uses internal 18V operation and active two band EQ, with a narrower mid focus and more open top/bottom response than standard Sick As. Blackout, Graphite and Neon Pink are documented production/limited finishes of this platform, not separate circuits.
 
+## What this pedal is
+
+Bondi Effects's Sick As High Shredroom Editions is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Bondi's High Shredroom platform is the higher-gain branch of Sick As, developed with Earthling Designs. The documented circuit uses internal 18V operation and active two-band EQ, with a narrower mid focus and more open top/bottom response than standard Sick As. Blackout, Graphite and Neon Pink are documented production/limited finishes of this platform, not separate circuits.

@@ -25,6 +25,10 @@
 “We invite you to bring your vintage tonal dreams into the present”: Catalinbread promises modern twists on golden era tones from the ‘70s StarCrash Fuzz and SideArm Overdrive
 “Whichever type of rock you associate with the ‘70s, the StarCrash Collection has you covered”: Catalinbread's StarCrash Fuzz and SideArm Overdrive give olden era gain tones a fresh twist
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -34,6 +34,15 @@ The model uses a germanium-oriented internal design and remains a compact three-
 
 Boot Leg Hand Made Effects's RRP 2.0 Rock'n Roll Party is cataloged as a distortion / overdrive pedal.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's RRP-2.0 Rock'n Roll Party is documented as a Distortion / Overdrive model. ALL (Level)
+RAVE (Tone/voicing)
+NIGHT (Gain)
+Germanium oriented circuit
+9V operation
+82 x 110 x 44 mm
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

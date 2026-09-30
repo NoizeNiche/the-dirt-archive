@@ -23,6 +23,10 @@ Inspired by the Xotic RC Booster, it offers a wide range of low to mid gain tone
 Its circuit emphasizes transparency, maintaining the character of the instrument and amplifier while adding warmth, harmonic detail, and dynamic response.
 The Gain knob adjusts the amount of overdrive, allowing the pedal to function as either a subtle preamp or a mild drive stage.
 
+## What this pedal is
+
+Caline's CP-25 Highway Man OD is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

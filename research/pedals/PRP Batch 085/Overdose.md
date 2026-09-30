@@ -19,6 +19,10 @@ This pedal is a high gain, JFET based distortion pedal with a very raw and aggre
 Very dynamic with excellent string definition.
 It has an extremely wide range on the Tone Control, from very warm and dark, without being muddy, to an extremely bright, treble boosted distortion.
 
+## What this pedal is
+
+The Overdose is not only a high gain pedal, turn the Gain Control down for a "bluesy" sound with a nice edge.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

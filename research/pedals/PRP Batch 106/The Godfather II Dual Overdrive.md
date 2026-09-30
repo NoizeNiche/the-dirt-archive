@@ -37,6 +37,17 @@ The standard Godfather itself is a low- to medium-gain overdrive with Volume, Dr
 Open media 3 in modal Play video The Godfather II Dual Overdrive opens full screen video in same window.
 Channel A (green LED) is The Godfather overdrive in its stock configuration.
 
+## What this pedal is
+
+BMF Effects's The Godfather II Dual Overdrive is documented as a Overdrive model. Two Godfather drive channels
+Channel A standard voicing
+Channel B higher gain / higher sag voicing
+A/B or A+B operation
+Independent channel selection and master bypass
+True bypass
+9V to 18V operation
+Handmade construction
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

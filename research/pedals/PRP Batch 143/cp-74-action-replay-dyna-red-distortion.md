@@ -22,6 +22,10 @@ The 4 knob configuration gives you all the tone options needed to reproduce the 
 The 4 controls are: Volume, Drive, Treble and Lomid.
 The desired combination can produce a wide and dynamic sound from just above overdrive to a crunchy distortion with lots of low dirt and growl when required.
 
+## What this pedal is
+
+Caline's Dyna Red Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

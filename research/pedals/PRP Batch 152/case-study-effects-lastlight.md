@@ -24,6 +24,10 @@ While it is capable of producing higher gain fuzz like tones, it really shines i
 The Lastlight reimagines the original design by dramatically improving the sweep of the gain knob, allowing for a more smooth transition between low and high gain settings and updating the enclosure to a pedalboard friendly 125b enclosure with top mounted jacks.
 overdrive pedal Midnight Black Midnight Black Twilight Blue Twilight Blue Information The Lastlight is a transistor based boost and overdrive pedal rooted in a classic overdriver circuit.
 
+## What this pedal is
+
+Case Study Effects Co.'s **Builder:** Case Study Effects Co. is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

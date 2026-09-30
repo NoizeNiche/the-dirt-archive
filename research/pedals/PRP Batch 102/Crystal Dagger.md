@@ -32,6 +32,10 @@ Crystal Dagger combines an octave-up fuzz with a ring-modulator/phaser section. 
 
 The reviewed evidence does not establish a reliable model-specific sound description for Crystal Dagger. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BlackOutEffectors's Crystal Dagger is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

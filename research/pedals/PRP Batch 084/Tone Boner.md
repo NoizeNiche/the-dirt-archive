@@ -18,6 +18,10 @@ Transparent MOSFET boost based on the Super Hard-On style circuit family. Big Kn
 More than simply boosting your guitar’s signal, Tone Boner actively restores clarity and tone from all that can get lost in that spaghetti of cables and effects.
 Ben Poole is a longtime friend of Big Knob Pedals and uses our Tube808 and Tone Boner to overdrive his Cornford amps as well as having our Vibe Tone, Octavius, and Color Jumbo Fuzz as critical components to his current onstage and studio rig.
 
+## What this pedal is
+
+Ben Poole is a longtime friend of Big Knob Pedals and uses our Tube808 and Tone Boner to overdrive his Cornford amps as well as having our Vibe Tone, Octavius, and Color Jumbo Fuzz as critical components to his current onstage and studio rig.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

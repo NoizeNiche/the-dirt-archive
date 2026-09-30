@@ -24,6 +24,10 @@
 Catalinbread Karma Suture (Ge) Germanium Fuzz
 They’ve added an input capacitor blend control (called Density), which is a pretty common addition to vintage fuzz circuits, and something that Catalinbread has used on a few of their other effects such as the Katzenkönig , Sabbra Cadabra and Naga Viper .
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

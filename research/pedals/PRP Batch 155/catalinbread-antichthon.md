@@ -24,6 +24,10 @@ Catalinbread Antichthon Fuzz Tremolo
 The Catalinbread Antichthon gives you an entirely new palette of sound and response to work from!
 Designed to be controlled from your guitars volume knob, Antichthon has a multitude of sounds and possibilities that can be broken down into three general categories: Dynamic fuzz tremolo, fuzzolo, if you will, where you can alter the speed and the sound of the tremolo by turning your guitars volume knob.
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

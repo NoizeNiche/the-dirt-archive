@@ -22,6 +22,10 @@ Caline DCP 05 Key West Compressor/Overdrive
 Our Compressor went on holiday with our version of a very "peaceful" overdrive, the result ...The Key west!
 Now take Transparent control of both bass and treble, while keeping your tone control tight and plucky, or extended for full bends and roaring leads.
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

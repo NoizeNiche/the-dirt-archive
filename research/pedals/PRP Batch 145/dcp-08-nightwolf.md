@@ -21,6 +21,10 @@ Caline DCP 08 Nightwolf Overdrive/Fuzz
 It can either be used as a overdrive or can be used in more of an EQ role being always on and used to shape your tone.
 You can cut or boost with surprising precision.
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

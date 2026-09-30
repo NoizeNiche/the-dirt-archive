@@ -20,6 +20,10 @@
 High Gain and Crunch channels interact for tight, mid focused lead sounds that cut through the mix.
 Internal DC/DC converter allows operation at ±12V for extra headroom and clarity, powered by a standard 9V supply.
 
+## What this pedal is
+
+Carl Martin's **Builder:** Carl Martin is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

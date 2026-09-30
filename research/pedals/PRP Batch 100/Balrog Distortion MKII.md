@@ -24,6 +24,10 @@ BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 The concept of the design was to create a high gain preamp, distortion and overdrive in one.
 
+## What this pedal is
+
+Blackhawk Amplifiers's Balrog Distortion MKII is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

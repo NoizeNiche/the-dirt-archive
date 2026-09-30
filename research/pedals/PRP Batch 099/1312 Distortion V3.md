@@ -23,6 +23,10 @@ The 1312 Distortion V3 is a RAT-family distortion with an eight-position clippin
 Black Mass Electronics 1312 Distortion V3 Pink Guitar Picks That Shape Feel, Speed & Tone FLASH SALE: EVERYTHING HALF PRICE!
 Black Mass Electronics 1312 Distortion V3 Pink $199.00 $99.50 The 1312 began its life as a physical embodiment of one of Black Mass Electronics fundamental beliefs: Black Lives Matter.
 
+## What this pedal is
+
+Black Mass Electronics's 1312 Distortion V3 is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

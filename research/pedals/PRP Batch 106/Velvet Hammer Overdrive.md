@@ -35,6 +35,16 @@ BMF documents the design as true bypass and analog, with the two sides sharing a
 Open media 3 in modal Play video Velvet Hammer Overdrive opens full screen video in same window.
 The left side brings the Velvet, with controls for Volume, Tone (just enough shaping to line things up with your rig without compromising that tone ), and Gain (again, working with that classic voicing and allowing you to roam from mild to fairly wild ...
 
+## What this pedal is
+
+BMF Effects's Velvet Hammer Overdrive is documented as a Overdrive model. Velvet side: Volume, Tone, Gain
+Hammer side: fixed midrange/gain boost
+Two footswitches
+True bypass
+Approx. 4mA current draw
+4.2 x 4.5 inch enclosure
+Handmade in USA
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -31,6 +31,10 @@ Boot-Leg designed the fuzz for smooth adjustment and claims that it can also fun
 
 Effects Database documents JZF 1.0 Jazz Fuzz as a fuzz developed first around bass clarity, then extended for guitar. Verified controls are Volume, Vintage and Fuzz . Vintage shifts between metallic and fuller vintage style fuzz character, while low settings can serve as a boost. 9V operation is documented.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's JZF-1.0 Jazz Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents JZF-1.0 Jazz Fuzz as a fuzz developed first around bass clarity, then extended for guitar. Verified controls are **Volume, Vintage and Fuzz**. Vintage shifts between metallic and fuller vintage-style fuzz character, while low settings can serve as a boost. 9V operation is documented.

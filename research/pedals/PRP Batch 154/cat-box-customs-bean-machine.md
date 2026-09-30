@@ -23,6 +23,10 @@ Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distor
 by Paolo De Gregorio The Cat Box Customs Bean Machine Fuzz is a gorgeously colorful, hand painted boutique take on the Harmonic Percolator circuit, coming right out or a basement in Columbus, Ohio.
 Check out this truly rocking video of it, we added it to our articles about the best Harmonic Percolator inspired fuzz pedals .
 
+## What this pedal is
+
+Cat Box Customs's **Builder:** Cat Box Customs is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

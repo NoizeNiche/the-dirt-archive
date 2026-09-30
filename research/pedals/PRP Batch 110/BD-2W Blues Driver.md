@@ -60,6 +60,10 @@ Standard mode delivers the familiar Blues Driver response, while Custom mode add
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_bd_2w_blues_driver.htm
 
+## What this pedal is
+
+BOSS's BD-2W Blues Driver is documented as a Overdrive model. Standard mode: classic BD 2 voicing. Custom mode: increased body and sustain. The model is a Waza Craft redesign rather than a cosmetic only reissue.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

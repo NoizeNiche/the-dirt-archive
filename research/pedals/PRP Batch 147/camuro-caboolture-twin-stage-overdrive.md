@@ -20,6 +20,10 @@
 
 Camuro's primary Caboolture documentation identifies this as a two stage TS family overdrive . Verified controls are Volume, Gain, Tone, BOOST . A side selector provides VINTAGE, COMP CUT, FLAT MIDS clipping behavior, while a top toggle selects STANDARD or MOSFET clipping. Camuro specifies a JRC4558DV op amp. The builder associates the design with the compressed, edgy character used to pursue a Keith Urban style sound and describes the BOOST stage as providing a deeper second gain stage.
 
+## What this pedal is
+
+Camuro's **Builder:** Camuro is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Camuro's primary Caboolture documentation identifies this as a **two-stage TS-family overdrive**. Verified controls are **Volume, Gain, Tone, BOOST**. A side selector provides **VINTAGE, COMP CUT, FLAT MIDS** clipping behavior, while a top toggle selects **STANDARD or MOSFET** clipping. Camuro specifies a **JRC4558DV** op-amp. The builder associates the design with the compressed, edgy character used to pursue a Keith Urban-style sound and describes the BOOST stage as providing a deeper second gain stage.

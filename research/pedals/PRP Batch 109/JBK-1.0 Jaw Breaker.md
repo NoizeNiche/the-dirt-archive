@@ -31,6 +31,10 @@ The pedal is also designed to respond directly to guitar-volume changes. The Hea
 
 Effects Database documents JBK 1.0 Jaw Breaker as a high current, amp like overdrive with Level, Heavy and Break controls. The design emphasizes strong low end, rich harmonics, controlled treble and direct response to guitar volume changes. Heavy changes the low frequency/chopping character while Break sets drive. 9V operation is documented.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's JBK-1.0 Jaw Breaker is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

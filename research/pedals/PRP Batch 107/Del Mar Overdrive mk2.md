@@ -38,6 +38,10 @@ The Drive control continues to blend clean and overdriven signal, while Bass and
 
 I’ve always loved the clean half of the Centaur, but my favourite clipping stage has always been the articulate and detailed response of the Tubescreamer.
 
+## What this pedal is
+
+Bondi Effects's Del Mar Overdrive mk2 is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

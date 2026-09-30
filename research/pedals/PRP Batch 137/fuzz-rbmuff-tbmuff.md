@@ -19,6 +19,10 @@ Fuzz RBmuff TBmuff Fuzz RBmuff TBmuff $105.000,00 3 cuotas sin interés de $35.0
 USOS FUZZ, distorsion de señal de alta ganancia.
 CARACTERISTICAS Ecualizacion TONE, control de tono, recorta la cantidad de graves o agudos, tiene muy buena cantidad de frecuencias graves, haciendolo ideal para usar con bajo electrico.
 
+## What this pedal is
+
+Cajita Stompboxes's Fuzz RBmuff - TBmuff is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -22,6 +22,10 @@ Today’s featured piece of gear comes to us from a fairly unknown company, but 
 Distortion, Tone and Volume make up the control panel for the Rat Fink (at least it’s not trying to shy away from name, right?), and boast the grit and tonal properties of its namesake, but with a twist.
 Using hard to find op amps from 30 years ago, the Rat Fink’s slow performance and lopsided frequency gain create a growling distortion with incredibly musical harmonics over mids and lows, with the ability to keep only the high you want, and maintain an overall singing sustain and chugging, rhythmic character.
 
+## What this pedal is
+
+Cathouse Pedals's **Builder:** Cathouse Pedals is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

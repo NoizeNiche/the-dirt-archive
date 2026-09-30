@@ -24,6 +24,10 @@ Cast Engineering Texas Flood Overdrive Guitar Effects Pedal
 With the Texas Flood overdrive, however, Cast Engineering aims to succeed where TS chasers, imitators, and mod mavens have failed.
 The result is a warm overdrive that mixes soft clip gain with earthy grit.
 
+## What this pedal is
+
+CAST Engineering's **Builder:** CAST Engineering is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -19,9 +19,12 @@
 
 ## Sound
 
-Caline CP 509 Stack Attack Preamp Overdrive & Compressor
 Put this after fuzz at the start of your chain â€" set and forget!
 It will literally sweeten up your tone and add that hard to find sparkle that you've been looking for.
+
+## What this pedal is
+
+Caline's CP-509 Stack Attack - Preamp Overdrive & Compressor is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Deep research verification
 

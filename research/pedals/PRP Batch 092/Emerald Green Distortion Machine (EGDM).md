@@ -21,6 +21,10 @@ A BJFE distortion design documented as a current-production pedal in the histori
 
 BJFE / BJF Electronics's Emerald Green Distortion Machine (EGDM) is cataloged as a distortion pedal.
 
+## What this pedal is
+
+BJFE / BJF Electronics's Emerald Green Distortion Machine (EGDM) is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

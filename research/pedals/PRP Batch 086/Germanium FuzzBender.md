@@ -21,6 +21,10 @@ https://www.effectsdatabase.com/model/bigtone/fuzzbender
 
 The archived Effects Database record identifies Germanium FuzzBender as a three germanium transistor Tone Bender recreation with a germanium diode. It documents greater gain, deeper clipping, and longer sustain than a typical Fuzz Face design. Both MkII two knob and MkIII three knob versions were offered, with NOS Mullard OC75 or OC81M transistor options. Source: Effects Database.
 
+## What this pedal is
+
+Big Tone Music Brewery's Germanium FuzzBender is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The archived Effects Database record identifies Germanium FuzzBender as a three-germanium-transistor Tone Bender recreation with a germanium diode. It documents greater gain, deeper clipping, and longer sustain than a typical Fuzz Face design. Both **MkII** two-knob and **MkIII** three-knob versions were offered, with NOS Mullard **OC75** or **OC81M** transistor options. Source: Effects Database.

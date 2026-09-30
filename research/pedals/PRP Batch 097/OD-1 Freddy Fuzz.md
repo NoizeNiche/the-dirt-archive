@@ -35,6 +35,10 @@ The OD-1 is unusually touch-sensitive, moving from clean or lightly crunchy tone
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+Black Cat Pedals's OD-1 Freddy Fuzz is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database and Analog Man support the exact Black Cat OD-1 / Freddie Fuzz identity as an original design using an **OP275 dual operational amplifier**. Verified controls are **Drive** and **Volume**. The pedal is highly responsive to picking and guitar-volume changes, ranging from clean/crunchy drive toward saturated fuzz-like distortion. Holographic Sparkle powder-coat is documented as a production finish.

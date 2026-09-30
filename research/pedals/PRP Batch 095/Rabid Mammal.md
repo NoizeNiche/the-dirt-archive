@@ -23,6 +23,10 @@ The boost section is a Witch Boost, now with added GRN low gain switch.
 This is a little less compressed giving a more solid and larger sonic boost.
 The fuzz section is a partially stripped Supreme, utilizing the Pharaoh tonestack for blasted mids and LED or mosfet clipping.
 
+## What this pedal is
+
+The addition of the modified tones gives further flexibility to an already legendary device.The Rabid Mammal is not trying to recreate the past and of course, you won’t sound like Matt just because you have a Rabid Mammal.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

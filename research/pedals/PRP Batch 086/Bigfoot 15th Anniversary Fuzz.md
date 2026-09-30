@@ -21,6 +21,10 @@ https://www.bigfootengineering.com/store/p117/Bigfoot_15th_Anniversary_Fuzz.html
 
 The cited Bigfoot Engineering product page documents this as a one of a kind 15th Anniversary fuzz based on the King Fuzz circuit and re biased around a gold pin NOS germanium transistor. Verified controls are Gain and Volume . The builder states the pedal is usable after buffers, active pickups and wireless systems, and uses 9VDC without a battery. The custom Goldtop nitrocellulose finish and 2009 2024 anniversary graphics are part of this specific unit's identity.
 
+## What this pedal is
+
+Bigfoot Engineering's Bigfoot 15th Anniversary Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Bigfoot Engineering product page documents this as a one-of-a-kind 15th Anniversary fuzz based on the King Fuzz circuit and re-biased around a gold-pin NOS germanium transistor. Verified controls are **Gain** and **Volume**. The builder states the pedal is usable after buffers, active pickups and wireless systems, and uses 9VDC without a battery. The custom Goldtop nitrocellulose finish and 2009-2024 anniversary graphics are part of this specific unit's identity.

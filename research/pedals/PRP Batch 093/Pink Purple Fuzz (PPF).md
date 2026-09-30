@@ -22,6 +22,10 @@ A vintage fuzz update released 9 March 2002 and retired in October 2007, with 17
 
 The reviewed evidence does not establish a reliable model-specific sound description for Pink Purple Fuzz (PPF). The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BJFE / BJF Electronics's Pink Purple Fuzz (PPF) is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

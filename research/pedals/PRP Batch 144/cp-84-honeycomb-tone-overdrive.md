@@ -23,6 +23,10 @@ Caline CP 84 Honeycomb Tone Overdrive
 Use it for a stand alone Overdrive tone or to shape your dirty signal.
 The Honeycomb Tone is a must since the graphic was designed by our very own sponsored artist Sammy Slamdance!
 
+## What this pedal is
+
+Caline's Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -21,6 +21,10 @@ https://bignoiseamplification.com/distortion/
 
 The cited BigNoise Amplification documentation supports the exact Full Blast Overdrive identity and describes a stomp box implementation of three tube stages with adjustable gain stages and a treble/bass tone stack. The available source does not publish a complete front panel control list or component bill, so those details remain unresolved.
 
+## What this pedal is
+
+BigNoise Amplification's Full Blast Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited BigNoise Amplification documentation supports the exact Full Blast Overdrive identity and describes a stomp-box implementation of **three tube stages** with adjustable gain stages and a treble/bass tone stack. The available source does not publish a complete front-panel control list or component bill, so those details remain unresolved.

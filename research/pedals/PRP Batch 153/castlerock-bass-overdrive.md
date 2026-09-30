@@ -23,6 +23,10 @@ Because the electric bass has an extended frequency range, the CR Bass Overdrive
 The CR Bass Overdrive also uses a dual stacked control knob for Level and Gain.
 A separate Tone knob allows you to control the timbre by mixing the wet and dry signals.
 
+## What this pedal is
+
+CastleRock's **Builder:** CastleRock is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

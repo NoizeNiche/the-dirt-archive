@@ -58,6 +58,10 @@ The ML-2 is voiced for dense, extremely saturated distortion with a sharp attack
 - **Image source:** https://www.boss.info/us/products/ml-2/
 - **Image source URL:** https://static.roland.com/assets/images/products/main/ml_2_top_main.jpg
 
+## What this pedal is
+
+BOSS's ML-2 Metal Core is documented as a Distortion model. The standard production model is the ML 2 Metal Core . No separately documented factory colorway or hardware version was identified in the BOSS product documentation checked.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

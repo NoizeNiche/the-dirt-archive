@@ -40,6 +40,10 @@ Blackstar also integrates Cab Rig speaker simulation, USB recording, XLR DI, hea
 
 The Duals are perfect for use as a valve interface for recording, or to seamlessly add valve tone and drive to your pedalboard, complete with built in FX Loop.
 
+## What this pedal is
+
+Blackstar Amplification's Dept. 10 Dual Drive is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

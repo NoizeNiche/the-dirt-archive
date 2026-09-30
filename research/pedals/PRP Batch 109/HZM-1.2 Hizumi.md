@@ -32,6 +32,10 @@ The Range control shifts the peak frequency. Level sets output and Hizumi contro
 
 Effects Database and Japanese retail documentation identify HZM 1.2 as the later major Hizumi version with two serially connected drive circuits. Verified controls are Level, Range and Hizumi . Range shifts the frequency peak, while Hizumi governs the overall distortion amount. The documented version uses germanium elements for a softer, richer response while retaining the original Hizumi character and provides 9V operation. The archive keeps HZM 1.2 separate from HZM 1.0.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's HZM-1.2 Hizumi is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database and Japanese retail documentation identify HZM-1.2 as the later major Hizumi version with two serially connected drive circuits. Verified controls are **Level, Range and Hizumi**. Range shifts the frequency peak, while Hizumi governs the overall distortion amount. The documented version uses germanium elements for a softer, richer response while retaining the original Hizumi character and provides 9V operation. The archive keeps HZM-1.2 separate from HZM-1.0.

@@ -23,6 +23,10 @@ It relies solely on cascading transistor gain stages to create a versatile, uniq
 The pedal is designed to help you acheive your perfect overdrive tone whether you use a clean or dirty amp.
 Set the bias switch to the left with the drive turned down for vintage pushed clean tones, or set it to the right with drive turned up for dirty textural modern overdrive.
 
+## What this pedal is
+
+Black Mass Electronics's Ceremonial Show of Force is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

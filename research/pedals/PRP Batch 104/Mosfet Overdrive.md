@@ -36,6 +36,17 @@ The pedal uses two footswitchable channel/preset settings with recessed controls
 Blackstone Appliances MOSFET Overdrive 2S Pedal Review: Honest, In Depth Analysis
 It excels in low to mid gain blues, classic rock, and clean boost applications, particularly when paired with tube amps.
 
+## What this pedal is
+
+Blackstone Appliances's Mosfet Overdrive is documented as a Overdrive model. Four gain stages with distributed soft clipping
+Two footswitchable channel/preset settings
+Recessed flush mounted controls
+Post distortion mid cut EQ
+Pickup sensitive drive ranges
+Internal buffered mode switch
+MXR sized enclosure
+Built in New York City
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

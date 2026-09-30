@@ -22,6 +22,10 @@ not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 09 06
 Caline Green Mamba G Series G 002 14:57 2023 02 24 EhrosmithTV Caline G Series: Caline G002 Green Mamba Overdrive Demo
 @CalineTechnology Green Mamba Overdrive 12:13 2023 02 24 EhrosmithTV G002 Green Mamba Overdrive by @CalineTechnology caline gseries 1:01 2023 02 08 PedalOfTheDay Caline G 002 Green Mamba Drive 4:28 2023 01 30 Budget Pedal Chap The BEST budget Tube Screamer?
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

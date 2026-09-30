@@ -35,6 +35,18 @@ The pedal adds a relay-based soft-switching true-bypass system, stronger power f
 
 The reviewed evidence does not establish a reliable model-specific sound description for Blues Blaster. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's Blues Blaster is documented as a Distortion / Overdrive model. STOCK / MOD modes
+Low gain boost through mid gain overdrive/distortion
+Relay true bypass with momentary or latching behavior
+Discrete output buffer
+Panasonic film capacitors
+125B enclosure with top mounted jacks
+9V center negative
+36mA current draw
+Handmade in Portland, Oregon
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

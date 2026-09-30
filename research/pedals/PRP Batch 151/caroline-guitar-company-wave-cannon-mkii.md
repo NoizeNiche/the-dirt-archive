@@ -24,6 +24,10 @@ The long story short is that this thing is an unrepentant, unapologetic distorti
 This Cannon comes pre loaded with balls (pun alert!) and is capable of going from cranked, lightly dirty amp tones to the sound of a furry Godzilla devouring a junkyard full of broken a/c window units.
 It’s different from our Haymaker™, which is a wide range drive pedal based around the rotation of a clipping network into different locations in the circuit, and which is intended to respond and feel like an extension of your amp.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

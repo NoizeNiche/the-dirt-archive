@@ -21,6 +21,10 @@ https://www.bigfootengineering.com/store/p161/king-fuzz.html
 
 The cited Bigfoot Engineering product page identifies King Fuzz as the flagship high gain fuzz, with Fuzz Gain and Fuzz Volume controls and no EQ controls. The builder documents all analogue hand construction in England, 9VDC or internal PP3 battery power, and buffered bypass. Its documented range runs from medium gain blues through saturated rock.
 
+## What this pedal is
+
+Bigfoot Engineering's Bigfoot King Fuzz is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Bigfoot Engineering product page identifies King Fuzz as the flagship high-gain fuzz, with **Fuzz Gain** and **Fuzz Volume** controls and no EQ controls. The builder documents all-analogue hand construction in England, 9VDC or internal PP3 battery power, and buffered bypass. Its documented range runs from medium-gain blues through saturated rock.

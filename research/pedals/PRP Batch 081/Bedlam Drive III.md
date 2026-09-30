@@ -39,6 +39,10 @@ Bedlam Drive III is the third-generation Bedlam Drive identity in Effects Databa
 
 The exact Effects Database record was cross-checked with Big Game's long-running TalkBass development discussion. The available evidence supports the controls and operating concept but does not justify a specific clone lineage.
 
+## What this pedal is
+
+Big Game Pedals's Bedlam Drive III is documented as a Overdrive model. The available builder discussion documents an analog gain design with a broad three band EQ and semi parametric midrange shaping. Exact semiconductor part numbers and schematic topology were not established.
+
 ## Sources checked
 
 1. Effects Database - Bedlam Drive III: https://www.effectsdatabase.com/model/biggame/bedlamdrive

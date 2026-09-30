@@ -23,6 +23,10 @@ In the case of today’s pedal, that magic ingredient is a Boost pedal.
 Hailing from Pasadena, CA, the Boost 90 Clean Drive is a rock and rolling take on a clean boost, brought to you by Caswell Modern Electronics.
 As with most boost pedals, the Boost 90 has only one control knob, which makes it really, really easy to use (really).
 
+## What this pedal is
+
+Caswell Modern Electronics (CME)'s **Builder:** Caswell Modern Electronics (CME) is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

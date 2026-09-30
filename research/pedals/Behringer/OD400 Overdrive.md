@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer compact overdrive from the company's earlier compact series.
+The Behringer OVERDRIVE OD400 is an overdrive/distortion pedal intended to boost an amplifier into an overdriven state.
 
 ## Versions and history
 

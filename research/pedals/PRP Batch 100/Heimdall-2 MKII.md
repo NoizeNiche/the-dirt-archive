@@ -23,6 +23,10 @@ HEIMDALL 2 MKII DISTORTION (BASS/BARITONE)
 BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 
+## What this pedal is
+
+Also it is available in two different form factors: HEIMDALL 2 MKII A distortion, overdrive and powerful EQ with PARALLEL clean blend designed for LOW BARITONE tunings and BASS (although it works perfectly with all guitars, even standard tuned) think of it as the “deluxe” version of the two.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

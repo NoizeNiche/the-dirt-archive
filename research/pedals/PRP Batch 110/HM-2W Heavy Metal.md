@@ -60,6 +60,10 @@ Standard mode retains the focused, aggressive character associated with the orig
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.thomann.de/gb/boss_hm_2w_heavy_metal.htm
 
+## What this pedal is
+
+BOSS's HM-2W Heavy Metal is documented as a Distortion model. Standard mode: original HM 2 voicing with lower noise and increased level. Custom mode: more aggressive Waza Craft variation. Mode switch relocated to the top to preserve the classic control layout.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -22,6 +22,10 @@ https://www.effectsdatabase.com/model/biyang/tonefancier
 
 The cited Hybrid Guitars and Effects Database records support Junky Drive as a Biyang Tonefancier drive covering overdrive and distortion. A three position mode selector provides related British/edge focused voices, a broader/louder mode, and a +1 mode adding midrange while reducing edge. The documented circuit uses a Burr Brown OPA2134PA op amp and WIMA capacitors, with true bypass and 9V operation.
 
+## What this pedal is
+
+Biyang's Junky Drive is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Hybrid Guitars and Effects Database records support Junky Drive as a Biyang Tonefancier drive covering overdrive and distortion. A three-position mode selector provides related British/edge-focused voices, a broader/louder mode, and a +1 mode adding midrange while reducing edge. The documented circuit uses a **Burr-Brown OPA2134PA** op-amp and WIMA capacitors, with true bypass and 9V operation.

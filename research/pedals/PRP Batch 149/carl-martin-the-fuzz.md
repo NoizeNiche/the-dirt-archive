@@ -21,6 +21,10 @@ Toggle Menu The Fuzz Revolutionary fuzz/distortion pedal with wave guide technol
 More details · Find a dealer Revolutionary wave guide technology with Deep and High controls works in conjunction with 3 band EQ to shape and clean up distortion in previously impossible ways.
 Exceptional tonal versatility ranges from vintage blues fuzz to mid 80s hard rock to hardcore metal sounds, all from one pedal with precise control.
 
+## What this pedal is
+
+Carl Martin's **Builder:** Carl Martin is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

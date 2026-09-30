@@ -45,6 +45,10 @@ The current Big Ear product documentation and contemporary coverage consistently
 
 The current Big Ear product documentation and contemporary coverage consistently identify Slice Of Pie with the BIG EAR pedals brand and Tone Mob collaboration. No independent Big Ear n.y.c. production variant was found in the checked sources.
 
+## What this pedal is
+
+Big Ear NYC's Slice Of Pie is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
 1. BIG EAR pedals - Slice of Pie: https://www.bigearpedals.com/product-page/slice-of-pie-b-stock

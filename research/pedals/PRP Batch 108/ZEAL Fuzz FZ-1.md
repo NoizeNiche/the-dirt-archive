@@ -35,6 +35,10 @@ BOOROCKS BOOROCKS：ZEAL Fuzz FZ 1 2010 0 Effect For Sale TCGAKKI x Username or 
 You are here: Effects » Fuzz » BOOROCKS BOOROCKS / BOOROCKS：ZEAL Fuzz FZ 1 / 2010 / Effect 1 2 3 4 Instrument Description: Read more...
 Product Details A variety of fuzz sounds from vintage sounds in the 1960s to heavy sounds in the alternative loud !!
 
+## What this pedal is
+
+You are here: Effects » Fuzz » BOOROCKS BOOROCKS / BOOROCKS：ZEAL Fuzz FZ 1 / 2010 / Effect 1 2 3 4 Instrument Description: Read more...
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

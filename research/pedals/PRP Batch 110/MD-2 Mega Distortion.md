@@ -58,6 +58,10 @@ The MD-2 is voiced for huge low-end distortion and sustained modern high-gain so
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://specialtytraders.com/products/boss-md-2-mega-distortion
 
+## What this pedal is
+
+BOSS's MD-2 Mega Distortion is documented as a Distortion model. Gain Boost provides additional drive and sustain. Bottom control emphasizes low frequency weight. Tone control balances high and low frequencies.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

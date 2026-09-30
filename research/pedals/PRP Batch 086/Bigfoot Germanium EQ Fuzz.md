@@ -21,6 +21,10 @@ https://www.bigfootengineering.com/ltd.html
 
 Bigfoot Engineering's cited Limited Edition catalog confirms the exact Bigfoot Germanium EQ Fuzz as a distinct Special Reserve model. The reviewed builder source does not expose enough exact controls, transistor details or power/bypass specifications to safely add them, so those fields remain unknown.
 
+## What this pedal is
+
+Bigfoot Engineering's Bigfoot Germanium EQ Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Bigfoot Engineering's cited Limited Edition catalog confirms the exact **Bigfoot Germanium EQ Fuzz** as a distinct Special Reserve model. The reviewed builder source does not expose enough exact controls, transistor details or power/bypass specifications to safely add them, so those fields remain unknown.

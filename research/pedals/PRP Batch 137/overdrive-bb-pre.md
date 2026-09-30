@@ -19,6 +19,10 @@ OVERDRIVE distorsión con versatilidad en el seteo del tono.
 Control, VOL GAIN, define la salida del pedal y la cantidad de distorsión.
 Productos similares 0 % OFF Envío gratis FBASSDRIVE overdrive de bajo $119.000,00 $0,00 3 cuotas sin interés de $39.666,67 Comprar ¡Listo!
 
+## What this pedal is
+
+Cajita Stompboxes's Overdrive Bb.pre is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

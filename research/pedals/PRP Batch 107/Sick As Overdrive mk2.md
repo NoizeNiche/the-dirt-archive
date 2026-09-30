@@ -37,6 +37,10 @@ Documented Mk2 examples use the familiar Level, Gain, Bass and Treble controls p
 
 2. 「Bondi Effects Sick As Overdrive MK2」レビュー！シリアル別に比較、レアなMK1やBlack Outモデルも紹介！ | 魔法の箱研究所 – エフェクターレビューサイト:
 
+## What this pedal is
+
+Bondi Effects's Sick As Overdrive mk2 is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

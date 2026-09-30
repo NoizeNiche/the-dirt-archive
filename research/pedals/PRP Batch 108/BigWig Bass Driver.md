@@ -39,6 +39,10 @@ The Frith side ranges from clean boost through grit into borderline-fuzz distort
 
 The reviewed evidence does not establish a reliable model-specific sound description for BigWig Bass Driver. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+Bookworm Effects's BigWig Bass Driver is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

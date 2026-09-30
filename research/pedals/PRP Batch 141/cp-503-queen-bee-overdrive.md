@@ -23,6 +23,10 @@ Be the first to review “Caline CP 503 Queen Bee Overdrive” Cancel reply You 
 Play softly and add a glistening warm grit to your tone, dig in and unleash a dynamic organic sounding overdrive that's perfect for blues and rock.
 Loves to be 'always on' or equally effective stacked with other drives to create a range of textures for your gain stages.
 
+## What this pedal is
+
+Caline's CP-503 Queen Bee Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

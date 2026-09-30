@@ -25,6 +25,10 @@ It became one of the best known Swedish boutique effects of its era, valued for 
 Unlike conventional compressors that only controlled dynamics, the Carlin design allowed players to blend sustain and distortion in one unit, making it especially appealing to progressive rock guitarists of the time.
 At the core of the circuit was a JFET used as a voltage controlled resistor, designed to react immediately to note attack while increasing gain as the note decayed.
 
+## What this pedal is
+
+Carlin's **Builder:** Carlin is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

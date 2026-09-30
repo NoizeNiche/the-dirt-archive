@@ -22,6 +22,10 @@ The Morgul Drive V2/MKII is a warm, moderate-to-high-gain overdrive that can als
 
 The cited Blackhawk documentation and historical listing identify Morgul Drive V2/MKII as a moderate to high gain overdrive that can also act as a clean boost. Verified controls are Treble, Volume, Gain, Depth , with three clipping choices: soft clipping, no clipping, and hard clipping. Depth changes the gain character and the design retains substantial low end content compared with a conventional Tube Screamer style drive. The MKII uses updated hybrid construction and clickless relay bypass.
 
+## What this pedal is
+
+Blackhawk Amplifiers's Morgul Drive MKII is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Blackhawk documentation and historical listing identify Morgul Drive V2/MKII as a moderate-to-high-gain overdrive that can also act as a clean boost. Verified controls are **Treble, Volume, Gain, Depth**, with three clipping choices: soft clipping, no clipping, and hard clipping. Depth changes the gain character and the design retains substantial low-end content compared with a conventional Tube Screamer-style drive. The MKII uses updated hybrid construction and clickless relay bypass.

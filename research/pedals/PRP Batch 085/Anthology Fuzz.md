@@ -19,6 +19,10 @@ Big Tone Music Brewery Anthology Fuzz
 Ge Face: An exact clone of the most famous fuzz pedal ever, The Fuzz Face, with 2 NOS Mullard OC75 germanium transistors.
 (the tone knob is not engaged here in order to preserve tonal accuracy) Si Face: Uses the same circuit as the Ge Face, but switches out the germanium transistors for silicon and rebiases the circuit.
 
+## What this pedal is
+
+Big Tone Music Brewery's Anthology Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

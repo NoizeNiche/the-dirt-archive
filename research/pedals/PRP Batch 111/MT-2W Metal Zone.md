@@ -61,6 +61,10 @@ Standard mode keeps the Metal Zone's dense, mid-driven distortion while improvin
 - **Image source:** https://www.boss.info/us/products/mt-2w/
 - **Image source URL:** https://static.roland.com/products/mt-2w/image/mt-2w_hero.jpg
 
+## What this pedal is
+
+BOSS's MT-2W Metal Zone is documented as a Distortion model. Standard mode: refined MT 2 style voicing. Custom mode: wider, tighter high gain voicing. Made in Japan.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

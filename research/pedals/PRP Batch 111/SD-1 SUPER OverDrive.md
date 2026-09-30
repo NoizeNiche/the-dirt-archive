@@ -56,6 +56,10 @@ The SD-1 produces mild-to-moderate overdrive with a focused midrange and tight l
 - **Image source:** https://www.boss.info/ca/products/sd-1/
 - **Image source URL:** https://static.roland.com/products/sd-1-4a/images/sd-1_hero.jpg
 
+## What this pedal is
+
+BOSS's SD-1 SUPER OverDrive is documented as a Overdrive model. The cataloged model is the SD 1 Super OverDrive . BOSS service documentation shows hardware component changes across early and later units, but the catalog treats these as the same public model rather than separate versions.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

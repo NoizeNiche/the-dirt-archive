@@ -58,6 +58,10 @@ The overdrive side is voiced around asymmetrical clipping and a rich, singing mi
 - **Image source:** https://www.boss.info/us/products/os-2/
 - **Image source URL:** https://static.roland.com/products/os-2/image/os-2_01_gal.jpg
 
+## What this pedal is
+
+BOSS's OS-2 OverDrive/Distortion is documented as a Overdrive model. The cataloged model is the OS 2 OverDrive/Distortion . No separately documented factory colorway or public hardware version was identified in the BOSS documentation checked.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

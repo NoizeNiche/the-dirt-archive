@@ -7,7 +7,7 @@
 
 ## What this pedal is
 
-Civil Warp is Big Knob Pedals' recreation of the Russian-made Sovtek Civil War Muff.
+Big Knob Pedals's Civil Warp is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Controls
 

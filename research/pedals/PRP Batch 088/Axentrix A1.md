@@ -21,6 +21,10 @@ https://bixonic-sound.com/pages/digital-multi-distortion-pedal-axentrix
 
 The cited BIXONIC documentation supports Axentrix A1 as a digital multi drive successor to the Expandora concept. Verified modes are Crunch, Over Drive, Distortion, Fuzz . The Accent control uses the builder's DREP system to alter expansion/compression response. The design includes Tone plus 3 band EQ, selectable true or buffered bypass, three memories, guitar/bass selection and tuning meter/illumination functions. Exact DSP/chip part numbers are not published.
 
+## What this pedal is
+
+BIXONIC's Axentrix A1 is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited BIXONIC documentation supports Axentrix A1 as a digital multi-drive successor to the Expandora concept. Verified modes are **Crunch, Over Drive, Distortion, Fuzz**. The Accent control uses the builder's DREP system to alter expansion/compression response. The design includes Tone plus 3-band EQ, selectable true or buffered bypass, three memories, guitar/bass selection and tuning-meter/illumination functions. Exact DSP/chip part numbers are not published.

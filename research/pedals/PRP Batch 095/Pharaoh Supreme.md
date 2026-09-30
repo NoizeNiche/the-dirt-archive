@@ -23,6 +23,10 @@ In place of the hi/lo switch,the Supreme utilizes a variable pre input control t
 The Pre knob control in addition to the Clip knob, produce an array of sounds and textures that expand the Pharaoh into the ultimate, or Supreme fuzz stortion that Black Arts has produced.
 Black Arts Toneworks Pharaoh Supreme Fuzz Pedal
 
+## What this pedal is
+
+Black Arts Toneworks's Pharaoh Supreme is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

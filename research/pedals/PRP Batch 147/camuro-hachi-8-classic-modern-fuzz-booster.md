@@ -18,6 +18,10 @@
 
 Camuro's primary hachi “8” page confirms this is a combined fuzz + booster design intended around Japanese vintage fuzz traditions. The fuzz and booster share part of the circuit, so they cannot be operated simultaneously. A mode switch selects fuzz or booster , and a mini toggle changes the fuzz/booster tone between a fat and trebly character. Camuro says the booster is voiced in the style of the pre clean booster era, while the fuzz aims for a distinctly Japanese character. Power is 9V via P006 battery or centre negative adapter, with modern LED indication.
 
+## What this pedal is
+
+Camuro's **Builder:** Camuro is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Camuro's primary hachi “8” page confirms this is a combined **fuzz + booster** design intended around Japanese vintage-fuzz traditions. The fuzz and booster share part of the circuit, so they cannot be operated simultaneously. A mode switch selects **fuzz or booster**, and a mini-toggle changes the fuzz/booster tone between a **fat** and **trebly** character. Camuro says the booster is voiced in the style of the pre-clean-booster era, while the fuzz aims for a distinctly Japanese character. Power is 9V via P006 battery or centre-negative adapter, with modern LED indication.

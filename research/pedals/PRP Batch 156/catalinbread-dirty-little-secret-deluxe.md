@@ -25,6 +25,10 @@ Catalinbread Dirty Little Secret Deluxe Drive Pedal Andertons Music Co.
 A built in footswitchable boost modeled after a clean Marshall preamp and eﬀect order switch gives you a fully customizable amp in a box experience.
 Page 3 How it’s Shipped Who doesn't love the sound of a boost circuit slamming the front end of an amp?
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -23,6 +23,10 @@ Case Study Aspen One Boost + Overdrive
 boost / preamp overdrive pedal Germanium Germanium Silicon Silicon Information The Case Study Aspen One combines the Aspen overdrive and a transparent MOSFET boost in a single true bypass enclosure with relay switching and an all analog signal path.
 The Aspen overdrive section reworks an expandora style circuit with increased post drive output level and an added bass control for adjusting low frequency response.
 
+## What this pedal is
+
+Case Study Effects Co.'s Boost + Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -23,6 +23,10 @@ Great sounding fuzz pedal but with an octave control.
 The CP 53 is a combined fuzz and octave pedal.
 You can activate fuzz with the True Bypass switch, and then activate the octave with Octave Up switch.
 
+## What this pedal is
+
+Caline's CP-53 Fuzzy Faace - Voodoo Octave is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

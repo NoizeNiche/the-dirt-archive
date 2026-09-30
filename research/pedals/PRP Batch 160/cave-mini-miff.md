@@ -24,6 +24,10 @@ Overdrive 1 gives a "fuzzy" type sound, while Overdrive 2 will allow a much smoo
 review by Chris Webbe I have been asked to do a review of the Mini Miff passive overdrive pedal from Cave pedals.
 The box is well built and has 3 modes OD 1 which is kind of a 60s fuzz, a clean setting which gives a volume and tone boost and OD2 which is a smoother distortion.
 
+## What this pedal is
+
+Cave Passive Pedals's **Builder:** Cave Passive Pedals is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

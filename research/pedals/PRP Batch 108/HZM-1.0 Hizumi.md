@@ -32,6 +32,10 @@ The Range control shifts the peak frequency, allowing the pedal to compensate fo
 
 $0.00 (ARCHIVE) Boot Leg HZM 1.0 Hizumi Distortion Pedal Zoom Zoom Share Tweet Pin Description Guitarchives See all See all I discovered this brand by accident, but oh boy, what a discovery.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's HZM-1.0 Hizumi is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

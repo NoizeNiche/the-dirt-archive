@@ -22,6 +22,10 @@
 
 The original Grunt overdrive/boost circuit is retained, but with a flick of the toggle switch the higher boost "super" circuit comes into play.
 
+## What this pedal is
+
+Cave Passive Pedals's **Builder:** Cave Passive Pedals is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

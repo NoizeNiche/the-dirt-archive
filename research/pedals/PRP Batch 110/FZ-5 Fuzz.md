@@ -54,6 +54,10 @@ The FZ-5 covers several vintage-inspired fuzz families, from a classic Fuzz Face
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+BOSS's FZ-5 Fuzz is documented as a Fuzz model. Mode control for selecting the modeled fuzz character. Boost control for adding a more aggressive character.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

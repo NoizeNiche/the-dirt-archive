@@ -19,6 +19,10 @@ FBASSDRIVE overdrive de bajo FBASSDRIVE overdrive de bajo $119.000,00 3 cuotas s
 USOS DISTORSION para BAJO, muy versátil gracias a sus 3 MODOS de saturación , mas BOOST que agrega un poco de saturación extra y controlable.
 CARACTERISTICAS Ecualización, TONE, control de tono.
 
+## What this pedal is
+
+Cajita Stompboxes's FBASSDRIVE is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

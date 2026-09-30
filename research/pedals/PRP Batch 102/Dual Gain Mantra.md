@@ -30,6 +30,15 @@ The Limited Edition Dual-Gain Mantra is a modified Mantra overdrive with an adde
 
 Effects Database documents Dual Gain Mantra as a modified Mantra overdrive with switchable high and low gain modes. The circuit uses cascaded MOSFET and JFET amplifier stages and a Baxandall style bass/treble EQ. The design is documented as touch sensitive with useful guitar volume cleanup and was produced as a limited edition handmade in Asheville, North Carolina.
 
+## What this pedal is
+
+BlackOutEffectors's Dual Gain Mantra is documented as a Overdrive model. High and low gain modes
+Cascaded MOSFET/JFET gain stages
+Baxandall style bass/treble EQ
+Responsive to guitar volume cleanup
+Limited edition cosmetic treatment
+Handmade in Asheville, North Carolina
+
 ## Deep research verification
 
 Effects Database documents Dual-Gain Mantra as a modified Mantra overdrive with switchable high- and low-gain modes. The circuit uses cascaded **MOSFET and JFET** amplifier stages and a Baxandall-style bass/treble EQ. The design is documented as touch-sensitive with useful guitar-volume cleanup and was produced as a limited edition handmade in Asheville, North Carolina.

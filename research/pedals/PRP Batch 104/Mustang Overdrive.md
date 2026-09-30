@@ -33,6 +33,13 @@ STOMP BOX STEALS: OVERDRIVE BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a
 Ewing / LENARD Re Inventions View my complete profile Friday, August 24, 2018 OVERDRIVE BLAKEMORE EFFECTS Mustang Overdrive ...sounds like a funky mid 50's amp BLAKEMORE EFFECTS MUSTANG OVERDRIVE $149.00 USD Based on an over 25 year old Red Llama pedal.
 It sounds great with the gain back or pushed hard you can get some fuzzlike tones.
 
+## What this pedal is
+
+Blakemore Effects's Mustang Overdrive is documented as a Overdrive model. Overdrive platform
+Related to the later Bi Polar Octadrive
+Handmade construction
+2010s boutique design
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

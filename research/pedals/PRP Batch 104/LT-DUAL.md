@@ -36,6 +36,10 @@ All Blackstar products are subjected to extensive laboratory and road testing to
 Channel 1 lets you move from clean, to boost to overdrive.
 The unique switching operation will transform a single channel vintage amp into a three channel tone machine.
 
+## What this pedal is
+
+Blackstar Amplification's LT-DUAL is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

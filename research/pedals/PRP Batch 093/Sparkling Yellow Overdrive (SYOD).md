@@ -22,6 +22,10 @@ A bright overdrive that began as the Mystoury Drive and was officially announced
 
 BJFE's current documentation describes Sparkling Yellow Overdrive as an early rock overdrive covering American Fender Tweed/Blonde/Brownface and British Plexi style character while remaining open, bright, responsive and thick. The current two in one Woody Orange page documents the underlying V1/V2 family: V1 is brighter and suited to British amps , while V2 is less bright with slightly more compression and an American voiced response . The standard three knob SYOD version has Volume, Drive and Treble; historical coverage identifies the short BJFE Custom Shop run around 2009. citeturn105694search1turn105694search8
 
+## What this pedal is
+
+BJFE / BJF Electronics's Sparkling Yellow Overdrive (SYOD) is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 BJFE's current documentation describes Sparkling Yellow Overdrive as an early-rock overdrive covering American Fender Tweed/Blonde/Brownface and British Plexi-style character while remaining open, bright, responsive and thick. The current two-in-one Woody Orange page documents the underlying V1/V2 family: **V1 is brighter and suited to British amps**, while V2 is **less bright with slightly more compression and an American-voiced response**. The standard three-knob SYOD version has Volume, Drive and Treble; historical coverage identifies the short BJFE Custom Shop run around 2009. citeturn105694search1turn105694search8

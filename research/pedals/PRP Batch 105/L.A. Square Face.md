@@ -36,6 +36,16 @@ Documented versions include germanium and silicon transistor builds. The silicon
 As you might have guessed, the Texas Square Face was based on the Dallas Arbiter Fuzz Face but used a different brand and style of transistors, had a bit more output volume, and was housed in a smaller square shaped enclosure.
 True, they are higher gain than the ones used in a standard Fuzz Face (250 400hfe instead of the 80 110hfe range), but in this case the sound is still very familiar.
 
+## What this pedal is
+
+BLAMMO! Electronics's L.A. Square Face is documented as a Fuzz model. Fuzz Face family circuit
+Germanium and silicon versions documented
+Relay based soft switching
+True bypass
+Beefed up power filtering
+Top mounted jacks
+125B enclosure
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -24,6 +24,10 @@ Normal sets the volume of the uneffected sound Drive controls the amount of dist
 It is a fuzz with an upper octave sound like an octavia, specifically voiced for Bass but working well with guitar also.
 not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2016 03 26 Black Cat Black Cat Bass Octave Fuzz (...
 
+## What this pedal is
+
+Black Cat Pedals's Bass Octave Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

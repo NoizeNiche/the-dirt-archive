@@ -22,6 +22,10 @@ Canned Monsters Frenzy Moss Guitar & Bass Fuzz
 Designed with a full frequency fuzz characteristic, it preserves the low end frequencies, making it an excellent choice for both bass and guitar players.
 For true bypass, I employ the GORVA 3PDT known as the Ferrari of 3PDT switches, featuring a soft click (1.00.3kg) for a satisfying tactile response and superb reliability.
 
+## What this pedal is
+
+Canned Monsters's **Builder:** Canned Monsters is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

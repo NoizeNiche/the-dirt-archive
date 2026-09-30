@@ -38,6 +38,10 @@ Downloads Support Expressive Touch Sensitivity Sweet, nuanced, and ultra express
 Its influential BOSS analog circuit design behaves like a tube amp, providing natural, touch responsive gain that’s not possible with standard overdrive and distortion pedals.
 This innovative design delivers a very organic playing experience, with drive character and harmonic content that changes with your picking attack and sound that smoothly cleans up as you roll back the volume.
 
+## What this pedal is
+
+BOSS's BD-2 Blues Driver is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

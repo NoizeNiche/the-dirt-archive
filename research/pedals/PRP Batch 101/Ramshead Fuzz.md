@@ -31,6 +31,14 @@ The pedal uses true bypass and a standard 9V negative-tip, 2.1mm supply.
 
 The cited Blackhawk sources document Ramshead as a Ram's Head / Big Muff family fuzz with Mid, Tone, Volume and Gain . A documented build uses BC183 and BC184 transistors. The defining modification is an adjustable mid boost/scoop, while lower gain settings can move toward transistor style distortion and clean up from the guitar volume. True bypass and 9V centre negative power are documented.
 
+## What this pedal is
+
+Blackhawk Amplifiers's Ramshead Fuzz is documented as a Fuzz model. Mid
+Tone
+Volume
+Gain
+The pedal uses true bypass and a standard 9V negative tip, 2.1mm supply.
+
 ## Deep research verification
 
 The cited Blackhawk sources document Ramshead as a Ram's Head / Big Muff-family fuzz with **Mid, Tone, Volume and Gain**. A documented build uses **BC183 and BC184** transistors. The defining modification is an adjustable mid boost/scoop, while lower-gain settings can move toward transistor-style distortion and clean up from the guitar volume. True bypass and 9V centre-negative power are documented.

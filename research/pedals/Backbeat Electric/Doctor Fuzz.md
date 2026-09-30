@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Doctor Fuzz is listed as one of Backbeat Electric's historical products. The archive retains the named fuzz product even though the company has a broader effects catalog.
+Effects Database identifies Backbeat Electric Doctor Fuzz as a fuzz pedal and dates the exact model record to January 30, 2012 . The record places Doctor Fuzz among the builder's pedal models and links directly to a Backbeat Electric Doctor Fuzz manufacturer page.
 
 ## Circuit / controls
 

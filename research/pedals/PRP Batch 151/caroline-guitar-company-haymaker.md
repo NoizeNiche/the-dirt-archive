@@ -23,6 +23,10 @@ Wave Cannon 1/Cannonball: This was the pedal that got us started in 2010, and it
 Haymaker: We released Haymaker in 2014 after people asked us to make the overdrive preamp from our Kilobyte® delay into its own pedal.
 Haymaker, while sharing the Ruetz inspired Shape control and a low pass filter for a tone control, can sound really different from WC1.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

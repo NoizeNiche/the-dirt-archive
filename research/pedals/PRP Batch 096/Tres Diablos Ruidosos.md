@@ -23,6 +23,10 @@ This one can go from a slight sweet boost, edgy OD, classic 70s rock distortion 
 Dime all three masters and get a gnarly oversaturated fuzz.
 The Diablos respond well to guitar knob input so you can create layered gain working with your guitar and amplifier.
 
+## What this pedal is
+
+Black Arts Toneworks's Tres Diablos Ruidosos is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

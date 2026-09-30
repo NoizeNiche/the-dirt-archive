@@ -22,6 +22,10 @@ The Heimdall-3 MKII is the stripped-down companion to the Heimdall-2, retaining 
 
 Blackhawk's exact product documentation identifies Heimdall 3 MKII as a stripped down companion to Heimdall 2, retaining the low tuned distortion architecture while omitting the larger model's extra clean/EQ functions. Verified controls are Bass, High Mid, Treble, Gain, Depth, Volume , plus an internal Presence trim. The gain stage uses an OP07 . A three position clipping switch selects MOSFET hard clipping, no clipping for dirty boost/drive, or LED soft clipping .
 
+## What this pedal is
+
+Blackhawk Amplifiers's Heimdall-3 MKII Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Blackhawk's exact product documentation identifies Heimdall-3 MKII as a stripped-down companion to Heimdall-2, retaining the low-tuned distortion architecture while omitting the larger model's extra clean/EQ functions. Verified controls are **Bass, High Mid, Treble, Gain, Depth, Volume**, plus an internal Presence trim. The gain stage uses an **OP07**. A three-position clipping switch selects **MOSFET hard clipping, no clipping** for dirty boost/drive, or **LED soft clipping**.

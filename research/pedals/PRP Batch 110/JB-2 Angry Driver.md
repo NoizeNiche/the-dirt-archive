@@ -56,6 +56,10 @@ The Blues Driver side covers lower-gain boost and overdrive, while the Angry Cha
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+BOSS's JB-2 Angry Driver is documented as a Overdrive model. BOSS/Blues Driver side. JHS/Angry Charlie side. Individual operation, two series configurations, and parallel operation through the six position selector.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

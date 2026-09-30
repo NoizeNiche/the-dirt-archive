@@ -24,6 +24,10 @@ CAST Engineering Gypsy Haze Octave Up Fuzz With Tap Tempo
 Delicious Audio Creative Pedals Creative Delay Tape Delay W/ Reverb Delay Distortion Fuzz Overdrive Dual Gain Dirt Boost Compr.
 by Paolo De Gregorio The Gypsy Haze by Cast Engineering (check out our profile article on them here ) is an Octave up/fuzz pedal with a very unique switching system for the octave, which also has a “Stutter” mode controllable through Tap Tempo.
 
+## What this pedal is
+
+CAST Engineering's **Builder:** CAST Engineering is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

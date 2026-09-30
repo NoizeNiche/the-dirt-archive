@@ -29,6 +29,10 @@ Blunderbuss Musket is the alternate Musket-derived version that became the basis
 
 The exact record distinguishes Blunderbuss Musket from the standard Musket V3: it is an alternate Musket derived four stage fuzz foundation that became the basis for the standalone Blunderbuss and later Special Twosome variants. Its documented design moves toward a louder, more open character while retaining the heavy Musket family architecture.
 
+## What this pedal is
+
+BlackOutEffectors's Blunderbuss Musket is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The exact record distinguishes Blunderbuss Musket from the standard Musket V3: it is an alternate Musket-derived four-stage fuzz foundation that became the basis for the standalone Blunderbuss and later Special Twosome variants. Its documented design moves toward a louder, more open character while retaining the heavy Musket family architecture.

@@ -20,6 +20,10 @@
 
 Builder: Carmedon Electronics Catalog type: Overdrive Catalog identity: Alpha Centauri What this pedal is: A Klon inspired overdrive associated with Carmedon Electronics and described in 2019 community documentation as an unreleased/new company project.
 
+## What this pedal is
+
+Carmedon Electronics's **Builder:** Carmedon Electronics is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

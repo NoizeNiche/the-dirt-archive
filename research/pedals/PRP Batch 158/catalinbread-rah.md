@@ -23,6 +23,10 @@ The tone was great, similar to his Marshall tone, but there was a little somethi
 Comparing it to a standard Hiwatt head of the same era, we notice that it is modi ed to provide more gain.
 Plus, there was a foot switch that allowed two gain settings.
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

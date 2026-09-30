@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer octave-fuzz pedal.
+The Behringer OCTAVIA OCTAVE FUZZ is an analog, silicon based octave fuzz with a pronounced octave up character. Behringer describes its sound as distinct and sometimes unpredictable, with strong response to picking dynamics.
 
 ## Versions and history
 

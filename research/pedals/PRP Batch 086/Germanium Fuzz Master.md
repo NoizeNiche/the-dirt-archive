@@ -23,6 +23,10 @@ Big Tone Music Brewery Germanium Fuzz Master
 At it's heart, the Fuzz Master still has a circuit identical to the original Arbiter Fuzz Face.
 Both tested for proper leakage and gain.
 
+## What this pedal is
+
+Big Tone Music Brewery's Germanium Fuzz Master is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

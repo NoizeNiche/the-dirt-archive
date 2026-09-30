@@ -59,6 +59,10 @@ Standard mode preserves the familiar SD-1 mid-focused overdrive character, while
 - **Image source:** https://www.boss.info/us/products/sd-1w/
 - **Image source URL:** https://static.roland.com/products/sd-1w/images/sd-1w_hero.jpg
 
+## What this pedal is
+
+Product description The SD 1W Super Overdrive Waza Craft Guitar Pedal from BOSS offers guitarists a palette of overdrive tones, from creamy leads to crunchy rhythm sounds.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

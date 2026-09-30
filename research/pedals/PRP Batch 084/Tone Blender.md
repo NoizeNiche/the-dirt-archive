@@ -17,6 +17,10 @@ Reproduction of the classic Tone Bender family fuzz. Controls: Level and Attack.
 
 Its super thick vintage fuzz tone is achieved by means of three matched NOS 1960s era Russian military germanium transistors.
 
+## What this pedal is
+
+Big Knob Pedals's Tone Blender is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

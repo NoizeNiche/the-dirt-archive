@@ -23,6 +23,10 @@ Case Study Germanium Aspen Overdrive
 overdrive pedal Information The Case Study Effects Germanium Aspen is a Custom Shop reimagining of the Aspen overdrive pedal, distinguished by its use of rare germanium diodes in place of the standard silicon clipping stage.
 These diodes transform the pedal's response, producing softer clipping, smoother highs, and an organic liveliness that silicon cannot replicate.
 
+## What this pedal is
+
+Case Study Effects Co.'s **Builder:** Case Study Effects Co. is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

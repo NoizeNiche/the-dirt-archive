@@ -30,6 +30,14 @@ Blackout documents the circuit as using discrete transistors/components with no 
 
 The reviewed evidence does not establish a reliable model-specific sound description for Mantra Overdrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BlackOutEffectors's Mantra Overdrive is documented as a Overdrive model. Bass
+Treble
+Gain
+Volume
+Blackout documents the circuit as using discrete transistors/components with no diode clipping.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

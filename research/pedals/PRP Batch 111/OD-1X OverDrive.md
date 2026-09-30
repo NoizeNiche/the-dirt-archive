@@ -58,6 +58,10 @@ The OD-1X aims for punchy, articulate overdrive with strong note definition and 
 - **Image source:** https://www.boss.info/us/products/od-1x/
 - **Image source URL:** https://static.roland.com/products/od-1x/image/od-1x_gal_01.jpg
 
+## What this pedal is
+
+BOSS's OD-1X OverDrive is documented as a Overdrive model. The cataloged model is the OD 1X OverDrive . No separately documented factory colorway or hardware version was identified in the BOSS documentation checked.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

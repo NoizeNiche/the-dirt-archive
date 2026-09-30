@@ -22,6 +22,10 @@ Caline CP 21 Rock Face Distortion
 The excellent dynamic range, keep very good touch from low to high gain range.
 not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2019 11 29 Ryan Lutton Caline CP 21 Distortion (Rock Face) Demo 13:17 2016 03 17 Caline The video demo for Rock Face Distortion Pedal CP 21 2015 07 06 Chatreeo Caline CP 21 Rock Face Distortion 12:21 2014 02 26 skimy90 She (Green Day cover)
 
+## What this pedal is
+
+Caline's CP-21 Rock Face is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

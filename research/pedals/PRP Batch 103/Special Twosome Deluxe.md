@@ -31,6 +31,16 @@ The Special Twosome Deluxe is the later limited-run Twosome design that combines
 
 Effects Database documents Special Twosome Deluxe as a limited run Twosome generation combining Fix'd Fuzz Deluxe with either Musket Fuzz or Blunderbuss . A third footswitch lets the player change stacking order from the floor, while a color changing LED indicates which circuit is first. Both Musket and Blunderbuss versions are documented. 9V operation is part of the documented platform.
 
+## What this pedal is
+
+BlackOutEffectors's Special Twosome Deluxe is documented as a Fuzz model. Fix'd Fuzz Deluxe section
+Musket or Blunderbuss section, depending on run
+Three switch stacking control
+Footswitchable hierarchy/order
+Color changing LED for stack order
+Limited run
+9V operation
+
 ## Deep research verification
 
 Effects Database documents Special Twosome Deluxe as a limited-run Twosome generation combining **Fix'd Fuzz Deluxe** with either **Musket Fuzz or Blunderbuss**. A third footswitch lets the player change stacking order from the floor, while a color-changing LED indicates which circuit is first. Both Musket and Blunderbuss versions are documented. 9V operation is part of the documented platform.

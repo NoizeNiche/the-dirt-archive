@@ -22,6 +22,10 @@ Be the first to review “Caline G 001 Tiger Eye Distortion” Cancel reply You 
 not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 05 16 Pedal Projects Trying to Get Overdrive from a Distortion Pedal shorts pedals 0:56 2026 05 15 Pedal Projects Does This $30 Pedal Actually Shred?
 shorts guitarreview distortion 0:51 2026 05 05 Pedal Projects Don't Buy a Mini Distortion Pedal Until You See This (Caline Tiger Eye) 11:16 2023 02 04 Jo Bass Caline G 001 Tiger Eye Distortion (Bass Demo) 4:45 2023 01 24 Budget Pedal Chap Best DISTORTION you haven't tried?
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

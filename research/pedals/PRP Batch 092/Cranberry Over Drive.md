@@ -21,6 +21,10 @@ A BJFE overdrive documented in the historical pedal reference and listed among t
 
 Björn Juhl's historical BJFE reference lists Cranberry Over Drive as a distinct BJFE overdrive design among the builder's historical production and custom work. The cited reference treats BJFE models, research builds, prototypes and one offs separately, so the archive preserves Cranberry as its own pedal identity. Exact production controls and semiconductor details are not established in the reviewed source. citeturn620002search1
 
+## What this pedal is
+
+BJFE / BJF Electronics's Cranberry Over Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Björn Juhl's historical BJFE reference lists Cranberry Over Drive as a distinct BJFE overdrive design among the builder's historical production and custom work. The cited reference treats BJFE models, research builds, prototypes and one-offs separately, so the archive preserves Cranberry as its own pedal identity. Exact production controls and semiconductor details are not established in the reviewed source. citeturn620002search1

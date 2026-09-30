@@ -22,6 +22,10 @@
 TONEHOME the World of Vintage Guitar Effects Pedals Fuzz TONEHOME the World of Vintage Guitar Effect Pedals TONEHOME the World of Vintage Guitar Effect Pedals About ToneHome Ampeg Bell Electrolabs Blackfield Boss Carlsbro Fuzz Sustain Suzz C.E.I.
 Dixi CBS/Arbiter Colorsound/Sola Sound CosmoSound Dharma Sound EKO Electro Harmonix Electronic Sounds Elka Dizzy Tone Eurotec fOXX Futuristic Sounds Goldsound Höfner/Hofner Ibanez InterFax Jen Jennings Electr.
 
+## What this pedal is
+
+Carlsbro's **Builder:** Carlsbro is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

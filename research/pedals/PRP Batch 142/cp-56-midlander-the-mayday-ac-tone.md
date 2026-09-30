@@ -19,8 +19,11 @@
 
 ## Sound
 
-Caline CP 56 Midlander / The Mayday AC Tone
 With 6 controls for shaping EQ and overdrive response: LOW, MID, HIGH, VOL., VOICE, DRIVE.
+
+## What this pedal is
+
+Caline's CP-56 Midlander / The Mayday - AC Tone is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Deep research verification
 

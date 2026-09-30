@@ -7,7 +7,7 @@
 
 ## What this pedal is
 
-Green Russian is Big Knob's recreation of the Sovtek Green Russian fuzz circuit.
+Big Knob Pedals's Green Russian is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Controls
 

@@ -22,6 +22,10 @@ BLACKHEATH is a bass-focused distortion pedal in Laney's Black Country Customs l
 
 Featuring 2 different modes of Distortion and an Overdrive, the Blackheath delivers the classic distortion you want, from aggressive distortion through tube like distortion, to subtle distortions that add character to clean sounds.
 
+## What this pedal is
+
+Featuring 2 different modes of Distortion and an Overdrive, the Blackheath delivers the classic distortion you want, from aggressive distortion through tube like distortion, to subtle distortions that add character to clean sounds.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -22,6 +22,10 @@
 Imagine classic Muff style fuzziness with the punch of a classic overdrive, and you have Shigeharu™.
 Combine that with the parallel octave up voiced fuzz available on demand with the Havoc stomp and you have a whole lot of nasty right here.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

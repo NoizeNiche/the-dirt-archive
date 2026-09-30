@@ -23,6 +23,10 @@ Caline CP 504 “M: FUZZ” Classic Fuzz Guitar Effect Pedal $ 48.80 Original pr
 The Caline M Fuzz gives you huge ‘wall of sound’ chords whilst retaining note definition.
 For lead it offers rich harmonically complex fuzz distortion that’s equally pleasing to the ear on humbuckers and single coils alike.
 
+## What this pedal is
+
+Caline's CP-504 M:Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

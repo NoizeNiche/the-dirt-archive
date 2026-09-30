@@ -20,6 +20,10 @@ No acumulable con otras promociones Volver al producto TS.09/08 El overdrive má
 USOS OVERDRIVE de características clásicas, no hay mucho que decir de este over, tonos para blues, rock.
 CARACTERISTICAS Control, VOL GAIN, volumen y ganancia.
 
+## What this pedal is
+
+Cajita Stompboxes's TS09 TS08 Overdrive Tube Screamer is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

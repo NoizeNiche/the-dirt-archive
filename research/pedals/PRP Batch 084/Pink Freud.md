@@ -19,6 +19,10 @@ The best of both worlds – fuzz and overdrive – in a single pedal!
 Freud provides the perfect cure for fuzz sounding thin and stark by adding a built in overdrive at the end of a classic FF fuzz circuit.
 A versatile pedal, Pink Freud goes from screaming fuzz to shimmering clean, all with a simple roll off of your guitar’s volume knob.
 
+## What this pedal is
+
+Big Knob Pedals's Pink Freud is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

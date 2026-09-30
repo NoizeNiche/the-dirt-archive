@@ -33,3 +33,7 @@ EXP2000DR is built for a broad drive-to-distortion palette, with Classic mode em
 ## Archive photo
 
 - **Archive status:** **No Photo Archived**
+
+## What this pedal is
+
+BIXONIC's EXP2000DR is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.

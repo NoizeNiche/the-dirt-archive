@@ -19,6 +19,10 @@ The Pompeii at it’s heart is a simple Silicon Fuzz Face, taking it’s namesak
 David Gilmour of Pink Floyd was famous during that time for using a specific Dallas Arbiter Fuzz Face, achieving those rich and fuzzy lead tones saturating the air waves then… and now.
 You can literally place this Fuzz Face anywhere in your chain.
 
+## What this pedal is
+
+The Pompeii at it’s heart is a simple Silicon Fuzz Face, taking it’s namesake from a very famous era in the band Pink Floyd’s musical history.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

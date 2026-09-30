@@ -23,6 +23,10 @@ Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Quantum M
 Mike is known for great tone and groundbreaking music in the metal and doom community.
 The Quantum Mystic is an opamp based distortion/OD featuring a 3 band active EQ and germanium clipping.
 
+## What this pedal is
+
+The Quantum Mystic is an opamp based distortion/OD featuring a 3 band active EQ and germanium clipping.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

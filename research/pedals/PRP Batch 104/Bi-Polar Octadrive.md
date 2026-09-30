@@ -31,6 +31,13 @@ The builder also documented the use of some NOS transistors and diodes in this m
 
 The reviewed evidence does not establish a reliable model-specific sound description for Bi-Polar Octadrive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+Blakemore Effects's Bi-Polar Octadrive is documented as a Fuzz / Overdrive model. Overdrive section
+Footswitchable octave section
+Separate or combined operation
+NOS transistors/diodes documented in the build history
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

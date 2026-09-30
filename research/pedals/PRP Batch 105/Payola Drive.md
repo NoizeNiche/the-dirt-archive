@@ -35,6 +35,18 @@ BLAMMO! describes the circuit as a distant cousin of the Tube Screamer with a fi
 
 The reviewed evidence does not establish a reliable model-specific sound description for Payola Drive. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's Payola Drive is documented as a Overdrive model. LESS / MORE drive switching
+Wide gain range
+Passive tone filter
+Soft and hard clipping
+True bypass
+Relay based no click switching
+125B enclosure
+9V center negative
+35mA current draw
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -37,6 +37,10 @@ Based on a legendary circuit of TS808 but with the BOOtique modifications, this 
 A truly classic pedal but with true bypass so it doesn’t degrade your tone when not in use.
 The Drive knob allows you to dial in sounds from a very gentle tube like overdrive / crunch to a fully fat distortion.
 
+## What this pedal is
+
+Boo Instruments's BOO Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

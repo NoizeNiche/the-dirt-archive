@@ -23,6 +23,10 @@ fuzz pedal has captured the sound of the Jordan Bosstone and so much more.
 You can obtain a cool octavia vibe with the fuzz control just barely up, subtle throaty tones at the midpoint and full on in your face fuzz when dimmed.
 The BOD really cuts through in live situations and the sustain will travel for days.This is a unique fuzz tone; it is not a Fuzz Face, it is not a Big Muff.
 
+## What this pedal is
+
+Casey Gooby's **Builder:** Casey Gooby is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

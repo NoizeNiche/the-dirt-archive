@@ -22,6 +22,10 @@
 
 More musical than it's digital counterparts, this analogue fuzz for bass has a rotary control for depth which creates a variety of tones from 60's hippy to hard rock.
 
+## What this pedal is
+
+Cave Passive Pedals's **Builder:** Cave Passive Pedals is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

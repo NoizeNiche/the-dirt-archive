@@ -18,9 +18,12 @@
 
 ## Sound
 
-Caline CP 34 Headroom Vintage Distortion
 It is designed to cover a range of classic rock and higher gain textures, with a tonal character that can extend from focused distortion to more saturated, fuzz like sounds.
 These modes provide variations in gain structure and tonal emphasis, allowing different levels of saturation and frequency shaping while retaining the core distortion character.
+
+## What this pedal is
+
+Caline's CP-34 Headroom - Vintage Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Deep research verification
 

@@ -22,6 +22,10 @@ The Black Sheep is an all-transistor fuzz introduced by Black Arts Toneworks alo
 Pharaoh supreme which does all that the Gold Standard Pharaoh does, but with the addition of a input gain control and 6 way diode clipping, it can go both softer and more subtle to more aggressive and brash.
 The Black Sheep is an all transistor fuzz device with enough attitude and rough edges to deserve its name.
 
+## What this pedal is
+
+The Black Sheep is an all transistor fuzz device with enough attitude and rough edges to deserve its name.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

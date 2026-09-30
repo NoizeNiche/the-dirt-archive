@@ -55,6 +55,10 @@ Turbo I ranges from gritty drive to thick distortion and responds to picking int
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+BOSS's DS-2 TURBO Distortion is documented as a Distortion model. Turbo I: mid focused sound with enhanced low end. Turbo II: stronger midrange boost and a more harmonically rich high gain voice. External footswitch control is supported through the Remote jack.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -21,6 +21,10 @@ https://www.effectsdatabase.com/model/bigtone/sixofswords
 
 Effects Database documents the Six Of Swords as a continuous fuzz to overdrive design. V is volume, I changes attack, compression, sustain and saturation while using the guitar volume as a major part of drive behavior, X alters hair and intermodulation, and B/T form a two band EQ capable of shifting the voice from loose fuzz toward tighter distortion. Published June 4, 2008. Source: Effects Database.
 
+## What this pedal is
+
+Big Tone Music Brewery's Six Of Swords is documented in the current archive evidence as a Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents the Six Of Swords as a continuous fuzz-to-overdrive design. **V** is volume, **I** changes attack, compression, sustain and saturation while using the guitar volume as a major part of drive behavior, **X** alters hair and intermodulation, and **B/T** form a two-band EQ capable of shifting the voice from loose fuzz toward tighter distortion. Published June 4, 2008. Source: Effects Database.

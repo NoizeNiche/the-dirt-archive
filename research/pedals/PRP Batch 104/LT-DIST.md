@@ -34,6 +34,10 @@ All Blackstar products are subjected to extensive laboratory and road testing to
 Now you can effectively design your own tone and finally find 'the sound in your head'.
 Controls Gain The Gain control adjusts the amount of overdrive or distortion that the pedal will deliver.
 
+## What this pedal is
+
+Blackstar Amplification's LT-DIST is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

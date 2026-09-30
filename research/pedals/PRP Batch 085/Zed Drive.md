@@ -18,6 +18,10 @@ Big Knob's boutique overdrive based on the Hermida Zen Drive. A surviving Reverb
 Four knobs control the overall volume, gain, tone and voicing.
 While not a high gain pedal, the Zed packs some major mojo that can make even inexpensive solid state amps sound like expensive boutique models.
 
+## What this pedal is
+
+Big Tone Music Brewery's Zed Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -24,6 +24,10 @@ BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 You can absolutely slam the front end of an amp the most brutal fuzz imaginable.
 
+## What this pedal is
+
+The FELLBEAST includes an impedance correction transformer because all Blackhawk fuzz pedals can be placed anywhere in your guitar chain.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

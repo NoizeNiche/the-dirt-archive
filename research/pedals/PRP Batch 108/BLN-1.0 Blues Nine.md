@@ -31,6 +31,10 @@ The available surviving documentation is limited, so the archive records the mod
 
 The reviewed evidence does not establish a reliable model-specific sound description for BLN-1.0 Blues#Nine. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+Boot-Leg Hand Made Effects's BLN-1.0 Blues#Nine is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

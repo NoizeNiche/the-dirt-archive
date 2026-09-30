@@ -21,6 +21,10 @@
 It produces the iconic blues and rock overdrive sound but with the choice of TS808 or TS9 settings.
 The TS808 is a more open and brighter sound, switch to the TS9 Settings and serve up a tighter more compressed tone.
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

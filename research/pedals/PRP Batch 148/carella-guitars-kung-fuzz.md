@@ -21,6 +21,10 @@ Tu produci anche degli stompbox, dagli overdrive alle modulazioni, phaser e chor
 Nella sezione gain, c'è qualche standard famoso a cui ti rifai?
 Il Kung Fuzz è in rifacimento rivisto del famoso Fuzz Face.
 
+## What this pedal is
+
+Carella Guitars's **Builder:** Carella Guitars is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

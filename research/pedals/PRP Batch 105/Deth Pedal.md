@@ -36,6 +36,19 @@ BLAMMO! changes the clipping control to a continuous potentiometer that sweeps b
 
 The reviewed evidence does not establish a reliable model-specific sound description for Deth Pedal. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's Deth Pedal is documented as a Distortion model. RAT derived distortion
+Analog octave up blend
+FET clean boost
+Continuous symmetrical/asymmetrical clipping control
+Internal noise gate
+Relay soft switching / true bypass
+OP07 op amp
+Top mounted jacks
+9V center negative
+Limited to 50 units
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

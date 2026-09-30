@@ -21,6 +21,10 @@
 
 The reviewed evidence does not establish a reliable model-specific sound description for CHM-1 Heavy Metal. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+California (by Eleca)'s CHM-1 Heavy Metal is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The exact California (by Eleca) **CHM-1 Heavy Metal** record documents **Gain, Level, Middle, Mid Freq, High, Low** controls. A historical owner listing describes high-gain use, strong bass control and an integrated noise-gate behavior on the specific unit, but the archive does not treat that owner observation as universal factory specification. Exact transistor and diode data remain unknown.

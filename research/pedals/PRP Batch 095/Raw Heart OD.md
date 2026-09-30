@@ -23,6 +23,10 @@ Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Raw Heart
 The active EQ can control low/mid/treble but being between gain stages it can boost those frequencies into more or less distortion as needed.
 Low gain settings were of great importance to us and we were able to dial in clarity and articulation to make it a useful toneshaper in both live and studio applications.
 
+## What this pedal is
+
+Clarity, power, excellent eq shaping, fine tuning gain stages are all attributes of the Raw Heart OD.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

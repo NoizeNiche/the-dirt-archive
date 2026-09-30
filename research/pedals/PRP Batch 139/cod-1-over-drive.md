@@ -20,6 +20,10 @@
 
 The exact California (by Eleca) COD 1 Over Drive record documents Gain, Tone, Level controls. Effects Database places the model in the California/Eleca OEM family and describes a range from warm sustain through harder crunch while maintaining clarity and dynamic response. Exact semiconductor part numbers remain unknown.
 
+## What this pedal is
+
+California (by Eleca)'s COD-1 Over Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The exact California (by Eleca) **COD-1 Over Drive** record documents **Gain, Tone, Level** controls. Effects Database places the model in the California/Eleca OEM family and describes a range from warm sustain through harder crunch while maintaining clarity and dynamic response. Exact semiconductor part numbers remain unknown.

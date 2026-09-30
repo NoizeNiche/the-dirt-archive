@@ -23,6 +23,10 @@ The Fuzz takes advantage of a modernized tone stack and three distinct clipping 
 The Tone knob operates how you would expect with more bass and less treble when counter clockwise, to less bass and more treble when turned clockwise.
 All the way down, you have a full and present fuzz, but turn it up to add some of that signature midrange scoop.
 
+## What this pedal is
+
+Black Mass Electronics's The First Herald (Big Box) is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

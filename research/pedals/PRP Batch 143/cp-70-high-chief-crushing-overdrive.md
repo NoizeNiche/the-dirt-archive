@@ -23,6 +23,10 @@ Caline CP 70 High Chief Crushing Overdrive
 Video Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 03 24 TomsPedalDemos JCM Goodness with Dual Low Gain OD.
 0:16 2026 02 16 TomsPedalDemos Low Gain overdrive with Marshall JCM 800.
 
+## What this pedal is
+
+Caline's Crushing Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

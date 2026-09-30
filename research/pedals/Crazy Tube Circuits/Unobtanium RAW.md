@@ -56,6 +56,10 @@ RAW preserves the recognizable Klon/D-style dual-drive foundation but extends it
 - Thomann: https://www.thomannmusic.com/crazy_tube_circuits_unobtanium_raw.htm
 - Delicious Audio: https://delicious-audio.com/crazy-tube-circuits-unobtanium-raw-dual-drive/
 
+## What this pedal is
+
+Crazy Tube Circuits's Unobtanium RAW is documented as a Overdrive / Amp-in-a-Box model. K side: Gain, Treble, Volume, Stock/OC45, Buffer/True. D side: Gain, Emphasis, Tone, Volume, ODS/SSS. Passive effects loop between sections.
+
 ## Sources checked
 
 1. Crazy Tube Circuits - Unobtanium Raw

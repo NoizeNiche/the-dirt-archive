@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer high-gain Super Metal distortion pedal.
+The Behringer SUPER METAL SM400 is a high gain distortion/sustain pedal with independent low and high frequency controls.
 
 ## Versions and history
 

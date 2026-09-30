@@ -41,6 +41,10 @@ The rear/recording system adds Cab Rig speaker simulation, XLR DI, low-latency U
 10 Series of valve pedals from Blackstar Amplification is the Dual Distortion, a bold, black beauty that takes high gain action up a notch.
 10 pedals, the Dual Distortion is powered at its core by an ECC83 tube (luckily, they all have that perfectly placed guard to protect it).
 
+## What this pedal is
+
+Blackstar Amplification's Dept. 10 Dual Distortion is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

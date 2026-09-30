@@ -35,6 +35,16 @@ The documented control set is Volume, Tone and Gain plus a mini toggle selecting
 
 The exact AH 1 record documents a compact Allen Hinds signature distortion derived from Bob Burt's GR8T Distortion. Verified controls are Volume, Tone, Gain , plus a two position structure switch and an internal gain/attack trim. The two structures represent Hinds' preferred options from the larger GR8T palette, with one more open/dynamic and the other more compressed/saturated. The design uses a single gain stage and is hand built/individually tuned.
 
+## What this pedal is
+
+Bob Burt Cabinets & Pedals's AH-1 Allen Hinds Signature Distortion is documented as a Distortion / Overdrive model. Derived from GR8T Distortion
+Volume, Tone and Gain
+Two position structure switch
+Internal gain/attack trim
+Single gain stage design
+True bypass
+Hand built and individually tuned
+
 ## Deep research verification
 
 The exact AH-1 record documents a compact Allen Hinds signature distortion derived from Bob Burt's GR8T Distortion. Verified controls are **Volume, Tone, Gain**, plus a two-position structure switch and an internal gain/attack trim. The two structures represent Hinds' preferred options from the larger GR8T palette, with one more open/dynamic and the other more compressed/saturated. The design uses a single gain stage and is hand-built/individually tuned.

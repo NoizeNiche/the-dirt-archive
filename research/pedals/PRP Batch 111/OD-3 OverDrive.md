@@ -57,6 +57,10 @@ The OD-3 has a smooth, full overdrive character with more sustain and compressio
 - **Image source:** https://www.boss.info/global/products/od-3/
 - **Image source URL:** https://www.boss.info/RolandComSite/media/assets/images/products/main/od_3_main.jpg?ext=.jpg
 
+## What this pedal is
+
+BOSS's OD-3 OverDrive is documented as a Overdrive model. The cataloged model is the OD 3 OverDrive . No separately documented factory colorway or public hardware version was identified in the BOSS documentation checked.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

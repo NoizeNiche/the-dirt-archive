@@ -21,6 +21,10 @@ https://bixonic-sound.com/products/exp2000dr
 
 The cited BIXONIC product documentation supports EXP2000DR Clean & Drive as the next generation platform with Clean, Crunch, Distortion, Forbidden modes, Gain, Tone, Nuance, Level , 3 band EQ, Modern/Classic voicings, selectable true or buffered bypass and three memories. Classic mode is explicitly intended to reproduce the 1994 original Expandora character. Exact digital hardware part numbers are not stated.
 
+## What this pedal is
+
+BIXONIC's EXP2000DR Clean & Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited BIXONIC product documentation supports EXP2000DR Clean & Drive as the next-generation platform with **Clean, Crunch, Distortion, Forbidden** modes, **Gain, Tone, Nuance, Level**, 3-band EQ, Modern/Classic voicings, selectable true or buffered bypass and three memories. Classic mode is explicitly intended to reproduce the 1994 original Expandora character. Exact digital hardware part numbers are not stated.

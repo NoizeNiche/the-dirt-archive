@@ -17,6 +17,10 @@ BTMB Overdrive was designed from the ground up rather than as simply another mod
 
 Effects Database documents the exact model as a ground up overdrive, not simply a modified Tube Screamer. Verified controls are Level, Tone, Drive . The design uses a hand set bias on its JFET based operational amplifier to shape tube like compression and sag characteristics. It supports a 9V battery or 9V, 12V, 15V, or 18V negative tip supply, draws about 4.5 mA, and lists 470 kOhm input and 100 kOhm output impedance. Construction is hand assembled with through hole, panel mounted components, Neutrik jacks, and 3PDT true bypass. Source: Effects Database.
 
+## What this pedal is
+
+Big Tone Music Brewery's BTMB Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents the exact model as a ground-up overdrive, not simply a modified Tube Screamer. Verified controls are **Level, Tone, Drive**. The design uses a hand-set bias on its JFET-based operational amplifier to shape tube-like compression and sag characteristics. It supports a 9V battery or 9V, 12V, 15V, or 18V negative-tip supply, draws about 4.5 mA, and lists 470 kOhm input and 100 kOhm output impedance. Construction is hand-assembled with through-hole, panel-mounted components, Neutrik jacks, and 3PDT true bypass. Source: Effects Database.

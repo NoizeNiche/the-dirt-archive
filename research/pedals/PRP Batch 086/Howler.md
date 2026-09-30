@@ -21,6 +21,10 @@ https://www.effectsdatabase.com/model/bwm/howler
 
 The cited Effects Database record supports the exact Howler identity and its RAT derived lineage. Verified characteristics include 100% analog construction, hand assembly, military grade epoxy glass circuit board, steel enclosure, heavy duty switching, LED indication, true bypass, and a three way tone switch for distinct distortion palettes. Exact semiconductor part numbers are not documented in the cited record.
 
+## What this pedal is
+
+Big White Monkey Amps's Howler is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Effects Database record supports the exact Howler identity and its RAT-derived lineage. Verified characteristics include 100% analog construction, hand assembly, military-grade epoxy-glass circuit board, steel enclosure, heavy-duty switching, LED indication, true bypass, and a three-way tone switch for distinct distortion palettes. Exact semiconductor part numbers are not documented in the cited record.

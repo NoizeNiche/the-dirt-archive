@@ -34,6 +34,16 @@ The pedal uses true bypass switching, a DC jack and can operate from 9V to 18V. 
 Open media 3 in modal Play video Purple Nurple Overdrive opens full screen video in same window.
 From gritty clean boost to tweed like breakup to mild fuzz, the Purple Nurple Overdrive covers a lot of ground.
 
+## What this pedal is
+
+BMF Effects's Purple Nurple Overdrive is documented as a Overdrive model. Gritty clean boost to mild fuzz range
+Touch sensitive response
+Strong interaction with guitar volume
+True bypass
+9V to 18V operation
+11mA current draw
+2.9 x 4.5 inch enclosure
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

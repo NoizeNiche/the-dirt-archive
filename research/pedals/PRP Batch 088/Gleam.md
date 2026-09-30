@@ -23,6 +23,10 @@ Its 2 x 3 way Impedance and Tone switches select those profiles, while 9V to 25V
 The manual includes an 8 Bit Fuzz preset; GPX’s favourite uses both switches DOWN.
 I’m not usually big on hyperbole while this V2 Gleam might just be the most potent silicon fuzz pedal made to date where its 8 controls incredibly deliver pretty authentic FZ 1, MKI, MKII and FF voicings and then some.
 
+## What this pedal is
+
+This is my second Gleam, where for the V1 edition the Bias control was internal, and the Impedance and Tone controls were slightly less granular 2 way switches.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -21,6 +21,10 @@
 
 Level and Distortion controls give you complete command of the amount of signal processing.
 
+## What this pedal is
+
+CastleRock's **Builder:** CastleRock is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

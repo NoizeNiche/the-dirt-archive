@@ -24,6 +24,10 @@ Four controls allow you to fine tune the response to your guitar and rig Range, 
 This circuit is optimized for down tuning but works equally great for standard tuning thanks to the Range control, which allows you to "customize" the treble booster section of the circuit anywhere from treble boost to full range boost.
 I used that treble booster on all the early Sabbath albums and put it into the Laney because it boosted the input and gave it the overdrive I was looking for, which amps in the early days didn't have." Then in 1979 another tech threw it into the garbage, thinking it was crap.
 
+## What this pedal is
+
+Catalinbread Effects's **Builder:** Catalinbread Effects is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

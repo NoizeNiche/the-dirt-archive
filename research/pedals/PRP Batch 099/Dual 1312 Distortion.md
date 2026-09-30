@@ -24,6 +24,10 @@ Dual 1312 Distortion Black Mass Electronics
 The 1312 Distortion is a famous three letter 🐀 distortion circuit with 8 different clipping options on a rotary switch.
 Accolades: 10/10 Rating from Guitar.com Editor's Choice from Guitar.com Favorite Distortion of r/guitarpedals 2021.
 
+## What this pedal is
+
+Black Mass Electronics's Dual 1312 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

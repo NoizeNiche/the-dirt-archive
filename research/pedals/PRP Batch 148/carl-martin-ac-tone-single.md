@@ -21,6 +21,10 @@
 
 The AC Tone Single is voiced after the classic Vox AC30 amp, moving from shimmering, chiming clean tones to British style overdrive. The Cut control reduces high frequency content as described by Carl Martin.
 
+## What this pedal is
+
+Carl Martin's **Builder:** Carl Martin is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

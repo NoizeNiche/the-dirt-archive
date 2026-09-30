@@ -22,6 +22,10 @@ https://www.effects-pedals.info/p/biyang-od-8-x-drive/
 
 The cited Effects Database and Effects Pedals sources support OD 8 X Drive as a Tonefancier overdrive with Volume, Tone, Drive and TS, BRIGHT, WARM modes. Its defining feature is a changeable plug in op amp/chip arrangement that permits chip changes without soldering. Exact stock chip supplied with each production unit is not established by the reviewed sources.
 
+## What this pedal is
+
+Biyang's OD-8 X-Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Effects Database and Effects-Pedals sources support OD-8 X-Drive as a Tonefancier overdrive with **Volume, Tone, Drive** and **TS, BRIGHT, WARM** modes. Its defining feature is a changeable plug-in op-amp/chip arrangement that permits chip changes without soldering. Exact stock chip supplied with each production unit is not established by the reviewed sources.

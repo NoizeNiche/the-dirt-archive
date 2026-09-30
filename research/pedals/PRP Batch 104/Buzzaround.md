@@ -36,6 +36,17 @@ Electronics Model: Buzzaround Condition: New Description: Known to some as the â
 For quite some time conventional wisdom said Tone Bender guy Gary Hurst designed it but actually itâ€™s an unauthorized copy of a much more obscure circuit called the Harmonic Generator by Gerry Pope of G.P.
 The three NPN Germanium transistors are hand tested for gain and leakage to ensure the proper values are placed in each position.
 
+## What this pedal is
+
+BLAMMO! Electronics's Buzzaround is documented as a Fuzz model. Three NOS MP38A germanium NPN transistors
+Original style component values
+Added master volume
+Relay true bypass
+125B enclosure with top mounted jacks
+9V center negative
+38mA current draw
+Handmade in Portland, Oregon
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

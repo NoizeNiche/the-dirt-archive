@@ -34,6 +34,16 @@ Boorocks describes the pedal as hand-wired with selected parts, including German
 
 The reviewed evidence does not establish a reliable model-specific sound description for LEON Multi-Driver MD-1. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+Boorocks's LEON Multi-Driver MD-1 is documented as a Distortion / Fuzz / Overdrive model. Level
+Tone
+Character
+Gain
+Effect on/off
+9V 006P battery or regulated external adapter
+Hand wired construction
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

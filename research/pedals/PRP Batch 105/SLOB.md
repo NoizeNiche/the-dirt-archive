@@ -34,6 +34,17 @@ BLAMMO! updates the original concept with relay-based true bypass, compact top-m
 
 The reviewed evidence does not establish a reliable model-specific sound description for SLOB. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+BLAMMO! Electronics's SLOB is documented as a Fuzz model. Analog octave up fuzz
+Clean blend
+Relay true bypass
+No click footswitch
+Matched signal path diodes
+Beefed up power filtering
+9V center negative
+32mA current draw
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

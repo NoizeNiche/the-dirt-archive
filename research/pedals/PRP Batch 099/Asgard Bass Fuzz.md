@@ -22,6 +22,10 @@ The Åsgard Bass Fuzz is a cascaded-transistor high-gain fuzz that can move from
 
 The cited Blackhawk sources document the Åsgard Bass Fuzz as a cascaded transistor high gain bass fuzz spanning heavy overdrive through large saturated fuzz. Verified controls include Volume, Gain, Tone/Low Pass, Clean Blend and a defeatable notch filter that produces a large mid boost. The design also documents diode/MOSFET clipping choices and mild gating in the second gain stage. V2 addressed oscillation problems with a new layout, double copper planes and shielded cables.
 
+## What this pedal is
+
+Blackhawk Amplifiers's Asgard Bass Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Blackhawk sources document the Åsgard Bass Fuzz as a cascaded-transistor high-gain bass fuzz spanning heavy overdrive through large saturated fuzz. Verified controls include **Volume, Gain, Tone/Low-Pass, Clean Blend** and a defeatable notch filter that produces a large mid boost. The design also documents diode/MOSFET clipping choices and mild gating in the second gain stage. V2 addressed oscillation problems with a new layout, double copper planes and shielded cables.

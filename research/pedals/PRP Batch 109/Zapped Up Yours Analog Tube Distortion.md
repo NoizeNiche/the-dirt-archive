@@ -38,6 +38,10 @@ Level sets output and Distortion moves from lower drive into much heavier satura
 
 Bootlegger Guitar Zapped "Up Yours" Tube Distortion — Distortion Pedal Specs & Where to Buy
 
+## What this pedal is
+
+Bootlegger Guitar's Zapped Up Yours Analog Tube Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

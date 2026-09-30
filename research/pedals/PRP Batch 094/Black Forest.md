@@ -21,6 +21,10 @@ The Black Forest is Black Arts Toneworks' dirted-up take on a classic rock circu
 
 The exact Black Arts Toneworks model source identifies Black Forest as a dirted up classic rock circuit with increased gain and fatness. The documented control set includes Fuzz, Bass, Treble, Volume plus a six position selector that changes gain, low end response and voicing. Exact transistor and diode part numbers are not published in the reviewed source.
 
+## What this pedal is
+
+Black Arts Toneworks's Black Forest is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The exact Black Arts Toneworks model source identifies Black Forest as a dirted-up classic-rock circuit with increased gain and fatness. The documented control set includes **Fuzz, Bass, Treble, Volume** plus a six-position selector that changes gain, low-end response and voicing. Exact transistor and diode part numbers are not published in the reviewed source.

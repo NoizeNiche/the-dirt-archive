@@ -57,6 +57,10 @@ The DS-1 produces a tight, hard-edged distortion with smooth sustain and strong 
 - **Archive status:** **Exact model photo archived**
 - **Image source:** https://www.alamomusic.com/
 
+## What this pedal is
+
+BOSS's DS-1 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

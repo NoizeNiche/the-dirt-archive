@@ -22,6 +22,10 @@ Caline DCP 02 Brutus Overdrive/Distortion
 With the effects ranging from overdrive to EQ to distortion to compression to fuzz and more, there's something in this lineup for everyone.
 Today, we're going to take a look at the DCP 02 Brutus Distortion Overdrive, a powerful dual dirt combo that packs a punch and adds to your tone.
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

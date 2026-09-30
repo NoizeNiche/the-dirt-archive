@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer Power Overdrive from the compact pedal range.
+The Behringer POWER OVERDRIVE PO300 is a tube like overdrive designed for thick drive and extended sustain, with a voicing system aimed at hard rock and heavy metal applications.
 
 ## Versions and history
 

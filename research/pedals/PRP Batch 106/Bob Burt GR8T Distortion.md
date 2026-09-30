@@ -36,6 +36,10 @@ Unlike an overdrive circuit, where the op amp handles amplification directly, th
 The GR8T is based around a single gain stage, which keeps the circuit quiet while maintaining clarity, note definition, and pure guitar tone.
 Starting with no compression, each step clockwise increases compression and reshapes the distortion waveform, offering eight unique voices in one pedal.
 
+## What this pedal is
+
+Bob Burt Cabinets & Pedals's GR8T Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -22,6 +22,10 @@ Ladies and gents, here is the Boost 98 Bass Drive from Caswell Modern Electronic
 Earlier this year, we had the pleasure of reviewing Caswell Modern Electronic’s Boost 90 Clean Drive , and it was a wonderful one knob overdrive in it’s own right, for sure!
 The Boost 98 Bass Drive takes those same basic principles and reworks them, focusing all its energy on boosting the low end frequencies, something that many overdrives fail to do, resulting in questionable tones and functionality.
 
+## What this pedal is
+
+Caswell Modern Electronics (CME)'s **Builder:** Caswell Modern Electronics (CME) is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

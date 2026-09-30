@@ -23,6 +23,10 @@ not by manufacturer Date ▼▲ Maker ▼▲ Video ▼▲ Time ▼▲ 2026 07 31
 Tim V3 Vs Caline Pure Sky 3:45 2024 09 08 TL Toneworks Caline Pure Sky Vs NUX Sixty Five Overdrive 3:46 2024 08 16 TL Toneworks Timmy Pedal Wars
 5:34 2023 10 16 FelipeNovaes Comparativo: Demonfx Angel Blue Drive vs Caline Pure Sky 12:32 2023 06 14 Budget Pedal Chap You CANNOT miss out on this one!
 
+## What this pedal is
+
+Caline's CP-12 Pure Sky is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

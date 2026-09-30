@@ -22,6 +22,10 @@ The circuit was almost identical to its golden cousin the legendary Tone bender√
 Thus, the tone retains the subtlety of your playing.
 These pedal are tone machine, Kindly use an amp that has some mild grit, the addition of that point is the key to the tone.
 
+## What this pedal is
+
+Calangary Pedals's Zaladin Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

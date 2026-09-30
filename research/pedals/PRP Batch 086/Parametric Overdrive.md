@@ -21,6 +21,10 @@ https://www.effectsdatabase.com/model/bigtone/overdrive/parametric
 
 Effects Database documents three core parameters: Gain , Timbre , and Symmetry . Timbre sets the frequency of the midrange roll off, while Symmetry blends symmetrical and asymmetrical clipping. A separate boost section has a Pre/Post switch, placing the boost before the overdrive for gain interaction or after it for added output. Source: Effects Database.
 
+## What this pedal is
+
+Big Tone Music Brewery's Parametric Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents three core parameters: **Gain**, **Timbre**, and **Symmetry**. Timbre sets the frequency of the midrange roll-off, while Symmetry blends symmetrical and asymmetrical clipping. A separate boost section has a **Pre/Post** switch, placing the boost before the overdrive for gain interaction or after it for added output. Source: Effects Database.

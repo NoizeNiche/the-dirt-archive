@@ -22,6 +22,10 @@ https://www.rockboard.de/en/pedalPedia/Biyang/FZ-7-Fuzz/68975637/
 
 The reviewed evidence does not establish a reliable model-specific sound description for FZ-7 Fuzz. The archive leaves the sonic summary limited to documented evidence rather than inferring characteristics from the dirt-type classification.
 
+## What this pedal is
+
+Biyang's FZ-7 Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -32,6 +32,16 @@ The Preamp can be used as a boost, while Focus shapes the low-frequency content 
 
 Effects Database documents Blunderbuss as a four stage Musket derived fuzz using a hybrid germanium/silicon gain architecture and asymmetrical clipping. Verified controls are Gain, Preamp, Focus, Tone, Midrange, Level . Preamp can function as a boost, while Focus changes the low frequency content entering the fuzz stages. The documented design supports 9V or 18V operation and true bypass.
 
+## What this pedal is
+
+BlackOutEffectors's Blunderbuss Fuzz is documented as a Fuzz model. Gain
+Preamp
+Focus
+Tone
+Midrange
+Level
+The Preamp can be used as a boost, while Focus shapes the low frequency content entering the fuzz stages. True bypass is documented.
+
 ## Deep research verification
 
 Effects Database documents Blunderbuss as a four-stage Musket-derived fuzz using a **hybrid germanium/silicon** gain architecture and asymmetrical clipping. Verified controls are **Gain, Preamp, Focus, Tone, Midrange, Level**. Preamp can function as a boost, while Focus changes the low-frequency content entering the fuzz stages. The documented design supports 9V or 18V operation and true bypass.

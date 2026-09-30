@@ -33,6 +33,10 @@ The public record only establishes the prototype as a dirt pedal covering the di
 
 - **Archive status:** **No Photo Archived**
 
+## What this pedal is
+
+Black Cat Pedals's RGDP - Really Great Dirt Pedal is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database documents RGDP as a **NAMM 2016 prototype** presented under the working name “Really Great Dirt Pedal.” The record does not establish a final production name or long-running factory model, so the archive preserves it explicitly as a prototype identity. Exact circuit and semiconductor details remain undocumented.

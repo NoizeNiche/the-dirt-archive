@@ -23,6 +23,10 @@ Pictures and images Biyang DS 7 Distortion Audiofanzine window.googletag = windo
 DS 7 supply 3 kind of distortion tones: The NORMAL mode keeps the classic distortion tone, a saturated tone, a moderate distortion tone.
 tune on the BRIGHT model for brightness enhancement,supply the almost same broad and smooth tone as the same like the tube.
 
+## What this pedal is
+
+Biyang's DS-7 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

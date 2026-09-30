@@ -31,6 +31,10 @@ All Blackstar products are subjected to extensive laboratory and road testing to
 The unique tone control cuts the fizz without making your backed off tone sound dull and lifeless.
 Controls Gain The Gain knob controls the amount of overdrive or distortion that the pedal will deliver.
 
+## What this pedal is
+
+Blackstar Amplification's LT-DRIVE is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

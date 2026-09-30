@@ -8,7 +8,7 @@
 
 ## What this pedal is
 
-Historical Behringer Ultra Distortion compact pedal.
+Behringer's UD300 Ultra Distortion is documented as a Distortion model. Historical Behringer product identity. Detailed production dates and revision changes remain pending deeper verification.
 
 ## Versions and history
 

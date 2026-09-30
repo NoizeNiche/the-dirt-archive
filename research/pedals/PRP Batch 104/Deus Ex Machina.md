@@ -35,6 +35,14 @@ Guitar Pedal X News Campaign to Revive the Cult Classic Blakemore Effects Deus E
 Reset Password Filter content by area of interest Amps Boost and Overdrive Delay Distortion Fuzz Guitars Modulation Pitch Reverb Utility All All Campaign to Revive the Cult Classic Blakemore Effects Deus Ex Machina Opamp Fuzz!
 During his relatively brief tenure as Blakemore Effects, he was responsible for some truly exceptional mid size fuzz boxes in particular, while his notable pedals included the Bi Polar Octadrive, Dreamsicle IC Fuzz, Deus Ex Machina Opamp Fuzz, Motor City Fuzz, Mustang Overdrive, and R.O.U.S Distortion (Rat).
 
+## What this pedal is
+
+Blakemore Effects's Deus Ex Machina is documented as a Fuzz model. Op amp fuzz architecture
+Clean blend
+Mid boost
+Broad fuzz/tone adjustment
+Handmade construction
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

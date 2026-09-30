@@ -9,7 +9,7 @@
 
 ## What this pedal is
 
-DT-510 Distortion is part of Coron's later, last-series pedal family.
+Coron's DT-510 Distortion is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Controls
 

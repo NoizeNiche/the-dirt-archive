@@ -38,6 +38,10 @@ Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note:
 Previous Catalogue Next 1356 :: Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items.
 Please ask for a condition report before placing any kind of bid Blackstar Amplification HT DISTX Pure Valve distortion guitar pedal Please note: Gardiner Houlgate do not guarantee the full working order of any electrical items.
 
+## What this pedal is
+
+Blackstar Amplification's HT-DISTX is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -23,6 +23,10 @@ Pre Gain sets the overall gain level of the device, the gain control dials in th
 Use it to push your amp into super creamy saturation, use it to boost your riffs into full and thick exaggerations of your amp’s base tone.
 The Revelation does not alter your tone, just makes MORE of it.
 
+## What this pedal is
+
+Black Arts Toneworks's Revelation is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

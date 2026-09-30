@@ -23,6 +23,10 @@ Black Arts Toneworks Menu Pedals News Swag Friends & Retailers Contact Skyboost 
 Great for boosting and adding some edge to a dirty preamp, add definition to a saturated front end.
 Controls: Gain – Dial up harmonic content maxing up to fuzzy Volume – Match your amp volume, then cut or boost as needed Contour – toggle between a bassy setting and a trebly setting.
 
+## What this pedal is
+
+Black Arts Toneworks's Skyboost is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

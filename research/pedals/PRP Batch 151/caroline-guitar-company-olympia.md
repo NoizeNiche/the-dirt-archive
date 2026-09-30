@@ -22,6 +22,10 @@
 Caroline Olympia Fuzz Archives Caroline Guitar Company Caroline Guitar Company Dreamed, designed, and created at our small batch distortery™ in Columbia, South Carolina.
 July 26, 2011 We’re running a fundraising campaign through Kickstarter to launch the follow up to our acclaimed Wave Cannon™ overdriver: the OLYMPIA fuzz.
 
+## What this pedal is
+
+Caroline Guitar Company's **Builder:** Caroline Guitar Company is documented in the current archive evidence as a Distortion / Fuzz / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

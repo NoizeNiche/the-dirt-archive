@@ -31,6 +31,10 @@ The standard control layout is Gain, Tone and Volume with true-bypass switching.
 
 Effects Database and the Bob Burt interview record the standard Bob Burt Overdrive as a transparent, low end preserving overdrive with Gain, Tone and Volume and true bypass. Published variants include Low Gain, High Gain and a bass oriented version. The documented voicing emphasizes retained lows, controlled mids and a broad tone sweep from darker brown style response toward brighter attack.
 
+## What this pedal is
+
+Bob Burt Cabinets & Pedals's Overdrive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 Effects Database and the Bob Burt interview record the standard Bob Burt Overdrive as a transparent, low-end-preserving overdrive with **Gain, Tone and Volume** and true bypass. Published variants include Low Gain, High Gain and a bass-oriented version. The documented voicing emphasizes retained lows, controlled mids and a broad tone sweep from darker brown-style response toward brighter attack.

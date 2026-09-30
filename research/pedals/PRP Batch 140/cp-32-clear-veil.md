@@ -23,6 +23,10 @@ Caline CP 32 Clear Veil Overdrive/Fuzz – This Shop is in Canadian Dollars $$ F
 , Tone City Description Description Caline CP 32 Clear Veil Overdrive/Fuzz The Caline Clear Veil Fuzz Overdrive pedal is a unique pedal which incorporates a mix of overdrive and fuzz tones.
 One of the great things about this pedal is it can run on either 9v or 18v power supplies to give the pedal more headroom.
 
+## What this pedal is
+
+Caline CP 32 Clear Veil Overdrive/Fuzz – This Shop is in Canadian Dollars $$ Free N Fast USA /CAN Shipping, NO State/Province Tax NO Duty.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

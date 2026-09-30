@@ -40,6 +40,10 @@ Bogner Amplification Burnley Classic Distortion Guitar Effects Pedal
 Bogner Amplification Burnley Classic Distortion Pedal V2 for sale online
 It has easily 4 times the gain...4 times the sustain...even a C major fixed position cord rings out with perfect definition at full gain.
 
+## What this pedal is
+
+Bogner Amplification's Burnley is documented in the current archive evidence as a Distortion model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

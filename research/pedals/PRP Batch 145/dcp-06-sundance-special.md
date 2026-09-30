@@ -22,6 +22,10 @@ Caline DCP 06 Sundance Special Boost/Overdrive
 Our customers enjoy our Orange Burst Overdrive and Recluse Boost pedals so much we decided to combine them!
 Tame your sound or add a bunch of wild grit to your tone, whatever the job may be...
 
+## What this pedal is
+
+Caline's **Builder:** Caline is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

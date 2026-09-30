@@ -21,6 +21,10 @@ Toggle Menu PlexiTone Single High gain Plexi style pedal created with Pete Thorn
 Based on the original High Gain channel, with tighter low end and smoother top end for consistent tones across different setups.
 Operates internally at ±12V for extra headroom and dynamic response, powered by a standard 9V supply.
 
+## What this pedal is
+
+Carl Martin's **Builder:** Carl Martin is documented in the current archive evidence as a Distortion / Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

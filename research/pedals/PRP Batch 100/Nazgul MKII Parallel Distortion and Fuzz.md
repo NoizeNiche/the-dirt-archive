@@ -20,9 +20,12 @@ The Nazgûl MKII combines the Balrog Distortion MKII and Fellbeast Fuzz MKII as 
 
 ## Sound
 
-NAZGÛL MKII {{PARALLEL}} DISTORTION AND FUZZ
 BLACKHAWK AMPLIFIERS “CHERNOBYL” PI π BASS FUZZ IS BACK!!
 “CHERNOBYL” PI π BASS FUZZ IS BACK!!
+
+## What this pedal is
+
+Blackhawk Amplifiers's Nazgûl MKII Parallel Distortion and Fuzz is documented in the current archive evidence as a Distortion / Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
 
 ## Deep research verification
 

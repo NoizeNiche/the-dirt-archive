@@ -24,6 +24,10 @@ Carlsbro Fuzz Tone Overview Tech specs Notable users Sola Sound pedals Share you
 6 In addition to the official Carlsbro retail outlets, Carlsbro’s amplifiers and accessories (including the Fuzz Tone) were also sold by other retailers in the UK.
 7 The early Carlsbro fuzz pedals having been available to purchase as early as by 1966 was also supported by the original owner of one 8 and by the date codes on the potentiometers of surviving exemplars.
 
+## What this pedal is
+
+Carlsbro's **Builder:** Carlsbro is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.

@@ -21,6 +21,10 @@ https://www.effectsdatabase.com/model/bigfoot/spaghettiwestern
 
 The cited Effects Database record identifies Spaghetti Western Fuzz as a distinct Bigfoot F.X. fuzz aimed at buzz and honk rather than smooth Fuzz Face or Big Muff tones. Verified controls are Volume and Fuzz . The source describes an early Fuzzrite/Companion like character, strongest with single coil guitars, and records publication on April 6, 2009.
 
+## What this pedal is
+
+Bigfoot F.X.'s Spaghetti Western Fuzz is documented in the current archive evidence as a Fuzz model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 The cited Effects Database record identifies Spaghetti Western Fuzz as a distinct Bigfoot F.X. fuzz aimed at buzz and honk rather than smooth Fuzz Face or Big Muff tones. Verified controls are **Volume** and **Fuzz**. The source describes an early Fuzzrite/Companion-like character, strongest with single-coil guitars, and records publication on April 6, 2009.

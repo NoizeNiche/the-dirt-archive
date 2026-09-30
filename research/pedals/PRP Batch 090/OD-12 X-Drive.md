@@ -24,6 +24,10 @@ Based around the legendary JRC4558 chip used in the classic overdrives of the 19
 It offers three distinct tonal modes, letting players easily switch between classic tube style grit, brighter modern drive, and rounded, vintage warmth.
 Built with high quality components and true bypass circuitry, the OD 12 delivers professional grade tone and reliability at an accessible price point.
 
+## What this pedal is
+
+Biyang's OD-12 X-Drive is documented in the current archive evidence as a Overdrive model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Deep research verification
 
 This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
