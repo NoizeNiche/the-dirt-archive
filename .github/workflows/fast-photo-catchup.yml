@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # One scheduled safety pass per hour. Photo movement can self-dispatch the next
-    # bounded pass, so a 15-minute schedule only created contention.\n    - cron: "0 * * * *"
+    # bounded pass, so a 15-minute schedule only created contention.
+    - cron: "0 * * * *"
   push:
     paths:
       - research/PHOTO_FAST_KICK
