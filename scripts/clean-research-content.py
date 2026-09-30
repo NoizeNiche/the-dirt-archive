@@ -12,6 +12,8 @@ RESEARCH = ROOT / "research/pedals"
 
 SHELL_MARKERS = (
     "skip to content", "skip to main content", "log in now", "log in to suggest improvements", "sign in",
+    "hello, sign in", "account & lists", "add to my bookmarks", "add manual", "upload download",
+    "share url of this page", "back to products", "privacy terms", "all departments",
     "open menu", "close menu", "shopping bag", "site navigation",
     "log in to suggest improvements", "related brands", "related tags",
     "your cart is empty", "continue shopping", "navigation menu", "personal tools", "namespaces", "view source", "view history",
