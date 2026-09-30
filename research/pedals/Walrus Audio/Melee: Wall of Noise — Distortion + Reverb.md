@@ -36,7 +36,7 @@ Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a di
 
 ## Sound
 
-All Rights Reserved - **Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
+**Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
 
 Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
 
@@ -62,7 +62,7 @@ Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a di
 - The evidence references: MKII, revision.
 
 ### Verified sound evidence
-All Rights Reserved - **Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
+**Archive parent:** Melee: Wall of Noise — Distortion + Reverb - **Builder:** Walrus Audio - **Catalog type:** Distortion / Fuzz / Overdrive - **Identity:** Walrus Audio's Melee: Wall of Noise — Distortion + Reverb.
 Walrus Audio's Melee: Wall of Noise — Distortion + Reverb is cataloged as a distortion / fuzz / overdrive pedal.
 
 ### Sources checked in this pass
