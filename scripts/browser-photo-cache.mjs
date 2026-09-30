@@ -70,6 +70,19 @@ try {
   }
 } catch {}
 
+const curatedExactCaseKeys = new Set(
+  [...curatedExactSourcePages.keys()]
+    .map(value => String(value).split('\n', 1)[0])
+    .filter(Boolean)
+);
+
+function hasCuratedExactSourcePage(entry) {
+  return curatedExactCaseKeys.has(key(
+    String(entry?.company || entry?.builder || '').trim(),
+    String(entry?.pedal || '').trim()
+  ));
+}
+
 function modelSpecificSourcePage(entry, sourcePage) {
   if (!sourcePage || !entry) return false;
   try {
@@ -5029,7 +5042,9 @@ function imageBytesLookComplete(bytes, contentType = '') {
     // parked/high-attempt records effectively starve forever despite the comments
     // above promising dedicated hard-case capacity.
     const catchUpBudget = Math.max(0, LIMIT - hardCases.length);
-    const catchUpCases = researchedPhotoCases.slice(0, catchUpBudget);
+    const curatedCatchUpCases = researchedPhotoCases.filter(entry => hasCuratedExactSourcePage(entry));
+    const ordinaryCatchUpCases = researchedPhotoCases.filter(entry => !hasCuratedExactSourcePage(entry));
+    const catchUpCases = [...curatedCatchUpCases, ...ordinaryCatchUpCases].slice(0, catchUpBudget);
     const catchUpKeys = new Set(catchUpCases.map(entry => key(entry.company, entry.pedal)));
     const hardCaseKeys = new Set(hardCases.map(entry => key(entry.company, entry.pedal)));
     const freshPool = normalCandidates.length
