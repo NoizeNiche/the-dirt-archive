@@ -667,3 +667,22 @@ The archive's catalog and research lanes remain complete, with exact-photo recov
 - Added deployment and structural-validation coverage for the new comparison page.
 
 The workbench is a utility layer over the canonical archive, not a second source of truth. It intentionally avoids popularity scores, purchase recommendations, seller rankings, or market-value judgments.
+
+## Pre-launch hardening checkpoint - September 30, 2026
+
+The archive is in the final production-quality phase. The canonical catalog/research lane is complete at the current checkpoint; the remaining launch work is concentrated in photo integrity/recovery and exhaustive browser QA.
+
+### Hardening completed
+- Added deterministic cleanup for shared local primary-image paths so one asset cannot publish for multiple distinct Builder + Pedal identities.
+- Shared-path keeper selection now prefers explicit manual verification, canonical builder identities, and the base model over plus-variant collisions.
+- Blocked post-rebase photo reconciliation from resurrecting quarantined bytes or attaching an already-owned primary path to another identity.
+- Changed photo-cache concurrency so the newest recovery snapshot supersedes stale queued passes instead of accumulating behind them.
+- Added production-state synchronization to the photo cache lane and made exhaustive detail-audit failures print their exact affected records in CI logs.
+
+### Verified blockers at this checkpoint
+- The deployment gate previously caught six shared primary-photo path collisions: Devi Ever Vintage Fuzz Master, Himmelstrutz FITZO/FITZO+, Himmelstrutz GRAMPS/GRAMPS+, MXR Bass Distortion/Bass Distortion+, Silktone Fuzz/Fuzz+, and Union Tube & Transistor Tone Druid/Tone Druid+.
+- A separate quarantined/byte-identical photo issue was repeatedly resurrecting **Devi Ever : FX — Truly Beautiful Disaster**; the reconciliation lane is now explicitly prevented from doing that.
+- The last completed exhaustive detail audit covered **4,199 researched parent pages** and reported **32 failures**. A fresh audit is running with per-record failure logging so those defects can be corrected rather than guessed.
+- The photo tracker snapshot immediately before the failed cache pass was **126 researched-photo-pending**, with **94 photo-needed** and **32 deep-review**. The cleanup changes are not counted as verified publication state until a subsequent run commits and passes the photo gate.
+
+A production deployment is still pending successful validation and live browser audit. The visual/aesthetic redesign remains intentionally deferred until these functional and data-quality gates are green.
