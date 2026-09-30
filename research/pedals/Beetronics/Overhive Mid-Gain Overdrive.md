@@ -11,7 +11,9 @@
 
 ## What this pedal is
 
-The Overhive is a **mid-gain overdrive** designed to enhance an amplifier's natural character with warmth, clarity and bite. Beetronics describes its response as dynamic and touch-sensitive, moving from smooth edge-of-breakup tones to punchier saturation.\n\n## Catalog source
+The Overhive is a **mid-gain overdrive** designed to enhance an amplifier's natural character with warmth, clarity and bite. Beetronics describes its response as dynamic and touch-sensitive, moving from smooth edge-of-breakup tones to punchier saturation.
+
+## Catalog source
 - Catalog source page on file: https://www.beetronicsfx.com/collections/drive
 
 ## Deep research verification
