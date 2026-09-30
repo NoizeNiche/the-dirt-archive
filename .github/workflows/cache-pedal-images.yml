@@ -1,15 +1,9 @@
 name: Cache pedal images
 
 on:
-  # Photo recovery is intentionally cadence-driven. Repository/source edits are
-  # consumed by the next scheduled pass, preventing every small maintenance
-  # commit from creating another browser-heavy Actions job.
-  schedule:
-    - cron: '47 * * * *'
+  # Manual fallback lane. The fast photo catch-up workflow is the primary
+  # continuous recovery worker and should own the shared photo concurrency lane.
   workflow_dispatch:
-  # A single sentinel file provides a controlled manual kick when scheduled
-  # GitHub Actions delivery is delayed. Ordinary repository commits remain free
-  # of browser-heavy recovery runs.
   push:
     paths:
       - 'research/PHOTO_RECOVERY_KICK'
