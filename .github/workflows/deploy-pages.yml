@@ -68,12 +68,18 @@ jobs:
           current_sha="$(git rev-parse HEAD)"
           latest_sha="$(git rev-parse origin/main)"
           if [ "$current_sha" = "$latest_sha" ]; then
-            echo "current=true" >> "$GITHUB_OUTPUT"
             echo "Deployment snapshot is current: $current_sha"
           else
-            echo "current=false" >> "$GITHUB_OUTPUT"
             echo "Superseded deployment snapshot: current=$current_sha latest=$latest_sha"
+            # Public commits can be followed quickly by CI-only commits (for
+            # example audit kick files). Deploy the latest canonical main tree
+            # instead of skipping and leaving the public commit stranded.
+            git reset --hard origin/main
+            git clean -fd
+            current_sha="$(git rev-parse HEAD)"
+            echo "Rehydrated deployment snapshot to latest main: $current_sha"
           fi
+          echo "current=true" >> "$GITHUB_OUTPUT"
 
       - name: Build technical facet index
         if: steps.freshness.outputs.current == 'true'
