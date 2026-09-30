@@ -5,43 +5,41 @@
 - **Archive parent:** EasyDriver
 - **Builder:** DeadastronautFX
 - **Catalog type:** Overdrive
-- **Identity:** DeadastronautFX's EasyDriver.
+- **Identity:** DeadastronautFX EasyDriver.
 
 ## What this pedal is
 
-DeadastronautFX's EasyDriver is cataloged as an overdrive pedal.
+The surviving DeadastronautFX catalog explicitly lists **EasyDriver Overdrive**. The available technical reference describes an EasyDriver version that can use both soft- and hard-clipping approaches. The archive keeps the description at that level because the surviving source set does not establish a complete production specification.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No specific factory colorway sequence was established in the reviewed sources.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No distinct production revision was established in the reviewed sources.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The exact production control layout was not independently confirmed. The archive does not borrow controls from other DeadastronautFX projects.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping diode:** Not established.
 
 ## Sound
 
-​ Whether its a fuzz to a multi tap ambient delay I'm sure you'll find something you would like to add to your arsenal of effects sounds...
-The builder's surviving catalog explicitly lists EasyDriver Overdrive.
+The documented EasyDriver is an overdrive design. A technical reference describes the project as allowing both soft and hard clipping, so the clipping behavior is part of the documented design concept.
 
 ## Sources checked
 
-1. Deadastronautfx: https://deadastronaut.wixsite.com/effects
+1. DeadastronautFX manufacturer archive: https://deadastronaut.wixsite.com/effects
+2. Thermionic Effects reference, DeadastronautFX: https://thermionic-studios.com/wiki/index.php?title=Thermionic_Effects
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
