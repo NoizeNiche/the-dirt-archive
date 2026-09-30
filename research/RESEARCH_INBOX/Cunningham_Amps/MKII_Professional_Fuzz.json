@@ -1,25 +1,11 @@
 {
   "builder": "Cunningham Amps",
   "pedal": "MKII Professional Fuzz",
+  "original_builder": "Cunningham Amps",
+  "original_pedal": "MKII Professional Fuzz",
   "status": "VERIFIED_EVIDENCE_STAGED",
-  "independent_exact_source_count": 3,
+  "independent_exact_source_count": 1,
   "sources": [
-    {
-      "url": "https://www.cunninghamamps.co.nz/product-page/mkii-professional-fuzz-custom-order",
-      "title": "MKII Professional Fuzz - Custom Order | Cunningham Amps",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.cunninghamamps.co.nz",
-      "source_kind": "manufacturer"
-    },
-    {
-      "url": "https://www.facebook.com/cunninghamamps/posts/quick-and-dirty-demo-of-the-mkii-professional-fuzz-%EF%B8%8F%EF%B8%8F%EF%B8%8F-this-very-pedal-is-availa/1449479877180235/",
-      "title": "Quick and dirty demo of the MKII Professional Fuzz \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f This very pedal is available now in the webstore - link in bio \u2728\u2728\u2728 Signal chain is Strat, Fuzz, 62 Bassman head and cab set real clean \u26a1\ufe0f\u26a1\ufe0f\u26a1\ufe0f #quickanddirtydemos mkiiprofessional #germaniumfuzz #cunninghamamps #handmade #fuzzpedals #customfuzz #limitededition #sherwoodgreen #heavyrelic #tonebender #sandcast #tonebendermkii #fuzzpedal #tonefordays #guitargear #vintageguitar #vintagepedals #effectpedals #guitareffects #knowyourtone #dirtpedal #thefuzzpage #gutshotculture #artisanfuzz #fuzzdemo #guitardemo | Cunningham Amps",
-      "h1": "",
-      "excerpt": "",
-      "host": "www.facebook.com",
-      "source_kind": "catalog_verified"
-    },
     {
       "url": "https://www.edgeofbreakup.studio/latest-videos/the-perfect-tone-bender-cunningham-amps-mkii-professional-fuzz-oc76-germanium",
       "title": "The Perfect Tone Bender! | Cunningham Amps MKII Professional Fuzz (OC76 Germanium) \u2014 Edge of Breakup",
