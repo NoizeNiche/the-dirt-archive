@@ -35,8 +35,7 @@ Say goodbye to boring, earthling fuzz pedals, and embrace the genre-defying Supe
 
 ## Sound
 
-JPTR FX pedals dealer\u003c\/strong\u003e, and $159 is your absolute final\/total here year-round, for this brand new \u003cmeta charset=\"utf-8\"\u003e\u003cstrong\u003eJPTR FX\u003c\/strong\u003e \u003cstrong\u003eSuper Weirdo\u003c\/strong\u003e fuzz and modulation pedal (with box, etc.).
-UGLIEST SOUND DEVICES!\u003c\/em\u003e\u003c\/p\u003e\n\u003cp\u003eThe JPTR FX Super Weirdo pedal is \u003cstrong\u003ea Pulse Width Modulator Fuzz\u003c\/strong\u003e, that will BLOW YOUR MIND!
+JPTR FX describes the Super Weirdo as a pulse-width modulator fuzz that adds movement and texture to the signal, ranging from subtle shimmering noise to warbles and sweeps.
 It adds mesmerizing movement and texture to your sound, giving you the power to craft everything from subtle, shimmering noise, to full-blown warbles and sweeps.
 
 ## Sources checked
