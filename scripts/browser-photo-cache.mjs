@@ -5067,3 +5067,227 @@ function imageBytesLookComplete(bytes, contentType = '') {
     // photo-missing record priority over the much larger research+photo backlog.
     // This prevents a 2,500+ row fresh backlog from starving the small set that
     // must be cleared before PRP1 can move forward.
+    const researchedPhotoCases = [...orderedCandidates]
+      .filter(entry => {
+        const meta = trackerMeta.get(key(entry.company, entry.pedal));
+        return meta?.pedalInfoDone === true && meta?.pictureDone !== true;
+      })
+      .sort((a, b) => {
+        const aPriority = Number(a.image_source_priority) || 0;
+        const bPriority = Number(b.image_source_priority) || 0;
+        if (aPriority !== bPriority) return bPriority - aPriority;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      });
+
+    const HARD_CASE_SLOTS = Math.min(16, LIMIT, directImageCases.length + deepCandidates.length);
+    const FRESH_CASE_SLOTS = Math.max(0, LIMIT - HARD_CASE_SLOTS);
+
+    // Exact direct-image overrides outrank ordinary hard cases, including
+    // records already parked after repeated failures. Those URLs were curated
+    // from exact product pages, so they deserve immediate retry priority.
+    const directHardCases = directImageCases.slice(0, HARD_CASE_SLOTS);
+    const remainingHardSlots = Math.max(0, HARD_CASE_SLOTS - directHardCases.length);
+    const highAttemptCases = [...deepCandidates]
+      .filter(entry => !directHardCases.some(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)))
+      .sort((a, b) => {
+        const aReview = reviewByKey.get(key(a.company, a.pedal));
+        const bReview = reviewByKey.get(key(b.company, b.pedal));
+        const aAttempts = Number(aReview?.Attempts) || 0;
+        const bAttempts = Number(bReview?.Attempts) || 0;
+        if (aAttempts !== bAttempts) return bAttempts - aAttempts;
+        const aOrder = trackerMeta.get(key(a.company, a.pedal))?.order;
+        const bOrder = trackerMeta.get(key(b.company, b.pedal))?.order;
+        if (Number.isFinite(aOrder) && Number.isFinite(bOrder)) return aOrder - bOrder;
+        return 0;
+      })
+      .slice(0, remainingHardSlots);
+    const hardCases = [...directHardCases, ...highAttemptCases];
+
+    // Reserve HARD_CASE_SLOTS in every bulk pass. The previous implementation
+    // let the researched-photo catch-up set consume all LIMIT slots, which made
+    // parked/high-attempt records effectively starve forever despite the comments
+    // above promising dedicated hard-case capacity.
+    const catchUpBudget = Math.max(0, LIMIT - hardCases.length);
+    const curatedCatchUpCases = researchedPhotoCases.filter(entry => hasCuratedExactSourcePage(entry));
+    const ordinaryCatchUpCases = researchedPhotoCases.filter(entry => !hasCuratedExactSourcePage(entry));
+    const catchUpCases = [...curatedCatchUpCases, ...ordinaryCatchUpCases].slice(0, catchUpBudget);
+    const catchUpKeys = new Set(catchUpCases.map(entry => key(entry.company, entry.pedal)));
+    const hardCaseKeys = new Set(hardCases.map(entry => key(entry.company, entry.pedal)));
+    const freshPool = normalCandidates.length
+      ? [...normalCandidates, ...deepCandidates]
+      : deepCandidates;
+    const freshCases = freshPool
+      .filter(entry => !catchUpKeys.has(key(entry.company, entry.pedal)) && !hardCaseKeys.has(key(entry.company, entry.pedal)))
+      .slice(0, Math.max(0, LIMIT - catchUpCases.length - hardCases.length));
+
+    const activePool = [...hardCases, ...catchUpCases, ...freshCases]
+      .filter((entry, index, pool) => pool.findIndex(x => key(x.company, x.pedal) === key(entry.company, entry.pedal)) === index);
+
+    const selected = [];
+    const deferred = [];
+    const perBuilder = new Map();
+    for (const entry of activePool) {
+      const builder = String(entry.company || entry.builder || 'Unknown').trim();
+      const used = perBuilder.get(builder) || 0;
+      if (used < PER_BUILDER_LIMIT && selected.length < LIMIT) {
+        selected.push(entry);
+        perBuilder.set(builder, used + 1);
+      } else {
+        deferred.push(entry);
+      }
+    }
+    for (const entry of deferred) {
+      if (selected.length >= LIMIT) break;
+      selected.push(entry);
+    }
+    candidates = selected;
+  } else {
+    candidates = orderedCandidates.slice(0, LIMIT);
+  }
+
+  if (TARGET_BUILDER && TARGET_PEDAL) {
+    const targetReview = reviewByKey.get(key(TARGET_BUILDER, TARGET_PEDAL));
+    const targetAttempts = Number(targetReview?.Attempts) || 0;
+    const allowParkedRetry =
+      String(process.env.PHOTO_BROWSER_ALLOW_PARKED_RETRY || 'false').toLowerCase() === 'true';
+    if (
+      (targetReview?.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS) &&
+      !allowParkedRetry
+    ) {
+      if (targetAttempts >= MAX_RECOVERY_ATTEMPTS && targetReview?.Status !== 'PARKED') {
+        targetReview.Status = 'PARKED';
+        targetReview['Last Failure'] =
+          'PARKED after ' + MAX_RECOVERY_ATTEMPTS + ' automatic photo attempts; hold for deeper/manual photo research.';
+      }
+      writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+        (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+        String(a.Builder).localeCompare(String(b.Builder)) ||
+        String(a.Pedal).localeCompare(String(b.Pedal))
+      ));
+      console.log('Photo recovery skipped for parked target: ' + TARGET_BUILDER + ' - ' + TARGET_PEDAL);
+      process.exit(0);
+    }
+    if (
+      allowParkedRetry &&
+      targetReview &&
+      (targetReview.Status === 'PARKED' || targetAttempts >= MAX_RECOVERY_ATTEMPTS)
+    ) {
+      targetReview.Status = 'DEEP_REVIEW';
+      targetReview.Attempts = '0';
+      targetReview['Deep Review Cycles'] = String((Number(targetReview['Deep Review Cycles']) || 0) + 1);
+      targetReview['Last Failure'] =
+        'FRESH_SOURCE_RETRY cycle ' + targetReview['Deep Review Cycles'] + ' using broad-source recovery.';
+    }
+  }
+
+  const browser = await chromium.launch({ headless: true });
+  let recovered = 0;
+  let attempted = 0;
+  const failures = [];
+  const recoveredRecords = [];
+
+  for (let cursor = 0; cursor < candidates.length; cursor += CONCURRENCY) {
+    const batch = candidates.slice(cursor, cursor + CONCURRENCY);
+    attempted += batch.length;
+    const results = await Promise.all(batch.map(async entry => {
+      try {
+        const review = reviewByKey.get(key(entry.company, entry.pedal));
+        const deepReview =
+          review?.Status === 'DEEP_REVIEW' ||
+          String(process.env.PHOTO_BROWSER_DEEP_REVIEW || 'false').toLowerCase() === 'true';
+        const freshDeadlineMs = Math.max(
+          15000,
+          Number(process.env.PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS || 45000)
+        );
+        const entryDeadlineMs = deepReview ? RECOVERY_DEADLINE_MS : Math.min(RECOVERY_DEADLINE_MS, freshDeadlineMs);
+        const recoveryPromise = recoverEntry(browser, entry, deepReview, entryDeadlineMs);
+        const hardTimeout = new Promise((_, reject) => {
+          setTimeout(
+            () => reject(new Error('recovery hard timeout exceeded')),
+            entryDeadlineMs + 5000
+          );
+        });
+        const result = await Promise.race([recoveryPromise, hardTimeout]);
+        return { entry, result };
+      } catch (err) {
+        return { entry, error: err };
+      }
+    }));
+
+    for (const result of results) {
+      const entry = result.entry;
+      const entryKey = key(entry.company, entry.pedal);
+      const m = manifestByKey.get(entryKey);
+      const existingReview = reviewByKey.get(entryKey);
+      if (result.error) {
+        const failure = result.error.message;
+        failures.push(entry.company + ' - ' + entry.pedal + ': ' + failure);
+        const row = existingReview || {
+          Builder: entry.company || entry.builder || '',
+          Pedal: entry.pedal || '',
+          'Catalog Type': entry.catalog_type || entry.catalogType || '',
+          Status: 'DEEP_REVIEW',
+          Attempts: '0',
+          'Last Failure': ''
+        };
+        row.Attempts = String((Number(row.Attempts) || 0) + 1);
+        const attempts = Number(row.Attempts) || 0;
+        const wasDeepReview = existingReview?.Status === 'DEEP_REVIEW';
+        row.Status = attempts >= MAX_RECOVERY_ATTEMPTS ? 'PARKED' : 'DEEP_REVIEW';
+        row['Last Failure'] = attempts >= MAX_RECOVERY_ATTEMPTS
+          ? 'PARKED after ' + MAX_RECOVERY_ATTEMPTS + (wasDeepReview ? ' deep-review attempts: ' : ' automatic photo attempts: ') + failure
+          : failure;
+        reviewByKey.set(entryKey, row);
+        continue;
+      }
+      recovered++;
+      if (existingReview) {
+        reviewByKey.delete(entryKey);
+      }
+      if (m) {
+        m.image_source_url = result.result.imageUrl;
+        if (result.result.sourcePage) m.image_source_page = result.result.sourcePage;
+      }
+      recoveredRecords.push({
+        builder: entry.company || entry.builder || '',
+        pedal: entry.pedal || '',
+        image: entry.image || '',
+        image_source_url: result.result.imageUrl || '',
+        image_source_page: result.result.sourcePage || null,
+        imageFile: result.result.imageFile || '',
+        verification: result.result.verification || {}
+      });
+    }
+
+    // Persist after each recovery batch so a hard process cutoff preserves
+    // every successful recovery completed before the cutoff.
+    fs.writeFileSync(
+      PHOTO_RECOVERY_MANIFEST,
+      JSON.stringify({ version: 1, recovered: recoveredRecords }, null, 2) + '\n'
+    );
+  }
+
+  fs.writeFileSync(INDEX, JSON.stringify(catalog, null, 2) + '\n');
+  fs.writeFileSync(MANIFEST, JSON.stringify(manifest, null, 2) + '\n');
+  fs.writeFileSync(
+    PHOTO_RECOVERY_MANIFEST,
+    JSON.stringify({ version: 1, recovered: recoveredRecords }, null, 2) + '\n'
+  );
+  writeReviewQueue([...reviewByKey.values()].sort((a, b) =>
+    (Number(a.Attempts) || 0) - (Number(b.Attempts) || 0) ||
+    String(a.Builder).localeCompare(String(b.Builder)) ||
+    String(a.Pedal).localeCompare(String(b.Pedal))
+  ));
+  await browser.close();
+
+  console.log('Browser photo recovery: recovered ' + recovered + '; attempted ' + attempted + '; failures ' + failures.length + '.');
+  const parked = [...reviewByKey.values()].filter(row => row.Status === 'PARKED').length;
+  console.log('Photo review queue: ' + reviewByKey.size + ' records; ' + parked + ' parked at the automatic-attempt cutoff.');
+  for (const failure of failures) console.log(' - ' + failure);
+})().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
