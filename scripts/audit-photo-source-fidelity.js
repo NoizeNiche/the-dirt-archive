@@ -395,6 +395,29 @@ async function main() {
           }
 
           out.SourceSHA256 = sha256(sourceBytes);
+
+          // A direct image URL is not sufficient evidence by itself. When an
+          // exact source page is also recorded, verify that the page identifies
+          // the same pedal and that the direct URL's pixels are consistent with
+          // the image actually rendered from that page.
+          if (entry.sourcePage && /^https?:\/\//i.test(entry.sourcePage)) {
+            const rendered = await renderedSourcePageImage(page, entry);
+            if (!rendered?.bytes || !rendered.identityVerified) {
+              out.Status = 'SOURCE_IDENTITY_UNVERIFIED';
+              out.Note = 'Direct image URL is present, but the declared source page could not be independently identity-verified for this exact pedal.';
+              results.push(out);
+              continue;
+            }
+
+            const sourceVsPage = await compareImages(page, sourceBytes, type, rendered.bytes, rendered.type);
+            if (sourceVsPage.verdict === 'MISMATCH') {
+              out.Status = 'SOURCE_URL_MISMATCH';
+              out.Note = 'Direct image URL does not visually match the image selected from the identity-verified exact source page.';
+              results.push(out);
+              continue;
+            }
+          }
+
           const comparison = await compareImages(page, localBytes, 'image/webp', sourceBytes, type);
           out.Status = comparison.verdict;
           out.Hamming = comparison.hammingDistance;
@@ -407,7 +430,7 @@ async function main() {
           } else if (comparison.verdict === 'LIKELY_SAME') {
             out.Note = 'Source and archived image are visually consistent within the audit threshold.';
           } else {
-            out.Note = 'Source and archived image are strongly consistent.';
+            out.Note = 'Source and archived image are strongly consistent and the direct URL is corroborated by the exact source page.';
           }
           results.push(out);
         } catch (err) {
@@ -446,8 +469,9 @@ async function main() {
   const counts = {};
   for (const row of results) counts[row.Status] = (counts[row.Status] || 0) + 1;
   console.log('Photo source fidelity audit:', JSON.stringify(counts));
-  if((counts.BLOCKED_SOURCE || 0) > 0){
-    console.error('Photo source fidelity audit found hard-blocked provenance still attached to pictured records.');
+  const hardFailures = (counts.BLOCKED_SOURCE || 0) + (counts.SOURCE_URL_MISMATCH || 0);
+  if(hardFailures > 0){
+    console.error('Photo source fidelity audit found hard-blocked provenance or direct-image/source-page mismatches.');
     process.exitCode = 1;
   }
 }
