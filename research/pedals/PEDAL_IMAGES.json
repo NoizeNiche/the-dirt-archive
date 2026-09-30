@@ -3660,7 +3660,9 @@
     "pedal": "Nerd Fuzz + Boost",
     "image": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md"
+    "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/573/2026-GPX-Pedal-101-Brand-Profile-Main-700.jpg",
+    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
   },
   {
     "builder": "Bad Penny FX",
@@ -8141,7 +8143,8 @@
     "image": "",
     "source_page": "https://www.boss.info/us/products/jb-2/",
     "research_record": "./research/pedals/PRP Batch 110/JB-2 Angry Driver.md",
-    "image_source_url": "https://static.roland.com/assets/promos/png/menu_nextone_special.png"
+    "image_source_url": "https://static.roland.com/assets/promos/png/menu_nextone_special.png",
+    "image_source_page": "https://www.boss.info/global/support/by_product/jb-2/product_images/"
   },
   {
     "builder": "BOSS",
@@ -20269,7 +20272,7 @@
     "image": "",
     "source_page": "https://fuzzrociouspedals.com/?product=moth",
     "research_record": "./research/pedals/Fuzzrocious Pedals/M.O.T.H..md",
-    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_GUITAR-5-100x100.jpg",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-2-100x100.jpg",
     "image_source_page": "https://fuzzrociouspedals.com/?product=moth"
   },
   {
@@ -28126,10 +28129,10 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "Imperial MKII",
-    "image": "",
+    "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/Imperial MKII.md",
-    "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_10x10.jpg?v=1681406902",
+    "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_1500x.jpg?v=1681406902",
     "image_source_page": "https://solidgoldfx.com/products/imperial-mkii"
   },
   {

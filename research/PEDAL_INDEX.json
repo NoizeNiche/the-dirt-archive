@@ -7038,7 +7038,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1551
+      "image_source_priority": 1551,
+      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/573/2026-GPX-Pedal-101-Brand-Profile-Main-700.jpg"
     },
     {
       "company": "Bad Penny FX",
@@ -38595,7 +38596,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product=moth",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_GUITAR-5-100x100.jpg"
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-2-100x100.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -53892,8 +53893,8 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://solidgoldfx.com/products/imperial-mkii",
       "image_source_priority": 1529,
-      "image": null,
-      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_10x10.jpg?v=1681406902"
+      "image": "./assets/pedals/solidgoldfx/imperial-mkii/primary.webp",
+      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/SUN_3_1500x.jpg?v=1681406902"
     },
     {
       "company": "SolidGoldFX",

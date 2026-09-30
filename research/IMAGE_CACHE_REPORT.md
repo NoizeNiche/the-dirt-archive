@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
 - Cached in this run: **0**
-- Staged browser photos converted: **2**
-- Local images retained/reorganized: **2**
+- Staged browser photos converted: **1**
+- Local images retained/reorganized: **1**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **2**
-- Remaining tracker photo backlog: **213**
-- Researched, photo pending: **213**
+- Remaining tracker photo backlog: **212**
+- Researched, photo pending: **212**
 - External source images awaiting localization: **0**
 
 ## Storage layout
