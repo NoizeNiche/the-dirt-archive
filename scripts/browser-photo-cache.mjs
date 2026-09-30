@@ -835,8 +835,10 @@ async function linkedSourceImageCandidates(page, entry, sourcePageUsed) {
       const add = (urlValue, el, extraHint = '', sourceKind = 'linkedSourceImage') => {
         if (!urlValue) return;
         for (const raw of String(urlValue).split(',').map(v => v.trim()).filter(Boolean)) {
-          let rawUrl = raw.split(/\s+/)[0];
+          const parts = raw.split(/\s+/);
+          const rawUrl = parts[0];
           if (!/^https?:/i.test(rawUrl)) continue;
+          const descriptor = parts.slice(1).join(' ');
           let url;
           try { url = new URL(rawUrl).href; } catch { continue; }
 
@@ -844,6 +846,7 @@ async function linkedSourceImageCandidates(page, entry, sourcePageUsed) {
           const hint = norm([
             url,
             extraHint,
+            descriptor,
             img?.alt || '',
             img?.title || '',
             el?.textContent || '',
@@ -865,8 +868,13 @@ async function linkedSourceImageCandidates(page, entry, sourcePageUsed) {
           const builderHits = builderTokens.filter(token => hint.includes(token)).length;
           const exactPedal = pedalTokens.length && pedalTokens.every(token => hint.includes(token));
           const exactBuilder = builderTokens.length && builderTokens.every(token => hint.includes(token));
+          const widthMatch = descriptor.match(/(\d{2,5})w\b/i);
+          const densityMatch = descriptor.match(/(\d+(?:\.\d+)?)x\b/i);
+          const widthBonus = widthMatch ? Math.min(140, Number(widthMatch[1]) / 12) : 0;
+          const densityBonus = densityMatch ? Math.min(40, Number(densityMatch[1]) * 12) : 0;
           let score = sourceKind === 'standaloneImage' ? 110 : 80;
           score += pedalHits * 45 + builderHits * 12;
+          score += widthBonus + densityBonus;
           if (exactPedal) score += 260;
           if (exactBuilder) score += 70;
           if (/wp-content\/uploads|\/product[s]?\/|\/pedal[s]?\/|\/photo[s]?\/|\/gallery\//i.test(parsed.pathname)) score += 90;
