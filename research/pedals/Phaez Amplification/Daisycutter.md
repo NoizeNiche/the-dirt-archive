@@ -5,47 +5,42 @@
 - **Archive parent:** Daisycutter
 - **Builder:** Phaez Amplification
 - **Catalog type:** Distortion
-- **Identity:** Phaez Amplification's Daisycutter.
+- **Identity:** Phaez Amplification Daisycutter.
 
 ## What this pedal is
 
-Phaez Amplification's Daisycutter is cataloged as a distortion pedal.
+Daisycutter is a Phaez Amplification distortion/amp-inspired design documented in the builder's historical material. The surviving sources include an early schematic discussion and later amp-builder references.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- The verified evidence references: v4.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+The reviewed evidence references **v4**, but does not establish a complete production revision chronology.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+No reliable pedal-specific control transcription was established from the retained evidence.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-And listen to GNR Sweet Child O’ Mine – Slash is using his neck pickup with the tone rolled all the way off.
-The resulting (great) tone is into an amp that is BRIGHT!
-EF86 pentode channel and top boost treble bass channel.
+The surviving Daisycutter material is associated with a 5E3 Deluxe-style early design and amp-oriented distortion. The archive does not import settings or tonal descriptions from unrelated guitar amplifiers.
 
 ## Sources checked
 
-1. Some was looking for an old... - Phaez Amplification: https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/
-2. AmpNebula: https://www.ampnebula.com/amps/phaez/daisycutter
-3. Recently Built Amplifiers - Phaez Amplification: https://phaezamplification.com/recently-built-amplifiers/
+1. Phaez Amplification — early Daisycutter schematic discussion: https://www.facebook.com/PhaezAmplification/posts/some-was-looking-for-an-old-schematic-early-daisycutter-with-a-5e3-deluxe-style-/2400322746741334/
+2. AmpNebula — Phaez Daisycutter: https://www.ampnebula.com/amps/phaez/daisycutter
+3. Phaez Amplification — Recently Built Amplifiers: https://phaezamplification.com/recently-built-amplifiers/
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
