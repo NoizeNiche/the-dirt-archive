@@ -26,6 +26,9 @@ jobs:
       - name: Synthesize only foreman-approved research
         run: python scripts/synthesize-research-inbox.py
 
+      - name: Normalize synthesized research content
+        run: python scripts/clean-research-content.py
+
       - name: Synchronize canonical research state
         run: |
           python scripts/sync_prp_catalog.py
