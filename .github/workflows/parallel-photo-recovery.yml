@@ -1,10 +1,8 @@
 name: Parallel photo catch-up
 
 on:
+  # Legacy fallback lane. Fast photo catch-up is the primary recovery worker.
   workflow_dispatch:
-  push:
-    paths:
-      - research/PHOTO_PARALLEL_KICK
 
 permissions:
   contents: write
