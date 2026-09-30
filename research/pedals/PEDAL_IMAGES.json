@@ -20151,9 +20151,11 @@
   {
     "builder": "Fuzzrocious Pedals",
     "pedal": "420 Fuzz v2",
-    "image": null,
+    "image": "./assets/pedals/fuzzrocious-pedals/420-fuzz-v2/primary.webp",
     "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/420 Fuzz v2.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/420 Fuzz v2.md",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/10/blaze_fuzzrocious_unclerons-150x150.jpg",
+    "image_source_page": "https://fuzzrociouspedals.com/?product=420-fuzz-v2"
   },
   {
     "builder": "Fuzzrocious Pedals",
@@ -20221,14 +20223,18 @@
     "pedal": "Grey Stache / Heliotropic",
     "image": null,
     "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2026/02/Guitar_Demo_collector_emitter-100x100.jpg",
+    "image_source_page": "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic"
   },
   {
     "builder": "Fuzzrocious Pedals",
     "pedal": "Greyfly",
-    "image": null,
+    "image": "./assets/pedals/fuzzrocious-pedals/greyfly/primary.webp",
     "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/Greyfly.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Greyfly.md",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2016/06/effuzzsmall1.jpg",
+    "image_source_page": "https://fuzzrociouspedals.com/?product=greyfly"
   },
   {
     "builder": "Fuzzrocious Pedals",
@@ -20240,9 +20246,11 @@
   {
     "builder": "Fuzzrocious Pedals",
     "pedal": "Li'l Fella",
-    "image": null,
+    "image": "./assets/pedals/fuzzrocious-pedals/li-l-fella/primary.webp",
     "source_page": "https://fuzzrociouspedals.com/?product_cat=current",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/Li'l Fella.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Li'l Fella.md",
+    "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2021/03/lilfella_jan2026_site.jpg",
+    "image_source_page": "https://fuzzrociouspedals.com/?product=lil-fella"
   },
   {
     "builder": "Fuzzrocious Pedals",
