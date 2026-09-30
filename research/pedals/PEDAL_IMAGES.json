@@ -2464,7 +2464,9 @@
     "pedal": "Klone",
     "image": "",
     "source_page": "https://www.effectsdatabase.com/model/arceffects/klone",
-    "research_record": "./research/pedals/ARC Effects/Klone.md"
+    "research_record": "./research/pedals/ARC Effects/Klone.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/arceffects_klone_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone"
   },
   {
     "builder": "ARC Effects",
@@ -2614,7 +2616,9 @@
     "pedal": "Geezer Butler Pedal Of Doom",
     "image": "./assets/pedals/ashdown-engineering/geezer-butler-pedal-of-doom/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
-    "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md"
+    "research_record": "./research/pedals/Ashdown Engineering/Geezer Butler Pedal Of Doom.md",
+    "image_source_url": "https://ashdownmusic.com/cdn/shop/products/GeezerPedalFrontWEB.jpg?v=1627988727&width=1200",
+    "image_source_page": "https://ashdownmusic.com/collections/namm-22/products/geezer-butler-pedal-of-doom"
   },
   {
     "builder": "Ashdown Engineering",
@@ -2629,7 +2633,9 @@
     "pedal": "James LoMenzo Mega Drive",
     "image": "./assets/pedals/ashdown-engineering/james-lomenzo-mega-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
-    "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md"
+    "research_record": "./research/pedals/Ashdown Engineering/James LoMenzo Mega Drive.md",
+    "image_source_url": "https://ashdownmusic.com/cdn/shop/products/FRONT_50e22699-9c34-4306-bf01-2c7310d78c50.jpg?v=1679330808&width=1000",
+    "image_source_page": "https://ashdownmusic.com/collections/pedals-1/products/lomenzo-mega-drive"
   },
   {
     "builder": "Ashdown Engineering",
@@ -3625,7 +3631,9 @@
     "pedal": "Littlebox Fuzz",
     "image": null,
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md"
+    "research_record": "./research/pedals/Bad Penny FX/Littlebox Fuzz.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--c8AW3lhG--/quality=medium-low,height=800,width=800,fit=contain/qlsnhje4y1lt7bzbac8j.jpg",
+    "image_source_page": "https://reverb.com/uk/item/70081294-bad-penny-fx-little-box-fuzz"
   },
   {
     "builder": "Bad Penny FX",
@@ -3664,7 +3672,9 @@
     "pedal": "Old Fuzz Mini",
     "image": "./assets/pedals/bad-penny-fx/old-fuzz-mini/primary.webp",
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md"
+    "research_record": "./research/pedals/Bad Penny FX/Old Fuzz Mini.md",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg",
+    "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
   },
   {
     "builder": "Bad Penny FX",
@@ -3672,7 +3682,7 @@
     "image": "./assets/pedals/bad-penny-fx/quagswag-fuzz-boost/primary.webp",
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
     "research_record": "./research/pedals/Bad Penny FX/Quagswag Fuzz Boost.md",
-    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg",
+    "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/573/2026-GPX-Pedal-101-Brand-Profile-Main-700.jpg",
     "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
   },
   {
@@ -6692,7 +6702,9 @@
     "pedal": "Saffron Yellow Overdrive (SYOD)",
     "image": "./assets/pedals/bjfe-bjf-electronics/saffron-yellow-overdrive-syod/primary.webp",
     "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
-    "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md"
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Saffron Yellow Overdrive (SYOD).md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--aRgwLxc---/quality=medium-low,height=800,width=800,fit=contain/j6aevl8en6h9ckucbyns.jpg",
+    "image_source_page": "https://reverb.com/item/84887771-bjfe-saffron-yellow-od"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -11112,7 +11124,9 @@
     "pedal": "Hop Hed Fuzztone",
     "image": "",
     "source_page": "https://www.effectsdatabase.com/model/catseye/hophed",
-    "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md"
+    "research_record": "./research/pedals/PRP Batch 155/cat-s-eye-hop-hed-fuzztone.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--G2yQdSys--/quality=medium-low,height=800,width=800,fit=contain/ruyzerihp5ffrdy3cyiu.jpg",
+    "image_source_page": "https://reverb.com/uk/item/6975190-cat-s-eye-hop-hed-fuzztone-owned-by-j-mascis"
   },
   {
     "builder": "Cat's Eye ESP",
@@ -14192,7 +14206,7 @@
     "image": "",
     "source_page": null,
     "research_record": "./research/pedals/Compulsive Audio/Tone Oracle.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/compulsive_toneoracle_001.jpg",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/compulsive_toneoracle_001.jpg",
     "image_source_page": "https://www.effectsdatabase.com/model/compulsive/toneoracle"
   },
   {
@@ -16796,7 +16810,9 @@
     "pedal": "Microtubes X",
     "image": "./assets/pedals/darkglass-electronics/microtubes-x/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/darkglass/microtubes/x",
-    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X.md"
+    "research_record": "./research/pedals/Darkglass Electronics/Microtubes X.md",
+    "image_source_url": "https://darkglassjp.com/wp-content/uploads/Darkglass-Microtubes-X-Product-Hero-Image.jpg",
+    "image_source_page": "https://darkglassjp.com/product/microtubes-x/"
   },
   {
     "builder": "Darkglass Electronics",
@@ -18645,7 +18661,9 @@
     "pedal": "Hoof Reaper",
     "image": "./assets/pedals/earthquaker-devices/hoof-reaper/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md"
+    "research_record": "./research/pedals/EarthQuaker Devices/Hoof Reaper.md",
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/57cebe2c03596e075fca5f24/1550516974624-Z9PVGQM4C8Y12MB90S9H/Hoof-Reaper-Double-Fuzz.jpg?format=750w",
+    "image_source_page": "https://www.earthquakerdevices.com/hoof-reaper"
   },
   {
     "builder": "EarthQuaker Devices",
@@ -19287,8 +19305,8 @@
     "image": "./assets/pedals/electronic-audio-experiments/citadel/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/electronicaudioexperiments_citadel_001.jpg",
-    "image_source_page": "https://www.effectsdatabase.com/model/electronicaudioexperiments/citadel"
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1b9966c7-e8f8-410e-8238-91c74681bfda/EAE+Web+Banner+Logo+Transparent.png?format=750w",
+    "image_source_page": "https://www.electronicaudioexperiments.com/pedals/citadel"
   },
   {
     "builder": "Electronic Audio Experiments",
@@ -19594,7 +19612,7 @@
     "image": "./assets/pedals/fender/smolder-acoustic-overdrive/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Fender/Smolder Acoustic Overdrive.md",
-    "image_source_url": "https://www.fender.com/cdn-cgi/image/format=auto,resize=height=auto,width=850/https://www.fmicassets.com/Damroot/eCommPNG/10001/0234550000_pdl_dtl_001_nr.png",
+    "image_source_url": "https://www.fender.com/cdn-cgi/image/format=auto,resize=height=auto,width=850/https://www.fmicassets.com/Damroot/eCommPNG/10001/0234550000_pdl_frt_001_nr.png",
     "image_source_page": "https://www.fender.com/products/smolder-acoustic-overdrive"
   },
   {
@@ -20427,7 +20445,9 @@
     "pedal": "Little Samson",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Little Samson.md"
+    "research_record": "./research/pedals/Greer Amps/Little Samson.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/greer_littlesamson_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/greer/littlesamson"
   },
   {
     "builder": "Greer Amps",
@@ -20697,7 +20717,9 @@
     "pedal": "FITZO+",
     "image": "./assets/pedals/himmelstrutz-elektro-art/fitzo-plus/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Himmelstrutz Elektro Art/FITZO+.md"
+    "research_record": "./research/pedals/Himmelstrutz Elektro Art/FITZO+.md",
+    "image_source_url": "https://www.himmelstrutz.com/img/himmelstrutz-fitzo-plus-lofi-profile-1.webp",
+    "image_source_page": "https://www.himmelstrutz.com/fitzo-plus/"
   },
   {
     "builder": "Himmelstrutz Elektro Art",
@@ -21441,7 +21463,9 @@
     "pedal": "Goat Head",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/Jackson Audio/Goat Head.md"
+    "research_record": "./research/pedals/Jackson Audio/Goat Head.md",
+    "image_source_url": "https://jackson.audio/cdn/shop/products/GoatHead.jpg?v=1610686475&width=2",
+    "image_source_page": "https://jackson.audio/products/goat-head"
   },
   {
     "builder": "Jackson Audio",
@@ -22261,7 +22285,9 @@
     "pedal": "Monterey Rotary Fuzz Vibe",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md"
+    "research_record": "./research/pedals/Keeley Electronics/Monterey Rotary Fuzz Vibe.md",
+    "image_source_url": "https://robertkeeley.com/wp-content/uploads/2023/05/Monterey-Front-e1524682902926.jpg",
+    "image_source_page": "https://robertkeeley.com/product/monterey-fuzz-vibe-workstation/"
   },
   {
     "builder": "Keeley Electronics",
@@ -24205,7 +24231,9 @@
     "pedal": "ROD881",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/ROD881.md"
+    "research_record": "./research/pedals/Maxon/ROD881.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/155083000000000-00-86x86.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Maxon/ROD881-Real-Tube-Overdrive-Distortion-Guitar-Effects-Pedal-1274115045617.gc"
   },
   {
     "builder": "Maxon",
@@ -26426,7 +26454,9 @@
     "pedal": "DIRTY DIABLO",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md"
+    "research_record": "./research/pedals/OKKO FX/DIRTY DIABLO.md",
+    "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/4791843966.png",
+    "image_source_page": "https://okko-fx.com/DIRTY-DIABLO-Dual-Raw-Black-p772253144"
   },
   {
     "builder": "OKKO FX",
@@ -26512,8 +26542,8 @@
     "image": "./assets/pedals/old-blood-noise-endeavors/pardner/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Old Blood Noise Endeavors/Pardner.md",
-    "image_source_url": "https://images.equipboard.com/uploads/item/image/117621/old-blood-noise-endeavors-pardner-fuzz-xl.webp?v=1790768026",
-    "image_source_page": "https://equipboard.com/items/old-blood-noise-endeavors-pardner-fuzz"
+    "image_source_url": "https://images.squarespace-cdn.com/content/v1/6467b64a7c9d9e5cdae9a3ea/0361c748-a1b6-4216-8ece-dbcd725400a5/Power+Supply.png?format=100w",
+    "image_source_page": "https://oldbloodnoise.com/pedals/p/pardner-fuzz"
   },
   {
     "builder": "Orange Amplification",
