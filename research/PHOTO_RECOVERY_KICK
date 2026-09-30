@@ -56,3 +56,5 @@ deep-review source harvest: Keeley SUNS Ultravoid; SolidGoldFX BETA-V; SUF Dirt 
 exact-source hard cases: Himmelstrutz Under Overdriver; Columbus OVD-5 Overdrive
 2026-09-30T11:40:00Z
 current exact-source hard-case recovery pass from newest main
+2026-09-30T12:00:00Z
+relaunch current-head exact-source photo recovery after QA synchronization
