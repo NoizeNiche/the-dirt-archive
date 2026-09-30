@@ -16,6 +16,7 @@ const PHOTO_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-results.json');
 const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.csv');
 const PHOTO_SOURCE_BLOCKLIST = path.join(ROOT, 'research/PHOTO_SOURCE_BLOCKLIST.json');
 const PHOTO_MANUAL_REVIEW = path.join(ROOT, 'research/PHOTO_MANUAL_REVIEW.csv');
+const PHOTO_HASH_QUARANTINE = path.join(ROOT, 'research/PHOTO_HASH_QUARANTINE.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
 const PRIORITY_COMPANY = String(process.env.PHOTO_BROWSER_CACHE_PRIORITY_COMPANY || '').trim().toLowerCase();
@@ -38,6 +39,15 @@ let photoBlockRules = [];
 try {
   const policy = JSON.parse(fs.readFileSync(PHOTO_SOURCE_BLOCKLIST, 'utf8'));
   photoBlockRules = Array.isArray(policy.rules) ? policy.rules : [];
+} catch {}
+
+let quarantinedPhotoHashes = new Set();
+try {
+  const rows = csvRows(fs.readFileSync(PHOTO_HASH_QUARANTINE, 'utf8'));
+  for (const row of rows) {
+    const digest = String(row['Blob SHA256'] || '').trim().toLowerCase();
+    if (/^[a-f0-9]{64}$/.test(digest)) quarantinedPhotoHashes.add(digest);
+  }
 } catch {}
 function isBlockedByPhotoPolicy(value) {
   const raw = String(value || '');
@@ -4640,6 +4650,14 @@ function imageBytesLookComplete(bytes, contentType = '') {
 
     const selected = selectedResult.candidate;
     const selectedBytes = selectedResult.bytes;
+
+    // Never select a byte-identical photo that the archive has already
+    // quarantined as reused across identities. A manually verified exact URL
+    // may override this quarantine because it is explicit curator evidence.
+    const selectedDigest = crypto.createHash('sha256').update(selectedBytes).digest('hex');
+    if (quarantinedPhotoHashes.has(selectedDigest) && !manualVerifiedPhoto(entry, selected.url)) {
+      throw new Error('candidate image bytes match the shared photo hash quarantine');
+    }
 
     const out = target(entry);
     const sourceOut = out.replace(/\.webp$/i, '.source');
