@@ -137,6 +137,46 @@ def suspicious_values(entry):
     return reasons
 
 
+def build_collision_keepers(catalog, manual_review):
+    """Choose one conservative owner for any shared local primary path.
+
+    Distinct public identities must never publish through the same primary
+    image path. Prefer an explicitly reviewed identity, then a non-plus model
+    name, then stable lexical order. Non-keepers are reset to photo-needed
+    rather than silently receiving a guessed replacement.
+    """
+    owners = {}
+    for entry in catalog.get("pedals", []):
+        image = str(entry.get("image") or "").strip()
+        if is_local_image(image):
+            owners.setdefault(image, []).append(entry)
+
+    keepers = {}
+    for image, entries in owners.items():
+        if len(entries) < 2:
+            continue
+
+        def rank(entry):
+            identity = key(entry.get("company") or entry.get("builder"), entry.get("pedal"))
+            pedal = identity[1]
+            return (
+                1 if identity in manual_review else 0,
+                1 if not pedal.endswith("+") else 0,
+                1 if entry.get("catalog_role") != "variation" else 0,
+                -len(identity[0]),
+                -len(pedal),
+                identity[0].casefold(),
+                pedal.casefold(),
+            )
+
+        keeper = max(entries, key=rank)
+        keepers[image] = key(
+            keeper.get("company") or keeper.get("builder"),
+            keeper.get("pedal"),
+        )
+    return keepers
+
+
 def clear_entry(entry, role, preserve_file=False):
     image = entry.get("image")
     removed_files = []
@@ -205,6 +245,7 @@ def main():
     except Exception:
         pass
     hash_quarantine = load_hash_quarantine()
+    collision_keepers = build_collision_keepers(catalog, manual_review)
     reset = 0
     removed = []
     for target_key in sorted(targets):
@@ -243,6 +284,13 @@ def main():
                 reasons.extend("blocked photo source: " + reason for reason in blocked)
 
         image = entry.get("image")
+        normalized_image = str(image or "").strip()
+        collision_keeper = collision_keepers.get(normalized_image) if is_local_image(normalized_image) else None
+        if collision_keeper and collision_keeper != target_key:
+            reasons.append(
+                "shared local photo path with "
+                + f"{collision_keeper[0]} / {collision_keeper[1]}"
+            )
         if not reasons and tracker.get("Picture") == "DONE" and is_local_image(image):
             asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
             if not asset.is_file():
@@ -271,9 +319,22 @@ def main():
             }
             shared_verified_asset = any(sibling in manual_review for sibling in sibling_keys)
 
-        files = clear_entry(entry, "catalog", preserve_file=shared_verified_asset)
+        preserve_shared_collision_asset = bool(
+            collision_keeper and collision_keeper != target_key and is_local_image(image)
+        )
+        files = clear_entry(
+            entry,
+            "catalog",
+            preserve_file=shared_verified_asset or preserve_shared_collision_asset,
+        )
         if manifest_entry is not None:
-            files.extend(clear_entry(manifest_entry, "manifest", preserve_file=shared_verified_asset))
+            files.extend(
+                clear_entry(
+                    manifest_entry,
+                    "manifest",
+                    preserve_file=shared_verified_asset or preserve_shared_collision_asset,
+                )
+            )
 
         reset += 1
         removed.extend(files)
