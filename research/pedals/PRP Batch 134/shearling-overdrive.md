@@ -387,3 +387,21 @@ We've put some Byron special sauce in there in addition, for a special drive ped
 
 ### Sources checked in this pass
 1. Shearling Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/shearling
+
+## Deep research verification
+
+This pass adds only claims supported by the newly admitted exact-model evidence. Earlier archive research is retained unchanged.
+
+### Verified description
+Byron Amplification's Shearling Overdrive is cataloged as an overdrive pedal.
+
+### Verified diode terms
+- LED.
+
+### Verified sound evidence
+Beautiful "on the edge" overdrive tones, but at higher gain settings it's capable of both Billy Gibbons and Rivers Cuomo.
+The tone control is special in that it boosts the upper mids for more punch.
+We've put some Byron special sauce in there in addition, for a special drive pedal that is a nice change from the dead horses generally being beaten right now.
+
+### Sources checked in this pass
+1. Shearling Overdrive &mdash; Byron Amplification: https://byronamplification.com/pedals/shearling
