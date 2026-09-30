@@ -138,14 +138,17 @@ jobs:
               if not image:
                   continue
               image_path = Path(image.lstrip("./"))
-              source_path = (root / image_path).with_suffix(".source")
-              if not source_path.is_file():
-                  print(f"Skipping recovered record with missing source file: {row.get('builder')} / {row.get('pedal')}")
+              image_file = root / image_path
+              source_path = image_file.with_suffix(".source")
+              if not image_file.is_file() or not source_path.is_file():
+                  print(f"Skipping recovered record with missing image/source file: {row.get('builder')} / {row.get('pedal')}")
                   continue
 
               item_dir = root / "artifact" / "recoveries" / str(packaged)
+              image_dest = item_dir / image_path
               source_dest = item_dir / image_path.with_suffix(".source")
-              source_dest.parent.mkdir(parents=True, exist_ok=True)
+              image_dest.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy2(image_file, image_dest)
               shutil.copy2(source_path, source_dest)
 
               result = {
