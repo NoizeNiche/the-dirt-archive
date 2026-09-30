@@ -15,7 +15,9 @@ permissions:
 concurrency:
   group: dirt-photo-publishing-v1
   # A newer emergency pass supersedes an older queued attempt.
-  cancel-in-progress: true
+  # Push/manual recovery runs may replace stale work. Scheduled passes wait
+  # rather than cancelling an active recovery batch.
+  cancel-in-progress: ${{ github.event_name != 'schedule' }}
 
 jobs:
   recover:
