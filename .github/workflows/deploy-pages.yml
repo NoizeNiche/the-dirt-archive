@@ -131,8 +131,10 @@ jobs:
         env:
           DEPLOY_IMAGE_AUDIT_MODE: all
           DEPLOY_IMAGE_AUDIT_WORKERS: 16
-          DEPLOY_RESEARCH_AUDIT_MODE: all
-          DEPLOY_RESEARCH_AUDIT_WORKERS: 16
+          # Deployment performs changed-page + bounded smoke research checks.
+          # Exhaustive research-page QA belongs to exhaustive-quality-audit.yml.
+          DEPLOY_RESEARCH_AUDIT_MODE: changed
+          DEPLOY_RESEARCH_AUDIT_WORKERS: 12
         run: |
           node scripts/serve-static.js >/tmp/dirt-archive-http.log 2>&1 &
           SERVER_PID=$!
