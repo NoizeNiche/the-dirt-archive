@@ -5,52 +5,57 @@
 - **Archive parent:** SLOstortion
 - **Builder:** Wampler Pedals
 - **Catalog type:** Distortion
-- **Identity:** Wampler Pedals's SLOstortion.
+- **Identity:** Wampler Pedals SLOstortion.
 
 ## What this pedal is
 
-This review cuts past marketing fluff and delivers actionable insights on where the Slostortion excels, where it demands careful gain staging, and how it compares head-to-head with industry benchmarks.
+The SLOstortion is a **2-in-1 distortion and boost pedal**. Its distortion section provides American high-gain voicing, while the separately controlled boost section follows the distortion in the signal path.
 
-## Colorways
+## Controls
 
-- The enclosure’s powder-coated matte black finish resists scratches and scuffs — I’ve used mine on 67 live dates without visible wear.
+**Distortion side**
+- **Volume**
+- **Gain**
+- **Treble**
+- **Middle**
+- **Bass**
+- **Crunch/Overdrive** toggle
+
+**Boost side**
+- **Boost** level
+
+The two sections have separate footswitches.
+
+## Bypass
+
+Wampler's manual specifies **two true-bypass footswitches**, allowing the distortion and boost sections to be engaged or bypassed independently.
 
 ## Versions and factory options
 
-- No distinct factory revision was established in the verified evidence packet.
+No distinct numbered factory revision was established in the reviewed sources.
 
-## Version changes
+## Colorways
 
-- No specific factory version changes were established in the verified evidence packet.
+No specific factory colorway sequence was established in the reviewed sources.
 
 ## Transistor
 
-- Documented terms in the verified sources: 2N5457.
-- The archive records only the component information explicitly present in these sources.
+- **Exact production transistor/device:** Not established in the reviewed sources.
 
 ## Diode
 
-- Documented terms in the verified sources: 1N4148, LED.
-- The archive records only the component information explicitly present in these sources.
+- **Exact production clipping/rectifier diode:** Not established in the reviewed sources.
 
 ## Sound
 
-Wampler Pedals Slostortion Pedal Review: A Deep-Dive Analysis for Tone-Conscious Guitarists
-This review cuts past marketing fluff and delivers actionable insights on where the Slostortion excels, where it demands careful gain staging, and how it compares head-to-head with industry benchmarks.
-Instead, they aimed to solve persistent tone problems: muddiness at high gain, loss of pick attack when stacking, and inconsistent low-end response across volume changes.
+Wampler's manual describes the distortion side as covering anything from light overdrive to fully saturated high-gain distortion, with the Crunch/Overdrive control changing the character of the gain stage. The boost is independently controlled and can be used to raise the output level after the distortion section.
 
 ## Sources checked
 
-1. Wampler SLOSTORTION — Distortion Pedal | Equipboard: https://equipboard.com/items/wampler-pedals-slostortion-amp-in-a-box-distortion-pedal
-2. PDF SLOstortion - American High Gain Distortion - Wampler Pedals: https://www.wamplerpedals.com/wp-content/uploads/2019/11/SLOstortion.pdf
-3. Wampler Pedals Slostortion Pedal Review: A Deep-Dive Analysis for Tone-Conscious Guitarists | GearStrings: https://gearstrings.com/guitars/wampler-pedals-slostortion-pedal-review
-4. Wampler Pedals SLOstortion Pedal Review - Premier Guitar: https://www.premierguitar.com/gear/wampler-pedals-slostortion-pedal-review
-5. Wampler-pedals SLOstortion - American High Gain Distortion User Manual: https://wampler-pedals.manymanuals.com/audio/slostortion-american-high-gain-distortion/user-manual-1270
-6. Wampler Pedals SLOstortion - American High Gain Distortion User Manual | 2 pages: https://www.manualsdir.com/manuals/715726/wampler-pedals-slostortion-american-high-gain-distortion.html
-7. Wampler Pedals SLOstortion SLOstortion User Manual | Manualzz: https://manualzz.com/doc/24205261/wampler-pedals-slostortion-guitar-pedal-user-manual
-8. Wampler Pedals SLOstortion - American High Gain Distortion : User guide: https://www.manualshelf.com/manual/wampler-pedals/slostortion-american-high-gain-distortion/user-guide-english.html
-9. Wampler Pedals SLOstortion - American High Gain Distortion | Effects Database: https://www.effectsdatabase.com/model/wampler/slostortion
+1. Wampler SLOstortion owner's manual: https://www.wamplerpedals.com/wp-content/uploads/2019/11/SLOstortion.pdf
+2. Effects Database — Wampler SLOstortion: https://www.effectsdatabase.com/model/wampler/slostortion
+3. Premier Guitar — Wampler Pedals SLOstortion review: https://www.premierguitar.com/gear/wampler-pedals-slostortion-pedal-review
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
