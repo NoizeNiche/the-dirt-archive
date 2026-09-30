@@ -63,7 +63,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Download identity shards
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           pattern: photo-identity-audit-*
           path: /tmp/identity-shards

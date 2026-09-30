@@ -279,7 +279,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Download raw recoveries
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: recovery-artifacts
       - name: Install image tooling
@@ -316,7 +316,7 @@ jobs:
           fetch-depth: 0
 
       - name: Download foreman-approved recovery artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: verified-recovery
           path: recovery-artifacts

@@ -54,7 +54,7 @@ jobs:
       - name: Checkout latest main
         uses: actions/checkout@v7
       - name: Download worker dossiers
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: research-evidence-artifacts
       - name: Merge and verify evidence

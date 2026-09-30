@@ -320,7 +320,7 @@ jobs:
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/download-artifact@v5
+      - uses: actions/download-artifact@v8
         with:
           path: research-evidence
       - name: Ensure foreman inbox exists
