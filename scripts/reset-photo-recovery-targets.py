@@ -137,14 +137,31 @@ def suspicious_values(entry):
     return reasons
 
 
+def canonical_builder_names():
+    names = set()
+    master = Path("research/BUILDER_MASTER_INDEX.md")
+    try:
+        for line in master.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                continue
+            parts = [part.strip() for part in line.strip("|").split("|")]
+            if len(parts) >= 2 and parts[1]:
+                names.add(parts[1])
+    except Exception:
+        pass
+    return names
+
+
 def build_collision_keepers(catalog, manual_review):
     """Choose one conservative owner for any shared local primary path.
 
     Distinct public identities must never publish through the same primary
-    image path. Prefer an explicitly reviewed identity, then a non-plus model
-    name, then stable lexical order. Non-keepers are reset to photo-needed
-    rather than silently receiving a guessed replacement.
+    image path. Prefer an explicitly reviewed identity, then a canonical
+    builder identity, then a non-plus model name, then stable lexical order.
+    Non-keepers are reset to photo-needed rather than silently receiving a
+    guessed replacement.
     """
+    canonical_builders = canonical_builder_names()
     owners = {}
     for entry in catalog.get("pedals", []):
         image = str(entry.get("image") or "").strip()
@@ -161,9 +178,9 @@ def build_collision_keepers(catalog, manual_review):
             pedal = identity[1]
             return (
                 1 if identity in manual_review else 0,
+                1 if identity[0] in canonical_builders else 0,
                 1 if not pedal.endswith("+") else 0,
                 1 if entry.get("catalog_role") != "variation" else 0,
-                -len(identity[0]),
                 -len(pedal),
                 identity[0].casefold(),
                 pedal.casefold(),
