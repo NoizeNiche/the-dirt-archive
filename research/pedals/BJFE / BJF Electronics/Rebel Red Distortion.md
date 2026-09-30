@@ -5,43 +5,41 @@
 - **Archive parent:** Rebel Red Distortion
 - **Builder:** BJFE / BJF Electronics
 - **Catalog type:** Distortion
-- **Identity:** BJFE / BJF Electronics's Rebel Red Distortion.
+- **Identity:** BJFE / BJF Electronics Rebel Red Distortion.
 
 ## What this pedal is
 
-BJFE / BJF Electronics's Rebel Red Distortion is cataloged as a distortion pedal.
+Rebel Red Distortion is a distinct BJFE distortion model in the historical registry. The retained evidence references a **V.2 / Version 2** example, but does not establish a complete production chronology.
 
 ## Colorways
 
-- No specific factory colorway information was established in the verified evidence packet.
+No complete factory colorway sequence was established.
 
 ## Versions and factory options
 
-- The verified evidence references: V.2, Version 2.
-- The packet does not by itself establish a complete factory revision history; undocumented version changes are left unresolved.
+- **Version 2:** referenced in the reviewed evidence.
+- A complete factory revision history was not established.
 
-## Version changes
+## Controls
 
-- No specific factory version changes were established in the verified evidence packet.
+The reviewed exact-model evidence does not provide a stable complete control transcription.
 
 ## Transistor
 
-- Exact production transistor/device information was not established in the verified evidence packet.
-- **Exact transistor/device:** Unknown.
+- **Exact production transistor/device:** Not established.
 
 ## Diode
 
-- Exact production clipping/rectifier diode information was not established in the verified evidence packet.
-- **Exact part:** Unknown.
+- **Exact production clipping/rectifier diode:** Not established.
 
 ## Sound
 
-For example, the "Dynamic Amber Overdrive" is a prototype of the Sparkling Yellow Overdrive (SYOD) and therefore it is recorded with the SYOD.
+The archive records Rebel Red as a distortion pedal without borrowing descriptions from other BJFE overdrives or prototype models. Detailed model-specific voicing remains limited by the surviving evidence.
 
 ## Sources checked
 
-1. BJFE / BearFoot fx Guitar Effects Community • View topic - Registry: BJFE Pedals: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
+1. BJFE / BearFoot FX historical registry: https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html
 
 ## Photo
 
-- **Archive status:** Photo recovery is handled separately; no local photo is created by this synthesis pass.
+- **Archive status:** Exact photo recovery is handled separately; only a verified local asset counts as pictured.
