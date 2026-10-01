@@ -4792,7 +4792,9 @@
       "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Double Shot.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-double-shot/primary.webp",
+      "image_source_url": "https://ashdownmusic.com/cdn/shop/files/preview_images/c1d137e59c744fc9b620427e29fa6409.thumbnail.0000000000.jpg?v=1786455782&width=1600",
+      "image_source_page": "https://ashdownmusic.com/products/pro-fx-double-shot"
     },
     {
       "company": "Ashdown Engineering",
