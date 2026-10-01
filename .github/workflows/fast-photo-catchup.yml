@@ -74,20 +74,20 @@ jobs:
       - name: Recover exact pedal photo batch
         env:
           PHOTO_BROWSER_IMAGE_SEARCH: "true"
-          PHOTO_BROWSER_DEEP_REVIEW: "false"
+          PHOTO_BROWSER_DEEP_REVIEW: "true"
           PHOTO_BROWSER_ALLOW_PARKED_RETRY: "true"
-          PHOTO_BROWSER_REVISIT_PARKED: "false"
-          PHOTO_BROWSER_CACHE_LIMIT: "80"
+          PHOTO_BROWSER_REVISIT_PARKED: "true"
+          PHOTO_BROWSER_CACHE_LIMIT: "120"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "8"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "10000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "8000"
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "7000"
-          PHOTO_BROWSER_CANDIDATE_LIMIT: "8"
-          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "8"
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "12"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "12"
           PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"
           PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "45000"
           PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "8"
-          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "3"
+          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "4"
         run: timeout --kill-after=30s 900s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
