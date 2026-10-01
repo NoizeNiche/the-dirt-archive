@@ -293,12 +293,12 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/a-da/final-phase/primary.webp",
       "source_page": "https://www.fullcompass.com/prod/558032-a-da-amplification-discontinued-final-phase-reissue-of-a-da-final-phase-guitar-pedal",
       "research_record": "./research/pedals/A/DA/Final Phase.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/ada_finalphase_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/ada_finalphase_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/ada/finalphase"
     },
     {
@@ -1497,13 +1497,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/addrock-musical-products/hism-scism/primary.webp",
       "source_page": "https://reverb.com/item/94436181-addrock-hism-scism-silicon-fuzz-pedal",
       "research_record": "./research/pedals/Addrock Musical Products/Hism Scism.md",
       "image_source_page": "https://www.effectsdatabase.com/model/addrock/hismscism",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/addrock_hismscism_001.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/addrock_hismscism_001.jpg"
     },
     {
       "company": "Addrock Musical Products",
