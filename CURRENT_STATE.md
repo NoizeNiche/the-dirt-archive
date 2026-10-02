@@ -1,4 +1,8 @@
 
+## Photo raw-media extractor checkpoint - October 2, 2026
+
+The raw verified-page photo extractor now also harvests URLs from CSS `background` / `background-image` declarations and `data-background-image`, `data-background`, and `data-bg` attributes. These candidates still pass the existing blocked-asset filters, size/transport checks, and exact Builder + Pedal identity gates.
+
 ## Photo recovery budget-allocation checkpoint - October 2, 2026
 
 The browser photo recovery pass now bounds the initial curated-source loop to **4 pages for normal recovery and 5 for deep review**, reserving time within the per-record deadline for Reverb, image-search, and other indexed fallbacks. Exact source priority and downstream identity validation remain unchanged.
