@@ -14273,9 +14273,11 @@
   {
     "builder": "Coolmusic",
     "pedal": "C-DI01 Insane Distortion",
-    "image": "",
+    "image": "./assets/pedals/coolmusic/c-di01-insane-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md"
+    "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md",
+    "image_source_url": "https://www.coolmusic-tech.com/public/uploads/images/20210818/f28aed9bf7b81db65c0c8bbd32b29cae.jpg",
+    "image_source_page": "https://www.coolmusic-tech.com/shows/20/39.html"
   },
   {
     "builder": "Coolmusic",
@@ -14294,9 +14296,11 @@
   {
     "builder": "Coolmusic",
     "pedal": "C-OV01 Crunchy Overdrive",
-    "image": "",
+    "image": "./assets/pedals/coolmusic/c-ov01-crunchy-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md"
+    "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md",
+    "image_source_url": "https://www.coolmusic-tech.com/public/uploads/images/20210809/2fc0e303a6f0365f4ab4963cff7e3bc8.jpg",
+    "image_source_page": "https://www.coolmusic-tech.com/shows/20/36.html"
   },
   {
     "builder": "Coolmusic",

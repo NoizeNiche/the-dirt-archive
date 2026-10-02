@@ -27349,7 +27349,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-di01-insane-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI01 Insane Distortion.md",
       "research_level": "deep",
@@ -27357,10 +27357,11 @@
       "image_source_pages": [
         "https://www.coolmusic-tech.com/lists/20.html"
       ],
-      "image_source_page": "https://www.coolmusic-tech.com/lists/20.html",
+      "image_source_page": "https://www.coolmusic-tech.com/shows/20/39.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 575
+      "image_source_priority": 575,
+      "image_source_url": "https://www.coolmusic-tech.com/public/uploads/images/20210818/f28aed9bf7b81db65c0c8bbd32b29cae.jpg"
     },
     {
       "company": "Coolmusic",
@@ -27406,7 +27407,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-ov01-crunchy-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-OV01 Crunchy Overdrive.md",
       "image_source_page": "https://www.coolmusic-tech.com/shows/20/36.html",
@@ -27418,7 +27419,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 641
+      "image_source_priority": 641,
+      "image_source_url": "https://www.coolmusic-tech.com/public/uploads/images/20210809/2fc0e303a6f0365f4ab4963cff7e3bc8.jpg"
     },
     {
       "company": "Coolmusic",
