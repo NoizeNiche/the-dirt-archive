@@ -122,3 +122,6 @@ consume latest Walrus, Vemuram, Wampler and TC Electronic source leads with exis
 
 finish-line verified-reference kick 2026-10-02T21:20:00Z
 consume SolidGoldFX, Subdecay, Tech 21, Union Tube & Transistor, and Astrotone fallback sources with existing 60-target / 12-worker bounds
+
+finish-line variant-fallback kick 2026-10-02T21:45:00Z
+consume latest Stomp Under Foot, Way Huge, and Xotic variant fallbacks with 60-target / 12-worker bounds
