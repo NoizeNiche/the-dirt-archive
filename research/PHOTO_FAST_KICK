@@ -178,3 +178,5 @@ finish-line legacy-route fix kick 2026-10-03T00:50:00Z
 exact discontinued /legacy/<model> pages are now eligible after identity checks; keep 60-target / 12-worker bounds
 finish-line direct-exact refresh 2026-10-02T20:56:57.458Z
 consume newly added exact manufacturer image leads for Citadel, Double-Double Overdrive, If 6 Was 9 BC183 MKII, and Camel Toe MkII using the existing 60-target / 12-worker bounded lane
+finish-line direct-exact refresh 2026-10-02T21:00:00Z
+consume newly verified exact manufacturer image leads for Voyager Preamp/Overdrive MKII and Eye See '78 with the existing 60-target / 12-worker bounded lane
