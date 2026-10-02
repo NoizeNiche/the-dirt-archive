@@ -137,3 +137,6 @@ consume latest Vemuram, SBGO, Stomp Under Foot, Subdecay, Walrus, Way Huge and B
 
 classifier-fix recovery kick 2026-10-02T22:55:00Z
 exact product pages under /shop/ and /store/ are now eligible after identity checks; keep 60-target / 12-worker bounds
+
+classifier-collection fix kick 2026-10-02T23:20:00Z
+allow deeper /collections/.../products/... exact pages to reach identity and image extraction; retain 60-target / 12-worker bounds
