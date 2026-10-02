@@ -1,8 +1,8 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **3**
-- Staged browser photos converted: **1**
-- Local images retained/reorganized: **1**
+- Cached in this run: **1**
+- Staged browser photos converted: **0**
+- Local images retained/reorganized: **0**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **0**
 - Remaining tracker photo backlog: **174**
@@ -17,8 +17,6 @@
 
 ## Newly cached
 
-- AMT Electronics - DM-3 DistMachine -> `./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp`
 - Atlas Pedal - Sutherland OverDrive -> `./assets/pedals/atlas-pedal/sutherland-overdrive/primary.webp`
-- BYW Audio - Blacky' Blower -> `./assets/pedals/byw-audio/blacky-blower/primary.webp`
 
 All pictured pedal images are locally cached.
