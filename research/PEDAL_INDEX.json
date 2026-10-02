@@ -6883,7 +6883,9 @@
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L81332000001000-00-86x86.jpg",
+      "image_source_page": "https://www.guitarcenter.com/Bad-Cat/Double-Drive-Dual-Stackable-OIverdrive-Effects-Pedal-Mint-Green-1500000340803.gc"
     },
     {
       "company": "Bad Cat",
@@ -13586,7 +13588,7 @@
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald",
+      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald-big-box",
       "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982"
     },
     {
@@ -36742,7 +36744,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1473
+      "image_source_priority": 1473,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/e498d0e5-f579-49de-91bc-a3dc7360b7b4/DSC00480.jpg?format=750w",
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-bass-driver/primary.webp"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36760,7 +36764,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1474
+      "image_source_priority": 1474,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1645226262287-TZN8JT0C4WR2PB7VEFEZ/OB_EAE_BP-6.jpg?format=750w",
+      "image": "./assets/pedals/electronic-audio-experiments/0xeae-boost/primary.webp"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36805,13 +36811,15 @@
       "research_record": "./research/pedals/Electronic Audio Experiments/Dagger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.electronicaudioexperiments.com/legacy/dagger",
+      "image_source_page": "https://www.breakthemachine.co.uk/product/eae-dagger-bronze-edition/",
       "image_source_pages": [
         "https://www.electronicaudioexperiments.com/legacy/dagger"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1412
+      "image_source_priority": 1412,
+      "image_source_url": "https://www.breakthemachine.co.uk/wp-content/uploads/2024/03/eae-dagger-bronze-edition-1200x1200-1-600x600.jpg.webp",
+      "image": "./assets/pedals/electronic-audio-experiments/dagger/primary.webp"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -36844,7 +36852,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1475
+      "image_source_priority": 1475,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/7ae3b10e-63bc-4b53-a77c-3a4a29abe3b3/DSCF0639.png?format=750w",
+      "image": "./assets/pedals/electronic-audio-experiments/eldritch-blast/primary.webp"
     },
     {
       "company": "Electronic Audio Experiments",
@@ -38456,14 +38466,15 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Cat King.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=catking",
+      "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current",
       "image_source_priority": 1416,
       "image": null,
       "image_source_pages": [
         "https://fuzzrociouspedals.com/?product=catking"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2025/02/CK_mar2025_site3-237x187.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -40734,13 +40745,15 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/Majestic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.sweetwater.com/store/detail/MajesticOD--j-rockett-audio-designs-majestic-overdrive-pedal",
+      "image_source_page": "https://www.visionguitar.com/collections/pedals/products/rockett-pedals-majestic-overdrive-pedal",
       "image_source_pages": [
         "https://www.sweetwater.com/store/detail/MajesticOD--j-rockett-audio-designs-majestic-overdrive-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1506
+      "image_source_priority": 1506,
+      "image_source_url": "https://www.visionguitar.com/cdn/shop/files/VG-All-White-enhanced_x250.png?v=1613679518",
+      "image": "./assets/pedals/j-rockett-audio-designs/majestic-overdrive/primary.webp"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -46856,18 +46869,19 @@
         "Overdrive",
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon-nisshin-onpa/osd-9-overdrive-soft-distortion/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OSD-9 Overdrive / Soft Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/collections/nine-series/distortion",
+      "image_source_page": "https://www.guitarcenter.com/Maxon/9-Series-OSD-9-Overdrive-Soft-Distortion-Pedal-1274115045728.gc",
       "image_source_pages": [
         "https://maxonfx.com/collections/nine-series/distortion"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 844
+      "image_source_priority": 844,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/150272000000000-00-600x600.jpg"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -46920,18 +46934,19 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon-nisshin-onpa/rto700-real-tube-overdrive/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/RTO700 Real Tube Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/",
+      "image_source_page": "https://maxonfx.com/products/real-tube-overdrive-rto700",
       "image_source_priority": 1165,
       "image_source_pages": [
         "https://maxonfx.com/"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-RealTube-RTO700-300px.png?v=1543862972"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -60090,8 +60105,8 @@
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://xotic.us/effects/acbv2/",
-      "image_source_url": "https://xotic.us/effects/acbv2/img/trebbass.png"
+      "image_source_page": "https://xotic.us/manuals/",
+      "image_source_url": "https://xotic.us/manuals/img/BassBBv15.jpg"
     },
     {
       "company": "Xotic Effects",
