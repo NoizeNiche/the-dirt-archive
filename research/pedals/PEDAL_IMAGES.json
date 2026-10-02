@@ -8062,9 +8062,11 @@
   {
     "builder": "BOSS",
     "pedal": "DS-1-4A 40th Anniversary Distortion",
-    "image": null,
+    "image": "./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/boss/compact/ds1/4a",
-    "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md"
+    "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
+    "image_source_url": "https://images.equipboard.com/uploads/item/image/50689/boss-ds-1-4a-40th-anniversary-distortion-pedal-black-xl.webp?v=1790942826",
+    "image_source_page": "https://equipboard.com/items/boss-ds-1-4a-40th-anniversary-distortion-pedal"
   },
   {
     "builder": "BOSS",

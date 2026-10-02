@@ -15523,13 +15523,15 @@
       "research_record": "./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.boss.info/us/whats_new/press_releases/2017/BOSS-CELEBRATES-40th-ANNIVERSARY-WITH-LIMITED-EDIT/",
+      "image_source_page": "https://equipboard.com/items/boss-ds-1-4a-40th-anniversary-distortion-pedal",
       "image_source_pages": [
         "https://www.boss.info/us/whats_new/press_releases/2017/BOSS-CELEBRATES-40th-ANNIVERSARY-WITH-LIMITED-EDIT/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1410
+      "image_source_priority": 1410,
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/50689/boss-ds-1-4a-40th-anniversary-distortion-pedal-black-xl.webp?v=1790942826",
+      "image": "./assets/pedals/boss/ds-1-4a-40th-anniversary-distortion/primary.webp"
     },
     {
       "company": "BOSS",
