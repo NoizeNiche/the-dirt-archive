@@ -74,3 +74,6 @@ consume refreshed curated exact-model source pages on the next bounded recovery 
 
 finish-line throughput tuning kick 2026-10-02T11:01:42.576Z
 run full remaining queue with widened recovery attempts and safer concurrency
+
+finish-line alternate-source kick 2026-10-02T11:02:34.551Z
+retry remaining researched-photo queue with newly added exact-model alternate source
