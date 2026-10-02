@@ -167,3 +167,6 @@ exercise corrected raw CSS background/data-background extraction with existing 6
 
 finish-line Reverb-product-source fix kick 2026-10-03T00:05:00Z
 allow exact Reverb /p/ product records to reach identity verification and image extraction; keep 60-target / 12-worker bounds
+
+finish-line raw-metadata extractor kick 2026-10-03T00:20:00Z
+exercise itemprop/image_src/product-data plus CSS-background extraction with 60-target / 12-worker bounds
