@@ -49312,7 +49312,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1369
+      "image_source_priority": 1369,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/500x659/products/636/6464/11250000001.MAIN__82864.1663874796.jpg?c=2",
+      "image": "./assets/pedals/mxr/double-double-overdrive/primary.webp"
     },
     {
       "company": "MXR",
@@ -53938,12 +53940,13 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://solidgoldfx.com/products/if-6-was-9-bc183-mkii-fuzz",
       "image_source_priority": 1318,
-      "image": null,
+      "image": "./assets/pedals/solidgoldfx/if-6-was-9-bc183-mkii/primary.webp",
       "image_source_pages": [
         "https://solidgoldfx.com/products/if-6-was-9-bc183-mkii-fuzz"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/IF6WAS9-BC183-MKII-Fuzz-SolidGoldFX-Pedals_1000x.png?v=1731944632"
     },
     {
       "company": "SolidGoldFX",
@@ -58435,10 +58438,12 @@
       "image_source_pages": [
         "https://www.walrusaudio.com/products/voyager-preamp-overdrive-mkii-2024-black-friday-edition"
       ],
-      "image_source_page": "https://www.walrusaudio.com/products/voyager-preamp-overdrive-mkii-2024-black-friday-edition",
+      "image_source_page": "https://www.walrusaudio.com/collections/overdrives/products/voyager-preamp-overdrive-mkii",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1407
+      "image_source_priority": 1407,
+      "image_source_url": "https://www.walrusaudio.com/cdn/shop/files/Voyager-MKII_standard-art_front_900x.jpg?v=1748873973",
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii/primary.webp"
     },
     {
       "company": "Walrus Audio",
@@ -59166,7 +59171,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Camel Toe MkII.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe209",
+      "image_source_page": "https://www.jimdunlop.com/way-huge-camel-toe-triple-overdrive-mkii/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -59174,7 +59179,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1484
+      "image_source_priority": 1484,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/500x659/products/624/6395/11220900001.MAIN__96224.1663874795.jpg?c=2",
+      "image": "./assets/pedals/way-huge/camel-toe-mkii/primary.webp"
     },
     {
       "company": "Way Huge",
@@ -59805,7 +59812,9 @@
       "image_source_page": "https://www.wrenandcuff.com/products/eye-see-78",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1463
+      "image_source_priority": 1463,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/553c81b0e4b0ee62c7b9bd89/1639193099069-ZMLIV9H6NQRGWCSOGJJN/eye_see_78-face.jpg",
+      "image": "./assets/pedals/wren-and-cuff/eye-see-78/primary.webp"
     },
     {
       "company": "Wren and Cuff",
