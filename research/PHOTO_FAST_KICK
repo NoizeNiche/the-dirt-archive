@@ -86,3 +86,6 @@ consume latest exact-model source leads with existing bounded concurrency and de
 
 finish-line accumulated-source kick 2026-10-02T16:55:00Z
 consume accumulated exact-model source leads; preserve existing bounded worker limits
+
+finish-line expanded source-net kick 2026-10-02T17:05:00Z
+consume latest exact-model manufacturer and established-archive leads using existing bounded recovery limits
