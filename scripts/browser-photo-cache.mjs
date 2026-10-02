@@ -1769,11 +1769,16 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   for (const pattern of [
     /<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/gi,
     /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/gi,
-    /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
+    /<meta[^>]+(?:itemprop)=["']image["'][^>]+content=["']([^"']+)["']/gi,
+    /<meta[^>]+content=["']([^"']+)["'][^>]+(?:itemprop)=["']image["']/gi,
+    /<link[^>]+(?:rel)=["']image_src["'][^>]+href=["']([^"']+)["']/gi,
+    /<link[^>]+href=["']([^"']+)["'][^>]+(?:rel)=["']image_src["']/gi,
+    /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image|data-product-image|data-main-image|data-image|data-image-url)=["']([^"']+)["']/gi,
     /<source[^>]+(?:src|srcset|data-srcset)=["']([^"']+)["']/gi,
+    /(?:data-product-image|data-main-image|data-image-url|data-image|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
     /<a[^>]+href=["']([^"']+\.(?:jpe?g|png|webp|gif)(?:[?#][^"']*)?)["']/gi
   ]) {
-    for (const match of html.matchAll(pattern)) add(match[1]);
+    for (const match of html.matchAll(pattern)) add(match[1], true);
   }
 
   for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
