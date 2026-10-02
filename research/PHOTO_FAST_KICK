@@ -128,3 +128,6 @@ consume latest Stomp Under Foot, Way Huge, and Xotic variant fallbacks with 60-t
 
 finish-line exact-product kick 2026-10-02T22:15:00Z
 consume latest Dwarfcraft, Maxon, Pigtronix, Visual Sound, and VOX product fallbacks with existing 60-target / 12-worker bounds
+
+finish-line builder-source kick 2026-10-02T22:45:00Z
+consume latest SBGO, 6 Degrees, Ashdown, and Bad Cat exact-model fallbacks with existing 60-target / 12-worker bounds
