@@ -697,3 +697,14 @@ The finish-line lane is now **Fast photo catch-up**. Its scheduled safety pass i
 The separate **Curated direct photo catch-up** and broad **Cache pedal images** workers remain available for deliberate manual use but no longer compete automatically for the shared photo lane.
 
 This is an operational throughput fix, not a completion claim. The canonical photo gate remains **254 researched records without exact local photos** until a subsequent verified recovery pass changes the tracker.
+
+
+## Finish-line production repair checkpoint - October 2, 2026
+
+The active production lane remains exact-photo recovery and exhaustive QA. During final deployment validation, Atlas Pedal - Sutherland OverDrive was caught carrying a tiny 1.1 KB image derivative. The record was reset to photo-needed, the invalid local asset was removed, and its curated source was moved to the official Atlas Pedal Store listing. Recovery subsequently archived a 268 KB local WebP for the exact model, and a full Pages deployment plus live pictured-pedal audit passed.
+
+The image-cache owner was hardened so canonical conversion now rejects undersized or sub-120px images and removes invalid stale local targets instead of silently retaining them. This closes the specific reintroduction path that allowed the tiny Atlas derivative to return after browser recovery.
+
+Two obsolete temporary source-scout workflows were removed from .github/workflows/. The Fast Photo Catch-up workflow was aligned with the intended 120-record bounded pass and tighter per-record browser bounds.
+
+Verified latest production state after Atlas recovery: 4,026 pictured / 174 researched-photo-pending. The catalog and research lanes remain complete; the remaining work is exact-photo recovery for the final researched-photo backlog plus the exhaustive quality gates.
