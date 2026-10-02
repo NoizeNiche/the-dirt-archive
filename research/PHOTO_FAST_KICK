@@ -101,3 +101,6 @@ consume latest exact-model fallback sources using existing bounded worker concur
 
 throughput-doubled kick 2026-10-02T18:35:00Z
 fast photo recovery now uses 60-target bounded batches with 12 workers
+
+finish-line redundancy refresh kick 2026-10-02T18:55:00Z
+consume latest second-source fallbacks with 60-target / 12-worker bounded recovery
