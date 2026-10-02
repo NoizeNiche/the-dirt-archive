@@ -26,6 +26,24 @@ def key(builder: str, pedal: str) -> tuple[str, str]:
     return (str(builder or "").strip(), str(pedal or "").strip())
 
 
+def canonical_builder_name(builder: str) -> str:
+    value = str(builder or "").strip()
+    master = ROOT / "research/BUILDER_MASTER_INDEX.md"
+    try:
+        for line in master.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                continue
+            parts = [part.strip() for part in line.strip("|").split("|")]
+            if len(parts) >= 4:
+                canonical = parts[1]
+                observed = parts[3]
+                if value == canonical or (observed and value == observed):
+                    return canonical
+    except Exception:
+        pass
+    return value
+
+
 def local_path(value: str) -> Path | None:
     raw = str(value or "").strip()
     if not raw or raw.startswith(("http://", "https://")):
@@ -113,7 +131,7 @@ def main() -> int:
             continue
 
         source_pages = {row["source_page"] for row in rows if row["source_page"]}
-        builders = {row["builder"] for row in rows}
+        builders = {canonical_builder_name(row["builder"]) for row in rows}
         # Cross-builder byte reuse is the high-confidence suspicious case.
         # Same-builder collisions can be legitimate shared manufacturer photos,
         # aliases, or closely related variants, so classify them as review-only
