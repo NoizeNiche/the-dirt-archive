@@ -3353,12 +3353,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
       "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
       "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.jrrshop.com/skin/frontend/electronix/jrrshop_electronix/images/socnet/gooplu_sm.png"
     },
     {
       "company": "AMT Electronics",
@@ -6988,13 +6989,14 @@
       "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page": "https://www.instagram.com/bad_penny_fx/",
       "image_source_pages": [
         "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1550
+      "image_source_priority": 1550,
+      "image_source_url": "https://static.cdninstagram.com/rsrc.php/yR/r/92ZsVHNkyvf.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -18736,7 +18738,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/byw-audio/blacky-blower/primary.webp",
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
       "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
@@ -18747,7 +18749,8 @@
         "https://bywaudio.com/index.php/product/blacky-blower/"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-100x100.jpg"
     },
     {
       "company": "BYW Audio",
@@ -38929,12 +38932,12 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/greer-amps/little-samson/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Greer Amps/Little Samson.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/greer_littlesamson_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/greer_littlesamson_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/greer/littlesamson"
     },
     {
