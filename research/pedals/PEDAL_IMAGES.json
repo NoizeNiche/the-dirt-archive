@@ -17786,10 +17786,11 @@
   {
     "builder": "Dinosaural",
     "pedal": "Cogmeister",
-    "image": "",
+    "image": "./assets/pedals/dinosaural/cogmeister/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/dinosaural",
     "research_record": "./research/pedals/Dinosaural/Cogmeister.md",
-    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/dinosaural_cogmeister_001.jpg"
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/dinosaural_cogmeister_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/dinosaural/cogmeister"
   },
   {
     "builder": "Dinosaural",
