@@ -1,3 +1,7 @@
+
+## Photo recovery extractor checkpoint - October 2, 2026
+
+The photo recovery extractor now permits exact-model article/review source pages when the URL path itself contains matching pedal and builder identity. Generic article pages remain excluded, and downstream identity validation is unchanged. This allows model-specific historical reviews and launch pages to contribute image candidates without weakening the exact Builder + Pedal gate.
 <!-- AUTO:RESEARCH_PHASE_START -->
 ## Active phase checkpoint
 
