@@ -356,6 +356,10 @@ The existing photo-content auditor was retained as the canonical contamination c
 
 An independent exhaustive quality workflow now runs manually and on a daily schedule, with push triggers for changes that can affect public photo/detail rendering.
 
+## Finish-line source-lead checkpoint - October 2, 2026
+
+The live photo gate remains **172 researched-photo-pending** out of **4,200** canonical records, with **4,028 pictured / 4,028 complete**. All 172 unresolved photo records currently have at least one curated exact-model source-page lead in `research/PHOTO_SOURCE_OVERRIDES.csv`. A controlled recovery kick was committed after the latest source-lead refresh so the next bounded photo pass consumes the current leads. No public UI redesign was introduced in this checkpoint.
+
 ## Pre-launch hardening checkpoint - September 30, 2026
 
 The site is now in the final production-quality lane rather than active catalog research. The current catalog/research snapshot is complete; remaining launch work is photo integrity/recovery plus exhaustive browser QA.
