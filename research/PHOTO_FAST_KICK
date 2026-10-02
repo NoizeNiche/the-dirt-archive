@@ -113,3 +113,6 @@ consume new Roger Mayer, Prescription Electronics, RYRA and related fallbacks wi
 
 finish-line current-source kick 2026-10-02T20:20:00Z
 consume latest exact manufacturer/retailer fallbacks with 60-target / 12-worker bounds
+
+finish-line archival-fallback kick 2026-10-02T20:35:00Z
+consume latest exact-model Yardbox/Phaez and related fallback sources using 60-target / 12-worker bounds
