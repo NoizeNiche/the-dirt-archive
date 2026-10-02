@@ -27657,7 +27657,7 @@
       "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
+      "image_source_page": "https://coopersonic.com/faq-pedals/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -27665,7 +27665,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 598
+      "image_source_priority": 598,
+      "image_source_url": "https://coopersonic.com/wp-content/uploads/2019/08/cropped-Upside_Down_Bandmaster_Reverb_small-by_rob_Robinette.jpg"
     },
     {
       "company": "Coopersonic",
@@ -40915,13 +40916,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/golden-boy-transparent-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Transparent Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://jackson.audio/cdn/shop/files/GB_Angle_7b539a2e-2664-4ee8-b5cf-0be0c0485e47.jpg?v=1788320240&width=2",
-      "image_source_page": "https://jackson.audio/products/goldenboy"
+      "image_source_url": "https://guitars.gbase.com/aza/user/site/7-photo-1779095905595-82209417287c-site.jpg?maxwidth=1600",
+      "image_source_page": "https://www.gbase.com/gear?q=jackson%20audio%20golden%20boy%20transparent%20overdrive%202"
     },
     {
       "company": "Jackson Audio",
@@ -52405,8 +52406,8 @@
       "research_record": "./research/pedals/ProCo Sound/SOLO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/proco/solo",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/proco_solo_001.jpg"
+      "image_source_page": "https://www.guitarcenter.com/ProCo/Solo-Distortion-Guitar-Effects-Pedal-1274034489630.gc",
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/502536000000000-00-86x86.jpg"
     },
     {
       "company": "ProCo Sound",
