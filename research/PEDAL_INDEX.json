@@ -4588,13 +4588,15 @@
       "research_record": "./research/pedals/ARC Effects/Klone V2.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/arceffects/klone/v2",
+      "image_source_page": "https://www.arceffects.com/klone-v2",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/arceffects/klone/v2"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1486
+      "image_source_priority": 1486,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/504a2da9e4b0060ff5df6806/1400789459689-JWX8QY0RJ1WRFRHDIEBR/K2BA.jpg",
+      "image": "./assets/pedals/arc-effects/klone-v2/primary.webp"
     },
     {
       "company": "ARC Effects",
@@ -23271,7 +23273,9 @@
       "image_source_page": "https://www.rockboard.de/en/pedalPedia/Chaos-Custom-Shop/CDrive/8124434788/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://cdn.rockboard.de/common/image_af3c142c-b321-430a-aebc-ed35bf6c04c9.webp",
+      "image": "./assets/pedals/chaos-custom-shop-chaos-fx/c-drive/primary.webp"
     },
     {
       "company": "Chaos Custom Shop / Chaos FX",
@@ -32708,7 +32712,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1561
+      "image_source_priority": 1561,
+      "image": "./assets/pedals/devi-ever-fx/beautiful-disaster/primary.webp"
     },
     {
       "company": "Devi Ever : FX",
@@ -32893,7 +32898,9 @@
       "image_source_page": "https://www.effectsdatabase.com/model/deviever/beautifuldisaster",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_beautifuldisaster_001.jpg",
+      "image": "./assets/pedals/devi-ever-fx/beautiful-disaster/primary.webp"
     },
     {
       "company": "Devi Ever FX",
@@ -38538,10 +38545,10 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Grey Stache / Heliotropic.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=grey-stache-heliotropic",
+      "image_source_page": "https://lep-international.jp/products/fuzzrocious-pedals-grey-stache-heliotropic",
       "image_source_priority": 50000,
-      "image": null,
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2026/02/Guitar_Demo_collector_emitter-100x100.jpg"
+      "image": "./assets/pedals/fuzzrocious-pedals/grey-stache-heliotropic/primary.webp",
+      "image_source_url": "https://lep-international.jp/cdn/shop/files/Fuzzrocious_GrayStacheHeliotropic.jpg?v=1771987691"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -42516,14 +42523,16 @@
       "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.ebay.com/itm/405388467636",
+      "image_source_page": "https://robertkeeley.com/product/suns-ultravoid-fuzz/",
       "image_source_pages": [
         "https://robertkeeley.com/product/suns-ultravoid-fuzz/",
         "https://www.ebay.com/itm/405388467636"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1448
+      "image_source_priority": 1448,
+      "image_source_url": "https://robertkeeley.com/wp-content/uploads/2025/01/Keeley-Electronics-SUNS-Ultravoid-Fuzz-Effect-Pedal-001-Face-scaled.jpg",
+      "image": "./assets/pedals/keeley-electronics/suns-ultravoid-fuzz/primary.webp"
     },
     {
       "company": "Keeley Electronics",
@@ -53854,7 +53863,9 @@
       "image_source_page": "https://solidgoldfx.com/products/beta-v",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1422
+      "image_source_priority": 1422,
+      "image_source_url": "https://solidgoldfx.com/cdn/shop/files/Beta-V-Bass-Preamp-SolidGoldFX-Pedals_1000x.png?v=1731944730",
+      "image": "./assets/pedals/solidgoldfx/beta-v-bass-preamp/primary.webp"
     },
     {
       "company": "SolidGoldFX",
@@ -54241,7 +54252,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://cdn.rockboard.de/common/image_0215b5e1-6588-4f0b-b927-247929a0b461.webp",
+      "image": "./assets/pedals/stomp-under-foot/black-russian/primary.webp"
     },
     {
       "company": "Stomp Under Foot",
@@ -54678,7 +54691,9 @@
       "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/shag/mk2",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/stompunderfoot_shag-mk2-mme_001.jpg",
+      "image": "./assets/pedals/stomp-under-foot/the-shag-mkii/primary.webp"
     },
     {
       "company": "Stomp Under Foot",
@@ -54940,7 +54955,9 @@
       "image_source_page": "https://www.strymon.net/product/canoga/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/M29030000001000-00-600x600.jpg",
+      "image": "./assets/pedals/strymon/canoga-vintage-silicon-fuzz/primary.webp"
     },
     {
       "company": "Strymon",
