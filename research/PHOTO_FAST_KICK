@@ -190,3 +190,5 @@ finish-line direct-exact refresh 2026-10-03T00:15:00Z
 consume newly verified BSQ Effects Bulls On, BSQ Effects Dynamite, and Collision Devices Snack Fuzz exact-model image leads using the existing 60-target / 12-worker bounded lane
 finish-line cleaned-directs kick 2026-10-03T00:45:00Z
 retry current researched-photo backlog after removing four quarantined stale direct overrides; retain 60-target / 12-worker bounded recovery
+finish-line post-validator-clean recovery kick 2026-10-03T00:55:00Z
+retry the 142-record researched-photo backlog from clean main after orphaned review cleanup; retain existing 60-target / 12-worker bounded lane
