@@ -158,3 +158,6 @@ exact-model article/review pages with matching model+builder URL context are now
 
 finish-line budget-allocation kick 2026-10-02T23:45:00Z
 curated source pages now bounded to 4 normal / 5 deep-review pages so fallback search retains recovery budget; keep 60-target / 12-worker limits
+
+finish-line CSS-background extractor kick 2026-10-02T23:50:00Z
+exercise verified-page CSS background and data-background image extraction with 60-target / 12-worker bounds
