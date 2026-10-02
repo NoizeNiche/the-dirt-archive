@@ -366,6 +366,37 @@ def fetch_image(url, referer=None):
     raise RuntimeError(str(last_error))
 
 
+MIN_PHOTO_BYTES = 3000
+MIN_PHOTO_DIMENSION = 120
+
+
+def valid_photo_file(path):
+    try:
+        if not path.is_file() or path.stat().st_size < MIN_PHOTO_BYTES:
+            return False
+        with Image.open(path) as image:
+            image.verify()
+        with Image.open(path) as image:
+            return image.width >= MIN_PHOTO_DIMENSION and image.height >= MIN_PHOTO_DIMENSION
+    except Exception:
+        return False
+
+
+def valid_photo_bytes(data):
+    if len(data) < MIN_PHOTO_BYTES:
+        raise RuntimeError("source image too small")
+    try:
+        with Image.open(io.BytesIO(data)) as image:
+            image.verify()
+        with Image.open(io.BytesIO(data)) as image:
+            if image.width < MIN_PHOTO_DIMENSION or image.height < MIN_PHOTO_DIMENSION:
+                raise RuntimeError("source image dimensions below 120px")
+    except Exception as exc:
+        if "below 120px" in str(exc) or "too small" in str(exc):
+            raise
+        raise RuntimeError(f"invalid image data: {exc}") from exc
+
+
 def cache_entry_prepare(entry):
     image = entry.get("image")
     builder = entry.get("company") or entry.get("builder")
@@ -400,21 +431,36 @@ def cache_entry_prepare(entry):
         return ("clear", entry, None, "hard-quarantined local asset removed")
 
     # A prior browser-recovery pass may already have converted the staged
-    # source into the canonical local asset. Reattach that local path to the
-    # catalog instead of falling through to the external-source logic.
+    # source into the canonical local asset. Reattach it only when the file
+    # satisfies the same minimum photo contract used by the recovery foreman.
+    # Invalid stale assets are removed so they cannot be silently republished.
     if target.exists():
-        return ("retain", entry, rel_path(target), None)
+        if valid_photo_file(target):
+            return ("retain", entry, rel_path(target), None)
+        print(f"Removing invalid local photo before cache conversion: {target}")
+        try:
+            target.unlink()
+        except OSError:
+            pass
 
     # Browser-assisted recovery may have staged the exact source bytes next
     # to the canonical target. Convert them into the public WebP archive.
     if not target.exists():
         for staged in (target.with_suffix(".source"), target.with_suffix(".png"), target.with_suffix(".jpg"), target.with_suffix(".jpeg")):
             if staged.exists():
-                with Image.open(staged) as source:
+                data = staged.read_bytes()
+                valid_photo_bytes(data)
+                with Image.open(io.BytesIO(data)) as source:
                     img = ImageOps.exif_transpose(source)
                     img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
                     img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
                     img.save(target, "WEBP", quality=88, method=6)
+                if not valid_photo_file(target):
+                    try:
+                        target.unlink()
+                    except OSError:
+                        pass
+                    raise RuntimeError("converted staged photo failed canonical size/dimension validation")
                 try:
                     staged.unlink()
                 except OSError:
@@ -505,6 +551,7 @@ def download_to_target(entry, target, source_url):
     for candidate in list(dict.fromkeys(sources)):
         try:
             data = fetch_image(candidate, page_url)
+            valid_photo_bytes(data)
             with Image.open(io.BytesIO(data)) as source:
                 img = ImageOps.exif_transpose(source)
                 if img.width <= 0 or img.height <= 0:
@@ -512,6 +559,12 @@ def download_to_target(entry, target, source_url):
                 img = img.convert("RGBA" if "A" in img.getbands() else "RGB")
                 img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
                 img.save(target, "WEBP", quality=88, method=6)
+            if not valid_photo_file(target):
+                try:
+                    target.unlink()
+                except OSError:
+                    pass
+                raise RuntimeError("downloaded photo failed canonical size/dimension validation")
             return rel_path(target), candidate
         except Exception as exc:
             errors.append(f"{candidate}: {exc}")
