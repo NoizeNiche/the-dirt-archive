@@ -152,9 +152,10 @@ def collision_identity(builder, pedal):
                 continue
             parts = [part.strip() for part in line.strip("|").split("|")]
             if len(parts) >= 4:
-                aliases = {parts[1], parts[3]}
-                if builder_key in aliases:
-                    builder_key = parts[3]
+                canonical = parts[1]
+                observed = parts[3]
+                if builder_key == canonical or (observed and builder_key == observed):
+                    builder_key = canonical
                     break
     except Exception:
         pass
