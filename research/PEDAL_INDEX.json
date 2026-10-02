@@ -44918,9 +44918,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000,
-      "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
-      "image_source_url": "https://www.russomusic.com/cdn/shop/files/ISS14518CMadProfessorUsedGoldenCelloDelayDistortionWBox.jpg?v=1690752637&width=1200"
+      "image_source_priority": 50000
     },
     {
       "company": "Mad Professor Amplification",

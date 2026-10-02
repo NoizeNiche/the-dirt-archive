@@ -19824,6 +19824,7 @@
   {
     "builder": "J. Rockett Audio Designs",
     "pedal": "Hooligan Fuzz",
+    "image": null,
     "source_page": "https://rockettpedals.com/",
     "research_record": "./research/pedals/J. Rockett Audio Designs/Hooligan Fuzz.md"
   },
@@ -21937,7 +21938,6 @@
   {
     "builder": "Mad Professor Amplification",
     "pedal": "Golden Cello",
-    "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md"
   },
@@ -28193,6 +28193,7 @@
   {
     "builder": "VFE Pedals",
     "pedal": "The Scream",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/VFE Pedals/The Scream.md"
   },
@@ -28963,6 +28964,7 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "SLOstortion",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Wampler Pedals/SLOstortion.md"
   },
