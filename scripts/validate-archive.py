@@ -490,6 +490,7 @@ def main():
         ("dirt-photo-publishing-v5", fast_photo_workflow),
         ("cancel-in-progress: true", fast_photo_workflow),
         ('PHOTO_BROWSER_CACHE_LIMIT: "60"', fast_photo_workflow),
+        ('PHOTO_BROWSER_CACHE_CONCURRENCY: "8"', fast_photo_workflow),
         ("Production deployment verified", fast_photo_workflow),
         ("Production deployment verified", parallel_photo_workflow),
         ("Deployment image audit scope:", deploy_text),
