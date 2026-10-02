@@ -32779,14 +32779,16 @@
       "research_record": "./research/pedals/Devi Ever : FX/Truly Beautiful Disaster.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/trulybeautifuldisaster",
+      "image_source_page": "https://item.rakuten.co.jp/guitarplanet/deviever_truly_beautifuldisaster/",
       "image_source_pages": [
         "https://reverb.com/p/devi-ever-fx-truly-beautiful-disaster",
         "https://www.effectsdatabase.com/model/deviever/trulybeautifuldisaster"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1570
+      "image_source_priority": 1570,
+      "image_source_url": "https://tshop.r10s.jp/guitarplanet/cabinet/effector/beautifuldisaster2.jpg?fitin=720%3A720",
+      "image": "./assets/pedals/devi-ever-fx/truly-beautiful-disaster-14955ee3/primary.webp"
     },
     {
       "company": "Devi Ever : FX",
@@ -32898,7 +32900,9 @@
       "image_source_page": "https://www.effectsdatabase.com/model/deviever/beautifuldisaster",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_beautifuldisaster_001.jpg",
+      "image": "./assets/pedals/devi-ever-fx/beautiful-disaster-25d0194c/primary.webp"
     },
     {
       "company": "Devi Ever FX",
@@ -40605,14 +40609,15 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/El Hombre.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/j-rockett-el-hombre",
+      "image_source_page": "https://rockettpedals.com/",
       "image_source_pages": [
         "https://www.rockboard.de/en/pedalPedia/J-Rockett-Audio-Designs/El-Hombre/454642678/",
         "https://reverb.com/p/j-rockett-el-hombre"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1566
+      "image_source_priority": 1566,
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/Airchild-image_Home-Headerimage.jpg"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -40644,14 +40649,15 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/GTO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/j-rockett-gto-overdrive",
+      "image_source_page": "https://rockettpedals.com/",
       "image_source_pages": [
         "https://www.ebay.com/itm/398401384714",
         "https://reverb.com/p/j-rockett-gto-overdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1567
+      "image_source_priority": 1567,
+      "image_source_url": "https://rockettpedals.com/wp-content/uploads/2024/08/Airchild-image_Home-Headerimage.jpg"
     },
     {
       "company": "J. Rockett Audio Designs",
