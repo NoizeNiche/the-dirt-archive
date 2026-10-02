@@ -92,3 +92,6 @@ consume latest exact-model manufacturer and established-archive leads using exis
 
 finish-line redundancy-source kick 2026-10-02T17:18:00Z
 consume refreshed exact-model fallback pages with the existing bounded worker settings
+
+finish-line final source-net kick 2026-10-02T17:30:00Z
+consume accumulated exact-model sources with existing bounded worker limits; no concurrency increase
