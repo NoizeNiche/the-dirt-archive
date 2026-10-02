@@ -138,9 +138,27 @@ def suspicious_values(entry):
 
 
 def collision_identity(builder, pedal):
-    """Match the deployment gate's identity normalization for shared photos."""
+    """Match deployment identity while honoring builder aliases from the master index."""
     builder_key = str(builder or "").strip()
     pedal_key = re.sub(r"[^a-z0-9+]+", "", str(pedal or "").strip().lower())
+
+    # Builder master rows use: numeric id | primary/archival label | canonical display.
+    # Treat the two labels as one builder for collision purposes so punctuation or
+    # archival-name variants cannot make an otherwise identical pedal photo collide.
+    master = Path("research/BUILDER_MASTER_INDEX.md")
+    try:
+        for line in master.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                continue
+            parts = [part.strip() for part in line.strip("|").split("|")]
+            if len(parts) >= 4:
+                aliases = {parts[1], parts[3]}
+                if builder_key in aliases:
+                    builder_key = parts[3]
+                    break
+    except Exception:
+        pass
+
     return (builder_key, pedal_key)
 
 
