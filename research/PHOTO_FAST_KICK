@@ -95,3 +95,6 @@ consume refreshed exact-model fallback pages with the existing bounded worker se
 
 finish-line final source-net kick 2026-10-02T17:30:00Z
 consume accumulated exact-model sources with existing bounded worker limits; no concurrency increase
+
+finish-line verified-fallback kick 2026-10-02T18:18:00Z
+consume latest exact-model fallback sources using existing bounded worker concurrency and deadlines
