@@ -2257,7 +2257,11 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
     let sourcePageUsed = null;
-    let pageUrls = preferredSourcePages(entry);
+    // Curated source pages are tried first, but do not let a long tail of
+    // blocked/stale pages consume the entire per-record recovery budget. Keep
+    // enough room for the Reverb/image-search fallbacks that often rescue the
+    // hardest records after the first few exact pages fail.
+    let pageUrls = preferredSourcePages(entry).slice(0, deepReview ? 5 : 4);
     if (entry.company === 'CBC Pedals' && entry.pedal === 'Harmonic Percolator') {
       try {
         const legacyPages = await legacyCbcSourcePages(page, entry);
