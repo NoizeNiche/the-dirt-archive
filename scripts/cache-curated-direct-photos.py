@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import csv
 import io
+import hashlib
 import json
 import re
 import subprocess
