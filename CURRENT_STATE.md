@@ -1,4 +1,8 @@
 
+## Photo recovery budget-allocation checkpoint - October 2, 2026
+
+The browser photo recovery pass now bounds the initial curated-source loop to **4 pages for normal recovery and 5 for deep review**, reserving time within the per-record deadline for Reverb, image-search, and other indexed fallbacks. Exact source priority and downstream identity validation remain unchanged.
+
 ## Photo recovery extractor checkpoint - October 2, 2026
 
 The photo recovery extractor now permits exact-model article/review source pages when the URL path itself contains matching pedal and builder identity. Generic article pages remain excluded, and downstream identity validation is unchanged. This allows model-specific historical reviews and launch pages to contribute image candidates without weakening the exact Builder + Pedal gate.
