@@ -104,3 +104,6 @@ fast photo recovery now uses 60-target bounded batches with 12 workers
 
 finish-line redundancy refresh kick 2026-10-02T18:55:00Z
 consume latest second-source fallbacks with 60-target / 12-worker bounded recovery
+
+continued source-fallback kick 2026-10-02T19:40:00Z
+consume latest manufacturer and established-model fallbacks using 60-target / 12-worker bounded recovery
