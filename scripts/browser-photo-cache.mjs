@@ -1782,7 +1782,7 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   // and blocked-source filters still apply, and extensionless CDN URLs are
   // allowed when the surrounding field explicitly identifies a background image.
   for (const pattern of [
-    /background(?:-image)?\\s*:\\s*url\\(\\s*["']?([^"')]+)["']?\\s*\\)/gi,
+    /background(?:-image)?\s*:\s*url\(\s*["']?([^"')]+)["']?\s*\)/gi,
     /data-(?:background-image|background|bg)=["']([^"']+)["']/gi
   ]) {
     for (const match of html.matchAll(pattern)) add(match[1], true);
