@@ -161,3 +161,6 @@ curated source pages now bounded to 4 normal / 5 deep-review pages so fallback s
 
 finish-line CSS-background extractor kick 2026-10-02T23:50:00Z
 exercise verified-page CSS background and data-background image extraction with 60-target / 12-worker bounds
+
+finish-line CSS-background regex-corrected kick 2026-10-02T23:58:00Z
+exercise corrected raw CSS background/data-background extraction with existing 60-target / 12-worker bounds
