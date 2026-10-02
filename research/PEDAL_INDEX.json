@@ -40692,13 +40692,15 @@
       "research_record": "./research/pedals/J. Rockett Audio Designs/Hooligan Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal",
+      "image_source_page": "https://www.zzounds.com/item--JRAHOOLIGAN",
       "image_source_pages": [
         "https://willcuttguitars.com/products/j-rockett-hooligan-fuzz-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1505
+      "image_source_priority": 1505,
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/hooligan-4140676effdeb5f7bf85a1422fef9b99.jpg",
+      "image": "./assets/pedals/j-rockett-audio-designs/hooligan-fuzz/primary.webp"
     },
     {
       "company": "J. Rockett Audio Designs",
@@ -57401,10 +57403,12 @@
         "https://www.effectsdatabase.com/model/vfe/thescream",
         "https://reverb.com/p/vfe-the-scream"
       ],
-      "image_source_page": "https://reverb.com/p/vfe-the-scream",
+      "image_source_page": "https://www.gearmusic.com/store/product/used-vfe-the-scream-overdrive-pedal?sku=ZZZ02175",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1269
+      "image_source_priority": 1269,
+      "image_source_url": "https://www.gearmusic.com/gearImages/ZZZ02175/Scream_1.JPG",
+      "image": "./assets/pedals/vfe-pedals/the-scream/primary.webp"
     },
     {
       "company": "VFE Pedals",
@@ -58945,10 +58949,12 @@
       "image_source_pages": [
         "https://reverb.com/item/2660402-wampler-slostortion"
       ],
-      "image_source_page": "https://reverb.com/item/2660402-wampler-slostortion",
+      "image_source_page": "https://www.gear4music.ie/Guitar-and-Bass/DISC-Wampler-SLOstortion-Smooth-SLO-Drive-Pedal/1C85",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1405
+      "image_source_priority": 1405,
+      "image_source_url": "https://r2.gear4music.com/media/14/146220/1200/preview.jpg",
+      "image": "./assets/pedals/wampler-pedals/slostortion/primary.webp"
     },
     {
       "company": "Wampler Pedals",
