@@ -1773,6 +1773,8 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
     /<meta[^>]+content=["']([^"']+)["'][^>]+(?:itemprop)=["']image["']/gi,
     /<link[^>]+(?:rel)=["']image_src["'][^>]+href=["']([^"']+)["']/gi,
     /<link[^>]+href=["']([^"']+)["'][^>]+(?:rel)=["']image_src["']/gi,
+    /<link[^>]+rel=["'][^"']*preload[^"']*["'][^>]+as=["']image["'][^>]+href=["']([^"']+)["']/gi,
+    /<link[^>]+href=["']([^"']+)["'][^>]+rel=["'][^"']*preload[^"']*["'][^>]+as=["']image["']/gi,
     /<img[^>]+(?:src|data-src|data-lazy-src|data-original|data-full-src|data-large-image|data-zoom-image|data-product-image|data-main-image|data-image|data-image-url)=["']([^"']+)["']/gi,
     /<source[^>]+(?:src|srcset|data-srcset)=["']([^"']+)["']/gi,
     /(?:data-product-image|data-main-image|data-image-url|data-image|data-large-image|data-zoom-image)=["']([^"']+)["']/gi,
