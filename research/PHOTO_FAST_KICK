@@ -152,3 +152,6 @@ consume latest exact-model EAE, Fuzzrocious, Organic Sounds and related sources 
 
 finish-line exact-tail kick 2026-10-02T23:58:00Z
 consume newest exact-model Iron Tusk, Fuzzrocious, Himmelstrutz, J Rockett, BJFE, and EAE fallbacks with 60-target / 12-worker bounds
+
+finish-line article-source-fix kick 2026-10-02T23:35:00Z
+exact-model article/review pages with matching model+builder URL context are now eligible for photo extraction; keep 60-target / 12-worker bounds
