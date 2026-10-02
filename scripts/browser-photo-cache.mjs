@@ -1775,6 +1775,19 @@ function rawVerifiedPageImageUrls(html, pageUrl) {
   for (const match of html.matchAll(/https?:\/\/[^"'\s<>]+\.(?:jpe?g|png|webp|gif)(?:[?#][^"'\s<>]*)?/gi)) {
     add(match[0]);
   }
+
+  // Some storefronts render the main product photograph as a CSS background
+  // or a data-* background attribute instead of an <img>. Harvest those URLs
+  // only from an already identity-verified source page. The same asset-path
+  // and blocked-source filters still apply, and extensionless CDN URLs are
+  // allowed when the surrounding field explicitly identifies a background image.
+  for (const pattern of [
+    /background(?:-image)?\\s*:\\s*url\\(\\s*["']?([^"')]+)["']?\\s*\\)/gi,
+    /data-(?:background-image|background|bg)=["']([^"']+)["']/gi
+  ]) {
+    for (const match of html.matchAll(pattern)) add(match[1], true);
+  }
+
   // Some product JSON embeds image endpoints without a filename extension.
   // Keep these only when the surrounding key explicitly identifies an image
   // field, or when the endpoint comes from a known image/CDN host.
