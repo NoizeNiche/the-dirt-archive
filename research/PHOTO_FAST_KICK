@@ -164,3 +164,6 @@ exercise verified-page CSS background and data-background image extraction with 
 
 finish-line CSS-background regex-corrected kick 2026-10-02T23:58:00Z
 exercise corrected raw CSS background/data-background extraction with existing 60-target / 12-worker bounds
+
+finish-line Reverb-product-source fix kick 2026-10-03T00:05:00Z
+allow exact Reverb /p/ product records to reach identity verification and image extraction; keep 60-target / 12-worker bounds
