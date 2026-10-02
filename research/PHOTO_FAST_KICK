@@ -77,3 +77,6 @@ run full remaining queue with widened recovery attempts and safer concurrency
 
 finish-line alternate-source kick 2026-10-02T11:02:34.551Z
 retry remaining researched-photo queue with newly added exact-model alternate source
+
+finish-line bounded recovery kick 2026-10-02T16:37:00Z
+consume upgraded exact-image source anchors; keep existing concurrency and deadlines
