@@ -71,3 +71,6 @@ Finish-line recovery kick from hardened main
 
 finish-line source-lead refresh kick 2026-10-02T11:00:09Z
 consume refreshed curated exact-model source pages on the next bounded recovery pass
+
+finish-line throughput tuning kick 2026-10-02T11:01:42.576Z
+run full remaining queue with widened recovery attempts and safer concurrency
