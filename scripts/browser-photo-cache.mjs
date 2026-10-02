@@ -551,12 +551,18 @@ function isGenericSourcePage(url) {
 
     const genericSegments = new Set([
       'search', 'results', 'archive', 'archives',
-      'devices', 'legacy',
+      'devices',
       'all-pedals', 'all-pedals-1', 'all-products',
       'catalog', 'catalogue',
       'categories', 'brands'
     ]);
     if (parts.some(part => genericSegments.has(part))) return true;
+
+    // Some builders keep exact discontinued models beneath a /legacy/<model>
+    // route. Treat the bare /legacy landing page as generic, but allow deeper
+    // legacy paths to reach the exact identity gate.
+    const legacyIndex = parts.findIndex(part => part === 'legacy');
+    if (legacyIndex >= 0 && parts.length === legacyIndex + 1) return true;
 
     // Builder storefronts often nest an exact product under a collection route,
     // such as /collections/fuzz/products/lil-fuzz-kit. Treat the collection
