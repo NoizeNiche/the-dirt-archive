@@ -186,3 +186,5 @@ finish-line verified manufacturer-photo refresh 2026-10-02T23:06:00Z
 retry exact Wren and Cuff Eye See '78 and Walrus Audio Voyager Preamp/Overdrive MKII image leads using the existing bounded 60-target / 12-worker lane
 finish-line exact-tail photo refresh 2026-10-02T23:13:00Z
 consume exact-model Wampler SLOstortion, J. Rockett Hooligan Fuzz, and VFE The Scream leads with the existing bounded recovery lane
+finish-line direct-exact refresh 2026-10-03T00:15:00Z
+consume newly verified BSQ Effects Bulls On, BSQ Effects Dynamite, and Collision Devices Snack Fuzz exact-model image leads using the existing 60-target / 12-worker bounded lane
