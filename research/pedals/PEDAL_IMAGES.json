@@ -10697,6 +10697,7 @@
   {
     "builder": "Chaos Custom Shop / Chaos FX",
     "pedal": "C.Drive",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Chaos Custom Shop - Chaos FX/C.Drive.md"
   },
@@ -15765,6 +15766,7 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "Beautiful Disaster",
+    "image": null,
     "source_page": "https://www.effectsdatabase.com/model/deviever",
     "research_record": "./research/pedals/Devi Ever : FX/Beautiful Disaster.md"
   },
@@ -20785,6 +20787,7 @@
   {
     "builder": "Keeley Electronics",
     "pedal": "SUNS Ultravoid Fuzz",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Keeley Electronics/SUNS Ultravoid Fuzz.md"
   },
@@ -26415,6 +26418,7 @@
   {
     "builder": "SolidGoldFX",
     "pedal": "BETA-V Bass Preamp",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/SolidGoldFX/BETA-V Bass Preamp.md"
   },
@@ -26595,6 +26599,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Black Russian",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/Black Russian.md"
   },
@@ -26829,6 +26834,7 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "The Shag MkII",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Stomp Under Foot/The Shag MkII.md"
   },
@@ -26940,6 +26946,7 @@
   {
     "builder": "Strymon",
     "pedal": "Canoga Vintage Silicon Fuzz",
+    "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Strymon/Canoga Vintage Silicon Fuzz.md"
   },
