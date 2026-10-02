@@ -53,6 +53,24 @@ SITEMAP_BUILDER = ROOT / "scripts/build-sitemap.py"
 def pair(a, b):
     return (a, b)
 
+def canonical_builder_name(builder):
+    """Resolve observed builder labels to the canonical builder master label."""
+    value = str(builder or "").strip()
+    master = ROOT / "research/BUILDER_MASTER_INDEX.md"
+    try:
+        for line in master.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                continue
+            parts = [part.strip() for part in line.strip("|").split("|")]
+            if len(parts) >= 4:
+                canonical = parts[1]
+                observed = parts[3]
+                if value == canonical or (observed and value == observed):
+                    return canonical
+    except Exception:
+        pass
+    return value
+
 def local(path):
     value = path[2:] if path.startswith("./") else path
     return ROOT / value
@@ -177,7 +195,7 @@ def main():
     catalog_by_key = {pair(x.get("company"), x.get("pedal")): x for x in pedals}
 
     def photo_collision_identity(builder, pedal):
-        builder_key = str(builder or "").strip()
+        builder_key = canonical_builder_name(builder)
         pedal_key = re.sub(r"[^a-z0-9+]+", "", str(pedal or "").strip().lower())
         return (builder_key, pedal_key)
 
@@ -195,7 +213,7 @@ def main():
         normalized_path = image_path.relative_to(ROOT).as_posix()
         local_image_paths.setdefault(normalized_path, []).append((identity, collision_identity))
         digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
-        local_image_owners.setdefault(digest, []).append(identity)
+        local_image_owners.setdefault(digest, []).append((identity, collision_identity))
 
     duplicate_local_paths = {
         image_path: keys
@@ -214,11 +232,15 @@ def main():
         )
 
     duplicate_local_blobs = {
-        digest: keys for digest, keys in local_image_owners.items() if len(set(keys)) > 1
+        digest: entries
+        for digest, entries in local_image_owners.items()
+        if len({signature for _, signature in entries}) > 1
     }
     if duplicate_local_blobs:
         examples = "; ".join(
-            digest[:12] + ": " + ", ".join(f"{builder} / {pedal}" for builder, pedal in keys)
+            digest[:12] + ": " + ", ".join(
+                f"{builder} / {pedal}" for builder, pedal in [identity for identity, _ in keys]
+            )
             for digest, keys in list(duplicate_local_blobs.items())[:8]
         )
         raise SystemExit(
