@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **2**
+- Cached in this run: **1**
 - Staged browser photos converted: **0**
 - Local images retained/reorganized: **0**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **0**
-- Remaining tracker photo backlog: **178**
-- Researched, photo pending: **178**
+- Remaining tracker photo backlog: **177**
+- Researched, photo pending: **177**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -17,7 +17,6 @@
 
 ## Newly cached
 
-- Devi Ever : FX - Truly Beautiful Disaster -> `./assets/pedals/devi-ever-fx/truly-beautiful-disaster-14955ee3/primary.webp`
-- Devi Ever FX - Beautiful Disaster -> `./assets/pedals/devi-ever-fx/beautiful-disaster-25d0194c/primary.webp`
+- Atlas Pedal - Sutherland OverDrive -> `./assets/pedals/atlas-pedal/sutherland-overdrive/primary.webp`
 
 All pictured pedal images are locally cached.
