@@ -27005,7 +27005,8 @@
       "image_source_page": "https://www.mobydick.asia/cf.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 554
+      "image_source_priority": 554,
+      "image_source_url": "https://www.mobydick.asia/image/gif/mobydick2.gif"
     },
     {
       "company": "Commune/ECA (Empire Custom Amplification)",
@@ -30291,7 +30292,8 @@
       "image_source_page": "https://eastsidemusicsupply.com/products/crotronics-firestarter",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 691
+      "image_source_priority": 691,
+      "image_source_url": "https://eastsidemusicsupply.com/cdn/shop/files/02_Horizontal_EMS_Black_4x_88361139-351a-4293-88a4-9d513a57172e_300x.png?v=1772644546"
     },
     {
       "company": "Crotronics",
@@ -48580,10 +48582,11 @@
       "image_source_pages": [
         "https://www.chicagomusicexchange.com/products/mojo-hand-fx-rounder-fuzz-15326"
       ],
-      "image_source_page": "https://www.chicagomusicexchange.com/products/mojo-hand-fx-rounder-fuzz-15326",
+      "image_source_page": "https://mojohandfx.com/rounder-a-nod-to-a-rare-fuzz/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 468
+      "image_source_priority": 468,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-fmqn5lwvxi/images/stencil/80w/products/167/425/Rounder__45601.1720721959.jpg?c=1"
     },
     {
       "company": "Mojo Hand FX",
@@ -49312,11 +49315,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/evh-5150-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/EVH 5150 Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/559/6031/11051500001.MAIN__94725.1663874791.jpg?c=2",
+      "image_source_page": "https://www.jimdunlop.com/mxr-evh-5150-overdrive/"
     },
     {
       "company": "MXR",
@@ -49422,12 +49427,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/mxr/prime-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/MXR/Prime Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.manua.ls/mxr/prime-distortion-m69p/manual"
+      "image_source_page": "https://www.jimdunlop.com/mxr-prime-distortion/",
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/1280x1280/products/2198/11116/M69P.MAIN__08132.1716335112.jpg?c=2"
     },
     {
       "company": "MXR",
@@ -59192,10 +59198,10 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/way-huge/fat-sandwich/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Way Huge/Fat Sandwich.md",
-      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/whe301",
+      "image_source_page": "https://www.guitarcenter.com/Way-Huge-Electronics/WHE301-Fat-Sandwich-Harmonic-Saturator-Distortion-Guitar-Effects-Pedal-1274228082042.gc",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -59203,7 +59209,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 653
+      "image_source_priority": 653,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/155064000000000-00-600x600.jpg"
     },
     {
       "company": "Way Huge",
