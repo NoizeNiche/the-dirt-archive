@@ -390,6 +390,7 @@ function updateMetaDescription(item){
   const image=item?.image && /^\.?\/assets\/pedals\//.test(String(item.image))
     ? new URL(String(item.image).replace(/^\.\//,''),location.href).href
     : '';
+  const shareImage=image || new URL('./assets/dirt-archive-share.png',location.href).href;
   const meta=document.querySelector('meta[name="description"]');
   if(meta)meta.setAttribute('content',description);
   const canonical=document.querySelector('link[rel="canonical"]');
@@ -399,10 +400,10 @@ function updateMetaDescription(item){
     ['meta[property="og:title"]',title],
     ['meta[property="og:description"]',description],
     ['meta[property="og:url"]',url],
-    ['meta[property="og:image"]',image],
+    ['meta[property="og:image"]',shareImage],
     ['meta[name="twitter:title"]',title],
     ['meta[name="twitter:description"]',description],
-    ['meta[name="twitter:image"]',image]
+    ['meta[name="twitter:image"]',shareImage]
   ]){
     const el=document.querySelector(selector);
     if(el)el.setAttribute('content',content);
