@@ -80,3 +80,6 @@ retry remaining researched-photo queue with newly added exact-model alternate so
 
 finish-line bounded recovery kick 2026-10-02T16:37:00Z
 consume upgraded exact-image source anchors; keep existing concurrency and deadlines
+
+finish-line expanded source batch kick 2026-10-02T16:46:00Z
+consume latest exact-model source leads with existing bounded concurrency and deadlines
