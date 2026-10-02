@@ -116,3 +116,6 @@ consume latest exact manufacturer/retailer fallbacks with 60-target / 12-worker 
 
 finish-line archival-fallback kick 2026-10-02T20:35:00Z
 consume latest exact-model Yardbox/Phaez and related fallback sources using 60-target / 12-worker bounds
+
+finish-line manufacturer-fallback kick 2026-10-02T20:55:00Z
+consume latest Walrus, Vemuram, Wampler and TC Electronic source leads with existing 60-target / 12-worker bounds
