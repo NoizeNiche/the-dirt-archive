@@ -26,6 +26,24 @@ def key(builder, pedal):
     return (str(builder or "").strip(), str(pedal or "").strip())
 
 
+def canonical_builder_name(builder):
+    value = str(builder or "").strip()
+    master = ROOT / "research/BUILDER_MASTER_INDEX.md"
+    try:
+        for line in master.read_text(encoding="utf-8").splitlines():
+            if not line.startswith("|"):
+                continue
+            parts = [part.strip() for part in line.strip("|").split("|")]
+            if len(parts) >= 4:
+                canonical = parts[1]
+                observed = parts[3]
+                if value == canonical or (observed and value == observed):
+                    return canonical
+    except Exception:
+        pass
+    return value
+
+
 def load_identity_quarantine():
     rows = {}
     try:
@@ -54,7 +72,7 @@ def load_hash_quarantine():
     builders_by_hash = {}
     for row in rows:
         digest = str(row.get("Blob SHA256") or "").strip()
-        builder = str(row.get("Builder") or "").strip()
+        builder = canonical_builder_name(row.get("Builder"))
         if digest and builder:
             builders_by_hash.setdefault(digest, set()).add(builder)
 
