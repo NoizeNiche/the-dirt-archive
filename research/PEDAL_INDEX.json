@@ -36795,13 +36795,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/electronic-audio-experiments/citadel/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Electronic Audio Experiments/Citadel.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.electronicaudioexperiments.com/pedals/citadel",
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/56a5a0e242f55268768a0c2b/1b9966c7-e8f8-410e-8238-91c74681bfda/EAE+Web+Banner+Logo+Transparent.png?format=750w"
+      "image_source_url": "http://static1.squarespace.com/static/56a5a0e242f55268768a0c2b/582ca23615d5db4700778467/637ceaf7c574cf4efc221f39/1790966415757/DSC00710+edit.JPG?format=1500w"
     },
     {
       "company": "Electronic Audio Experiments",
