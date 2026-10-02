@@ -583,22 +583,50 @@ function isGenericSourcePage(url) {
   }
 }
 
+function isExactModelArticleSourcePage(url, entry) {
+  try {
+    const parsed = new URL(String(url || ''));
+    const pathName = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase();
+    const articleSegments = new Set([
+      'blog', 'news', 'article', 'articles',
+      'review', 'reviews', 'guide', 'guides'
+    ]);
+    const parts = pathName.split('/').filter(Boolean);
+    if (!parts.some(part => articleSegments.has(part))) return false;
+
+    const haystack = normalizedIdentity(parts.join(' '));
+    const pedalPhrases = identityPhrases(entry.pedal);
+    const builderTokens = identityTokens(entry.company);
+    const pedalMatch = pedalPhrases.some(phrase => haystack.includes(phrase));
+    const builderMatch = !builderTokens.length ||
+      builderTokens.some(token => haystack.includes(token));
+    return pedalMatch && builderMatch;
+  } catch {
+    return false;
+  }
+}
+
+function sourcePageEligible(entry, value) {
+  return /^https?:/i.test(String(value || '')) &&
+    (!isGenericSourcePage(value) || isExactModelArticleSourcePage(value, entry));
+}
+
 function preferredSourcePage(entry) {
   const imagePage = entry.image_source_page || null;
   const sourcePage = entry.source_page || null;
-  if (imagePage && !isGenericSourcePage(imagePage)) return imagePage;
-  if (sourcePage && !isGenericSourcePage(sourcePage)) return sourcePage;
+  if (imagePage && sourcePageEligible(entry, imagePage)) return imagePage;
+  if (sourcePage && sourcePageEligible(entry, sourcePage)) return sourcePage;
   return imagePage || sourcePage || null;
 }
 
 function preferredSourcePages(entry) {
   const pages = Array.isArray(entry.image_source_pages)
-    ? entry.image_source_pages.filter(value => /^https?:/i.test(String(value || '')) && !isGenericSourcePage(value))
+    ? entry.image_source_pages.filter(value => sourcePageEligible(entry, value))
     : [];
   const preferred = preferredSourcePage(entry);
-  const researchPages = researchRecordSourcePages(entry).filter(value => !isGenericSourcePage(value));
+  const researchPages = researchRecordSourcePages(entry).filter(value => sourcePageEligible(entry, value));
   const combined = [];
-  if (preferred && /^https?:/i.test(preferred) && !isGenericSourcePage(preferred)) combined.push(preferred);
+  if (preferred && sourcePageEligible(entry, preferred)) combined.push(preferred);
   combined.push(...researchPages);
   combined.push(...pages);
   return [...new Set(combined)].slice(0, 8);
