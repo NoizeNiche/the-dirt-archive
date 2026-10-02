@@ -547,12 +547,23 @@ function isGenericSourcePage(url) {
 
     const genericSegments = new Set([
       'search', 'results', 'archive', 'archives',
-      'devices', 'legacy', 'collections', 'collection',
+      'devices', 'legacy',
       'all-pedals', 'all-pedals-1', 'all-products',
       'catalog', 'catalogue',
       'categories', 'brands'
     ]);
     if (parts.some(part => genericSegments.has(part))) return true;
+
+    // Builder storefronts often nest an exact product under a collection route,
+    // such as /collections/fuzz/products/lil-fuzz-kit. Treat the collection
+    // landing page as generic, but allow a deeper product path to reach the
+    // exact identity check and image extractor.
+    const collectionIndex = parts.findIndex(part => part === 'collections' || part === 'collection');
+    if (collectionIndex >= 0) {
+      const afterCollection = parts.slice(collectionIndex + 1);
+      const productPath = new Set(['product', 'products', 'pedal', 'pedals', 'effect', 'effects']);
+      if (!afterCollection.some(part => productPath.has(part))) return true;
+    }
 
     // Exact product pages are commonly nested beneath a builder's /shop/ or
     // /store/ route. Treat only bare /shop or /store landing pages as generic;
