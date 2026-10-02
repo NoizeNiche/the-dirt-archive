@@ -119,3 +119,6 @@ consume latest exact-model Yardbox/Phaez and related fallback sources using 60-t
 
 finish-line manufacturer-fallback kick 2026-10-02T20:55:00Z
 consume latest Walrus, Vemuram, Wampler and TC Electronic source leads with existing 60-target / 12-worker bounds
+
+finish-line verified-reference kick 2026-10-02T21:20:00Z
+consume SolidGoldFX, Subdecay, Tech 21, Union Tube & Transistor, and Astrotone fallback sources with existing 60-target / 12-worker bounds
