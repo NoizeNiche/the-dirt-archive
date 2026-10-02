@@ -1,3 +1,9 @@
+## Finish-line photo recovery checkpoint - October 2, 2026
+
+The canonical catalog remains **4,200 records**, with **4,030 pictured / 4,030 complete** and **170 researched-photo-pending**. The photo-recovery lane has continued to publish exact local photos through bounded runs while preserving the strict identity and local-asset gates.
+
+The current finish-line lane has curated source-page coverage for the unresolved photo queue. Public UI redesign remains intentionally deferred until the photo/recovery and exhaustive QA gates are green.
+
 ## Photo QA + catalog-scope checkpoint - September 29, 2026
 
 The research-content cleanup lane was hardened against store-page shells, tracing-article navigation residue, and cross-model press-release fragments. Successful audit runs returned zero flagged research-content lines.
