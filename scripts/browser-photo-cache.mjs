@@ -549,10 +549,16 @@ function isGenericSourcePage(url) {
       'search', 'results', 'archive', 'archives',
       'devices', 'legacy', 'collections', 'collection',
       'all-pedals', 'all-pedals-1', 'all-products',
-      'catalog', 'catalogue', 'shop', 'store',
+      'catalog', 'catalogue',
       'categories', 'brands'
     ]);
     if (parts.some(part => genericSegments.has(part))) return true;
+
+    // Exact product pages are commonly nested beneath a builder's /shop/ or
+    // /store/ route. Treat only bare /shop or /store landing pages as generic;
+    // a deeper path such as /shop/tone-druid- or /shop/p/snack-fuzz is eligible
+    // for exact-model recovery and must not be discarded before identity checks.
+    if ((pathName === 'shop' || pathName === 'store') && parts.length === 1) return true;
 
     const articleSegments = new Set([
       'blog', 'news', 'article', 'articles',
