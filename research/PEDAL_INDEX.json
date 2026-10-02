@@ -9980,7 +9980,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bffx-boutique-pedals/demon-d/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/PRP Batch 080/Demon D.md",
       "image_source_page": "https://equipboard.com/items/bffx-demon-d",
@@ -9991,7 +9991,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 68
+      "image_source_priority": 68,
+      "image_source_url": "https://images.equipboard.com/uploads/item/image/43102/bffx-demon-d-xl.webp?v=1790848822"
     },
     {
       "company": "BFFX Boutique Pedals",
@@ -43776,8 +43777,8 @@
       "research_record": "./research/pedals/Lichtlaerm Audio/Medusa.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://eastsidemusicsupply.com/cdn/shop/files/02_Horizontal_EMS_Black_4x_88361139-351a-4293-88a4-9d513a57172e_300x.png?v=1772644546",
-      "image_source_page": "https://eastsidemusicsupply.com/products/lichtlaerm-audio-medusa"
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5cd82168840b1640b019cfdf/1557743833959-FDOC3KFS2ZLF2BZTUHC0/LichtLaerm_schnitt_weiss.png?format=300w",
+      "image_source_page": "https://lichtlaerm-audio.squarespace.com/"
     },
     {
       "company": "Lichtlaerm Audio",
