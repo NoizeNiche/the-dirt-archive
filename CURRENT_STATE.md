@@ -1,4 +1,8 @@
 
+## Photo recovery source-classifier checkpoint - October 3, 2026
+
+Exact discontinued-product pages under deeper `/legacy/<model>` routes are now eligible for photo recovery; only the bare `/legacy` landing route remains generic. This complements the existing exact-product exceptions for Reverb `/p/`, builder `/shop/` and `/store/`, and collection-product routes. The downstream Builder + Pedal identity gate remains unchanged.
+
 ## Photo recovery extractor hardening checkpoint - October 3, 2026
 
 The photo recovery engine has been hardened without relaxing identity rules: exact Reverb `/p/` product records are now eligible alongside `/item/` listings; exact-model article/review pages can participate when builder + model identity is present in the URL; verified-page extraction now includes CSS background images plus legacy `itemprop=\"image\"`, `image_src`, and product-specific `data-*` image fields. The committed `browser-photo-cache.mjs` parses successfully after these changes. The bounded fast lane remains **60 targets / 12 workers / 900-second job deadline**.
