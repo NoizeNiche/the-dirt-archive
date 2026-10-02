@@ -4858,14 +4858,15 @@
       "research_record": "./research/pedals/Ashdown Engineering/Bass Drive Plus.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null,
+      "image": "./assets/pedals/ashdown-engineering/bass-drive-plus/primary.webp",
       "image_source_pages": [
         "https://ashdownmusic.com/products/fs-drive-plus"
       ],
       "image_source_page": "https://ashdownmusic.com/products/fs-drive-plus",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1531
+      "image_source_priority": 1531,
+      "image_source_url": "https://ashdownmusic.com/cdn/shop/products/FS-Drive-Plus_resize.png?v=1515759321&width=600"
     },
     {
       "company": "Ashdown Engineering",
@@ -6996,7 +6997,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1550,
-      "image_source_url": "https://static.cdninstagram.com/rsrc.php/yR/r/92ZsVHNkyvf.webp"
+      "image_source_url": "https://static.cdninstagram.com/rsrc.php/yN/r/-erGonz07kB.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -38490,7 +38491,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1466
+      "image_source_priority": 1466,
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2015/08/cf-450x355.jpg",
+      "image": "./assets/pedals/fuzzrocious-pedals/cicada-fuzz/primary.webp"
     },
     {
       "company": "Fuzzrocious Pedals",
