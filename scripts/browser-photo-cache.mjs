@@ -534,7 +534,11 @@ function isGenericSourcePage(url) {
     const parts = pathName.split('/').filter(Boolean);
 
     const isReverb = host === 'reverb.com' || host.endsWith('.reverb.com');
-    if (isReverb && !parts.includes('item')) return true;
+    // Reverb exposes both individual marketplace listings (/item/...) and
+    // stable product records (/p/...). Both are valid exact-model source pages
+    // when the downstream identity gate confirms the Builder + Pedal. Keep
+    // category/search/account routes generic.
+    if (isReverb && !parts.includes('item') && !parts.includes('p')) return true;
 
     if (host.includes('effectsdatabase.com')) {
       if (parts[0] === 'model' && parts.length <= 2) return true;
