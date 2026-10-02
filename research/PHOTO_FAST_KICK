@@ -98,3 +98,6 @@ consume accumulated exact-model sources with existing bounded worker limits; no 
 
 finish-line verified-fallback kick 2026-10-02T18:18:00Z
 consume latest exact-model fallback sources using existing bounded worker concurrency and deadlines
+
+throughput-doubled kick 2026-10-02T18:35:00Z
+fast photo recovery now uses 60-target bounded batches with 12 workers
