@@ -173,3 +173,6 @@ exercise itemprop/image_src/product-data plus CSS-background extraction with 60-
 
 finish-line full-extractor-hardened kick 2026-10-03T00:35:00Z
 exercise Reverb /p, exact article, CSS background, data-image, itemprop=image and preload-image extraction with 60-target / 12-worker bounds
+
+finish-line legacy-route fix kick 2026-10-03T00:50:00Z
+exact discontinued /legacy/<model> pages are now eligible after identity checks; keep 60-target / 12-worker bounds
