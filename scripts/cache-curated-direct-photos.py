@@ -360,29 +360,47 @@ def main() -> None:
             if row.get("Pedal Info") == "DONE" and row.get("Picture") != "DONE":
                 pending.add(key(row.get("Builder", ""), row.get("Pedal", "")))
 
-    direct = {}
+    direct_rows = []
     with DIRECT.open(newline="", encoding="utf-8") as handle:
-        for row in csv.DictReader(handle):
-            k = key(row.get("Builder", ""), row.get("Pedal", ""))
-            image_url = str(row.get("Image URL") or "").strip()
-            source_page = str(row.get("Image Source Page") or "").strip()
-            notes = str(row.get("Notes") or "").strip()
-            approved = manual_verified.get(k)
-            blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
-            blocked_for_hash = k in hash_quarantine and k not in manual_verified
-            if (
-                k in pending
-                and approved
-                and image_url == approved[0]
-                and source_page == approved[1]
-                and image_url
-                and source_page
-                and is_http_image_url(image_url)
-                and not blocked_photo_url(image_url, block_rules)
-                and not blocked_for_identity
-                and not blocked_for_hash
-            ):
-                direct.setdefault(k, []).append((image_url, source_page, notes))
+        direct_rows = list(csv.DictReader(handle))
+
+    # An explicit PHOTO REVIEW: PRIMARY direct lead is equivalent curator evidence
+    # to VERIFIED_PRIMARY, but only when exactly one primary image/source pair exists.
+    primary_direct = {}
+    for row in direct_rows:
+        k = key(row.get("Builder", ""), row.get("Pedal", ""))
+        image_url = str(row.get("Image URL") or "").strip()
+        source_page = str(row.get("Image Source Page") or "").strip()
+        notes = str(row.get("Notes") or "").strip()
+        if k[0] and k[1] and image_url and source_page and "photo review: primary" in notes.lower():
+            primary_direct.setdefault(k, set()).add((image_url, source_page))
+
+    for k, leads in primary_direct.items():
+        if len(leads) == 1:
+            manual_verified[k] = next(iter(leads))
+
+    direct = {}
+    for row in direct_rows:
+        k = key(row.get("Builder", ""), row.get("Pedal", ""))
+        image_url = str(row.get("Image URL") or "").strip()
+        source_page = str(row.get("Image Source Page") or "").strip()
+        notes = str(row.get("Notes") or "").strip()
+        approved = manual_verified.get(k)
+        blocked_for_identity = image_url.lower() in identity_quarantine.get(k, set())
+        blocked_for_hash = k in hash_quarantine and k not in manual_verified
+        if (
+            k in pending
+            and approved
+            and image_url == approved[0]
+            and source_page == approved[1]
+            and image_url
+            and source_page
+            and is_http_image_url(image_url)
+            and not blocked_photo_url(image_url, block_rules)
+            and not blocked_for_identity
+            and not blocked_for_hash
+        ):
+            direct.setdefault(k, []).append((image_url, source_page, notes))
 
     recovered = 0
     skipped = 0
