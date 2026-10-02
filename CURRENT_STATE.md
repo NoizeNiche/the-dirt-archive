@@ -1,4 +1,8 @@
 
+## Photo recovery extractor hardening checkpoint - October 3, 2026
+
+The photo recovery engine has been hardened without relaxing identity rules: exact Reverb `/p/` product records are now eligible alongside `/item/` listings; exact-model article/review pages can participate when builder + model identity is present in the URL; verified-page extraction now includes CSS background images plus legacy `itemprop=\"image\"`, `image_src`, and product-specific `data-*` image fields. The committed `browser-photo-cache.mjs` parses successfully after these changes. The bounded fast lane remains **60 targets / 12 workers / 900-second job deadline**.
+
 ## Photo raw-media extractor checkpoint - October 2, 2026
 
 The raw verified-page photo extractor now also harvests URLs from CSS `background` / `background-image` declarations and `data-background-image`, `data-background`, and `data-bg` attributes. These candidates still pass the existing blocked-asset filters, size/transport checks, and exact Builder + Pedal identity gates.
