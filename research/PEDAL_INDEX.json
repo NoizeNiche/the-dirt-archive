@@ -15641,9 +15641,10 @@
       "research_record": "./research/pedals/BOSS/HM-2 Heavy Metal.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.boss.info/us/products/hm-2w/",
+      "image_source_page": "https://www.guitarplayer.com/news/boss-to-reissue-hm-2-heavy-metal-pedal",
       "image_source_priority": 1532,
-      "image": null
+      "image": "./assets/pedals/boss/hm-2-heavy-metal/primary.webp",
+      "image_source_url": "https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A313%2Ccw%3A806%2Cch%3A806%2Cq%3A80%2Cw%3A806/eVrHaXduj3iEYipEpKJeTg.jpg"
     },
     {
       "company": "BOSS",
@@ -17412,7 +17413,7 @@
       ],
       "source_page": "https://www.bsqeffects.com/pedales",
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md",
-      "image_source_page": "https://www.bsqeffects.com/pedales",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BSQ-Effects/Bulls-On/68976263/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -17420,7 +17421,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1419
+      "image_source_priority": 1419,
+      "image_source_url": "https://cdn.rockboard.de/common/image_0a5d83d1-03eb-4e43-9cfb-be6fdcc8af16.webp",
+      "image": "./assets/pedals/bsq-effects/bo-2-bulls-on-overdrive-compressor/primary.webp"
     },
     {
       "company": "BSQ Effects",
@@ -17430,7 +17433,7 @@
       ],
       "source_page": "https://www.bsqeffects.com/pedales",
       "research_record": "./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md",
-      "image_source_page": "https://www.bsqeffects.com/pedales",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/BSQ-Effects/Dynamite/68976267/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_pages": [
@@ -17438,7 +17441,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1420
+      "image_source_priority": 1420,
+      "image_source_url": "https://cdn.rockboard.de/common/image_e6f38d23-ab4d-4db9-bb28-7c7482427b41.webp",
+      "image": "./assets/pedals/bsq-effects/dm-2-dynamite-overdrive-compressor/primary.webp"
     },
     {
       "company": "BSQ Effects",
@@ -26290,7 +26295,7 @@
         "Distortion",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/collision-devices/snack-fuzz/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Collision Devices/Snack Fuzz.md",
       "image_source_page": "https://collisiondevices.com/shop/p/snack-fuzz",
@@ -26301,7 +26306,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 506
+      "image_source_priority": 506,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/613fafff5a3c44773121cc57/4470ec74-bd80-4318-bf29-cec7bf2222af/SF.jpeg"
     },
     {
       "company": "Collision Devices",
@@ -54495,7 +54501,9 @@
       "image_source_page": "https://www.rockboard.de/en/pedalPedia/Stomp-Under-Foot/Iron-Tusk/68984655/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1498
+      "image_source_priority": 1498,
+      "image_source_url": "https://cdn.rockboard.de/common/image_8f648f4b-e315-4ba0-9b09-21f4bb9242f7.webp",
+      "image": "./assets/pedals/stomp-under-foot/iron-tusk/primary.webp"
     },
     {
       "company": "Stomp Under Foot",
@@ -56783,10 +56791,12 @@
       "image_source_pages": [
         "https://reverb.com/item/100075756-vemuram-las-lunas-distortion-pedal-authorized-dealer"
       ],
-      "image_source_page": "https://reverb.com/item/100075756-vemuram-las-lunas-distortion-pedal-authorized-dealer",
+      "image_source_page": "https://www.thomannmusic.com/vemuram_las_lunas_distortion_overdrive.htm",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1457
+      "image_source_priority": 1457,
+      "image_source_url": "https://thumbs.static-thomann.de/thumb//bdbmagic/pics/prod/648093.jpg",
+      "image": "./assets/pedals/vemuram/las-lunas/primary.webp"
     },
     {
       "company": "Vemuram",

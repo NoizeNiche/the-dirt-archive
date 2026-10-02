@@ -951,8 +951,8 @@ BSM,FuzzBender Fuzz Machine,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 116/
 BSM,J-Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 117/bsm-j-fuzz.md
 BSM,Overdrive Supreme,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 117/bsm-overdrive-supreme.md
 BSM,Spectrum Fuzz Booster,Fuzz,DONE,DONE,DONE,./research/pedals/PRP Batch 117/bsm-spectrum-fuzz-booster.md
-BSQ Effects,BO-2 Bulls On - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md
-BSQ Effects,DM-2 Dynamite - Overdrive/Compressor,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md
+BSQ Effects,BO-2 Bulls On - Overdrive/Compressor,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 118/bsq-effects-bo-2-bulls-on-overdrive-compressor.md
+BSQ Effects,DM-2 Dynamite - Overdrive/Compressor,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 118/bsq-effects-dm-2-dynamite-overdrive-compressor.md
 BSQ Effects,MS-2 Mean Street - Distortion + Booster,Distortion,DONE,DONE,DONE,./research/pedals/PRP Batch 118/bsq-effects-ms-2-mean-street-distortion-booster.md
 BSQ Effects,SB-1 Scuttle Buttin' - Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 118/bsq-effects-sb-1-scuttle-buttin-overdrive.md
 Budda,Om Overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/PRP Batch 127/budda-om-overdrive.md
@@ -1561,7 +1561,7 @@ Collins,CSD-1 Pro Super Dust,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Collins/C
 Collision Devices,Black Hole Symmetry,Fuzz,DONE,DONE,DONE,./research/pedals/Collision Devices/Black Hole Symmetry.md
 Collision Devices,FZ - Gated Fuzz / Distortion,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Collision Devices/FZ - Gated Fuzz - Distortion.md
 Collision Devices,Singularity,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Collision Devices/Singularity.md
-Collision Devices,Snack Fuzz,Distortion / Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Collision Devices/Snack Fuzz.md
+Collision Devices,Snack Fuzz,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Collision Devices/Snack Fuzz.md
 Collision Devices,TARS,Distortion / Fuzz,DONE,DONE,DONE,./research/pedals/Collision Devices/TARS.md
 Colombo Audio Electronics,22 Overdrive/Distortion,Distortion / Overdrive,DONE,DONE,DONE,./research/pedals/Colombo Audio Electronics/22 Overdrive-Distortion.md
 Colombo Audio Electronics,57 Turbo Drive,Overdrive,DONE,DONE,DONE,./research/pedals/Colombo Audio Electronics/57 Turbo Drive.md
@@ -3311,7 +3311,7 @@ Stomp Under Foot,Green Russian,Fuzz,DONE,DONE,DONE,./research/pedals/Stomp Under
 Stomp Under Foot,Guv'nor,Distortion,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/Guv'nor.md
 Stomp Under Foot,Halo Bender,Distortion,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/Halo Bender.md
 Stomp Under Foot,Hellephant,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Stomp Under Foot/Hellephant.md
-Stomp Under Foot,Iron Tusk,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Stomp Under Foot/Iron Tusk.md
+Stomp Under Foot,Iron Tusk,Fuzz,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/Iron Tusk.md
 Stomp Under Foot,La Scatola Nero,Fuzz,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/La Scatola Nero.md
 Stomp Under Foot,Motor Honey Superdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/Motor Honey Superdrive.md
 Stomp Under Foot,Overdrive 8-Fifty,Overdrive,DONE,DONE,DONE,./research/pedals/Stomp Under Foot/Overdrive 8-Fifty.md
@@ -3470,7 +3470,7 @@ Vemuram,Jan Ray for TF,Overdrive,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Ja
 Vemuram,Jan Ray for TF — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Jan Ray for TF — overdrive.md
 Vemuram,Karen,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Karen.md
 Vemuram,Karen — overdrive,Overdrive,DONE,DONE,DONE,./research/pedals/Vemuram/Karen — overdrive.md
-Vemuram,Las Lunas,Distortion,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Las Lunas.md
+Vemuram,Las Lunas,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/Las Lunas.md
 Vemuram,Las Lunas — distortion,Distortion,DONE,DONE,DONE,./research/pedals/Vemuram/Las Lunas — distortion.md
 Vemuram,Myriad,Fuzz,DONE,NEEDED,NEEDED,./research/pedals/Vemuram/Myriad.md
 Vemuram,Myriad — fuzz / hybrid fuzz + loop identity,Fuzz,DONE,DONE,DONE,./research/pedals/Vemuram/Myriad — fuzz / hybrid fuzz + loop identity.md
@@ -3862,7 +3862,7 @@ BOSS,DN-2 Dyna Drive,Overdrive,DONE,DONE,DONE,./research/pedals/BOSS/DN-2 Dyna D
 BOSS,DS-1-4A 40th Anniversary Distortion,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/DS-1-4A 40th Anniversary Distortion.md
 BOSS,FZ-2 Hyper Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-2 Hyper Fuzz.md
 BOSS,FZ-3 Fuzz,Fuzz,DONE,DONE,DONE,./research/pedals/BOSS/FZ-3 Fuzz.md
-BOSS,HM-2 Heavy Metal,Distortion,DONE,NEEDED,NEEDED,./research/pedals/BOSS/HM-2 Heavy Metal.md
+BOSS,HM-2 Heavy Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-2 Heavy Metal.md
 BOSS,HM-3 Hyper Metal,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/HM-3 Hyper Metal.md
 BOSS,MT-2-3A 30th Anniversary Metal Zone,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/MT-2-3A 30th Anniversary Metal Zone.md
 BOSS,MZ-2 Digital Metalizer,Distortion,DONE,DONE,DONE,./research/pedals/BOSS/MZ-2 Digital Metalizer.md
