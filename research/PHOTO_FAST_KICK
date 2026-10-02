@@ -107,3 +107,6 @@ consume latest second-source fallbacks with 60-target / 12-worker bounded recove
 
 continued source-fallback kick 2026-10-02T19:40:00Z
 consume latest manufacturer and established-model fallbacks using 60-target / 12-worker bounded recovery
+
+finish-line historical-fallback kick 2026-10-02T20:10:00Z
+consume new Roger Mayer, Prescription Electronics, RYRA and related fallbacks with 60-target / 12-worker bounds
