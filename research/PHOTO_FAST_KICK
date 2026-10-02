@@ -140,3 +140,6 @@ exact product pages under /shop/ and /store/ are now eligible after identity che
 
 classifier-collection fix kick 2026-10-02T23:20:00Z
 allow deeper /collections/.../products/... exact pages to reach identity and image extraction; retain 60-target / 12-worker bounds
+
+finish-line archival-product kick 2026-10-02T23:55:00Z
+consume latest BJFE, Way Huge and Bad Cat exact-model fallbacks with existing 60-target / 12-worker bounds
