@@ -27670,7 +27670,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/coopersonic/twin-tube-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coopersonic/Twin Tube Overdrive.md",
       "image_source_page": "https://coopersonic.com/faq-pedals/",
@@ -43805,7 +43805,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/lichtlaerm-audio/medusa/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Lichtlaerm Audio/Medusa.md",
       "research_level": "deep",
@@ -60139,7 +60139,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/xotic-effects/ac-booster-v2-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Xotic Effects/AC Booster V2 — Overdrive.md",
       "research_level": "deep",
