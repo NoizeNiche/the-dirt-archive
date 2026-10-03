@@ -236,3 +236,7 @@ consume current 118-record researched-photo backlog from clean main through the 
 
 recovery deadline tuning kick 2026-10-03T15:47:00Z
 run the clean current 118-record photo backlog with the widened 55-second per-record recovery budget while retaining the 60-target / 12-worker / 900-second bounded job and all identity/provenance/quarantine gates
+
+
+fresh-lane deadline fix kick 2026-10-03T15:50:00Z
+run the current photo backlog with the 55-second fresh-recovery deadline and 60-second hard cutoff; keep 60 targets, 12 workers, 900-second job cap, and strict identity/provenance/quarantine gates
