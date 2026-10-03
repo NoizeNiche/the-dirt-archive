@@ -50023,7 +50023,9 @@
       "research_record": "./research/pedals/Mythos Pedals/Olympus Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/mythos-pedals/olympus-overdrive/primary.webp",
+      "image_source_url": "https://mythospedals.com/cdn/shop/files/straplocks_1100x.jpg?v=1695766169",
+      "image_source_page": "https://mythospedals.com/products/olympus-overdrive"
     },
     {
       "company": "Mythos Pedals",
@@ -55914,11 +55916,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/thorpyfx/field-marshal/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot_2025-08-21_at_11.39.14.png?v=1755772983&width=1920",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-field-marshal-fuzz-mkii"
     },
     {
       "company": "ThorpyFX",
@@ -55944,7 +55948,9 @@
       "research_record": "./research/pedals/ThorpyFX/Gunshot.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/gunshot/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/GS2.jpg?v=1741015201&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-gunshot-overdrive"
     },
     {
       "company": "ThorpyFX",
@@ -56078,7 +56084,9 @@
       "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/tvfzkskfv1yxvytjdg98.jpg?v=1779195570&width=1280",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/shaftesbury/products/shaftesbury-duo-fuzz"
     },
     {
       "company": "ThorpyFX",
@@ -56174,7 +56182,9 @@
       "research_record": "./research/pedals/ThorpyFX/THE J — Lazy J x ThorpyFX collaboration.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/the-j-lazy-j-x-thorpyfx-collaboration/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-09-24at12.47.11.png?v=1762257867&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-j-lazyj-thorpyfx-colab"
     },
     {
       "company": "ThorpyFX",
@@ -58555,10 +58565,12 @@
       "image_source_pages": [
         "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion"
       ],
-      "image_source_page": "https://www.walrusaudio.com/collections/overdrive-fuzz-distortion",
+      "image_source_page": "https://www.walrusaudio.com/collections/overdrives/products/voyager-preamp-overdrive-mkii",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1427
+      "image_source_priority": 1427,
+      "image_source_url": "https://www.walrusaudio.com/cdn/shop/files/Voyager-MKII_standard-art_front_900x.jpg?v=1748873973",
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive-mkii-overdrive/primary.webp"
     },
     {
       "company": "Walrus Audio",
@@ -60279,10 +60291,12 @@
       "image_source_pages": [
         "https://xotic.us/effects/bass-bb-v1-5/"
       ],
-      "image_source_page": "https://xotic.us/manuals/",
+      "image_source_page": "https://www.xotic.us/effects/bass-bb-v1-5/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1476
+      "image_source_priority": 1476,
+      "image_source_url": "https://www.xotic.us/effects/bass-bb-v1-5/img/BassBB_v1.5.jpg",
+      "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5-bass-boost-overdrive/primary.webp"
     },
     {
       "company": "Xotic Effects",
