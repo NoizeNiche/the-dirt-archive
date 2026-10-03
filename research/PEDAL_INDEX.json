@@ -54321,7 +54321,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/civil-unrest/primary.webp",
+      "image_source_url": "https://stompunderfoot.com/cdn/shop/files/VMCUShopify_b8aa9625-1b16-4ac2-bd84-638e0044ce39.jpg?v=1784812740&width=925",
+      "image_source_page": "https://stompunderfoot.com/products/civil-unrest"
     },
     {
       "company": "Stomp Under Foot",

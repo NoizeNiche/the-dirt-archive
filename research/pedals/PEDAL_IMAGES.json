@@ -28355,9 +28355,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Civil Unrest",
-    "image": "",
+    "image": "./assets/pedals/stomp-under-foot/civil-unrest/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md",
+    "image_source_url": "https://stompunderfoot.com/cdn/shop/files/VMCUShopify_b8aa9625-1b16-4ac2-bd84-638e0044ce39.jpg?v=1784812740&width=925",
+    "image_source_page": "https://stompunderfoot.com/products/civil-unrest"
   },
   {
     "builder": "Stomp Under Foot",
