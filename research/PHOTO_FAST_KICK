@@ -355,3 +355,6 @@ run the bounded photo recovery using the tightened rendered product-photo select
 
 complete-source-coverage recovery kick 2026-10-03T20:45:00Z
 run the bounded photo recovery with exact source-page evidence now present for every remaining photo-pending record; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
+
+finish-line continuation kick 2026-10-03T21:35:16.112Z
+consume the newest exact-model photo-source leads on fresh main; run the bounded 60-target / 12-worker lane with all existing identity, provenance, quarantine, content, and publication gates
