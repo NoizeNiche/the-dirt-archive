@@ -397,3 +397,6 @@ consume newly verified Pigtronix Star Eater plus the current Mythos/MadeByMike/M
 
 finish-line Thorpy exact-primary seed 2026-10-03T16:26:00-07:00
 consume newly verified ThorpyFX FIELD MARSHAL and Shaftesbury Duo Fuzz manufacturer primaries first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, version, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line manufacturer-primary seed 2026-10-03T16:30:00-07:00
+consume newly verified Walrus Audio Voyager Preamp/Overdrive MKII and Xotic Bass BB Preamp V1.5 manufacturer primaries first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, version, provenance, quarantine, content, synchronization, and publication gates
