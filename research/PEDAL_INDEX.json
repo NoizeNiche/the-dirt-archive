@@ -4815,7 +4815,8 @@
       "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1376
+      "image_source_priority": 1376,
+      "image": ""
     },
     {
       "company": "Ashdown Engineering",
@@ -4833,7 +4834,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1377
+      "image_source_priority": 1377,
+      "image": ""
     },
     {
       "company": "Ashdown Engineering",
@@ -26869,7 +26871,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
-      "image_source_page": "https://www.effectsdatabase.com/taxonomy/term/8/0?page=46",
+      "image_source_page": "https://australianmusician.com.au/tempting-trio-of-fx-pedals-from-sydneys-colortone/",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -26878,7 +26880,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 546
+      "image_source_priority": 546,
+      "image_source_url": "https://australianmusician.com.au/wp-content/uploads/2023/08/combo-1.jpg",
+      "image": ""
     },
     {
       "company": "ColorTone Fx / Pedal Tank",
@@ -50805,10 +50809,12 @@
       "image_source_pages": [
         "https://organic-sounds.com/products/organic-drive"
       ],
-      "image_source_page": "https://organic-sounds.com/products/organic-drive",
+      "image_source_page": "https://organic-sounds.com/en/products/organic-drive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1509
+      "image_source_priority": 1509,
+      "image_source_url": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
+      "image": ""
     },
     {
       "company": "Organic Sounds",
@@ -51933,7 +51939,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1431
+      "image_source_priority": 1431,
+      "image_source_url": "https://phaezamplification.com/wp-content/uploads/2025/03/daisycutter-2-300x225.jpeg",
+      "image": ""
     },
     {
       "company": "Phaez Amplification",
@@ -53113,7 +53121,8 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1429
+      "image_source_priority": 1429,
+      "image": ""
     },
     {
       "company": "SBGO Effects",
@@ -55142,10 +55151,12 @@
       "image_source_pages": [
         "https://subdecay.com/liquid-sunshine-overdrive"
       ],
-      "image_source_page": "https://subdecay.com/liquid-sunshine-overdrive",
+      "image_source_page": "https://subdecay.com/effect/liquid-sunshine-mkiii",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1451
+      "image_source_priority": 1451,
+      "image_source_url": "https://subdecay.com/wp-content/uploads/2014/03/liquid-sunshine.jpg",
+      "image": ""
     },
     {
       "company": "Subdecay",
@@ -55725,10 +55736,12 @@
       "image_source_pages": [
         "https://www.tech21nyc.com/archive/omg/"
       ],
-      "image_source_page": "https://www.tech21nyc.com/archive/omg/",
+      "image_source_page": "https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1454
+      "image_source_priority": 1454,
+      "image_source_url": "https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/16310393269997912654?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fiotk5AJaPW0%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&_nc_sid=632586&_nc_ht=external-lga3-3.xx.fbcdn.net&stp=c0.26.1920.1002a_dst-jpg_flffffff_q75_s500x261_tt6&ccb=18-1&_nc_gid=dgd1dJyGJvWS6Ip-iGxYAg&_nc_zt=3&oh=06_Q3_DAQMm48JL-PGJv42vlzt16WfP5TIXbpcFTOyXdWeXsRgU&oe=6AC303B3",
+      "image": ""
     },
     {
       "company": "Tech 21 NYC",
@@ -56558,8 +56571,8 @@
       "research_record": "./research/pedals/Union Tube & Transistor/Tone Druid+.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/uniontubetransistor_tonedruid_001.jpg",
-      "image_source_page": "https://www.effectsdatabase.com/model/uniontubetransistor/tonedruid"
+      "image_source_page": "https://www.uniontone.com/shop/tone-druid-",
+      "image": "./assets/pedals/union-tube-transistor/tone-druid-plus/primary.webp"
     },
     {
       "company": "Union Tube & Transistor",
@@ -56896,10 +56909,12 @@
       "image_source_pages": [
         "https://reverb.com/item/94555497-vemuram-myriad-fuzz-2026-brass"
       ],
-      "image_source_page": "https://reverb.com/item/94555497-vemuram-myriad-fuzz-2026-brass",
+      "image_source_page": "https://sugareelicks.com/pedal/vemuram-myriad-fuzz/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1458
+      "image_source_priority": 1458,
+      "image_source_url": "https://sugareelicks.com/wp-content/uploads/Vemuram_Myriad_Fuzz.jpg",
+      "image": ""
     },
     {
       "company": "Vemuram",
@@ -60244,10 +60259,12 @@
       "image_source_pages": [
         "https://xotic.us/effects/bass-bb-v1-5/"
       ],
-      "image_source_page": "https://xotic.us/effects/bass-bb-v1-5/",
+      "image_source_page": "https://xotic.us/manuals/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1476
+      "image_source_priority": 1476,
+      "image_source_url": "https://xotic.us/manuals/img/BassBBv15.jpg",
+      "image": ""
     },
     {
       "company": "Xotic Effects",
