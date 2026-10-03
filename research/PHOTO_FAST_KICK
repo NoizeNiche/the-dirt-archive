@@ -225,3 +225,6 @@ rerun the current exact-photo backlog with normalized image artifacts; preserve 
 
 finish-line publication-fixed recovery kick 2026-10-02T21:25:00-07:00
 run the current exact-photo backlog through the corrected raw-byte packaging path and publish any foreman-approved recoveries; preserve strict identity, provenance, and quarantine gates
+
+finish-line borderline-photo recovery kick 2026-10-02T21:34:00-07:00
+rerun the exact-photo backlog using the aligned 120px raw-image capture floor; preserve strict identity, provenance, and quarantine gates
