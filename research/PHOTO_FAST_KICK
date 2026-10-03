@@ -352,3 +352,6 @@ run the bounded photo recovery against the full newly seeded exact-model source-
 
 selector-fix recovery kick 2026-10-03T20:55:00Z
 run the bounded photo recovery using the tightened rendered product-photo selector; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
+
+complete-source-coverage recovery kick 2026-10-03T20:45:00Z
+run the bounded photo recovery with exact source-page evidence now present for every remaining photo-pending record; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
