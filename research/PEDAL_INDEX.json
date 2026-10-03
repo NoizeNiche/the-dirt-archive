@@ -56058,7 +56058,9 @@
       "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/scarlet-tunic/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-08-26at16.59.45.png?v=1756231451&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/products/scarlet-tunic"
     },
     {
       "company": "ThorpyFX",

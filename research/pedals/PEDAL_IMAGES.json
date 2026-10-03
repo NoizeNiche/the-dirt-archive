@@ -29315,9 +29315,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "SCARLET TUNIC",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/scarlet-tunic/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md"
+    "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-08-26at16.59.45.png?v=1756231451&width=960",
+    "image_source_page": "https://thorpyfx.com/en-us/products/scarlet-tunic"
   },
   {
     "builder": "ThorpyFX",
