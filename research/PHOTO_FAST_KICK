@@ -304,3 +304,7 @@ rerun the bounded photo recovery with the fixed Effects Database linked-source e
 
 fresh-recovery-preservation kick 2026-10-03T17:12:00Z
 run the bounded photo recovery with cleanup preserving identities present in the same pass's identity-verified recovery manifest; let Photo Foreman remain the final acceptance gate
+
+
+continuation kick 2026-10-03T17:09:06.732Z
+run another bounded finish-line photo recovery from current main; prioritize exact direct/curated sources and deep-review holdouts, preserve fresh verified recoveries through cleanup, and keep all identity/provenance/quarantine/content gates intact
