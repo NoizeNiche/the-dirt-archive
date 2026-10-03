@@ -141,7 +141,7 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/6degrees/eleven/hypercatalyst"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/6degrees/eleven/hypercatalyst",
+      "image_source_page": "https://delicious-audio.com/6-degrees-fx-hyper-catalyst/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1000000
@@ -50531,7 +50531,10 @@
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/Holy Grit.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/products/469583005/4793526770.jpg",
+      "image_source_page": "https://okko-fx.com/HOLY-GRIT-p469583005",
+      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp"
     },
     {
       "company": "OKKO FX",
@@ -50539,7 +50542,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "",
+      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",

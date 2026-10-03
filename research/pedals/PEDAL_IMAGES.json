@@ -75,7 +75,8 @@
     "builder": "6 Degrees FX",
     "pedal": "Hyper Catalyst",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-    "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md"
+    "research_record": "./research/pedals/6 Degrees FX/Hyper Catalyst.md",
+    "image_source_page": "https://delicious-audio.com/6-degrees-fx-hyper-catalyst/"
   },
   {
     "builder": "6 Degrees FX",
@@ -26476,14 +26477,16 @@
   {
     "builder": "OKKO FX",
     "pedal": "Holy Grit",
-    "image": null,
+    "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/OKKO FX/Holy Grit.md"
+    "research_record": "./research/pedals/OKKO FX/Holy Grit.md",
+    "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/products/469583005/4793526770.jpg",
+    "image_source_page": "https://okko-fx.com/HOLY-GRIT-p469583005"
   },
   {
     "builder": "OKKO FX",
     "pedal": "HOLY GRIT",
-    "image": "",
+    "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md"
   },
