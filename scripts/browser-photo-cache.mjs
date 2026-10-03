@@ -147,7 +147,7 @@ function manualVerifiedPhotoRecord(entry) {
         const approvedPage = String(row['Image Source Page'] || row['Source Page'] || '').trim();
         const notes = String(row.Notes || '').trim().toLowerCase();
         if (!identity || !identity.split('\\0').every(Boolean) || !approvedUrl || !approvedPage ||
-            !/^https?:\\/\\//i.test(approvedUrl) || !notes.includes('photo review: primary')) continue;
+            !/^https?:\/\//i.test(approvedUrl) || !notes.includes('photo review: primary')) continue;
         const bucket = primaries.get(identity) || new Set();
         bucket.add(approvedUrl + '\\0' + approvedPage);
         primaries.set(identity, bucket);
