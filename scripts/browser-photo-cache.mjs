@@ -135,6 +135,30 @@ function manualVerifiedPhotoRecord(entry) {
         }
       }
     } catch {}
+    // Also admit explicitly curator-marked direct-photo overrides. These rows
+    // are equivalent to VERIFIED_PRIMARY only when there is exactly one
+    // PHOTO REVIEW: PRIMARY image/source pair for the exact identity.
+    try {
+      const rows = csvRows(fs.readFileSync(path.join(ROOT, 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'), 'utf8'));
+      const primaries = new Map();
+      for (const row of rows) {
+        const identity = key(String(row.Builder || '').trim(), String(row.Pedal || '').trim());
+        const approvedUrl = String(row['Image URL'] || '').trim();
+        const approvedPage = String(row['Image Source Page'] || row['Source Page'] || '').trim();
+        const notes = String(row.Notes || '').trim().toLowerCase();
+        if (!identity || !identity.split('\\0').every(Boolean) || !approvedUrl || !approvedPage ||
+            !/^https?:\\/\\//i.test(approvedUrl) || !notes.includes('photo review: primary')) continue;
+        const bucket = primaries.get(identity) || new Set();
+        bucket.add(approvedUrl + '\\0' + approvedPage);
+        primaries.set(identity, bucket);
+      }
+      for (const [identity, leads] of primaries) {
+        if (leads.size !== 1) continue;
+        const [pair] = [...leads];
+        const [imageUrl, sourcePage] = pair.split('\\0');
+        manualVerifiedPhotoMap.set(identity, { imageUrl, sourcePage });
+      }
+    } catch {}
   }
   return manualVerifiedPhotoMap.get(key(
     String(entry.company || entry.builder || '').trim(),
