@@ -54554,7 +54554,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty-vintage-mini/primary.webp",
+      "image_source_url": "https://stompunderfoot.com/cdn/shop/files/OD850VMOrShopify.jpg?v=1787692333&width=925",
+      "image_source_page": "https://stompunderfoot.com/products/overdrive-8-fifty-vintage-mini"
     },
     {
       "company": "Stomp Under Foot",
@@ -56335,11 +56337,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/luna-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Luna Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://deathcloud.com/cdn/shop/files/TONECATLunaOverdrivePedal.jpg?v=1788325719",
+      "image_source_page": "https://deathcloud.com/products/tonecat-luna-overdrive"
     },
     {
       "company": "TONECAT",

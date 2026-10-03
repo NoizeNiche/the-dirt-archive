@@ -28480,9 +28480,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Overdrive 8-Fifty Vintage Mini",
-    "image": "",
+    "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty-vintage-mini/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md",
+    "image_source_url": "https://stompunderfoot.com/cdn/shop/files/OD850VMOrShopify.jpg?v=1787692333&width=925",
+    "image_source_page": "https://stompunderfoot.com/products/overdrive-8-fifty-vintage-mini"
   },
   {
     "builder": "Stomp Under Foot",
@@ -29431,9 +29433,11 @@
   {
     "builder": "TONECAT",
     "pedal": "Luna Overdrive",
-    "image": "",
+    "image": "./assets/pedals/tonecat/luna-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/TONECAT/Luna Overdrive.md"
+    "research_record": "./research/pedals/TONECAT/Luna Overdrive.md",
+    "image_source_url": "https://deathcloud.com/cdn/shop/files/TONECATLunaOverdrivePedal.jpg?v=1788325719",
+    "image_source_page": "https://deathcloud.com/products/tonecat-luna-overdrive"
   },
   {
     "builder": "TONECAT",
