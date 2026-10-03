@@ -340,3 +340,6 @@ start the corrected bounded photo recovery on the new v6 production lane; preser
 
 finish-line safe-downloader recovery kick 2026-10-03T19:42:00Z
 run the bounded photo recovery using the restored proven curated downloader and strict photo verification gates
+
+exact-source batch 2026-10-03T20:20:00Z
+run the bounded photo recovery against the newly added exact-model source pages; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
