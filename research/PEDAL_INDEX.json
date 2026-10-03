@@ -6884,7 +6884,7 @@
       "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L81332000001000-00-86x86.jpg",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--_2x4wC4z--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/xssmspqlgqw4o4jvttzb.jpg",
       "image_source_page": "https://www.guitarcenter.com/Bad-Cat/Double-Drive-Dual-Stackable-OIverdrive-Effects-Pedal-Mint-Green-1500000340803.gc"
     },
     {
@@ -6893,12 +6893,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-cat/siamese-drive-dual-harmonic-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Siamese Drive - Dual Harmonic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/badcat_siamesedrive_001.jpg",
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/badcat_siamesedrive_001.jpg",
       "image_source_page": "https://www.effectsdatabase.com/model/badcat/siamesedrive"
     },
     {
@@ -38478,7 +38478,7 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product_cat=current",
       "image_source_priority": 1416,
-      "image": null,
+      "image": "./assets/pedals/fuzzrocious-pedals/cat-king/primary.webp",
       "image_source_pages": [
         "https://fuzzrociouspedals.com/?product=catking"
       ],
@@ -38648,13 +38648,13 @@
         "Overdrive",
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuzzrocious-pedals/m-o-t-h/primary.webp",
       "source_page": "https://fuzzrociouspedals.com/?product=moth",
       "research_record": "./research/pedals/Fuzzrocious Pedals/M.O.T.H..md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://fuzzrociouspedals.com/?product=moth",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2020/02/Official_Demo_BASS-2-100x100.jpg"
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2018/12/moth_2022_site.jpg"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -40916,8 +40916,8 @@
       "research_record": "./research/pedals/Jackson Audio/Goat Head.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null,
-      "image_source_url": "https://jackson.audio/cdn/shop/products/GoatHead.jpg?v=1610686475&width=2",
+      "image": "./assets/pedals/jackson-audio/goat-head/primary.webp",
+      "image_source_url": "https://jackson.audio/cdn/shop/products/GoatHead.jpg?v=1610686475&width=832",
       "image_source_page": "https://jackson.audio/products/goat-head"
     },
     {
@@ -40930,10 +40930,10 @@
       "research_record": "./research/pedals/Jackson Audio/Golden Boy Mini Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null,
+      "image": "./assets/pedals/jackson-audio/golden-boy-mini-overdrive/primary.webp",
       "image_source_page": "https://jackson.audio/products/golden-boy-mini",
       "image_source_priority": 1527,
-      "image_source_url": "https://jackson.audio/cdn/shop/products/GoldAnglenobackground.png?v=1686858667&width=2"
+      "image_source_url": "https://jackson.audio/cdn/shop/files/GB_MINI_BLACK.png?v=1789058570&width=832"
     },
     {
       "company": "Jackson Audio",
@@ -45678,13 +45678,13 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/mask-audio-electronics/germanium-part-garden/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Mask Audio Electronics/Germanium Part Garden.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://maskaudioelectronics.com/products/ge-part-garden",
-      "image_source_url": "https://maskaudioelectronics.com/cdn/shop/files/PGGE_09_160x160.jpg?v=1687617003"
+      "image_source_url": "https://img15.shop-pro.jp/PA01155/014/product/178564273_o2.png?cmsp_timestamp=20231212182307"
     },
     {
       "company": "Mask Audio Electronics",
@@ -52428,13 +52428,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/proco-sound/solo/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/ProCo Sound/SOLO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarcenter.com/ProCo/Solo-Distortion-Guitar-Effects-Pedal-1274034489630.gc",
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/502536000000000-00-86x86.jpg"
+      "image_source_page": "https://www.musicarts.com/pro-co-solo-distortion-guitar-effects-pedal-main0038745",
+      "image_source_url": "https://media.musicarts.com/is/image/MMGS7/502536000000000-00-2000x2000.jpg"
     },
     {
       "company": "ProCo Sound",
@@ -55070,13 +55070,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Subdecay/Blackstar – Ultimate Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://subdecay.com/blackstar-ultimate-overdrive",
-      "image_source_url": "https://subdecay.com/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif"
+      "image_source_page": "https://effectorpress.com/effector/1492/",
+      "image_source_url": "https://images-na.ssl-images-amazon.com/images/I/81BUhYLRCeL._AA640_.jpg"
     },
     {
       "company": "Subdecay",
