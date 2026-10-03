@@ -319,3 +319,7 @@ finish-line Ares hash-quarantine recovery kick 2026-10-03T17:50:00Z
 reset known-invalid photo state before curated direct-photo recovery; consume exact Organic Sounds Ares manufacturer image and continue bounded finish-line lane
 
 final publish-gate kick: canonical photo reset is now publishable even without a new accepted image
+
+finish-line missing-pointer fix kick 2026-10-03T18:04:00Z
+retry current photo backlog after fixing stale catalog pointer retention when invalid local assets are removed
+
