@@ -312,3 +312,5 @@ run another bounded finish-line photo recovery from current main; prioritize exa
 finish-line handoff alignment kick: foreman-approved recoveries must survive historical collision quarantine and only approved artifacts may merge
 
 finish-line final-integrity-gate kick: current Photo Foreman approvals are authoritative through photo-state verification
+
+quality-gate hardening kick: reject blank/low-detail recovery images and blocked Organic Sounds background
