@@ -5024,6 +5024,29 @@ function imageBytesLookComplete(bytes, contentType = '') {
     console.log('Photo review queue self-healed: entries at the automatic-attempt cutoff were parked.');
   }
   const manifestByKey = new Map(manifest.map(x => [key(x.builder, x.pedal), x]));
+  // The curated direct-photo worker runs immediately before this browser worker.
+  // Protect identities it successfully staged in this same run so a weaker
+  // browser/search candidate cannot overwrite an exact curator-approved photo.
+  const DIRECT_RECOVERY_MANIFEST = path.join(ROOT, 'photo-recovery-direct-results.json');
+  const directRecoveryKeys = new Set();
+  try {
+    const directData = JSON.parse(fs.readFileSync(DIRECT_RECOVERY_MANIFEST, 'utf8'));
+    for (const row of directData.recovered || []) {
+      const identity = key(String(row.builder || '').trim(), String(row.pedal || '').trim());
+      const method = String(row.verification?.method || '').trim();
+      if (
+        identity &&
+        row.imageFile &&
+        String(row.verification?.identityVerified ?? true).toLowerCase() !== 'false' &&
+        method === 'direct_exact'
+      ) {
+        directRecoveryKeys.add(identity);
+      }
+    }
+  } catch {}
+  if (directRecoveryKeys.size) {
+    console.log('Protected ' + directRecoveryKeys.size + ' curator-approved direct-photo recovery(ies) from browser competition.');
+  }
 
   // Reopen a small batch of records that exhausted the ordinary automatic
   // search. Deep review gets a fresh attempt budget, while the automatic cutoff
@@ -5060,6 +5083,9 @@ function imageBytesLookComplete(bytes, contentType = '') {
       if (TARGET_BUILDER && String(x.company || '').trim() !== TARGET_BUILDER) return false;
       if (TARGET_PEDAL && String(x.pedal || '').trim() !== TARGET_PEDAL) return false;
       if (!x.research_record) return false;
+      // The current run's curated direct-photo lane already produced an exact
+      // image for this identity. Do not let the browser lane overwrite it.
+      if (directRecoveryKeys.has(key(x.company, x.pedal))) return false;
       // Bulk recovery is exclusively for records whose tracker photo field is
       // still unresolved. Cleanup of already-complete records is handled only
       // through an explicit targeted run, so the backlog cannot be starved.
@@ -5118,6 +5144,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
       const fallbackCandidates = (catalog.pedals || [])
         .filter(entry => backlogKeys.has(key(entry.company, entry.pedal)))
         .filter(entry => !orderedKeys.has(key(entry.company, entry.pedal)))
+        .filter(entry => !directRecoveryKeys.has(key(entry.company, entry.pedal)))
         .filter(entry => entry.research_record)
         .filter(entry => trackerMeta.get(key(entry.company, entry.pedal))?.pictureDone !== true)
         .sort((a, b) => {
