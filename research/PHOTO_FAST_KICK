@@ -248,3 +248,7 @@ consume newly verified manual-primary URLs through the direct-image override pat
 
 workflow-aligned recovery kick 2026-10-03T15:58:00Z
 run the current finish-line photo backlog with the aligned 55-second fresh deadline, 55-second deep deadline, 12 recovery attempts, and 8 deep-review cycles; preserve the 60-target / 12-worker / 900-second bounded lane and all exact identity/provenance gates
+
+
+verified-direct seed kick 2026-10-03T16:03:00Z
+consume the newly seeded exact direct-photo leads first, then continue the remaining photo backlog under the aligned recovery budget and strict publication gates
