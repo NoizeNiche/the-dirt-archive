@@ -6879,7 +6879,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/bad-cat/double-drive-stackable-overdrive/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/badcat",
       "research_record": "./research/pedals/Bad Cat/Double Drive - Stackable Overdrive.md",
       "research_level": "deep",
@@ -26180,7 +26180,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1544,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--TVI901eJ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/be2a7c96-dd48-417b-b680-f89664e8c439.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--TVI901eJ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/be2a7c96-dd48-417b-b680-f89664e8c439.jpg",
+      "image": "./assets/pedals/collateral-fx/p031-zeugma-fuzz/primary.webp"
     },
     {
       "company": "Collateral FX",
@@ -27194,7 +27195,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 565,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--Pr3LLNGk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D0%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3024/duit0yyskhthfnxklild.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--Pr3LLNGk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D0%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3024/duit0yyskhthfnxklild.jpg",
+      "image": "./assets/pedals/compulsive-audio/hair-band-distortion/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -46790,18 +46792,19 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon-nisshin-onpa/od-9-pro/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9 Pro+.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive",
+      "image_source_page": "https://maxonfx.com/products/overdrive-pro-plus-od-9pro",
       "image_source_pages": [
         "https://maxonfx.com/collections/nine-series/overdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 843
+      "image_source_priority": 843,
+      "image_source_url": "https://maxonfx.com/cdn/shop/products/Maxon-9Series-OD9ProPlus-300px.png?v=1544466329"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -59442,7 +59445,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1439,
-      "image_source_url": "https://static.bax-shop.es/image/product/148222/965920/9d638cba/450x450/1489504636Way%20Huge%20WHE205%20Saucy%20Box%20overdrive%20front.JPG"
+      "image_source_url": "https://static.bax-shop.es/image/product/148222/965920/9d638cba/450x450/1489504636Way%20Huge%20WHE205%20Saucy%20Box%20overdrive%20front.JPG",
+      "image": "./assets/pedals/way-huge/saucy-box-overdrive/primary.webp"
     },
     {
       "company": "Way Huge",
