@@ -14,11 +14,13 @@ from __future__ import annotations
 
 import csv
 import io
+import threading
 import hashlib
 import json
 import re
 import subprocess
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import quote
 from pathlib import Path
 
@@ -30,6 +32,8 @@ except Exception:
 
 _BROWSER_RUNTIME = None
 _BROWSER = None
+_BROWSER_LOCK = threading.Lock()
+DIRECT_WORKERS = max(1, min(6, int(__import__('os').environ.get('PHOTO_CURATED_DIRECT_WORKERS', '6'))))
 
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
@@ -280,17 +284,18 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
     global _BROWSER_RUNTIME, _BROWSER
     if sync_playwright is None:
         raise RuntimeError("Playwright is not installed")
-    if _BROWSER is None:
-        _BROWSER_RUNTIME = sync_playwright().start()
-        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
+    with _BROWSER_LOCK:
+        if _BROWSER is None:
+            _BROWSER_RUNTIME = sync_playwright().start()
+            _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
 
-    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
-    try:
-        page.goto(source_page, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
-        page.wait_for_timeout(600)
+        page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+        try:
+            page.goto(source_page, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+            page.wait_for_timeout(600)
 
-        candidates = []
-        for selector, attr in (
+            candidates = []
+            for selector, attr in (
             ('meta[property="og:image"]', "content"),
             ('meta[name="twitter:image"]', "content"),
             ('link[rel="image_src"]', "href"),
@@ -300,18 +305,18 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
                 if value:
                     candidates.append(value)
 
-        image_rows = page.locator("img").evaluate_all(
+            image_rows = page.locator("img").evaluate_all(
             "els => els.map(e => ({src:e.currentSrc || e.src || '', width:e.naturalWidth || e.width || 0, height:e.naturalHeight || e.height || 0, alt:e.alt || ''}))"
         )
-        image_rows = sorted(
+            image_rows = sorted(
             image_rows,
             key=lambda row: int(row.get("width") or 0) * int(row.get("height") or 0),
             reverse=True,
         )
-        candidates.extend(str(row.get("src") or "").strip() for row in image_rows[:12])
+            candidates.extend(str(row.get("src") or "").strip() for row in image_rows[:12])
 
-        seen = set()
-        for candidate in candidates:
+            seen = set()
+            for candidate in candidates:
             if not candidate or candidate in seen:
                 continue
             seen.add(candidate)
@@ -337,9 +342,9 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
                 image = page.locator("img").filter(has=page.locator('')).first
             except Exception:
                 pass
-        ranked = page.locator("img").all()
-        ranked_with_size = []
-        for image in ranked:
+            ranked = page.locator("img").all()
+            ranked_with_size = []
+            for image in ranked:
             try:
                 box = image.bounding_box()
                 if not box or box["width"] < 150 or box["height"] < 150:
@@ -347,7 +352,7 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
                 ranked_with_size.append((box["width"] * box["height"], image))
             except Exception:
                 continue
-        for _, image in sorted(ranked_with_size, key=lambda pair: pair[0], reverse=True):
+            for _, image in sorted(ranked_with_size, key=lambda pair: pair[0], reverse=True):
             try:
                 data = image.screenshot(type="png", animations="disabled", caret="hide")
                 validate(data)
@@ -355,51 +360,52 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
             except Exception:
                 continue
 
-        raise RuntimeError("no usable exact-model image found on verified source page")
-    finally:
-        page.close()
+            raise RuntimeError("no usable exact-model image found on verified source page")
+        finally:
+            page.close()
 
 
 def fetch_via_browser(url: str, source_page: str = "") -> bytes:
     global _BROWSER_RUNTIME, _BROWSER
     if sync_playwright is None:
         raise RuntimeError("Playwright is not installed")
-    if _BROWSER is None:
-        _BROWSER_RUNTIME = sync_playwright().start()
-        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
-    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
-    try:
-        headers = {
+    with _BROWSER_LOCK:
+        if _BROWSER is None:
+            _BROWSER_RUNTIME = sync_playwright().start()
+            _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
+        page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+        try:
+            headers = {
             "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
             "Accept-Language": "en-US,en;q=0.9",
             "User-Agent": USER_AGENT,
         }
-        if source_page:
-            headers["Referer"] = source_page
-        # First try Playwright's request client. This preserves browser-like
+            if source_page:
+                headers["Referer"] = source_page
+            # First try Playwright's request client. This preserves browser-like
         # headers/referrer context while returning the original image bytes,
         # avoiding a screenshot timeout on slow/blocked image rendering.
-        try:
-            response = page.request.get(url, headers=headers, timeout=TIMEOUT * 1000)
-            content_type = str(response.headers.get("content-type") or "").lower()
-            data = response.body()
-            if response.ok and content_type.startswith("image/") and len(data) >= MIN_BYTES:
-                validate(data)
-                return data
-        except Exception:
-            pass
+            try:
+                response = page.request.get(url, headers=headers, timeout=TIMEOUT * 1000)
+                content_type = str(response.headers.get("content-type") or "").lower()
+                data = response.body()
+                if response.ok and content_type.startswith("image/") and len(data) >= MIN_BYTES:
+                    validate(data)
+                    return data
+            except Exception:
+                pass
 
-        if source_page:
-            page.set_extra_http_headers({"Referer": source_page})
-        page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
-        page.wait_for_timeout(500)
-        image = page.locator("img").first
-        data = image.screenshot(type="png", animations="disabled", caret="hide") if image.count() else page.screenshot(type="png", full_page=True, animations="disabled", caret="hide")
-        if len(data) < MIN_BYTES:
-            raise RuntimeError(f"browser screenshot too small: {len(data)} bytes")
-        return data
-    finally:
-        page.close()
+            if source_page:
+                    page.set_extra_http_headers({"Referer": source_page})
+            page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+            page.wait_for_timeout(500)
+            image = page.locator("img").first
+            data = image.screenshot(type="png", animations="disabled", caret="hide") if image.count() else page.screenshot(type="png", full_page=True, animations="disabled", caret="hide")
+            if len(data) < MIN_BYTES:
+                raise RuntimeError(f"browser screenshot too small: {len(data)} bytes")
+            return data
+        finally:
+            page.close()
 
 
 def validate(data: bytes) -> tuple[int, int]:
@@ -506,64 +512,34 @@ def main() -> None:
         ):
             direct.setdefault(k, []).append((image_url, source_page, notes))
 
-    recovered = 0
-    skipped = 0
-    failed = 0
-    direct_results = []
-
-    for k, rows in direct.items():
+    def process_direct(item):
+        k, rows = item
         entry = catalog_by_key.get(k)
         if not entry:
-            failed += 1
-            print(f"Missing catalog identity for direct photo override: {k[0]} / {k[1]}")
-            continue
+            return ("failed", k, f"Missing catalog identity for direct photo override: {k[0]} / {k[1]}", None)
 
         target = target_path(entry, manifest_owners)
         image_url, source_page, notes = rows[-1]
         if target.exists():
             try:
                 width, height = validate(target.read_bytes())
-                # A valid staged source may be the residue of a previous worker
-                # that reached download but not manifest publication. Treat it as
-                # a recoverable result instead of silently skipping it forever.
-                direct_results.append({
-                    "builder": k[0],
-                    "pedal": k[1],
+                return ("skipped", k, None, {
+                    "builder": k[0], "pedal": k[1],
                     "image": "./" + target.with_suffix(".webp").as_posix(),
                     "image_source_url": image_url,
                     "image_source_page": source_page,
                     "imageFile": "./" + target.as_posix(),
-                    "verification": {
-                        "method": "direct_exact",
-                        "identityVerified": True,
-                        "sourceScore": 1400,
-                        "strongSearchIdentity": False,
-                        "stagedResume": True,
-                    },
+                    "verification": {"method": "direct_exact", "identityVerified": True, "sourceScore": 1400, "strongSearchIdentity": False, "stagedResume": True},
+                    "_message": f"Reusing verified staged exact photo: {k[0]} / {k[1]} ({width}x{height}) from {source_page}",
                 })
-                skipped += 1
-                print(
-                    f"Reusing verified staged exact photo: {k[0]} / {k[1]} "
-                    f"({width}x{height}) from {source_page}"
-                )
-                continue
             except Exception:
-                # A stale/corrupt staged source must not permanently suppress
-                # recovery retries for an otherwise valid exact-image lead.
-                try:
-                    target.unlink()
-                except Exception:
-                    pass
+                try: target.unlink()
+                except Exception: pass
 
-        # Do not let recency decide between competing exact-image leads.
-        # A key with multiple distinct image URLs must have an explicit
-        # PHOTO REVIEW: PRIMARY marker before the direct fast lane can publish it.
         unique_images = list(dict.fromkeys(image_url for image_url, _, _ in rows))
         reviewed = [row for row in rows if "photo review: primary" in row[2].lower()]
         if len(unique_images) > 1 and not reviewed:
-            skipped += 1
-            print(f"Direct photo held for manual review: {k[0]} / {k[1]} has {len(unique_images)} competing image URLs.")
-            continue
+            return ("skipped", k, f"Direct photo held for manual review: {k[0]} / {k[1]} has {len(unique_images)} competing image URLs.", None)
         primary = reviewed[-1] if reviewed else rows[-1]
         image_url, source_page = primary[0], primary[1]
         try:
@@ -571,28 +547,41 @@ def main() -> None:
             width, height = validate(data)
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(data)
-            direct_results.append({
-                "builder": k[0],
-                "pedal": k[1],
+            return ("recovered", k, None, {
+                "builder": k[0], "pedal": k[1],
                 "image": "./" + target.with_suffix(".webp").as_posix(),
-                "image_source_url": image_url,
-                "image_source_page": source_page,
+                "image_source_url": image_url, "image_source_page": source_page,
                 "imageFile": "./" + target.as_posix(),
-                "verification": {
-                    "method": "direct_exact",
-                    "identityVerified": True,
-                    "sourceScore": 1400,
-                    "strongSearchIdentity": False,
-                },
+                "verification": {"method": "direct_exact", "identityVerified": True, "sourceScore": 1400, "strongSearchIdentity": False},
+                "_message": f"Staged exact direct photo: {k[0]} / {k[1]} ({width}x{height}) from {source_page}",
             })
-            print(
-                f"Staged exact direct photo: {k[0]} / {k[1]} "
-                f"({width}x{height}) from {source_page}"
-            )
-            recovered += 1
         except Exception as exc:
-            failed += 1
-            print(f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}")
+            return ("failed", k, f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}", None)
+
+    recovered = 0
+    skipped = 0
+    failed = 0
+    direct_results = []
+
+    items = list(direct.items())
+    with ThreadPoolExecutor(max_workers=DIRECT_WORKERS) as executor:
+        futures = {executor.submit(process_direct, item): item for item in items}
+        for future in as_completed(futures):
+            status, k, message, payload = future.result()
+            if status == "recovered":
+                recovered += 1
+                direct_results.append(payload)
+                print(payload.pop("_message", ""))
+            elif status == "skipped":
+                skipped += 1
+                if payload:
+                    print(payload.pop("_message", ""))
+                    direct_results.append(payload)
+                elif message:
+                    print(message)
+            else:
+                failed += 1
+                if message: print(message)
 
     (ROOT / "photo-recovery-direct-results.json").write_text(
         json.dumps({"version": 1, "recovered": direct_results}, ensure_ascii=False, indent=2) + "\n",
