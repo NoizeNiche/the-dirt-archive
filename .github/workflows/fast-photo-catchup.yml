@@ -104,6 +104,7 @@ jobs:
           python - <<'PY'
           import json, shutil
           from pathlib import Path
+          from PIL import Image
 
           root = Path(".")
           manifest_paths = [
@@ -145,9 +146,22 @@ jobs:
 
               source_rel = Path(image_file.lstrip("./"))
               item_dir = root / "artifact" / "recoveries" / str(packaged)
-              source_dest = item_dir / source_rel
+              # Recovery workers intentionally store raw selected bytes under a
+              # temporary .source suffix. Convert those bytes into a real image
+              # before packaging so the publication foreman can verify them.
+              packaged_rel = source_rel.with_suffix(".webp") if source_rel.suffix.lower() == ".source" else source_rel
+              source_dest = item_dir / packaged_rel
               source_dest.parent.mkdir(parents=True, exist_ok=True)
-              shutil.copy2(source_path, source_dest)
+              try:
+                  if source_rel.suffix.lower() == ".source":
+                      with Image.open(source_path) as im:
+                          image = im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
+                          image.save(source_dest, "WEBP", quality=95, method=6)
+                  else:
+                      shutil.copy2(source_path, source_dest)
+              except Exception as exc:
+                  print(f"Skipping unreadable recovered photo: {row.get('builder')} / {row.get('pedal')}: {exc}")
+                  continue
 
               result = {
                   "builder": row.get("builder") or "",
@@ -155,7 +169,7 @@ jobs:
                   "image": image,
                   "image_source_url": row.get("image_source_url"),
                   "image_source_page": row.get("image_source_page"),
-                  "imageFile": "./" + source_rel.as_posix(),
+                  "imageFile": "./" + packaged_rel.as_posix(),
                   "verification": row.get("verification") or {},
               }
               (item_dir / "photo-recovery-result.json").write_text(
