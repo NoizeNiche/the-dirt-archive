@@ -288,3 +288,7 @@ consume verified direct-photo leads for Hellephant, Son Of A Bee, Hangman-2D, an
 
 third exact-source seed kick 2026-10-03T17:31:00Z
 consume verified direct-photo leads for VOX Big Ben Overdrive and Way Huge Smalls Pork & Pickle, then continue the remaining deep-review photo queue
+
+
+curated-download-timeout kick 2026-10-03T18:00:00Z
+run the current finish-line photo backlog with the curated exact-image download timeout extended to 30 seconds, then proceed through the existing bounded browser recovery and production publication gates
