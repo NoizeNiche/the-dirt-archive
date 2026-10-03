@@ -268,3 +268,7 @@ route exact PHOTO REVIEW: PRIMARY direct-photo overrides through the browser scr
 
 Astoria verified-primary bridge kick 2026-10-03T16:36:00Z
 retry the exact Astoria primary through the browser direct-image path, then continue the remaining bounded photo backlog
+
+
+Astoria canonical-asset retry kick 2026-10-03T16:40:00Z
+retry the canonical Coast Sonic Astoria asset through direct/browser recovery, then continue the remaining finish-line queue
