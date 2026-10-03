@@ -55546,12 +55546,12 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/tube-pilot-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Tube Pilot Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://gigaplus.makeshop.jp/fullten/images/common/brand_ctm.png",
+      "image_source_url": "https://makeshop-multi-images.akamaized.net/fullten/itemimages/000000002777_jixmTlz.jpg",
       "image_source_page": "https://www.hibino.com/view/item/000000002777"
     },
     {
