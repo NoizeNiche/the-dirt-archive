@@ -34,6 +34,7 @@ MANUAL_VERIFIED_PHOTOS = set()
 HARD_QUARANTINED_PHOTOS = set()
 RESEARCHED_PHOTO_PENDING_KEYS = set()
 PROTECTED_SHARED_ASSETS = set()
+CURRENT_RUN_ACCEPTED_PHOTOS = set()
 
 
 def load_photo_blocklist():
@@ -124,6 +125,29 @@ def blocked_photo_url(value):
 
 def key(builder, pedal):
     return f"{builder}\0{pedal}"
+
+def load_current_run_accepted_photos():
+    """Honor Photo Foreman's final acceptance for this exact recovery pass.
+
+    A recovered photo can be present in the historical collision quarantine because
+    the old byte-identical asset was previously untrusted. Once the current pass
+    verifies the exact Builder + Pedal identity, that fresh acceptance must outrank
+    the stale quarantine for this run so the asset can reach canonical state.
+    """
+    global CURRENT_RUN_ACCEPTED_PHOTOS
+    verdict_path = ROOT / "recovery-artifacts" / "photo-foreman-verdict.json"
+    CURRENT_RUN_ACCEPTED_PHOTOS = set()
+    try:
+        data = json.loads(verdict_path.read_text(encoding="utf-8"))
+    except Exception:
+        return
+    for row in data.get("verdicts", []):
+        if row.get("accepted") is True:
+            builder = str(row.get("builder") or "").strip()
+            pedal = str(row.get("pedal") or "").strip()
+            if builder and pedal:
+                CURRENT_RUN_ACCEPTED_PHOTOS.add(key(builder, pedal))
+
 
 def load_hard_quarantined_photos():
     global HARD_QUARANTINED_PHOTOS
@@ -417,6 +441,7 @@ def cache_entry_prepare(entry):
         target.exists()
         and entry_key in HARD_QUARANTINED_PHOTOS
         and entry_key not in MANUAL_VERIFIED_PHOTOS
+        and entry_key not in CURRENT_RUN_ACCEPTED_PHOTOS
         and entry_key in RESEARCHED_PHOTO_PENDING_KEYS
     ):
         if str(target) in PROTECTED_SHARED_ASSETS:
@@ -621,6 +646,7 @@ def main():
 
     load_photo_blocklist()
     load_manual_verified_photos()
+    load_current_run_accepted_photos()
     load_hard_quarantined_photos()
     normalized_existing = normalize_mislabelled_webp_assets()
     if normalized_existing:
