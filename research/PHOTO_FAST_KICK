@@ -222,3 +222,6 @@ retry the current exact-photo backlog with verified raw source-page candidates e
 
 finish-line handoff-fixed recovery kick 2026-10-02T21:17:00-07:00
 rerun the current exact-photo backlog with normalized image artifacts; preserve strict identity, provenance, and publication gates
+
+finish-line publication-fixed recovery kick 2026-10-02T21:25:00-07:00
+run the current exact-photo backlog through the corrected raw-byte packaging path and publish any foreman-approved recoveries; preserve strict identity, provenance, and quarantine gates
