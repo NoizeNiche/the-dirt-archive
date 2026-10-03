@@ -50834,11 +50834,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/organic-sounds/organic-drive-zeus/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Zeus\".md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://organic-sounds.com/cdn/shop/products/ze_front_900x.jpg?v=1600596061",
+      "image_source_page": "https://organic-sounds.com/collections/recommend/products/organic-drive-zeus-1"
     },
     {
       "company": "Origin Effects",
@@ -56198,7 +56200,9 @@
       "research_record": "./research/pedals/ThorpyFX/The OLD TIMER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/the-old-timer/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/PNGimage.png?v=1756231496&width=960",
+      "image_source_page": "https://thorpyfx.com/products/the-old-timer"
     },
     {
       "company": "ThorpyFX",
