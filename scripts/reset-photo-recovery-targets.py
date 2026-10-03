@@ -423,6 +423,32 @@ def main():
             + ", ".join(reasons)
         )
 
+    # Final canonical-pointer reconciliation: any catalog or manifest record
+    # that still points at a local asset which does not exist is invalid even when
+    # a case-variant tracker identity prevented it from entering the targeted reset
+    # set above. Clear the stale pointer so verification can never see a dangling
+    # asset reference. This does not invent a replacement and leaves source-page
+    # leads intact for the next recovery pass.
+    for collection, label in ((catalog.get("pedals", []), "catalog"), (manifest, "manifest")):
+        for entry in collection:
+            image = entry.get("image")
+            if not is_local_image(image):
+                continue
+            asset = Path(str(image)[2:] if str(image).startswith("./") else str(image))
+            if asset.is_file():
+                continue
+            identity = key(entry.get("company") or entry.get("builder"), entry.get("pedal"))
+            if identity in fresh_recovery_keys:
+                continue
+            entry.pop("image", None)
+            entry.pop("image_source_url", None)
+            entry.pop("image_source_urls", None)
+            reset += 1
+            print(
+                f"Cleared dangling {label} photo pointer for {identity[0]} / {identity[1]}: "
+                f"{image}"
+            )
+
     if reset:
         INDEX.write_text(
             json.dumps(catalog, indent=2, ensure_ascii=False) + "\n",
