@@ -272,3 +272,7 @@ retry the exact Astoria primary through the browser direct-image path, then cont
 
 Astoria canonical-asset retry kick 2026-10-03T16:40:00Z
 retry the canonical Coast Sonic Astoria asset through direct/browser recovery, then continue the remaining finish-line queue
+
+
+curator-direct priority kick 2026-10-03T16:45:00Z
+prioritize all curator-approved direct-photo cases in the hard-case slots, then continue the remaining researched-photo backlog under the bounded recovery lane
