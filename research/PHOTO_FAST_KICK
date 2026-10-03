@@ -212,3 +212,7 @@ consume the new exact-model VOX Ice 9 primary-photo lead and continue the curren
 
 transport-validation hardening kick 2026-10-02T18:00:00-07:00
 retry malformed image/* responses through existing curl/proxy/Chromium fallbacks before rejecting exact curated leads
+
+
+finish-line direct-handoff fix kick 2026-10-02T18:09:00-07:00
+protect curator-approved direct photos from browser overwrite and let PHOTO REVIEW: PRIMARY overrides pass the final foreman/hash gate
