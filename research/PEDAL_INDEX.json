@@ -7046,14 +7046,15 @@
       "research_record": "./research/pedals/Bad Penny FX/Nerd Fuzz + Boost.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
+      "image_source_page": "https://www.effectsdatabase.com/model/badpenny/fuzzcontroller",
       "image_source_pages": [
         "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1551,
-      "image_source_url": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/573/2026-GPX-Pedal-101-Brand-Profile-Main-700.jpg"
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/badpenny_fuzzcontroller_009.jpg",
+      "image": "./assets/pedals/bad-penny-fx/nerd-fuzz-boost/primary.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -55521,7 +55522,9 @@
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Tube Pilot Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://gigaplus.makeshop.jp/fullten/images/common/brand_ctm.png",
+      "image_source_page": "https://www.hibino.com/view/item/000000002777"
     },
     {
       "company": "TC Electronic",
