@@ -2588,16 +2588,14 @@
     "pedal": "ABM PRO-FX Pro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
-    "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive",
-    "image": ""
+    "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive"
   },
   {
     "builder": "Ashdown Engineering",
     "pedal": "AGM PRO-FX Retro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
     "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
-    "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive",
-    "image": ""
+    "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-agm-pro-fx-retro-drive"
   },
   {
     "builder": "Ashdown Engineering",
@@ -14045,9 +14043,7 @@
     "pedal": "Gainer",
     "source_page": null,
     "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
-    "image_source_url": "https://australianmusician.com.au/wp-content/uploads/2023/08/combo-1.jpg",
-    "image_source_page": "https://australianmusician.com.au/tempting-trio-of-fx-pedals-from-sydneys-colortone/",
-    "image": ""
+    "image_source_page": "https://australianmusician.com.au/tempting-trio-of-fx-pedals-from-sydneys-colortone/"
   },
   {
     "builder": "ColorTone Fx / Pedal Tank",
@@ -17506,7 +17502,10 @@
     "builder": "Devi Ever FX",
     "pedal": "Noise Floor",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/Noise Floor.md"
+    "research_record": "./research/pedals/Devi Ever FX/Noise Floor.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kA6_3yki--/quality=medium-low,height=800,width=800,fit=contain/epctn4cw0yrr470vbzuy.jpg",
+    "image_source_page": "https://reverb.com/item/67028-devi-ever-fx-noise-floor-chaos-fuzz",
+    "image": "./assets/pedals/devi-ever-fx/noise-floor/primary.webp"
   },
   {
     "builder": "Devi Ever FX",
@@ -26626,9 +26625,9 @@
     "pedal": "Organic Drive \"Ares\"",
     "source_page": null,
     "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Ares\".md",
-    "image_source_url": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
     "image_source_page": "https://organic-sounds.com/en/products/organic-drive",
-    "image": ""
+    "image_source_url": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
+    "image": "./assets/pedals/organic-sounds/organic-drive-ares/primary.webp"
   },
   {
     "builder": "Organic Sounds",
@@ -27123,9 +27122,7 @@
     "pedal": "Daisycutter",
     "source_page": null,
     "research_record": "./research/pedals/Phaez Amplification/Daisycutter.md",
-    "image_source_url": "https://phaezamplification.com/wp-content/uploads/2025/03/daisycutter-2-300x225.jpeg",
-    "image_source_page": "https://phaezamplification.com/pedals/",
-    "image": ""
+    "image_source_page": "https://phaezamplification.com/pedals/"
   },
   {
     "builder": "Phaez Amplification",
@@ -27725,8 +27722,7 @@
     "pedal": "Dark Bass Anger",
     "source_page": null,
     "research_record": "./research/pedals/SBGO Effects/Dark Bass Anger.md",
-    "image_source_page": "https://sbgo-effects.com/en/",
-    "image": ""
+    "image_source_page": "https://sbgo-effects.com/en/"
   },
   {
     "builder": "SBGO Effects",
@@ -28777,9 +28773,9 @@
     "pedal": "Liquid Sunshine",
     "source_page": null,
     "research_record": "./research/pedals/Subdecay/Liquid Sunshine.md",
-    "image_source_url": "https://subdecay.com/wp-content/uploads/2014/03/liquid-sunshine.jpg",
     "image_source_page": "https://subdecay.com/effect/liquid-sunshine-mkiii",
-    "image": ""
+    "image_source_url": "https://subdecay.com/wp-content/uploads/2014/03/liquid-sunshine.jpg",
+    "image": "./assets/pedals/subdecay/liquid-sunshine/primary.webp"
   },
   {
     "builder": "Subdecay",
@@ -29109,9 +29105,7 @@
     "pedal": "Richie Kotzen Signature OMG",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
-    "image_source_url": "https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/16310393269997912654?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fiotk5AJaPW0%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&_nc_sid=632586&_nc_ht=external-lga3-3.xx.fbcdn.net&stp=c0.26.1920.1002a_dst-jpg_flffffff_q75_s500x261_tt6&ccb=18-1&_nc_gid=dgd1dJyGJvWS6Ip-iGxYAg&_nc_zt=3&oh=06_Q3_DAQMm48JL-PGJv42vlzt16WfP5TIXbpcFTOyXdWeXsRgU&oe=6AC303B3",
-    "image_source_page": "https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/",
-    "image": ""
+    "image_source_page": "https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/"
   },
   {
     "builder": "Tech 21 NYC",
@@ -29724,9 +29718,9 @@
     "pedal": "Myriad Fuzz — fuzz",
     "source_page": null,
     "research_record": "./research/pedals/Vemuram/Myriad Fuzz — fuzz.md",
-    "image_source_url": "https://sugareelicks.com/wp-content/uploads/Vemuram_Myriad_Fuzz.jpg",
     "image_source_page": "https://sugareelicks.com/pedal/vemuram-myriad-fuzz/",
-    "image": ""
+    "image_source_url": "https://sugareelicks.com/wp-content/uploads/Vemuram_Myriad_Fuzz.jpg",
+    "image": "./assets/pedals/vemuram/myriad-fuzz-fuzz/primary.webp"
   },
   {
     "builder": "Vemuram",
@@ -31383,9 +31377,7 @@
     "pedal": "Bass BB Preamp V1.5 — Bass Boost / Overdrive",
     "source_page": null,
     "research_record": "./research/pedals/Xotic Effects/Bass BB Preamp V1.5 — Bass Boost / Overdrive.md",
-    "image_source_url": "https://xotic.us/manuals/img/BassBBv15.jpg",
-    "image_source_page": "https://xotic.us/manuals/",
-    "image": ""
+    "image_source_page": "https://xotic.us/manuals/"
   },
   {
     "builder": "Xotic Effects",

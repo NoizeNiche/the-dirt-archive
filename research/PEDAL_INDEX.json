@@ -4815,8 +4815,7 @@
       "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1376,
-      "image": ""
+      "image_source_priority": 1376
     },
     {
       "company": "Ashdown Engineering",
@@ -4834,8 +4833,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1377,
-      "image": ""
+      "image_source_priority": 1377
     },
     {
       "company": "Ashdown Engineering",
@@ -26880,9 +26878,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 546,
-      "image_source_url": "https://australianmusician.com.au/wp-content/uploads/2023/08/combo-1.jpg",
-      "image": ""
+      "image_source_priority": 546
     },
     {
       "company": "ColorTone Fx / Pedal Tank",
@@ -33459,10 +33455,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/deviever/noisefloor"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/deviever/noisefloor",
+      "image_source_page": "https://reverb.com/item/67028-devi-ever-fx-noise-floor-chaos-fuzz",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1500
+      "image_source_priority": 1500,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kA6_3yki--/quality=medium-low,height=800,width=800,fit=contain/epctn4cw0yrr470vbzuy.jpg",
+      "image": "./assets/pedals/devi-ever-fx/noise-floor/primary.webp"
     },
     {
       "company": "Devi Ever FX",
@@ -50814,7 +50812,7 @@
       "image_source_page_verified": true,
       "image_source_priority": 1509,
       "image_source_url": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
-      "image": ""
+      "image": "./assets/pedals/organic-sounds/organic-drive-ares/primary.webp"
     },
     {
       "company": "Organic Sounds",
@@ -51939,9 +51937,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1431,
-      "image_source_url": "https://phaezamplification.com/wp-content/uploads/2025/03/daisycutter-2-300x225.jpeg",
-      "image": ""
+      "image_source_priority": 1431
     },
     {
       "company": "Phaez Amplification",
@@ -53121,8 +53117,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1429,
-      "image": ""
+      "image_source_priority": 1429
     },
     {
       "company": "SBGO Effects",
@@ -55156,7 +55151,7 @@
       "image_source_page_verified": true,
       "image_source_priority": 1451,
       "image_source_url": "https://subdecay.com/wp-content/uploads/2014/03/liquid-sunshine.jpg",
-      "image": ""
+      "image": "./assets/pedals/subdecay/liquid-sunshine/primary.webp"
     },
     {
       "company": "Subdecay",
@@ -55739,9 +55734,7 @@
       "image_source_page": "https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1454,
-      "image_source_url": "https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/16310393269997912654?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fiotk5AJaPW0%2Fmaxresdefault.jpg&fb_obo=1&utld=ytimg.com&_nc_sid=632586&_nc_ht=external-lga3-3.xx.fbcdn.net&stp=c0.26.1920.1002a_dst-jpg_flffffff_q75_s500x261_tt6&ccb=18-1&_nc_gid=dgd1dJyGJvWS6Ip-iGxYAg&_nc_zt=3&oh=06_Q3_DAQMm48JL-PGJv42vlzt16WfP5TIXbpcFTOyXdWeXsRgU&oe=6AC303B3",
-      "image": ""
+      "image_source_priority": 1454
     },
     {
       "company": "Tech 21 NYC",
@@ -56914,7 +56907,7 @@
       "image_source_page_verified": true,
       "image_source_priority": 1458,
       "image_source_url": "https://sugareelicks.com/wp-content/uploads/Vemuram_Myriad_Fuzz.jpg",
-      "image": ""
+      "image": "./assets/pedals/vemuram/myriad-fuzz-fuzz/primary.webp"
     },
     {
       "company": "Vemuram",
@@ -60262,9 +60255,7 @@
       "image_source_page": "https://xotic.us/manuals/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1476,
-      "image_source_url": "https://xotic.us/manuals/img/BassBBv15.jpg",
-      "image": ""
+      "image_source_priority": 1476
     },
     {
       "company": "Xotic Effects",
