@@ -259,7 +259,105 @@ def fetch(url: str, source_page: str = "") -> bytes:
     except Exception as exc:
         last_error = exc
 
+    if source_page:
+        try:
+            data, recovered_url = fetch_from_source_page(source_page)
+            print(f"Recovered exact image from source page: {source_page} -> {recovered_url}")
+            return data
+        except Exception as exc:
+            last_error = exc
+
     raise RuntimeError(str(last_error or "image request failed"))
+
+
+def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
+    """Recover an image from the already-verified exact model page.
+
+    This is a transport fallback only. The source page itself is already tied
+    to the exact Builder + Pedal override, and the returned candidate still
+    has to pass byte-level Pillow validation.
+    """
+    global _BROWSER_RUNTIME, _BROWSER
+    if sync_playwright is None:
+        raise RuntimeError("Playwright is not installed")
+    if _BROWSER is None:
+        _BROWSER_RUNTIME = sync_playwright().start()
+        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
+
+    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+    try:
+        page.goto(source_page, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
+        page.wait_for_timeout(600)
+
+        candidates = []
+        for selector, attr in (
+            ('meta[property="og:image"]', "content"),
+            ('meta[name="twitter:image"]', "content"),
+            ('link[rel="image_src"]', "href"),
+        ):
+            for node in page.locator(selector).all():
+                value = (node.get_attribute(attr) or "").strip()
+                if value:
+                    candidates.append(value)
+
+        image_rows = page.locator("img").evaluate_all(
+            "els => els.map(e => ({src:e.currentSrc || e.src || '', width:e.naturalWidth || e.width || 0, height:e.naturalHeight || e.height || 0, alt:e.alt || ''}))"
+        )
+        image_rows = sorted(
+            image_rows,
+            key=lambda row: int(row.get("width") or 0) * int(row.get("height") or 0),
+            reverse=True,
+        )
+        candidates.extend(str(row.get("src") or "").strip() for row in image_rows[:12])
+
+        seen = set()
+        for candidate in candidates:
+            if not candidate or candidate in seen:
+                continue
+            seen.add(candidate)
+            absolute = str(page.evaluate("u => new URL(u, location.href).href", candidate))
+            try:
+                response = page.request.get(absolute, timeout=TIMEOUT * 1000)
+                data = response.body()
+                content_type = str(response.headers.get("content-type") or "").lower()
+                if not response.ok or not content_type.startswith("image/") or len(data) < MIN_BYTES:
+                    continue
+                validate(data)
+                return data, absolute
+            except Exception:
+                continue
+
+        # Last resort: capture the largest image that actually rendered on the
+        # exact source page. The resulting PNG is still Pillow-validated.
+        for row in image_rows[:8]:
+            candidate = str(row.get("src") or "").strip()
+            if not candidate:
+                continue
+            try:
+                image = page.locator("img").filter(has=page.locator('')).first
+            except Exception:
+                pass
+        ranked = page.locator("img").all()
+        ranked_with_size = []
+        for image in ranked:
+            try:
+                box = image.bounding_box()
+                if not box or box["width"] < 150 or box["height"] < 150:
+                    continue
+                ranked_with_size.append((box["width"] * box["height"], image))
+            except Exception:
+                continue
+        for _, image in sorted(ranked_with_size, key=lambda pair: pair[0], reverse=True):
+            try:
+                data = image.screenshot(type="png", animations="disabled", caret="hide")
+                validate(data)
+                return data, str(image.get_attribute("src") or source_page)
+            except Exception:
+                continue
+
+        raise RuntimeError("no usable exact-model image found on verified source page")
+    finally:
+        page.close()
 
 
 def fetch_via_browser(url: str, source_page: str = "") -> bytes:
