@@ -5234,7 +5234,11 @@ function imageBytesLookComplete(bytes, contentType = '') {
     // Eight slots keeps deep review moving while leaving the majority
     // of each bounded pass for fresh, easier-to-recover records.
     const directImageCases = [...orderedCandidates]
-      .filter(entry => /^https?:/i.test(String(entry.image_source_url || '').trim()))
+      .filter(entry => {
+        const manual = manualVerifiedPhotoRecord(entry);
+        return /^https?:/i.test(String(entry.image_source_url || '').trim()) ||
+          Boolean(manual?.imageUrl && /^https?:/i.test(String(manual.imageUrl).trim()));
+      })
       .sort((a, b) => {
         const aPriority = Number(a.image_source_priority) || 0;
         const bPriority = Number(b.image_source_priority) || 0;
