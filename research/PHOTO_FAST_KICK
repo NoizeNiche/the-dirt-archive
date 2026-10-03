@@ -317,3 +317,5 @@ quality-gate hardening kick: reject blank/low-detail recovery images and blocked
 
 finish-line Ares hash-quarantine recovery kick 2026-10-03T17:50:00Z
 reset known-invalid photo state before curated direct-photo recovery; consume exact Organic Sounds Ares manufacturer image and continue bounded finish-line lane
+
+final publish-gate kick: canonical photo reset is now publishable even without a new accepted image
