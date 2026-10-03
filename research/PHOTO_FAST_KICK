@@ -300,3 +300,7 @@ rerun the current bounded finish-line photo recovery after the manual-primary UR
 
 linked-exact-source bugfix kick 2026-10-03T18:48:00Z
 rerun the bounded photo recovery with the fixed Effects Database linked-source extractor; keep all existing identity, provenance, quarantine, content-gate, and publication rules
+
+
+fresh-recovery-preservation kick 2026-10-03T17:12:00Z
+run the bounded photo recovery with cleanup preserving identities present in the same pass's identity-verified recovery manifest; let Photo Foreman remain the final acceptance gate
