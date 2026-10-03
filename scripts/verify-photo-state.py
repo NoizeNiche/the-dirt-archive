@@ -20,6 +20,7 @@ DIRECT_OVERRIDES = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 MANUAL_REVIEW = ROOT / "research/PHOTO_MANUAL_REVIEW.csv"
 IDENTITY_QUARANTINE = ROOT / "research/PHOTO_IDENTITY_QUARANTINE.csv"
 PHOTO_HASH_QUARANTINE = ROOT / "research/PHOTO_HASH_QUARANTINE.csv"
+FOREMAN_VERDICT = ROOT / "recovery-artifacts" / "photo-foreman-verdict.json"
 
 
 def key(builder, pedal):
@@ -56,6 +57,21 @@ def load_identity_quarantine():
     except Exception:
         pass
     return rows
+
+
+def load_current_run_accepted_keys():
+    """Return exact identities approved by the current Photo Foreman pass."""
+    accepted = set()
+    try:
+        data = json.loads(FOREMAN_VERDICT.read_text(encoding="utf-8"))
+    except Exception:
+        return accepted
+    for row in data.get("verdicts", []):
+        if row.get("accepted") is True:
+            k = key(row.get("builder"), row.get("pedal"))
+            if k[0] and k[1]:
+                accepted.add(k)
+    return accepted
 
 
 def load_hash_quarantine():
@@ -189,6 +205,7 @@ def main():
                 manual_verified_keys.add((builder, pedal))
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
+    current_run_accepted_keys = load_current_run_accepted_keys()
 
     index_data = load_json(INDEX)
     manifest_data = load_json(MANIFEST)
@@ -238,7 +255,7 @@ def main():
             if manifest_image != image:
                 raise SystemExit(f"Catalog/manifest image mismatch: {k} -> {image} vs {manifest_image}")
             red_flags = suspicious_photo_provenance(manifest_entry, entry)
-            if k in hash_quarantine and k not in manual_verified_keys:
+            if k in hash_quarantine and k not in manual_verified_keys and k not in current_run_accepted_keys:
                 red_flags.append("byte-identical photo quarantine")
             quarantine_urls = identity_quarantine.get(k, set())
             if quarantine_urls:
