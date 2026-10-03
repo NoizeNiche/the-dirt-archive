@@ -194,3 +194,6 @@ finish-line post-validator-clean recovery kick 2026-10-03T00:55:00Z
 retry the 142-record researched-photo backlog from clean main after orphaned review cleanup; retain existing 60-target / 12-worker bounded lane
 finish-line continued recovery kick 2026-10-03T01:00:00Z
 continue the remaining researched-photo backlog after the clean Coolmusic publish; retain strict provenance/quarantine and 60-target / 12-worker bounded recovery
+
+finish-line verified-direct batch kick 2026-10-03T00:17:27.988Z
+consume the newly merged exact manufacturer/retailer photo leads through the existing 60-target / 12-worker bounded recovery; preserve all photo integrity gates
