@@ -216,3 +216,6 @@ retry malformed image/* responses through existing curl/proxy/Chromium fallbacks
 
 finish-line direct-handoff fix kick 2026-10-02T18:09:00-07:00
 protect curator-approved direct photos from browser overwrite and let PHOTO REVIEW: PRIMARY overrides pass the final foreman/hash gate
+
+finish-line raw-image screenshot fallback kick 2026-10-02T20:01:00-07:00
+retry the current exact-photo backlog with verified raw source-page candidates eligible for browser screenshot fallback; preserve strict identity and provenance gates
