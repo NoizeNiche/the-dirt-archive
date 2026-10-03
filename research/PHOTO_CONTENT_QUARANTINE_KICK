@@ -2,3 +2,6 @@ Exhaustive photo-content quarantine kick against current main.
 2026-09-30T08:09:00Z
 
 manual false-positive quarantine kick 2026-09-30T11:42:58.719Z
+
+photo quarantine queue refresh 2026-10-03T19:30:00Z
+run the current clean photo-content audit through the throttled quarantine lane; publish only high-confidence contamination and preserve all photo integrity gates
