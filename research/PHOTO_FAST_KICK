@@ -334,3 +334,6 @@ rerun the bounded photo lane with canonical state reconciliation after cache ass
 
 finish-line valid-blocklist recovery kick 2026-10-03T19:25:00Z
 run the bounded finish-line photo recovery from the corrected main tree with valid source-policy JSON; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line fresh-concurrency recovery kick 2026-10-03T19:27:00Z
+start the corrected bounded photo recovery on the new v6 production lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
