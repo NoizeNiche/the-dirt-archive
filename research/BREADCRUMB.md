@@ -1,3 +1,7 @@
+## Finish-line photo recovery checkpoint - October 3, 2026 (142 remaining)
+
+The canonical catalog is **4,200 records**, with **4,058 pictured / 4,058 complete** and **142 researched-photo-pending**. The research queue is complete. Recent recovery batches have continued to publish exact local photos while strict identity and photo-integrity gates remain active.
+
 ## Finish-line photo recovery checkpoint - October 3, 2026
 
 The canonical catalog is **4,200 records**, with **4,049 pictured / 4,049 complete** and **151 researched-photo-pending**. The research queue is complete; exact-photo recovery is the only remaining catalog-wide production gate.
