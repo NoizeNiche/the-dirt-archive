@@ -349,3 +349,6 @@ run the bounded photo recovery using the newly added exact manufacturer, retaile
 
 finish-line-source-tail kick 2026-10-03T20:45:00Z
 run the bounded photo recovery against the full newly seeded exact-model source-page set; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
+
+selector-fix recovery kick 2026-10-03T20:55:00Z
+run the bounded photo recovery using the tightened rendered product-photo selector; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
