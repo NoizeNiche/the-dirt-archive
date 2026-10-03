@@ -5351,7 +5351,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
           String(process.env.PHOTO_BROWSER_DEEP_REVIEW || 'false').toLowerCase() === 'true';
         const freshDeadlineMs = Math.max(
           15000,
-          Number(process.env.PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS || 45000)
+          Number(process.env.PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS || 55000)
         );
         const entryDeadlineMs = deepReview ? RECOVERY_DEADLINE_MS : Math.min(RECOVERY_DEADLINE_MS, freshDeadlineMs);
         const recoveryPromise = recoverEntry(browser, entry, deepReview, entryDeadlineMs);
