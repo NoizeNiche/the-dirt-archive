@@ -358,3 +358,6 @@ run the bounded photo recovery with exact source-page evidence now present for e
 
 finish-line continuation kick 2026-10-03T21:35:16.112Z
 consume the newest exact-model photo-source leads on fresh main; run the bounded 60-target / 12-worker lane with all existing identity, provenance, quarantine, content, and publication gates
+
+finish-line fresh-state kick 2026-10-03T22:10:39.960Z
+consume the latest canonical direct-photo fixes (AMT DM-3, BYW Blacky' Blower, Cornerstone Sparkle) from current main; replace any stale active recovery and run the bounded 60-target / 12-worker lane with all existing identity, provenance, quarantine, content, synchronization, and publication gates
