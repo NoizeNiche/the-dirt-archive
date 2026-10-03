@@ -16908,11 +16908,12 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 120/browne-amplification-alkene-nashville-drive.md",
-      "image_source_page": "https://browneamps.com/the-alkene",
+      "image_source_page": "https://browneamps.com/store/p/the-alkene-nashville-overdrive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1369,
-      "image": null
+      "image": "./assets/pedals/browne-amplification/alkene-nashville-drive/primary.webp",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/2202d747-5b4e-42d6-9892-db602ecde2b3/Alkene.png"
     },
     {
       "company": "Browne Amplification",
@@ -17049,11 +17050,12 @@
       ],
       "source_page": "https://browneamps.com/the-alkene",
       "research_record": "./research/pedals/PRP Batch 123/browne-amplification-the-alkene-nashville-overdrive.md",
-      "image_source_page": "https://browneamps.com/the-alkene",
+      "image_source_page": "https://browneamps.com/store/p/the-alkene-nashville-overdrive",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "image_source_priority": 1370,
-      "image": null
+      "image": "./assets/pedals/browne-amplification/the-alkene-nashville-overdrive/primary.webp",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/2202d747-5b4e-42d6-9892-db602ecde2b3/Alkene.png"
     },
     {
       "company": "Browne Amplification",
@@ -27154,10 +27156,12 @@
         "https://www.effectsdatabase.com/model/compulsive/faceoff",
         "https://www.effectsdatabase.com/blog/discofreq?page=104"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/blog/discofreq?page=104",
+      "image_source_page": "https://reverb.com/ca/item/63775895-compulsive-audio-face-off-fuzz-vintage",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1244
+      "image_source_priority": 1244,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--mqPHAWtu--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/k2twax8hzgwaylcep7hj.jpg",
+      "image": "./assets/pedals/compulsive-audio/face-off-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -27355,7 +27359,7 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-di02-classic-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-DI02 Classic Distortion.md",
       "research_level": "deep",
@@ -27363,10 +27367,11 @@
       "image_source_pages": [
         "https://www.coolmusic-tech.com/lists/20.html"
       ],
-      "image_source_page": "https://www.coolmusic-tech.com/lists/20.html",
+      "image_source_page": "https://evolutionmusicstore.com/products/coolmusic-classic-distortion-pedal",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 576
+      "image_source_priority": 576,
+      "image_source_url": "https://evolutionmusicstore.com/cdn/shop/products/dlgqz4hi78x14feggxod_221d5b8b-8e8e-4d5f-b18e-1c537551f064_400x.jpg?v=1588530686"
     },
     {
       "company": "Coolmusic",
@@ -38898,7 +38903,9 @@
       "research_record": "./research/pedals/Greer Amps/Gorilla Warfare MKII.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/greer-amps/gorilla-warfare-mkii/primary.webp",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-gorilla-warfare-mkii-u5559136103-30684686254215.jpg?v=1697083140&width=1946",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-gorilla-warfare-mkii-1885297"
     },
     {
       "company": "Greer Amps",
@@ -38937,7 +38944,8 @@
       "deep_research_status": "VERIFIED",
       "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-lightspeed-organic-overdrive-1402859",
       "image_source_priority": 1345,
-      "image": null
+      "image": "./assets/pedals/greer-amps/lightspeed-organic-overdrive/primary.webp",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-lightspeed-organic-overdrive-galightspeedu5-28963832004743.jpg?v=1650038884&width=1946"
     },
     {
       "company": "Greer Amps",
@@ -38964,7 +38972,9 @@
       "research_record": "./research/pedals/Greer Amps/Mizuki Blue.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/greer-amps/mizuki-blue/primary.webp",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/greer-amps-effects-and-pedals-overdrive-and-boost-greer-mizuki-blue-dual-jfet-gain-stage-overdrive-pedal-greer-mizuki-blue-dual-jfet-gain-stage-overdrive-pedal-ga-mizuki-1196694479.jpg?v=1768060942&width=1946",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/greer-mizuki-blue-dual-jfet-gain-stage-overdrive-pedal-2405498"
     },
     {
       "company": "Greer Amps",
@@ -38999,7 +39009,9 @@
       "research_record": "./research/pedals/Greer Amps/Mori Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/greer-amps/mori-drive/primary.webp",
+      "image_source_url": "https://martelmusicstore.com/cdn/shop/files/Greer_MoriDrive_STOCK_1.jpg?v=1784649717&width=1800",
+      "image_source_page": "https://martelmusicstore.com/products/greer-amps-mori-drive"
     },
     {
       "company": "Greer Amps",
@@ -39124,7 +39136,9 @@
       "research_record": "./research/pedals/Greer Amps/Southland Harmonic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/greer-amps/southland-harmonic-overdrive/primary.webp",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-southland-harmonic-overdrive-gasouthland-fbau-17188310188167.jpg?v=1648772582&width=1946",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-southland-harmonic-overdrive-790378"
     },
     {
       "company": "Greer Amps",
@@ -54540,7 +54554,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Motor Honey Superdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/motor-honey-superdrive/primary.webp",
+      "image_source_url": "https://stompunderfoot.com/cdn/shop/files/MotorHoneyShopify_f58c9b87-eb00-438f-ab3c-40c164b1aa6f.jpg?v=1784814433&width=925",
+      "image_source_page": "https://stompunderfoot.com/products/motor-honey-superdrive"
     },
     {
       "company": "Stomp Under Foot",
@@ -56345,11 +56361,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/lola-drive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Lola Drive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://deathcloud.com/cdn/shop/files/TONECATLolaDrivePedal.jpg?v=1788495732",
+      "image_source_page": "https://deathcloud.com/products/tonecat-lola-drive"
     },
     {
       "company": "TONECAT",
