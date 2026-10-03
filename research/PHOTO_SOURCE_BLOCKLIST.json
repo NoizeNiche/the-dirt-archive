@@ -382,5 +382,11 @@
       "reason": "Guitar Pedal X resistor-selection graphic incorrectly surfaced as Bad Penny FX pedal photos.",
       "severity": "hard_block"
     }
+    {
+      "type": "exact_url",
+      "pattern": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
+      "reason": "Organic Sounds generic site background asset, not an exact pedal photograph.",
+      "severity": "hard_block"
+    },
   ]
 }
