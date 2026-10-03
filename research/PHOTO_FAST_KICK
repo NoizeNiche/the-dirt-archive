@@ -337,3 +337,6 @@ run the bounded finish-line photo recovery from the corrected main tree with val
 
 finish-line fresh-concurrency recovery kick 2026-10-03T19:27:00Z
 start the corrected bounded photo recovery on the new v6 production lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line safe-downloader recovery kick 2026-10-03T19:42:00Z
+run the bounded photo recovery using the restored proven curated downloader and strict photo verification gates
