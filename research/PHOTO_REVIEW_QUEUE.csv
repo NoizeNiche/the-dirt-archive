@@ -2,7 +2,6 @@ Builder,Pedal,Catalog Type,Status,Attempts,Last Failure,Deep Review Cycles
 BAE Audio,Tonestack Fuzz,,DEEP_REVIEW,1,recovery hard timeout exceeded,
 BJFE / BJF Electronics,Arctic Light Fuzz,,DEEP_REVIEW,1,recovery hard timeout exceeded,
 BJFE / BJF Electronics,Baby Blue Overdrive (BBOD),,DEEP_REVIEW,1,recovery hard timeout exceeded,
-BJFE / BJF Electronics,Snow White Fuzz,,DEEP_REVIEW,1,"no usable exact-model image candidate found [{""sourceHost"":""www.bjornjuhl.com"",""sourcePageLoaded"":true,""sourceIdentityMatch"":true,""sourceImageCandidates"":0,""linkedExternalCandidates"":0,""sourceScreenshotCaptured"":false,""makerFallbackTried"":true,""soldCandidates"":0,""verifiedSoldCandidates"":0,""imageSearchCandidates"":0,""verifiedSearchCandidates"":0,""rawHtmlCandidates"":4}]",
 Prescription Electronics,Yardbox,,DEEP_REVIEW,1,recovery hard timeout exceeded,
 Roger Mayer,Mongoose,,DEEP_REVIEW,1,recovery hard timeout exceeded,
 Sinvertek,N5+ Distortion,,DEEP_REVIEW,1,recovery hard timeout exceeded,
