@@ -467,6 +467,10 @@ def cache_entry_prepare(entry):
             target.unlink()
         except OSError:
             pass
+        # The canonical image pointer is no longer valid once the physical
+        # asset is removed. Clear it before evaluating source fallbacks so a
+        # stale local path cannot survive into the catalog.
+        entry["image"] = ""
 
     # Browser-assisted recovery may have staged the exact source bytes next
     # to the canonical target. Convert them into the public WebP archive.
