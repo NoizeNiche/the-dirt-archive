@@ -292,3 +292,7 @@ consume verified direct-photo leads for VOX Big Ben Overdrive and Way Huge Small
 
 curated-download-timeout kick 2026-10-03T18:00:00Z
 run the current finish-line photo backlog with the curated exact-image download timeout extended to 30 seconds, then proceed through the existing bounded browser recovery and production publication gates
+
+
+regex-fix recovery kick 2026-10-03T18:20:00Z
+rerun the current bounded finish-line photo recovery after the manual-primary URL regex fix; preserve the 60-target / 12-worker / 900-second limits and all publication gates
