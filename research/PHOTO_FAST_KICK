@@ -323,3 +323,5 @@ final publish-gate kick: canonical photo reset is now publishable even without a
 finish-line missing-pointer fix kick 2026-10-03T18:04:00Z
 retry current photo backlog after fixing stale catalog pointer retention when invalid local assets are removed
 
+finish-line dangling-pointer repair kick 2026-10-03T18:03:00Z
+rerun the bounded photo lane with canonical-pointer reconciliation enabled; consume the new Holy Fire Classic exact manufacturer lead and preserve all strict photo gates
