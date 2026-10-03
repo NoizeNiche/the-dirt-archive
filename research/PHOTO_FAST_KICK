@@ -200,3 +200,6 @@ consume the newly merged exact manufacturer/retailer photo leads through the exi
 
 finish-line continuation kick 2026-10-02T17:30:00-07:00
 consume the current exact-model recovery lead set through the existing 60-target / 12-worker bounded photo lane; preserve strict identity and provenance gates
+
+finish-line direct-image lead kick 2026-10-02T17:45:00-07:00
+consume newly added exact-model SL Drive and Saucy Box primary-photo leads plus the current curated source set through the existing 60-target / 12-worker bounded lane
