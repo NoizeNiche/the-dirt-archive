@@ -328,3 +328,6 @@ rerun the bounded photo lane with canonical-pointer reconciliation enabled; cons
 
 finish-line missing-asset reconciliation fix 2026-10-03T18:13:00Z
 clear canonical photo pointers whenever the referenced local asset is absent, even when stale recovery metadata claims the identity was freshly recovered; rerun the bounded finish-line lane
+
+finish-line post-cache reconciliation kick 2026-10-03T18:22:00Z
+rerun the bounded photo lane with canonical state reconciliation after cache asset removals; preserve strict photo quality, identity, provenance, and publication gates
