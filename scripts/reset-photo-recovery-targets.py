@@ -22,6 +22,7 @@ TRACKER = Path("research/PRP_TRACKER.csv")
 PHOTO_SOURCE_BLOCKLIST = Path("research/PHOTO_SOURCE_BLOCKLIST.json")
 PHOTO_IDENTITY_QUARANTINE = Path("research/PHOTO_IDENTITY_QUARANTINE.csv")
 PHOTO_HASH_QUARANTINE = Path("research/PHOTO_HASH_QUARANTINE.csv")
+PHOTO_RECOVERY_MANIFEST = Path("photo-recovery-results.json")
 
 TARGET_BUILDER = os.environ.get("PHOTO_RESET_TARGET_BUILDER", "").strip()
 TARGET_PEDAL = os.environ.get("PHOTO_RESET_TARGET_PEDAL", "").strip()
@@ -78,6 +79,27 @@ def identity_quarantine_reasons(identity, values, quarantine):
         if lowered and lowered in blocked:
             reasons.append("identity-specific photo quarantine: " + lowered)
     return list(dict.fromkeys(reasons))
+
+
+def load_fresh_recovery_keys():
+    """Return identities recovered by the browser in this exact workflow pass."""
+    keys = set()
+    try:
+        data = json.loads(PHOTO_RECOVERY_MANIFEST.read_text(encoding="utf-8"))
+        for row in data.get("recovered") or []:
+            builder = str(row.get("builder") or "").strip()
+            pedal = str(row.get("pedal") or "").strip()
+            verification = row.get("verification") or {}
+            if (
+                builder
+                and pedal
+                and str(row.get("imageFile") or "").strip()
+                and str(verification.get("identityVerified")).lower() != "false"
+            ):
+                keys.add((builder, pedal))
+    except Exception:
+        pass
+    return keys
 
 
 def load_hash_quarantine():
@@ -295,10 +317,18 @@ def main():
     except Exception:
         pass
     hash_quarantine = load_hash_quarantine()
+    fresh_recovery_keys = load_fresh_recovery_keys()
     collision_keepers = build_collision_keepers(catalog, manual_review)
     reset = 0
     removed = []
     for target_key in sorted(targets):
+        # The browser recovery step immediately before this cleanup may have
+        # produced a fresh, identity-verified artifact for the same catalog key.
+        # Do not let stale quarantine state erase that new artifact before the
+        # Photo Foreman can verify it. The Foreman remains the final acceptance
+        # gate for dimensions, provenance, blocklists, and hash reuse.
+        if target_key in fresh_recovery_keys:
+            continue
         entry = catalog_map.get(target_key)
         if not entry:
             continue
