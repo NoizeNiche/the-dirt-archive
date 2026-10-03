@@ -30,6 +30,9 @@ HIGH_PREFIXES = (
     "tiny_dimensions",
     "unreadable_image:",
     "fully_or_nearly_transparent",
+    "nearly_blank_light",
+    "nearly_blank_dark",
+    "extremely_low_visual_detail",
 )
 
 def load_audit(path: Path):
