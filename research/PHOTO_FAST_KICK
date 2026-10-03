@@ -385,3 +385,6 @@ consume newly verified TC Electronic Tube Pilot Overdrive primary photo first, t
 
 finish-line exact-primary seed 2026-10-03T16:02:00-07:00
 consume newly verified Mad Professor Golden Cello primary photo first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line exact-primary seed 2026-10-03T16:24:00-07:00
+consume newly verified MadeByMike RAT/MUFF, Mojo Hand FX Rounder, and Maxon ROD881 primary photos first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
