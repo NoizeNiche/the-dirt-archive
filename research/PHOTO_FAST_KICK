@@ -228,3 +228,7 @@ run the current exact-photo backlog through the corrected raw-byte packaging pat
 
 finish-line borderline-photo recovery kick 2026-10-02T21:34:00-07:00
 rerun the exact-photo backlog using the aligned 120px raw-image capture floor; preserve strict identity, provenance, and quarantine gates
+
+
+finish-line recovery kick 2026-10-03T15:43:00Z
+consume current 118-record researched-photo backlog from clean main through the existing 60-target / 12-worker bounded recovery lane; preserve strict identity, provenance, quarantine, and publication gates
