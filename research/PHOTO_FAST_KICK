@@ -244,3 +244,7 @@ run the current photo backlog with the 55-second fresh-recovery deadline and 60-
 
 curated manual-primary handoff kick 2026-10-03T15:55:00Z
 consume newly verified manual-primary URLs through the direct-image override path, then continue the remaining photo backlog; preserve strict identity, provenance, quarantine, and publication gates
+
+
+workflow-aligned recovery kick 2026-10-03T15:58:00Z
+run the current finish-line photo backlog with the aligned 55-second fresh deadline, 55-second deep deadline, 12 recovery attempts, and 8 deep-review cycles; preserve the 60-target / 12-worker / 900-second bounded lane and all exact identity/provenance gates
