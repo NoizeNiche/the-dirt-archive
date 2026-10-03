@@ -1,7 +1,6 @@
-## Finish-line photo recovery checkpoint - October 3, 2026 (138 remaining)
-The canonical catalog is **4,200 records**, with **4,062 pictured / 4,062 complete** and **138 researched-photo-pending**. The research queue is complete. Exact-photo recovery and final production QA are the remaining launch gates.
-Recent verified finish-line work has published exact local photos for four additional records, including AMT Electronics DM-3 DistMachine, BYW Audio Blacky' Blower, and Cornerstone Music Gear Sparkle. The fast recovery lane remains bounded at 60 targets / 12 workers, with strict Builder + Pedal identity, provenance, quarantine, content, synchronization, and publication gates. Newly verified Greer and Browne primary-photo leads are queued for the next bounded pass.
-
+## Finish-line photo recovery checkpoint - October 3, 2026 (113 remaining)
+The canonical catalog is **4,200 records**, with **4,087 pictured / 4,087 complete** and **113 researched-photo-pending**. The research queue is complete. Exact-photo recovery and final production QA are the remaining launch gates.
+Recent recovery passes have published additional exact local photos while strict Builder + Pedal identity, version, provenance, quarantine, content, synchronization, and publication gates remain active. Newly verified primary-photo seeds for ThorpyFX, Walrus Audio, Xotic Effects, and other remaining records are queued for the next bounded recovery pass.
 ## Photo recovery source-classifier checkpoint - October 3, 2026
 
 Exact discontinued-product pages under deeper `/legacy/<model>` routes are now eligible for photo recovery; only the bare `/legacy` landing route remains generic. This complements the existing exact-product exceptions for Reverb `/p/`, builder `/shop/` and `/store/`, and collection-product routes. The downstream Builder + Pedal identity gate remains unchanged.
