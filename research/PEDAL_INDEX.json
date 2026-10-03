@@ -56288,11 +56288,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/cutthroat-kitty-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://deathcloud.com/cdn/shop/files/TONECATCutthroatKittyDistortionPedal.jpg?v=1788761003",
+      "image_source_page": "https://deathcloud.com/products/tonecat-cutthroat-kitty-distortion"
     },
     {
       "company": "TONECAT",

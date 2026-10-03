@@ -29405,9 +29405,11 @@
   {
     "builder": "TONECAT",
     "pedal": "Cutthroat Kitty Distortion",
-    "image": "",
+    "image": "./assets/pedals/tonecat/cutthroat-kitty-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md"
+    "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md",
+    "image_source_url": "https://deathcloud.com/cdn/shop/files/TONECATCutthroatKittyDistortionPedal.jpg?v=1788761003",
+    "image_source_page": "https://deathcloud.com/products/tonecat-cutthroat-kitty-distortion"
   },
   {
     "builder": "TONECAT",
