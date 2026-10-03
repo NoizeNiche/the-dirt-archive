@@ -190,6 +190,11 @@ def fetch(url: str, source_page: str = "") -> bytes:
                 raise RuntimeError(f"unexpected content type: {content_type or 'missing'}")
             if len(data) < MIN_BYTES:
                 raise RuntimeError(f"payload too small: {len(data)} bytes")
+            # Validate the bytes before accepting the transport response. Some
+            # CDNs return HTTP 200 + image/* while serving an HTML/challenge body
+            # or otherwise malformed bytes. In that case continue through the
+            # curl/proxy/Chromium fallbacks instead of failing later in main().
+            validate(data)
             return data
     except Exception as exc:
         last_error = exc
@@ -212,6 +217,7 @@ def fetch(url: str, source_page: str = "") -> bytes:
         data = proc.stdout or b""
         if len(data) < MIN_BYTES:
             raise RuntimeError(f"curl payload too small: {len(data)} bytes")
+        validate(data)
         return data
     except Exception as exc:
         last_error = exc
