@@ -325,3 +325,6 @@ retry current photo backlog after fixing stale catalog pointer retention when in
 
 finish-line dangling-pointer repair kick 2026-10-03T18:03:00Z
 rerun the bounded photo lane with canonical-pointer reconciliation enabled; consume the new Holy Fire Classic exact manufacturer lead and preserve all strict photo gates
+
+finish-line missing-asset reconciliation fix 2026-10-03T18:13:00Z
+clear canonical photo pointers whenever the referenced local asset is absent, even when stale recovery metadata claims the identity was freshly recovered; rerun the bounded finish-line lane
