@@ -3957,7 +3957,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
             const normalize = value => String(value || '')
               .toLowerCase()
               .replace(/[^a-z0-9]+/g, ' ')
-              .replace(/\s+/g, ' ')
+              .replace(/\\s+/g, ' ')
               .trim();
 
             const forbiddenPattern = /(logo|avatar|icon|sprite|favicon|banner|badge|payment|social|tracking|pixel|cookie|consent|breadcrumb|menu|nav|header|footer)/i;
@@ -3978,7 +3978,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
                 img.src ||
                 '';
 
-              if (lazySrc && /^https?:/i.test(lazySrc) && (Number(img.naturalWidth) || 0) < 220) {
+              if (lazySrc && /^https?:/i.test(lazySrc) && (Number(img.naturalWidth) || 0) < 260) {
                 try {
                   img.loading = 'eager';
                   if (img.src !== lazySrc) img.src = lazySrc;
@@ -4011,26 +4011,45 @@ function imageBytesLookComplete(bytes, contentType = '') {
                 const hint = normalize([tag, cls, id, node.getAttribute?.('data-testid') || '', text].join(' '));
                 context += ' ' + hint;
 
-                if (/^(main|article)$/i.test(tag) || /product|pedal|gallery|photo|image|media|hero|listing|item/i.test(cls + ' ' + id)) semanticScore += 170;
-                if (/^(header|nav|footer|aside)$/i.test(tag) || /header|nav|footer|menu|breadcrumb|cookie|consent|social/i.test(cls + ' ' + id)) chromePenalty += 240;
+                if (/^(main|article)$/i.test(tag)) semanticScore += 180;
+                if (/product|pedal|gallery|photo|image|media|hero|listing|item|figure/i.test(cls + ' ' + id)) semanticScore += 220;
+                if (/product|pedal|gallery|photo|image|media|hero|listing|item/i.test(hint)) semanticScore += 80;
+                if (/^(header|nav|footer|aside)$/i.test(tag) || /header|nav|footer|menu|breadcrumb|cookie|consent|social/i.test(cls + ' ' + id)) chromePenalty += 320;
               }
 
-              const hint = normalize([raw, context, ...pedalTokens, ...builderTokens].join(' '));
+              const hint = normalize([raw, context].join(' '));
+              const altNorm = normalize(img.alt || '');
+              const srcNorm = normalize(img.currentSrc || img.src || lazySrc || '');
               const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+              const altHits = pedalTokens.filter(token => altNorm.includes(token)).length;
+              const srcHits = pedalTokens.filter(token => srcNorm.includes(token)).length;
               const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+              const strongProductContext =
+                /product|pedal|gallery|photo|hero|listing|item|media|main/i.test(hint);
+
+              // Do not let a large generic site image win merely because it is
+              // visually prominent. A rendered fallback must have either model
+              // identity evidence or strong product/gallery context.
+              if (pedalHits === 0 && altHits === 0 && srcHits === 0 && builderHits === 0 && semanticScore < 300) continue;
+              if (chromePenalty > 300 && pedalHits === 0 && altHits === 0 && srcHits === 0) continue;
+              if (!strongProductContext && pedalHits === 0 && altHits === 0 && srcHits === 0) continue;
+
+              const exactPhrase = pedalTokens.length && pedalTokens.every(token => hint.includes(token));
               const areaScore = Math.min(width * height, 1600000) / 1000;
               const documentTop = Number(rect.top) + Number(window.scrollY || 0);
               const headingDistance = Math.abs(documentTop - h1Y);
 
-              let score = areaScore + semanticScore + pedalHits * 150 + builderHits * 40 - chromePenalty;
-              if (width > 1800 || height > 1800) score -= 120;
+              let score = areaScore + semanticScore + pedalHits * 220 + altHits * 140 + srcHits * 60 + builderHits * 55 - chromePenalty;
+              if (exactPhrase) score += 850;
+              if (width < 320 || height < 320) score -= 140;
+              if (width > 2200 || height > 2200) score -= 90;
               if (rect.bottom >= 0 && rect.top <= window.innerHeight * 2) score += 80;
-              if (headingDistance <= 900) score += 320;
-              else if (headingDistance <= 1500) score += 120;
+              if (headingDistance <= 900) score += 340;
+              else if (headingDistance <= 1500) score += 140;
 
               const ratio = Math.max(width / Math.max(1, height), height / Math.max(1, width));
-              if (ratio >= 2.7) score -= 500;
-              else if (ratio >= 2.2) score -= 250;
+              if (ratio >= 2.7) score -= 700;
+              else if (ratio >= 2.2) score -= 350;
 
               rows.push({
                 index,
