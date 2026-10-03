@@ -313,6 +313,9 @@ def main():
             or any(flag.startswith("blocked_provenance:") for flag in flags)
             or "tiny_file" in flags
             or "tiny_dimensions" in flags
+            or "nearly_blank_light" in flags
+            or "nearly_blank_dark" in flags
+            or "extremely_low_visual_detail" in flags
             or any(flag.startswith("unreadable_image:") for flag in flags)
         )
         return row, contaminated
