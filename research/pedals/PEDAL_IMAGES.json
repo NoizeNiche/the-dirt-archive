@@ -28412,9 +28412,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Fuzz Master 3",
-    "image": "",
+    "image": "./assets/pedals/stomp-under-foot/fuzz-master-3/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md",
+    "image_source_url": "https://joespedals.com/cdn/shop/files/SUF_Fuzzmaster3_1_1024x.jpg?v=1778058801",
+    "image_source_page": "https://joespedals.com/products/fuzz-master-3-vintage-mini"
   },
   {
     "builder": "Stomp Under Foot",
@@ -29216,9 +29218,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Kudu",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/kudu/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Kudu.md"
+    "research_record": "./research/pedals/ThorpyFX/Kudu.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/KUDU5.jpg?v=1777836374&width=960",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-kudu"
   },
   {
     "builder": "ThorpyFX",

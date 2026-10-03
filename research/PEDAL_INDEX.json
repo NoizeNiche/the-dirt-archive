@@ -54426,7 +54426,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/fuzz-master-3/primary.webp",
+      "image_source_url": "https://joespedals.com/cdn/shop/files/SUF_Fuzzmaster3_1_1024x.jpg?v=1778058801",
+      "image_source_page": "https://joespedals.com/products/fuzz-master-3-vintage-mini"
     },
     {
       "company": "Stomp Under Foot",
@@ -55948,7 +55950,9 @@
       "research_record": "./research/pedals/ThorpyFX/Kudu.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/kudu/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/KUDU5.jpg?v=1777836374&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-kudu"
     },
     {
       "company": "ThorpyFX",
