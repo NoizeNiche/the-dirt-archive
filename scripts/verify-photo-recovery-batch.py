@@ -15,6 +15,7 @@ ARTIFACTS = ROOT / "recovery-artifacts"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 MANUAL_REVIEW = ROOT / "research/PHOTO_MANUAL_REVIEW.csv"
+DIRECT_OVERRIDES = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
 ASSET_ROOT = ROOT / "assets/pedals"
 
 def http(v):
@@ -37,6 +38,35 @@ def load_manual_verified():
                     approved[identity] = (image_url, source_page)
     except Exception:
         pass
+
+    # Treat a single curator-marked PHOTO REVIEW: PRIMARY direct override as
+    # equivalent to VERIFIED_PRIMARY manual evidence. This mirrors the direct
+    # downloader/resetter and lets exact curated images survive the final foreman.
+    direct_candidates = {}
+    try:
+        with DIRECT_OVERRIDES.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                notes = str(row.get("Notes") or "").strip().lower()
+                if "photo review: primary" not in notes:
+                    continue
+                identity = (
+                    str(row.get("Builder") or "").strip(),
+                    str(row.get("Pedal") or "").strip(),
+                )
+                image_url = str(row.get("Image URL") or "").strip()
+                source_page = str(row.get("Image Source Page") or "").strip()
+                if not (identity[0] and identity[1] and image_url and source_page):
+                    continue
+                direct_candidates.setdefault(identity, set()).add((image_url, source_page))
+    except Exception:
+        pass
+
+    for identity, candidates in direct_candidates.items():
+        # Only promote an unambiguous single primary pair. Existing manual review
+        # evidence remains authoritative when both sources exist.
+        if identity not in approved and len(candidates) == 1:
+            approved[identity] = next(iter(candidates))
+
     return approved
 
 
@@ -172,7 +202,11 @@ def main():
                 candidate_hash = hashlib.sha256(candidate.read_bytes()).hexdigest() if candidate and candidate.is_file() else ""
                 identity = (str(result.get("builder") or ""), str(result.get("pedal") or ""))
                 reused = [pair for pair in existing_hashes.get(candidate_hash, []) if pair != identity]
-                if reused:
+                # A curator-approved primary may intentionally reuse identical
+                # manufacturer/listing bytes across an alias or documented identity.
+                # The exact URL/source has already been explicitly reviewed, so do
+                # not let the generic byte-collision guard overturn that approval.
+                if reused and identity not in manual_verified:
                     ok = False
                     reason = "recovered image bytes already belong to another catalog identity: " + "; ".join(f"{b} / {p}" for b,p in reused[:4])
                 source_url = str(result.get("image_source_url") or "").lower()
