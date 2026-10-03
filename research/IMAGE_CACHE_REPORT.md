@@ -1,12 +1,12 @@
 # Pedal Image Cache Report
 
-- Cached in this run: **5**
-- Staged browser photos converted: **3**
-- Local images retained/reorganized: **3**
+- Cached in this run: **0**
+- Staged browser photos converted: **1**
+- Local images retained/reorganized: **1**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **134**
-- Researched, photo pending: **134**
+- Remaining tracker photo backlog: **133**
+- Researched, photo pending: **133**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -14,14 +14,6 @@
 - Primary image: `assets/pedals/{builder}/{pedal}/primary.webp`
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
-
-## Newly cached
-
-- Fuzzrocious Pedals - Cat King -> `./assets/pedals/fuzzrocious-pedals/cat-king/primary.webp`
-- Fuzzrocious Pedals - M.O.T.H. -> `./assets/pedals/fuzzrocious-pedals/m-o-t-h/primary.webp`
-- Mask Audio Electronics - Germanium Part Garden -> `./assets/pedals/mask-audio-electronics/germanium-part-garden/primary.webp`
-- ProCo Sound - SOLO -> `./assets/pedals/proco-sound/solo/primary.webp`
-- Subdecay - Blackstar – Ultimate Overdrive -> `./assets/pedals/subdecay/blackstar-ultimate-overdrive/primary.webp`
 
 ## Still external / failed
 
