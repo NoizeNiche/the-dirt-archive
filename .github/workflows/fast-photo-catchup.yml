@@ -235,6 +235,10 @@ jobs:
       - name: Convert and synchronize
         run: |
           python scripts/cache-pedal-images.py
+          # The cache stage may remove a quarantined/invalid local asset after
+          # the pre-merge reset. Reconcile again before tracker sync so no stale
+          # catalog pointer can survive into canonical verification.
+          python scripts/reset-photo-recovery-targets.py
           python scripts/sync-prp-tracker.py
           python scripts/build-research-queue.py
           python scripts/sync-photo-backlog.py
@@ -313,6 +317,9 @@ jobs:
             git reset --hard origin/main
             python scripts/merge-photo-recovery-results.py
             python scripts/cache-pedal-images.py
+            # Reconcile any asset removals performed by the cache stage before
+            # replaying the recovered batch on the latest main.
+            python scripts/reset-photo-recovery-targets.py
             python scripts/sync-prp-tracker.py
             python scripts/sync-photo-backlog.py
             python scripts/prune-photo-review-queue.py
