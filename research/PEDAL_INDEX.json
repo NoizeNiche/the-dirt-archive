@@ -3353,12 +3353,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
       "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
-      "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
+      "image_source_page": "https://www.musicitem.co.kr/front/php/product.php?product_no=1482",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.musicitem.co.kr/web/product/big/musicitem_1482.jpg"
     },
     {
       "company": "AMT Electronics",
@@ -18735,13 +18736,14 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/byw-audio/blacky-blower/primary.webp",
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
       "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "image_source_priority": 260,
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-416x461.jpg"
     },
     {
       "company": "BYW Audio",
@@ -28174,10 +28176,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/cornerstone/sparkle"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/cornerstone/sparkle",
+      "image_source_page": "https://reverb.com/item/84323586-used-cornerstone-sparkle-dynamic-overdrive-mint-condition",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 627
+      "image_source_priority": 627,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--tL7BwMa9--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/h79dr7glitdo7nrekdhi.jpg",
+      "image": "./assets/pedals/cornerstone-music-gear/sparkle-dynamic-overdrive/primary.webp"
     },
     {
       "company": "Coron",
@@ -56326,11 +56330,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/tonecat/hugo-overdrive/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://replayguitars.com.au/cdn/shop/files/Hugo.jpg?v=1789175542&width=832",
+      "image_source_page": "https://replayguitars.com/products/tonecat-effects-hugo-overdrive"
     },
     {
       "company": "TONECAT",

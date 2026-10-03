@@ -1790,10 +1790,12 @@
   {
     "builder": "AMT Electronics",
     "pedal": "DM-3 DistMachine",
-    "image": "",
+    "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
     "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
     "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
-    "photo_status": "NEEDED"
+    "photo_status": "NEEDED",
+    "image_source_url": "https://www.musicitem.co.kr/web/product/big/musicitem_1482.jpg",
+    "image_source_page": "https://www.musicitem.co.kr/front/php/product.php?product_no=1482"
   },
   {
     "builder": "AMT Electronics",
@@ -9783,9 +9785,11 @@
   {
     "builder": "BYW Audio",
     "pedal": "Blacky' Blower",
-    "image": "",
+    "image": "./assets/pedals/byw-audio/blacky-blower/primary.webp",
     "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
-    "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md"
+    "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
+    "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-416x461.jpg",
+    "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/"
   },
   {
     "builder": "BYW Audio",
@@ -14677,7 +14681,10 @@
     "builder": "Cornerstone Music Gear",
     "pedal": "Sparkle - Dynamic Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle - Dynamic Overdrive.md"
+    "research_record": "./research/pedals/Cornerstone Music Gear/Sparkle - Dynamic Overdrive.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--tL7BwMa9--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/h79dr7glitdo7nrekdhi.jpg",
+    "image_source_page": "https://reverb.com/item/84323586-used-cornerstone-sparkle-dynamic-overdrive-mint-condition",
+    "image": "./assets/pedals/cornerstone-music-gear/sparkle-dynamic-overdrive/primary.webp"
   },
   {
     "builder": "Coron",
@@ -29433,9 +29440,11 @@
   {
     "builder": "TONECAT",
     "pedal": "Hugo Overdrive",
-    "image": "",
+    "image": "./assets/pedals/tonecat/hugo-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md"
+    "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md",
+    "image_source_url": "https://replayguitars.com.au/cdn/shop/files/Hugo.jpg?v=1789175542&width=832",
+    "image_source_page": "https://replayguitars.com/products/tonecat-effects-hugo-overdrive"
   },
   {
     "builder": "TONECAT",
