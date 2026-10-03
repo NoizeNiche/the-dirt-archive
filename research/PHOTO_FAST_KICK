@@ -203,3 +203,6 @@ consume the current exact-model recovery lead set through the existing 60-target
 
 finish-line direct-image lead kick 2026-10-02T17:45:00-07:00
 consume newly added exact-model SL Drive and Saucy Box primary-photo leads plus the current curated source set through the existing 60-target / 12-worker bounded lane
+
+finish-line direct-image refresh 2026-10-02T17:55:00-07:00
+consume the new exact-model RYRA, Xotic SL Drive, and Way Huge Saucy Box primary-photo leads through the existing bounded recovery lane
