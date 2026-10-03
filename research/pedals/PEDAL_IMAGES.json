@@ -23752,7 +23752,10 @@
     "builder": "MadeByMike",
     "pedal": "RAT/MUFF",
     "source_page": null,
-    "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md"
+    "research_record": "./research/pedals/MadeByMike/RAT/MUFF.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--SNUTSgoO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/jgprgcv1btik5j1ua4tg.webp",
+    "image_source_page": "https://www.madebymike.co.uk/ratmuff.shtml",
+    "image": "./assets/pedals/madebymike/rat-muff/primary.webp"
   },
   {
     "builder": "MadeByMike",
@@ -26065,9 +26068,11 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "1347 Silicon Fuzz",
-    "image": "",
+    "image": "./assets/pedals/mythos-pedals/1347-silicon-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md"
+    "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md",
+    "image_source_url": "https://mythospedals.com/cdn/shop/files/1347_1000x.jpg?v=1695766138",
+    "image_source_page": "https://mythospedals.com/products/1347-silicon-fuzz"
   },
   {
     "builder": "Mythos Pedals",
@@ -26185,9 +26190,11 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "High Road Fuzz Mini",
-    "image": "",
+    "image": "./assets/pedals/mythos-pedals/high-road-fuzz-mini/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini.md"
+    "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini.md",
+    "image_source_url": "https://mythospedals.com/cdn/shop/files/high-road_1000x.jpg?v=1717615792",
+    "image_source_page": "https://mythospedals.com/products/high-road-fuzz"
   },
   {
     "builder": "Mythos Pedals",
@@ -26208,9 +26215,11 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "Mjolnir Overdrive",
-    "image": "",
+    "image": "./assets/pedals/mythos-pedals/mjolnir-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/Mjolnir Overdrive.md"
+    "research_record": "./research/pedals/Mythos Pedals/Mjolnir Overdrive.md",
+    "image_source_url": "https://mythospedals.com/cdn/shop/files/mjolnir24_1000x.jpg?v=1722266522",
+    "image_source_page": "https://mythospedals.com/collections/overdrive/products/mjolnir"
   },
   {
     "builder": "Mythos Pedals",
@@ -27269,7 +27278,10 @@
     "builder": "Pigtronix",
     "pedal": "Star Eater",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/Star Eater.md"
+    "research_record": "./research/pedals/Pigtronix/Star Eater.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--JOQdm-ar--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rvtv00rmkib2qotbdcfu.png",
+    "image_source_page": "https://www.pigtronix.com/pedals/star-eater/",
+    "image": "./assets/pedals/pigtronix/star-eater/primary.webp"
   },
   {
     "builder": "Pigtronix",
@@ -29332,9 +29344,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "The DANE",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/the-dane/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/The DANE.md"
+    "research_record": "./research/pedals/ThorpyFX/The DANE.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-08-21at11.57.27.png?v=1755773967&width=960",
+    "image_source_page": "https://thorpyfx.com/products/the-dane-mkii"
   },
   {
     "builder": "ThorpyFX",
