@@ -219,3 +219,6 @@ protect curator-approved direct photos from browser overwrite and let PHOTO REVI
 
 finish-line raw-image screenshot fallback kick 2026-10-02T20:01:00-07:00
 retry the current exact-photo backlog with verified raw source-page candidates eligible for browser screenshot fallback; preserve strict identity and provenance gates
+
+finish-line handoff-fixed recovery kick 2026-10-02T21:17:00-07:00
+rerun the current exact-photo backlog with normalized image artifacts; preserve strict identity, provenance, and publication gates
