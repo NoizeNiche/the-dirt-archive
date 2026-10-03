@@ -209,3 +209,6 @@ consume the new exact-model RYRA, Xotic SL Drive, and Way Huge Saucy Box primary
 
 finish-line direct-image refresh 2026-10-02T18:05:00-07:00
 consume the new exact-model VOX Ice 9 primary-photo lead and continue the current bounded photo recovery lane
+
+transport-validation hardening kick 2026-10-02T18:00:00-07:00
+retry malformed image/* responses through existing curl/proxy/Chromium fallbacks before rejecting exact curated leads
