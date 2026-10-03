@@ -296,3 +296,7 @@ run the current finish-line photo backlog with the curated exact-image download 
 
 regex-fix recovery kick 2026-10-03T18:20:00Z
 rerun the current bounded finish-line photo recovery after the manual-primary URL regex fix; preserve the 60-target / 12-worker / 900-second limits and all publication gates
+
+
+linked-exact-source bugfix kick 2026-10-03T18:48:00Z
+rerun the bounded photo recovery with the fixed Effects Database linked-source extractor; keep all existing identity, provenance, quarantine, content-gate, and publication rules
