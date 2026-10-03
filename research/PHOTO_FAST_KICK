@@ -391,3 +391,6 @@ consume newly verified MadeByMike RAT/MUFF, Mojo Hand FX Rounder, and Maxon ROD8
 
 finish-line Mythos exact-primary seed 2026-10-03T16:32:00-07:00
 consume newly verified Mythos 1347 Silicon Fuzz, High Road Fuzz Mini, and Mjolnir Overdrive manufacturer primaries first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line exact-primary seed 2026-10-03T16:44:00-07:00
+consume newly verified Pigtronix Star Eater plus the current Mythos/MadeByMike/Mojo Hand/Maxon exact primary-photo seeds first, then continue the remaining researched-photo queue through the existing 60-target / 12-worker bounded lane; preserve strict identity, provenance, quarantine, content, synchronization, and publication gates
