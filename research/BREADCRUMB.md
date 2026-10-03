@@ -1,3 +1,9 @@
+## Finish-line photo recovery checkpoint - October 3, 2026
+
+The canonical catalog is **4,200 records**, with **4,049 pictured / 4,049 complete** and **151 researched-photo-pending**. The research queue is complete; exact-photo recovery is the only remaining catalog-wide production gate.
+
+The current recovery lane is running against a bounded photo batch while the deployment lane has already passed structural validation, photo-state verification, and full researched-page browser audit. New exact source-page leads were added for the earliest unresolved records, including AMT Electronics DM-3 DistMachine, Big Ear Woodcutter, Browne Amplification Alkene variants, Build Your Own Clone Li'l Fuzz, Collins CDT-1/COD-1/CSD-1, ColorTone Fx Gainer, Columbus OVD-5, and Cornerstone Sparkle.
+
 ## Finish-line photo recovery checkpoint - October 2, 2026
 
 The canonical catalog remains **4,200 records**, with **4,030 pictured / 4,030 complete** and **170 researched-photo-pending**. The photo-recovery lane has continued to publish exact local photos through bounded runs while preserving the strict identity and local-asset gates.
