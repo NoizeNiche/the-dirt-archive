@@ -381,7 +381,7 @@
       "pattern": "https://d6a2e7ghqts3o.cloudfront.net/AcuCustom/Sitename/DAM/577/2026-GPX-Resistors-Selection-Main-V3-700.jpg",
       "reason": "Guitar Pedal X resistor-selection graphic incorrectly surfaced as Bad Penny FX pedal photos.",
       "severity": "hard_block"
-    }
+    },
     {
       "type": "exact_url",
       "pattern": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
