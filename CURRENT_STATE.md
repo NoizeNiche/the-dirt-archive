@@ -1,9 +1,6 @@
-## Finish-line photo recovery checkpoint - October 3, 2026 (142 remaining)
-
-The canonical catalog is **4,200 records**, with **4,058 pictured / 4,058 complete** and **142 researched-photo-pending**. The research queue is complete. Exact-photo recovery and final production QA are the remaining launch gates.
-
-Recent verified finish-line work includes exact local-photo publication for five records, plus corrected primary-photo evidence for AMT Electronics DM-3 DistMachine, BYW Audio Blacky' Blower, and Cornerstone Music Gear Sparkle. The fast recovery lane remains bounded at 60 targets / 12 workers, with strict Builder + Pedal identity, provenance, quarantine, content, synchronization, and publication gates.
-
+## Finish-line photo recovery checkpoint - October 3, 2026 (138 remaining)
+The canonical catalog is **4,200 records**, with **4,062 pictured / 4,062 complete** and **138 researched-photo-pending**. The research queue is complete. Exact-photo recovery and final production QA are the remaining launch gates.
+Recent verified finish-line work has published exact local photos for four additional records, including AMT Electronics DM-3 DistMachine, BYW Audio Blacky' Blower, and Cornerstone Music Gear Sparkle. The fast recovery lane remains bounded at 60 targets / 12 workers, with strict Builder + Pedal identity, provenance, quarantine, content, synchronization, and publication gates. Newly verified Greer and Browne primary-photo leads are queued for the next bounded pass.
 
 ## Photo recovery source-classifier checkpoint - October 3, 2026
 
