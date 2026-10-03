@@ -361,3 +361,6 @@ consume the newest exact-model photo-source leads on fresh main; run the bounded
 
 finish-line fresh-state kick 2026-10-03T22:10:39.960Z
 consume the latest canonical direct-photo fixes (AMT DM-3, BYW Blacky' Blower, Cornerstone Sparkle) from current main; replace any stale active recovery and run the bounded 60-target / 12-worker lane with all existing identity, provenance, quarantine, content, synchronization, and publication gates
+
+finish-line corrected-state handoff 2026-10-03T22:11:39.120Z
+start the next bounded photo recovery from current main after primary-photo and state-note corrections; preserve the 60-target / 12-worker limits and all identity, provenance, quarantine, content, synchronization, and publication gates
