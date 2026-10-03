@@ -1115,7 +1115,7 @@ async function rawVerifiedExternalSourceImages(page, entry, sourcePageUsed) {
           } catch {}
         }
         const images = rawVerifiedPageImageUrls(htmlBody, link.url);
-        for (const imageUrl of [...new Set([...rawImages, ...images])]) {
+        for (const imageUrl of [...new Set(images)]) {
           out.push({
             url: imageUrl,
             sourcePage: link.url,
