@@ -120,8 +120,7 @@ function key(builder, pedal) {
   return builder + '\\0' + pedal;
 }
 
-function manualVerifiedPhoto(entry, imageUrl) {
-  if (!imageUrl) return false;
+function manualVerifiedPhotoRecord(entry) {
   if (!manualVerifiedPhotoMap) {
     manualVerifiedPhotoMap = new Map();
     try {
@@ -137,12 +136,16 @@ function manualVerifiedPhoto(entry, imageUrl) {
       }
     } catch {}
   }
-  const approved = manualVerifiedPhotoMap.get(key(
+  return manualVerifiedPhotoMap.get(key(
     String(entry.company || entry.builder || '').trim(),
     String(entry.pedal || '').trim()
-  ));
-  if (!approved) return false;
-  return String(approved.imageUrl) === String(imageUrl);
+  )) || null;
+}
+
+function manualVerifiedPhoto(entry, imageUrl) {
+  if (!imageUrl) return false;
+  const approved = manualVerifiedPhotoRecord(entry);
+  return Boolean(approved && String(approved.imageUrl) === String(imageUrl));
 }
 
 function reviewQueueRows(raw) {
@@ -2315,7 +2318,8 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
       candidates.push(...makerCandidates);
     }
 
-    const directImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
+    const manualOverride = manualVerifiedPhotoRecord(entry);
+    const catalogDirectImageUrls = Array.isArray(entry.image_source_urls) && entry.image_source_urls.length
       ? entry.image_source_urls.filter(value =>
           /^https?:/i.test(String(value || "")) &&
           manualVerifiedPhoto(entry, String(value || ""))
@@ -2325,10 +2329,12 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
          manualVerifiedPhoto(entry, entry.image_source_url)
           ? [entry.image_source_url]
           : []);
-    for (const imageUrl of [...new Set(directImageUrls)].filter(url => !isLikelyNonPedalAssetUrl(url)).slice(0, 3)) {
+    const manualDirectImageUrls = manualOverride?.imageUrl ? [manualOverride.imageUrl] : [];
+    const directImageUrls = [...new Set([...manualDirectImageUrls, ...catalogDirectImageUrls])];
+    for (const imageUrl of directImageUrls.filter(url => !isLikelyNonPedalAssetUrl(url)).slice(0, 3)) {
       candidates.push({
         url: imageUrl,
-        sourcePage: entry.image_source_page || entry.source_page || null,
+        sourcePage: manualOverride?.sourcePage || entry.image_source_page || entry.source_page || null,
         sourceScore: 1400,
         directImageOverride: true
       });
