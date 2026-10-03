@@ -24267,7 +24267,7 @@
   {
     "builder": "Maxon",
     "pedal": "ROD881",
-    "image": "",
+    "image": "./assets/pedals/maxon/rod881/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/ROD881.md",
     "image_source_url": "https://files.effectsdatabase.com/gear/pics/maxon_rod-881_001.jpg"
@@ -25416,10 +25416,10 @@
   {
     "builder": "Mojo Hand FX",
     "pedal": "Rounder",
-    "image": "",
+    "image": "./assets/pedals/mojo-hand-fx/rounder/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Mojo Hand FX/Rounder.md",
-    "image_source_url": "https://cdn11.bigcommerce.com/s-fmqn5lwvxi/images/stencil/80w/products/167/425/Rounder__45601.1720721959.jpg?c=1"
+    "image_source_url": "https://cdn11.bigcommerce.com/s-fmqn5lwvxi/products/167/images/425/Rounder__45601.1720721959.386.513.jpg?c=1"
   },
   {
     "builder": "Mojo Hand FX",
@@ -29249,9 +29249,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Judge Death Deathbringer",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/judge-death-deathbringer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Judge Death Deathbringer.md"
+    "research_record": "./research/pedals/ThorpyFX/Judge Death Deathbringer.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot_2025-10-13_at_21.01.03.png?v=1760457472&width=960",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-x-2000ad-collaboration/products/judge-death-deathbringer-warthog"
   },
   {
     "builder": "ThorpyFX",
@@ -29286,9 +29288,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Rogue Trooper Fallout Cloud",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/rogue-trooper-fallout-cloud/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md"
+    "research_record": "./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md",
+    "image_source_url": "https://cdn.shopify.com/s/files/1/0702/1073/files/C24B82BA-13FC-4CB6-85CA-0E008CD6192C.png?v=1760357730",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-x-2000ad-collaboration/products/rogue-trooper-fallout-cloud-fuzz"
   },
   {
     "builder": "ThorpyFX",
