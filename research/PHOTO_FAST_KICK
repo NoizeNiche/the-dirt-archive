@@ -346,3 +346,6 @@ run the bounded photo recovery against the newly added exact-model source pages;
 
 source-batch-2 recovery kick 2026-10-03T20:35:00Z
 run the bounded photo recovery using the newly added exact manufacturer, retailer, and exact-model source-page leads; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
+
+finish-line-source-tail kick 2026-10-03T20:45:00Z
+run the bounded photo recovery against the full newly seeded exact-model source-page set; preserve strict identity, provenance, content, quarantine, synchronization, and publication gates
