@@ -11,6 +11,7 @@ ARTIFACTS = ROOT / "recovery-artifacts"
 INDEX = ROOT / "research/PEDAL_INDEX.json"
 MANIFEST = ROOT / "research/pedals/PEDAL_IMAGES.json"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
+FOREMAN_VERDICT = ARTIFACTS / "photo-foreman-verdict.json"
 
 
 def blocked_photo_url(value: str) -> bool:
@@ -44,16 +45,44 @@ def main():
         except Exception as exc:
             print(f"Skipping unreadable result {path}: {exc}")
 
+    # The Photo Foreman is the final acceptance gate. Only records explicitly
+    # accepted by that gate may alter canonical image assets or provenance.
+    accepted_keys = None
+    if FOREMAN_VERDICT.exists():
+        try:
+            verdict = json.loads(FOREMAN_VERDICT.read_text(encoding="utf-8"))
+            accepted_keys = {
+                (str(row.get("builder") or "").strip(), str(row.get("pedal") or "").strip())
+                for row in verdict.get("verdicts", [])
+                if row.get("accepted") is True
+            }
+        except Exception as exc:
+            raise RuntimeError(f"Could not read Photo Foreman verdict: {exc}") from exc
+        results = [
+            row for row in results
+            if (str(row.get("builder") or "").strip(), str(row.get("pedal") or "").strip()) in accepted_keys
+        ]
+        print(f"Photo Foreman accepted {len(results)} recovery records for canonical merge.")
+
     copied = 0
     seen_sources = set()
     # Current recovery artifacts package the verified image as .webp. Keep
-    # accepting legacy .source artifacts so older queued runs can still merge.
+    # accepting legacy .source artifacts, but only for records that passed the
+    # current Photo Foreman verdict.
+    accepted_images = {
+        str(row.get("imageFile") or "").lstrip("./")
+        for row in results
+        if row.get("imageFile")
+    }
     for source in [*ARTIFACTS.rglob("*.webp"), *ARTIFACTS.rglob("*.source")]:
         parts = source.parts
         if "assets" not in parts or "pedals" not in parts:
             continue
         i = parts.index("assets")
-        target = ROOT / Path(*parts[i:])
+        relative_path = Path(*parts[i:])
+        if relative_path.as_posix() not in accepted_images:
+            continue
+        target = ROOT / relative_path
         target.parent.mkdir(parents=True, exist_ok=True)
         source_key = (str(target), str(source))
         if source_key in seen_sources:
