@@ -49969,7 +49969,9 @@
       "research_record": "./research/pedals/Mythos Pedals/Joey Landreth Mjolnir Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/mythos-pedals/joey-landreth-mjolnir-overdrive/primary.webp",
+      "image_source_url": "https://mythospedals.com/cdn/shop/files/tone-cap_1100x.jpg?v=1695766187",
+      "image_source_page": "https://mythospedals.com/collections/limited-exclusive-models/products/joey-landreth-mjolnir"
     },
     {
       "company": "Mythos Pedals",
@@ -54594,7 +54596,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Red Army.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/red-army/primary.webp",
+      "image_source_url": "https://stompunderfoot.com/cdn/shop/files/RedArmyShopify.jpg?v=1784410291&width=925",
+      "image_source_page": "https://stompunderfoot.com/products/red-army"
     },
     {
       "company": "Stomp Under Foot",
@@ -55916,7 +55920,9 @@
       "research_record": "./research/pedals/ThorpyFX/Hanami.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/hanami/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot_2025-05-06_at_12.17.42.png?v=1746530444&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-special-projects/products/hanami-germanium-fuzz"
     },
     {
       "company": "ThorpyFX",
@@ -56208,7 +56214,9 @@
       "research_record": "./research/pedals/ThorpyFX/WOPR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/wopr/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot_2025-08-21_at_11.23.49.png?v=1755772077&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/wopr"
     },
     {
       "company": "Tone City",
