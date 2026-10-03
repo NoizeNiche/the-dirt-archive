@@ -4,7 +4,7 @@ import json
 import re
 import hashlib
 from pathlib import Path
-from PIL import Image
+from PIL import Image, ImageFilter, ImageStat
 try:
     import pytesseract
 except Exception:
@@ -187,6 +187,25 @@ def main():
                             if im.width < 120 or im.height < 120:
                                 ok = False
                                 reason = "specific recovered image dimensions below 120px"
+                        # Reject visually blank/near-blank assets even when their
+                        # byte size and dimensions look superficially valid.
+                        # Product photos have meaningful tonal/edge variation;
+                        # generic background textures and empty canvases do not.
+                        if ok:
+                            with Image.open(candidate) as im:
+                                probe = im.convert("RGB")
+                                probe.thumbnail((120, 120), Image.Resampling.LANCZOS)
+                                stat = ImageStat.Stat(probe)
+                                variance = sum(stat.var) / 3
+                                mean = sum(stat.mean) / 3
+                                edge = probe.filter(ImageFilter.FIND_EDGES)
+                                edge_mean = sum(ImageStat.Stat(edge).mean) / 3
+                                if (variance < 8 and mean > 245) or (variance < 8 and mean < 10):
+                                    ok = False
+                                    reason = "recovered image is visually blank"
+                                elif edge_mean < 3 and variance < 30:
+                                    ok = False
+                                    reason = "recovered image has extremely low visual detail"
                         if pytesseract is not None:
                             with Image.open(candidate) as im:
                                 probe = im.convert("RGB")
