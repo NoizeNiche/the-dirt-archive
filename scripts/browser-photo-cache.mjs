@@ -2995,7 +2995,6 @@ function imageBytesLookComplete(bytes, contentType = '') {
         if (
           !candidate?.sourcePage ||
           candidate.directImageOverride ||
-          candidate.rawVerifiedPageImage ||
           (candidate.searchResult && !candidate.strongSearchIdentity)
         ) continue;
         const documentShot = await screenshotImageDocumentCandidate(candidate, 140);
