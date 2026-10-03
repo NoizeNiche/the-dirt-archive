@@ -23570,7 +23570,10 @@
     "builder": "Mad Professor Amplification",
     "pedal": "Golden Cello",
     "source_page": null,
-    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md"
+    "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
+    "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/GC_white2-053b3b5324fd12ef24a18daba7329a28.jpg",
+    "image_source_page": "https://www.zzounds.com/item--MADCELLO",
+    "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp"
   },
   {
     "builder": "Mad Professor Amplification",

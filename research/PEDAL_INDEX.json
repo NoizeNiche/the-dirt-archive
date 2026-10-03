@@ -44922,7 +44922,7 @@
       "research_record": "./research/pedals/Mad Professor Amplification/Golden Cello.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.russomusic.com/products/mad-professor-golden-cello-overdrive-tape-echo-effect-pedal-w-box-used",
+      "image_source_page": "https://www.zzounds.com/item--MADCELLO",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/madprofessor/goldencello",
         "https://www.chicagomusicexchange.com/products/mad-professor-golden-cello-2364961",
@@ -44930,7 +44930,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 50000
+      "image_source_priority": 50000,
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/GC_white2-053b3b5324fd12ef24a18daba7329a28.jpg",
+      "image": "./assets/pedals/mad-professor-amplification/golden-cello/primary.webp"
     },
     {
       "company": "Mad Professor Amplification",
