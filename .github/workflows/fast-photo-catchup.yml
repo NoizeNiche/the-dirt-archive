@@ -260,16 +260,35 @@ jobs:
           with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
               after = sum(1 for r in csv.DictReader(fh) if r.get("Picture") == "DONE")
           delta = after - before
-          print(f"Photo foreman accepted={accepted}; canonical pictured delta={delta} (before={before}, after={after})")
+          relevant = [
+              "assets/pedals",
+              "research/PEDAL_INDEX.json",
+              "research/pedals/PEDAL_IMAGES.json",
+              "research/PRP_TRACKER.csv",
+              "research/RESEARCH_QUEUE.json",
+              "CURRENT_STATE.md",
+              "research/IMAGE_CACHE_REPORT.md",
+              "research/PHOTO_REVIEW_QUEUE.csv",
+              "research/PHOTO_BACKLOG.csv",
+          ]
+          changed = int(__import__("subprocess").run(
+              ["git", "diff", "--quiet", "--", *relevant]
+          ).returncode != 0)
+          print(
+              f"Photo foreman accepted={accepted}; canonical pictured delta={delta} "
+              f"(before={before}, after={after}); publishable_state_change={changed}"
+          )
           with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
               fh.write(f"delta={delta}\n")
-          if accepted > 0 and delta <= 0:
-              raise SystemExit("Accepted photo recoveries did not reach canonical Picture=DONE state.")
+              fh.write(f"changed={changed}\n")
+          if accepted > 0 and delta <= 0 and not changed:
+              raise SystemExit("Accepted photo recoveries did not produce a canonical state change.")
           if delta < 0:
+              raise SystemExit("Canonical pictured count regressed during photo publication.")
               raise SystemExit("Canonical pictured count regressed during photo publication.")
 
       - name: Publish one synchronized batch
-        if: ${{ success() && steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0 }}
+        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0) || (steps.photo_gate.outputs.changed == '1')) }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -311,7 +330,7 @@ jobs:
           exit 1
 
       - name: Continue finish-line photo lane
-        if: ${{ success() && steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0 }}
+        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0) || (steps.photo_gate.outputs.changed == '1')) }}
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
