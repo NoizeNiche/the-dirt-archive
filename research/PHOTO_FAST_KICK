@@ -314,3 +314,6 @@ finish-line handoff alignment kick: foreman-approved recoveries must survive his
 finish-line final-integrity-gate kick: current Photo Foreman approvals are authoritative through photo-state verification
 
 quality-gate hardening kick: reject blank/low-detail recovery images and blocked Organic Sounds background
+
+finish-line Ares hash-quarantine recovery kick 2026-10-03T17:50:00Z
+reset known-invalid photo state before curated direct-photo recovery; consume exact Organic Sounds Ares manufacturer image and continue bounded finish-line lane
