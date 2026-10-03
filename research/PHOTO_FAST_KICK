@@ -232,3 +232,7 @@ rerun the exact-photo backlog using the aligned 120px raw-image capture floor; p
 
 finish-line recovery kick 2026-10-03T15:43:00Z
 consume current 118-record researched-photo backlog from clean main through the existing 60-target / 12-worker bounded recovery lane; preserve strict identity, provenance, quarantine, and publication gates
+
+
+recovery deadline tuning kick 2026-10-03T15:47:00Z
+run the clean current 118-record photo backlog with the widened 55-second per-record recovery budget while retaining the 60-target / 12-worker / 900-second bounded job and all identity/provenance/quarantine gates
