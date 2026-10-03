@@ -3147,7 +3147,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
           };
         }, normalizedUrl).catch(() => null);
 
-        if ((capture?.width || 0) >= 180 && (capture?.height || 0) >= 180) {
+        if ((capture?.width || 0) >= 120 && (capture?.height || 0) >= 120) {
           const node = page.locator('[data-dirt-archive-raw-capture="1"]').first();
           await node.scrollIntoViewIfNeeded().catch(() => {});
           await page.waitForTimeout(120);
@@ -4325,7 +4325,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
     if (!selectedResult) {
       for (const candidate of ranked.filter(candidate => candidate.rawVerifiedPageImage).slice(0, 12)) {
         const shot = await screenshotRawVerifiedImageCandidate(candidate);
-        const documentShot = shot || await screenshotImageDocumentCandidate(candidate, 180);
+        const documentShot = shot || await screenshotImageDocumentCandidate(candidate, 120);
         if (documentShot) {
           selectedResult = {
             candidate,
