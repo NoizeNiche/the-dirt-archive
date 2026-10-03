@@ -240,3 +240,7 @@ run the clean current 118-record photo backlog with the widened 55-second per-re
 
 fresh-lane deadline fix kick 2026-10-03T15:50:00Z
 run the current photo backlog with the 55-second fresh-recovery deadline and 60-second hard cutoff; keep 60 targets, 12 workers, 900-second job cap, and strict identity/provenance/quarantine gates
+
+
+curated manual-primary handoff kick 2026-10-03T15:55:00Z
+consume newly verified manual-primary URLs through the direct-image override path, then continue the remaining photo backlog; preserve strict identity, provenance, quarantine, and publication gates
