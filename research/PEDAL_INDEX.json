@@ -3353,13 +3353,12 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/amt-electronics/dm-3-distmachine/primary.webp",
+      "image": null,
       "source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_record": "./research/pedals/PRP Batch 049/DM-3 DistMachine.md",
       "image_source_page": "https://www.jrrshop.com/amt-electronics-dist-machine-analog-distortion-pedal.html",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED",
-      "image_source_url": "https://www.jrrshop.com/skin/frontend/electronix/jrrshop_electronix/images/socnet/gooplu_sm.png"
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "AMT Electronics",
@@ -10203,13 +10202,7 @@
       "image_source_urls": [
         "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
       ],
-      "image": "./assets/pedals/big-ear/woodcutter/primary.webp",
-      "image_source_pages": [
-        "https://www.bigearpedals.com/product-page/woodcutter"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
+      "image": null
     },
     {
       "company": "Big Ear NYC",
@@ -16917,14 +16910,8 @@
       "image_source_page": "https://browneamps.com/the-alkene",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1369,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
-      "image": "./assets/pedals/browne-amplification/alkene-nashville-drive/primary.webp"
+      "image": null
     },
     {
       "company": "Browne Amplification",
@@ -17064,14 +17051,8 @@
       "image_source_page": "https://browneamps.com/the-alkene",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.browneamps.com/store/p/the-alkene-nashville-overdrive"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1370,
-      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5ba25ce95cfd7946edf8fdfa/3f86189a-5221-473d-9168-e095fa989157/browneHEADSTOCKpng.png?format=1500w",
-      "image": "./assets/pedals/browne-amplification/the-alkene-nashville-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Browne Amplification",
@@ -18754,19 +18735,13 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/byw-audio/blacky-blower/primary.webp",
+      "image": null,
       "source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "research_record": "./research/pedals/PRP Batch 135/byw-blacky-blower.md",
       "image_source_page": "https://bywaudio.com/index.php/product/blacky-blower/",
       "image_source_priority": 260,
       "research_level": "deep",
-      "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://bywaudio.com/index.php/product/blacky-blower/"
-      ],
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
-      "image_source_url": "https://bywaudio.com/wp-content/uploads/2020/01/la_blacky_blower_nixe_800-100x100.jpg"
+      "deep_research_status": "VERIFIED"
     },
     {
       "company": "BYW Audio",
@@ -33210,12 +33185,11 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/devi-ever-fx/god-zilla/primary.webp",
+      "image": null,
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/God Zilla.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_url": "https://www.musicriff.com/wp-content/uploads/2026/3/1773135313/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal-1773135323.webp",
       "image_source_page": "https://www.musicriff.com/product/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal/"
     },
     {
@@ -38880,7 +38854,7 @@
       "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/ghetto-driver/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -38918,7 +38892,7 @@
       "research_record": "./research/pedals/Greer Amps/Gorilla Warfare MKII.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/gorilla-warfare-mkii/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -38955,14 +38929,9 @@
       "research_record": "./research/pedals/Greer Amps/Lightspeed Organic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.chicagomusicexchange.com/products/greer-amps-lightspeed-organic-overdrive-1402859"
-      ],
       "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-lightspeed-organic-overdrive-1402859",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1345,
-      "image": "./assets/pedals/greer-amps/lightspeed-organic-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -38989,7 +38958,7 @@
       "research_record": "./research/pedals/Greer Amps/Mizuki Blue.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/mizuki-blue/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39024,7 +38993,7 @@
       "research_record": "./research/pedals/Greer Amps/Mori Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/mori-drive/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39051,7 +39020,7 @@
       "research_record": "./research/pedals/Greer Amps/Peacemaker.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/peacemaker/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39101,7 +39070,7 @@
       "research_record": "./research/pedals/Greer Amps/Royal Velvet.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/royal-velvet/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39113,7 +39082,7 @@
       "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/soma-63-vintage-preamp/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39149,7 +39118,7 @@
       "research_record": "./research/pedals/Greer Amps/Southland Harmonic Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/southland-harmonic-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39174,7 +39143,7 @@
       "research_record": "./research/pedals/Greer Amps/Supa Cobra Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/supa-cobra-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39186,7 +39155,7 @@
       "research_record": "./research/pedals/Greer Amps/Super Hornet.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/super-hornet/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -39245,7 +39214,7 @@
       "research_record": "./research/pedals/Greer Amps/Tomahawk Deluxe Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/greer-amps/tomahawk-deluxe-drive/primary.webp"
+      "image": null
     },
     {
       "company": "Greer Amps",
@@ -49762,7 +49731,7 @@
       "research_record": "./research/pedals/Mythos Pedals/1347 Silicon Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/1347-silicon-fuzz/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -49838,7 +49807,7 @@
       "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/au-79-fuzz-limited-exclusive/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -49974,7 +49943,7 @@
       "research_record": "./research/pedals/Mythos Pedals/High Road Fuzz Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/high-road-fuzz-mini/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -49998,7 +49967,7 @@
       "research_record": "./research/pedals/Mythos Pedals/Joey Landreth Mjolnir Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/joey-landreth-mjolnir-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -50010,7 +49979,7 @@
       "research_record": "./research/pedals/Mythos Pedals/Mjolnir Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/mjolnir-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -50022,7 +49991,7 @@
       "research_record": "./research/pedals/Mythos Pedals/Olympus Overdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/olympus-overdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -50034,7 +50003,7 @@
       "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/mythos-pedals/the-victor-distortion/primary.webp"
+      "image": null
     },
     {
       "company": "Mythos Pedals",
@@ -50569,7 +50538,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",
@@ -50804,15 +50773,9 @@
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Ares\".md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://organic-sounds.com/products/organic-drive"
-      ],
       "image_source_page": "https://organic-sounds.com/en/products/organic-drive",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1509,
-      "image_source_url": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
-      "image": "./assets/pedals/organic-sounds/organic-drive-ares/primary.webp"
+      "image": null
     },
     {
       "company": "Organic Sounds",
@@ -50820,7 +50783,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/organic-sounds/organic-drive-chronos/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"CHRONOS\".md",
       "research_level": "deep",
@@ -50832,7 +50795,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/organic-sounds/organic-drive-hydra/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Hydra\".md",
       "research_level": "deep",
@@ -50844,7 +50807,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/organic-sounds/organic-drive-zeus/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Zeus\".md",
       "research_level": "deep",
@@ -54351,7 +54314,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Civil Unrest.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/civil-unrest/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54431,7 +54394,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/elk-super-fuzz/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54456,7 +54419,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Fuzz Master 3.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/fuzz-master-3/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54558,7 +54521,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Motor Honey Superdrive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/motor-honey-superdrive/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54582,7 +54545,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Overdrive 8-Fifty Vintage Mini.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/overdrive-8-fifty-vintage-mini/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54618,7 +54581,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Red Army.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/red-army/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -54642,7 +54605,7 @@
       "research_record": "./research/pedals/Stomp Under Foot/Red Menace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/stomp-under-foot/red-menace/primary.webp"
+      "image": null
     },
     {
       "company": "Stomp Under Foot",
@@ -55799,7 +55762,7 @@
       "research_record": "./research/pedals/ThorpyFX/BUNKER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/bunker/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55862,7 +55825,7 @@
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55898,7 +55861,7 @@
         "Fuzz",
         "Overdrive"
       ],
-      "image": "./assets/pedals/thorpyfx/field-marshal/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/ThorpyFX/FIELD MARSHAL.md",
       "research_level": "deep",
@@ -55928,7 +55891,7 @@
       "research_record": "./research/pedals/ThorpyFX/Gunshot.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/gunshot/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55940,7 +55903,7 @@
       "research_record": "./research/pedals/ThorpyFX/Hanami.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/hanami/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55954,7 +55917,7 @@
       "research_record": "./research/pedals/ThorpyFX/Judge Death Deathbringer.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/judge-death-deathbringer/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55966,7 +55929,7 @@
       "research_record": "./research/pedals/ThorpyFX/Judge Dredd Lawbringer.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/judge-dredd-lawbringer/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55978,7 +55941,7 @@
       "research_record": "./research/pedals/ThorpyFX/Kudu.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/kudu/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -55990,7 +55953,7 @@
       "research_record": "./research/pedals/ThorpyFX/Old Timer.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/old-timer/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56002,7 +55965,7 @@
       "research_record": "./research/pedals/ThorpyFX/Peacekeeper.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/peacekeeper/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56014,7 +55977,7 @@
       "research_record": "./research/pedals/ThorpyFX/Rogue Trooper Fallout Cloud.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/rogue-trooper-fallout-cloud/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56028,7 +55991,7 @@
       "research_record": "./research/pedals/ThorpyFX/SCARLET TUNIC.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/scarlet-tunic/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56054,7 +56017,7 @@
       "research_record": "./research/pedals/ThorpyFX/Shaftesbury Duo Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/shaftesbury-duo-fuzz/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56092,7 +56055,7 @@
       "research_record": "./research/pedals/ThorpyFX/The DANE.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-dane/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56106,7 +56069,7 @@
       "research_record": "./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-dane-dual-drive-boost/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56118,14 +56081,9 @@
       "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://thorpyfx.com/en-us/collections/modulation-pedals-copy"
-      ],
       "image_source_page": "https://thorpyfx.com/en-us/collections/modulation-pedals-copy",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1346,
-      "image": "./assets/pedals/thorpyfx/the-dane-mki/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56139,7 +56097,7 @@
       "research_record": "./research/pedals/ThorpyFX/The J.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-j/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56153,7 +56111,7 @@
       "research_record": "./research/pedals/ThorpyFX/THE J — Lazy J x ThorpyFX collaboration.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-j-lazy-j-x-thorpyfx-collaboration/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56195,7 +56153,7 @@
       "research_record": "./research/pedals/ThorpyFX/The OLD TIMER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-old-timer/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56209,7 +56167,7 @@
       "research_record": "./research/pedals/ThorpyFX/THE OLD TIMER — 3-in-1 pedal with drive section.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/the-old-timer-3-in-1-pedal-with-drive-section/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56223,7 +56181,7 @@
       "research_record": "./research/pedals/ThorpyFX/Warthog.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/warthog/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56235,7 +56193,7 @@
       "research_record": "./research/pedals/ThorpyFX/WOPR.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/wopr/primary.webp"
+      "image": null
     },
     {
       "company": "Tone City",
@@ -56317,7 +56275,7 @@
       "types": [
         "Distortion"
       ],
-      "image": "./assets/pedals/tonecat/cutthroat-kitty-distortion/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Cutthroat Kitty Distortion.md",
       "research_level": "deep",
@@ -56341,7 +56299,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/tonecat/hugo-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Hugo Overdrive.md",
       "research_level": "deep",
@@ -56354,7 +56312,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/tonecat/lola-drive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Lola Drive.md",
       "research_level": "deep",
@@ -56366,7 +56324,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/tonecat/luna-overdrive/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/TONECAT/Luna Overdrive.md",
       "research_level": "deep",
@@ -58381,7 +58339,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": "./assets/pedals/walrus-audio/kangra-filter-fuzz/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Walrus Audio/Kangra Filter Fuzz.md",
       "research_level": "deep",
@@ -58661,18 +58619,12 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": "./assets/pedals/wampler-pedals/catapulp/primary.webp",
+      "image": null,
       "source_page": null,
       "research_record": "./research/pedals/Wampler Pedals/cataPulp.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_pages": [
-        "https://www.wamplerpedals.com/downloads/",
-        "https://www.wamplerpedals.com/wp-content/uploads/2019/11/cataPulp.pdf"
-      ],
       "image_source_page": "https://www.wamplerpedals.com/wp-content/uploads/2019/11/cataPulp.pdf",
-      "image_source_pages_verified": true,
-      "image_source_page_verified": true,
       "image_source_priority": 1251
     },
     {
