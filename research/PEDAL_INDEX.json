@@ -12341,13 +12341,15 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Baby Blue Overdrive (BBOD).md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/bjfe/bbod",
+      "image_source_page": "https://reverb.com/p/bjfe-baby-blue-overdrive-3-knob",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bjfe/bbod"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1491
+      "image_source_priority": 1491,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--KseUE-30--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/z8f6dpbaggqggej7zpiq.jpg",
+      "image": "./assets/pedals/bjfe-bjf-electronics/baby-blue-overdrive-bbod/primary.webp"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -46777,18 +46779,19 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/maxon-nisshin-onpa/od-9/primary.webp",
       "source_page": "https://www.maxonfx.com/",
       "research_record": "./research/pedals/Maxon / Nisshin Onpa/OD-9.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://maxonfx.com/collections/nine-series/overdrive",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/maxon-od-9-overdrive-1684615",
       "image_source_pages": [
         "https://maxonfx.com/collections/nine-series/overdrive"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 842
+      "image_source_priority": 842,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/maxon-effects-and-pedals-overdrive-and-boost-maxon-od-9-overdrive-maxonod9-u1-30209270710407.jpg?v=1674839818&width=1946"
     },
     {
       "company": "Maxon / Nisshin Onpa",
@@ -50500,11 +50503,13 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/okko-fx/diablo-dual/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/DIABLO DUAL.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/40872018/products/261206223/4793518427.jpg",
+      "image_source_page": "https://okko-fx.com/DIABLO-DUAL-p261206223"
     },
     {
       "company": "OKKO FX",
@@ -52026,7 +52031,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1444
+      "image_source_priority": 1444,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--ql8FNmFl--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/gqk85yzp9hrp7m8xm6q0.jpg",
+      "image": "./assets/pedals/pigtronix/bass-fat-drive/primary.webp"
     },
     {
       "company": "Pigtronix",
@@ -52358,13 +52365,15 @@
       "research_record": "./research/pedals/Prescription Electronics/Yardbox.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/prescription/yardbox",
+      "image_source_page": "https://motorcityguitar.com/products/prescription-electronics-yardbox-4-knob-germanium-fuzz-pedal?variant=16237717127234",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/prescription/yardbox"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1480
+      "image_source_priority": 1480,
+      "image_source_url": "https://motorcityguitar.com/cdn/shop/products/Prescription_Electronics_Yardbox_001w_800x.jpg?v=1568134257",
+      "image": "./assets/pedals/prescription-electronics/yardbox/primary.webp"
     },
     {
       "company": "ProCo Sound",
@@ -54377,10 +54386,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/stompunderfoot/dirtpreacher"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/stompunderfoot/dirtpreacher",
+      "image_source_page": "https://reverb.com/item/98201019-stomp-under-foot-dirt-preacher-fuzz-serial-19-2019",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1424
+      "image_source_priority": 1424,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--dgGGWWzH--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/fe9701c4-2d8c-4420-b5f0-440abea9c3c4.jpeg",
+      "image": "./assets/pedals/stomp-under-foot/dirt-preacher/primary.webp"
     },
     {
       "company": "Stomp Under Foot",
@@ -54491,13 +54502,15 @@
       "research_record": "./research/pedals/Stomp Under Foot/Hellephant.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/p/stomp-under-foot-hellephant",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/stomp-under-foot-hellephant-2158761",
       "image_source_pages": [
         "https://reverb.com/p/stomp-under-foot-hellephant"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1510
+      "image_source_priority": 1510,
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/stomp-under-foot-effects-and-pedals-fuzz-stomp-under-foot-hellephant-stomp-under-foot-hellephant-u6644018907-1095718849.jpg?v=1768221674&width=1946",
+      "image": "./assets/pedals/stomp-under-foot/hellephant/primary.webp"
     },
     {
       "company": "Stomp Under Foot",
@@ -54693,11 +54706,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/stomp-under-foot/son-of-a-bee/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Stomp Under Foot/Son Of A Bee.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://coastsonic.com/cdn/shop/files/SonofaBee.jpg?v=1745610988&width=1024",
+      "image_source_page": "https://coastsonic.com/products/stomp-under-foot-son-of-a-bee"
     },
     {
       "company": "Stomp Under Foot",
@@ -55412,11 +55427,13 @@
       "types": [
         "Distortion"
       ],
-      "image": null,
+      "image": "./assets/pedals/tc-electronic/fangs-metal-distortion/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/TC Electronic/Fangs Metal Distortion.md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/tc-electronic-effects-and-pedals-distortion-tc-electronic-fangs-metal-distortion-pedal-u3604341303-28925362798727.jpg?v=1649999098&width=1946",
+      "image_source_page": "https://www.chicagomusicexchange.com/products/tc-electronic-fangs-metal-distortion-pedal-1383524"
     },
     {
       "company": "TC Electronic",
@@ -56475,10 +56492,12 @@
         "https://www.effectsdatabase.com/model/tubeworks",
         "https://reverb.com/p/tube-works-911-tube-driver-1998-2005"
       ],
-      "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1998-2005",
+      "image_source_page": "https://reverb.com/p/tube-works-911-tube-driver-1994-1998",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1307
+      "image_source_priority": 1307,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--4GKiOMY9--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/tncpexsyspl6l9xwpfac.png",
+      "image": "./assets/pedals/tube-works/911-tube-driver/primary.webp"
     },
     {
       "company": "Union Tube & Transistor",
@@ -57255,10 +57274,12 @@
         "https://reverb.com/p/vfe-dark-horse",
         "https://reverb.com/item/237415-vfe-pedals-dark-horse-distortion-20-demo-discount"
       ],
-      "image_source_page": "https://reverb.com/item/237415-vfe-pedals-dark-horse-distortion-20-demo-discount",
+      "image_source_page": "https://www.gearbug.com/product_info/vfe_pedals_dark_horse",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1449
+      "image_source_priority": 1449,
+      "image_source_url": "https://storage.googleapis.com/resource-gear/images/0a/vfe_pedals_dark_horse_1368.jpg",
+      "image": "./assets/pedals/vfe-pedals/dark-horse/primary.webp"
     },
     {
       "company": "VFE Pedals",
@@ -57831,10 +57852,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/vox/cooltron/ct02"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/vox/cooltron/ct02",
+      "image_source_page": "https://www.muziker.fr/vox-big-ben-overdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1482
+      "image_source_priority": 1482,
+      "image_source_url": "https://muzikercdn.com/uploads/products/54/5477/thumb_large_d_gallery_fd841a83.jpg",
+      "image": "./assets/pedals/vox/big-ben-overdrive/primary.webp"
     },
     {
       "company": "VOX",
@@ -58448,10 +58471,12 @@
       "image_source_pages": [
         "https://www.walrusaudio.com/products/voyager-overdrive"
       ],
-      "image_source_page": "https://www.walrusaudio.com/products/voyager-overdrive",
+      "image_source_page": "https://www.zzounds.com/item--WLRVGR1",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1406
+      "image_source_priority": 1406,
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/WLRVGR1-a1d5e6e35012cd8fd7453e14631bec7a.jpg",
+      "image": "./assets/pedals/walrus-audio/voyager-preamp-overdrive/primary.webp"
     },
     {
       "company": "Walrus Audio",
@@ -59429,10 +59454,12 @@
       "image_source_pages": [
         "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/"
       ],
-      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-russian-pickle-fuzz/",
+      "image_source_page": "https://dijkmansguitars.com/en/products/way-huge-russian-pickle",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1438
+      "image_source_priority": 1438,
+      "image_source_url": "https://dijkmansguitars.com/cdn/shop/products/IMG_9142.jpg?v=1602074674",
+      "image": "./assets/pedals/way-huge/russian-pickle/primary.webp"
     },
     {
       "company": "Way Huge",
@@ -59542,10 +59569,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/wayhuge/dunlop/smalls/wm91"
       ],
-      "image_source_page": "https://www.effectsdatabase.com/model/wayhuge/dunlop/smalls/wm91",
+      "image_source_page": "https://www.jimdunlop.com/way-huge-smalls-pork-pickle-overdrive-fuzz-parts/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1485
+      "image_source_priority": 1485,
+      "image_source_url": "https://cdn11.bigcommerce.com/s-n26aknlnlm/images/stencil/500x659/products/2134/10800/WM91.MAIN__89873.1702665259.jpg?c=2",
+      "image": "./assets/pedals/way-huge/smalls-pork-pickle/primary.webp"
     },
     {
       "company": "Way Huge",
@@ -59930,7 +59959,9 @@
       "image_source_page": "https://www.wrenandcuff.com/products/hangman-2d",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1464
+      "image_source_priority": 1464,
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/553c81b0e4b0ee62c7b9bd89/1586635031207-4LD4B25FWDVX2LBZDIA4/HangMan-2D%2B1.jpeg",
+      "image": "./assets/pedals/wren-and-cuff/hangman-2d/primary.webp"
     },
     {
       "company": "Wren and Cuff",
@@ -60193,10 +60224,12 @@
         "https://guitarpedalshoppe.com/xotic-effects-bass-bb-pre",
         "https://xotic.us/effects/bass-bb-v1-5/"
       ],
-      "image_source_page": "https://xotic.us/effects/bass-bb-v1-5/",
+      "image_source_page": "https://www.zzounds.com/item--XOTBBPREBASS",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1479
+      "image_source_priority": 1479,
+      "image_source_url": "https://cf1.zzounds.com/media/productmedia/fit%2C2018by3200/quality%2C85/Bass_BB_Preamp_V1-5_873949-c75e14b6850e08fcb65f20101941532d.jpg",
+      "image": "./assets/pedals/xotic-effects/bass-bb-preamp-v1-5/primary.webp"
     },
     {
       "company": "Xotic Effects",
