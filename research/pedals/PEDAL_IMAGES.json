@@ -28402,9 +28402,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Elk Super Fuzz",
-    "image": "",
+    "image": "./assets/pedals/stomp-under-foot/elk-super-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md",
+    "image_source_url": "https://stompunderfoot.com/cdn/shop/files/ElkSuperFuzzShopify.jpg?v=1787082152&width=925",
+    "image_source_page": "https://stompunderfoot.com/products/elk-super-fuzz-sustainar"
   },
   {
     "builder": "Stomp Under Foot",

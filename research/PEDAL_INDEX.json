@@ -54405,7 +54405,9 @@
       "research_record": "./research/pedals/Stomp Under Foot/Elk Super Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/stomp-under-foot/elk-super-fuzz/primary.webp",
+      "image_source_url": "https://stompunderfoot.com/cdn/shop/files/ElkSuperFuzzShopify.jpg?v=1787082152&width=925",
+      "image_source_page": "https://stompunderfoot.com/products/elk-super-fuzz-sustainar"
     },
     {
       "company": "Stomp Under Foot",
