@@ -27372,7 +27372,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/coolmusic/c-fc1-fuzzster/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Coolmusic/C-FC1 Fuzzster.md",
       "research_level": "deep",
@@ -27380,10 +27380,11 @@
       "image_source_pages": [
         "https://www.coolmusic-tech.com/lists/20.html"
       ],
-      "image_source_page": "https://www.coolmusic-tech.com/lists/20.html",
+      "image_source_page": "https://www.coolmusic-tech.com/shows/20/38.html",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 577
+      "image_source_priority": 577,
+      "image_source_url": "https://www.coolmusic-tech.com/public/uploads/images/20210810/d3f5c3447155e78fe2b42866c6f5dfca.JPG"
     },
     {
       "company": "Coolmusic",
@@ -29653,7 +29654,7 @@
         "Distortion",
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/creation-audio-labs/holy-fire-classic/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Creation Audio Labs/Holy Fire Classic.md",
       "research_level": "deep",
@@ -29664,7 +29665,8 @@
       "image_source_page": "https://www.creationaudiolabs.com/product-page/holy-fire-classic",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 639
+      "image_source_priority": 639,
+      "image_source_url": "https://static.wixstatic.com/media/ffb085_fab2f259e4604f2791a36aafc5f6c37e.jpg/v1/fill/w_2700%2Ch_2700%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/ffb085_fab2f259e4604f2791a36aafc5f6c37e.jpg"
     },
     {
       "company": "Creber Instruments",
@@ -50526,7 +50528,6 @@
       "types": [
         "Overdrive"
       ],
-      "image": "./assets/pedals/okko-fx/holy-grit/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/Holy Grit.md",
       "research_level": "deep",
@@ -50538,7 +50539,7 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "",
       "source_page": null,
       "research_record": "./research/pedals/OKKO FX/HOLY GRIT.md",
       "research_level": "deep",
@@ -50773,9 +50774,10 @@
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Ares\".md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://organic-sounds.com/en/products/organic-drive",
+      "image_source_page": "https://organic-sounds.com/products/organic-drive",
       "image_source_priority": 1509,
-      "image": null
+      "image": "./assets/pedals/organic-sounds/organic-drive-ares/primary.webp",
+      "image_source_url": "https://organic-sounds.com/cdn/shop/products/ares_silver_front_cutout_2000_1200x1200.png?v=1602818811"
     },
     {
       "company": "Organic Sounds",
@@ -50958,7 +50960,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1399
+      "image_source_priority": 1399,
+      "image_source_url": "https://origineffects.com/wp-content/uploads/2022/11/Origin-Effects-M-EQ-Driver-Main-Feature-Image-570x878.jpg",
+      "image": "./assets/pedals/origin-effects/m-eq-driver/primary.webp"
     },
     {
       "company": "Origin Effects",
@@ -52027,7 +52031,7 @@
       "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review",
+      "image_source_page": "https://reverb.com/p/pigtronix-fat-drive-2012-white",
       "image_source_pages": [
         "https://www.premierguitar.com/gear/pigtronix-fat-drive-pedal-review"
       ],
@@ -55762,7 +55766,7 @@
       "research_record": "./research/pedals/ThorpyFX/BUNKER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/bunker/primary.webp"
     },
     {
       "company": "ThorpyFX",
@@ -55825,7 +55829,7 @@
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp"
     },
     {
       "company": "ThorpyFX",
