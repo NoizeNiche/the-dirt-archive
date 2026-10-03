@@ -66,6 +66,9 @@ jobs:
             npx playwright install --with-deps chromium
           fi
 
+      - name: Clear known-invalid photo state before curated recovery
+        run: python scripts/reset-photo-recovery-targets.py
+
       - name: Apply current source leads
         run: python scripts/apply-photo-source-overrides.py
       - name: Recover curated direct photos first
