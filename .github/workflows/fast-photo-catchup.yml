@@ -155,8 +155,8 @@ jobs:
               try:
                   if source_rel.suffix.lower() == ".source":
                       with Image.open(source_path) as im:
-                          image = im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
-                          image.save(source_dest, "WEBP", quality=95, method=6)
+                          pil_image = im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
+                          pil_image.save(source_dest, "WEBP", quality=95, method=6)
                   else:
                       shutil.copy2(source_path, source_dest)
               except Exception as exc:
