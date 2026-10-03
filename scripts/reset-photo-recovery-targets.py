@@ -438,8 +438,10 @@ def main():
             if asset.is_file():
                 continue
             identity = key(entry.get("company") or entry.get("builder"), entry.get("pedal"))
-            if identity in fresh_recovery_keys:
-                continue
+            # A recovery manifest is not evidence that the physical asset still
+            # exists. If the file is missing at reconciliation time, clear the
+            # canonical pointer so downstream cache/sync cannot recreate a dangling
+            # catalog reference from stale metadata.
             entry.pop("image", None)
             entry.pop("image_source_url", None)
             entry.pop("image_source_urls", None)
