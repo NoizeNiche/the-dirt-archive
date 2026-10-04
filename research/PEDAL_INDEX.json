@@ -50880,11 +50880,13 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/organic-sounds/organic-drive-hydra/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Organic Sounds/Organic Drive \"Hydra\".md",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "image_source_url": "https://organic-sounds.com/cdn/shop/products/hydra_gold_front_black_2000_1024x1024.jpg?v=1602818880",
+      "image_source_page": "https://organic-sounds.com/products/organic-drive-hydra"
     },
     {
       "company": "Organic Sounds",
