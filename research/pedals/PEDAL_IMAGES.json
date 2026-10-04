@@ -16454,7 +16454,10 @@
     "builder": "Danelectro",
     "pedal": "Grilled Cheese Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md"
+    "research_record": "./research/pedals/Danelectro/Grilled Cheese Distortion.md",
+    "image_source_url": "https://evolutionmusicstore.com/cdn/shop/products/vcy9j6twotkfdoprj7hq_3fad2f29-ec5c-4c3e-83f6-f853125007c6_2000x.jpg?v=1585165792",
+    "image_source_page": "https://evolutionmusicstore.com/products/danelectro-dj-10-grilled-cheese-distortion-pedal-new-old-stock",
+    "image": "./assets/pedals/danelectro/grilled-cheese-distortion/primary.webp"
   },
   {
     "builder": "Danelectro",
@@ -20546,9 +20549,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "Royal Velvet",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/royal-velvet/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Royal Velvet.md"
+    "research_record": "./research/pedals/Greer Amps/Royal Velvet.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-royal-velvet-class-a-british-drive-and-pre-ga-rv-28118848700551.jpg?v=1652597239&width=1946",
+    "image_source_page": "https://www.greeramps.com/products/royal-velvet"
   },
   {
     "builder": "Greer Amps",
@@ -20584,16 +20589,20 @@
   {
     "builder": "Greer Amps",
     "pedal": "Supa Cobra Overdrive",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/supa-cobra-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Supa Cobra Overdrive.md"
+    "research_record": "./research/pedals/Greer Amps/Supa Cobra Overdrive.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-supa-cobra-overdrive-ga-sc-17216060915847.jpg?v=1648772406&width=1946",
+    "image_source_page": "https://www.greeramps.com/collections/pedals/products/supa-cobra-overdrive"
   },
   {
     "builder": "Greer Amps",
     "pedal": "Super Hornet",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/super-hornet/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Super Hornet.md"
+    "research_record": "./research/pedals/Greer Amps/Super Hornet.md",
+    "image_source_url": "https://sc1.musik-produktiv.com/pic-010088720xl/greer-amps-super-hornet.jpg",
+    "image_source_page": "https://www.greeramps.com/collections/pedals/products/super-hornet"
   },
   {
     "builder": "Greer Amps",
@@ -26113,9 +26122,11 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "AU-79 Fuzz — limited / exclusive",
-    "image": "",
+    "image": "./assets/pedals/mythos-pedals/au-79-fuzz-limited-exclusive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md"
+    "research_record": "./research/pedals/Mythos Pedals/AU-79 Fuzz — limited / exclusive.md",
+    "image_source_url": "https://mythospedals.com/cdn/shop/files/treble-bleed-v2_1100x.jpg?v=1709822696",
+    "image_source_page": "https://mythospedals.com/collections/pedals/products/au-79-fuzz"
   },
   {
     "builder": "Mythos Pedals",
@@ -29278,9 +29289,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Judge Dredd Lawbringer",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/judge-dredd-lawbringer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Judge Dredd Lawbringer.md"
+    "research_record": "./research/pedals/ThorpyFX/Judge Dredd Lawbringer.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot_2025-10-13_at_21.04.11.png?v=1760457451&width=1920",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-x-2000ad-collaboration/products/judge-dredd-lawbringer-gunshot"
   },
   {
     "builder": "ThorpyFX",
@@ -29372,9 +29385,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "The Dane MKI",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/the-dane-mki/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md"
+    "research_record": "./research/pedals/ThorpyFX/The Dane MKI.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/PNGimage_5533004e-f6e6-4936-98f1-ab582ba0b7e7.png?v=1756231685&width=1920",
+    "image_source_page": "https://thorpyfx.com/products/the-dane-overdrive-and-booster-peter-danish-pete-honores-signature-pedal"
   },
   {
     "builder": "ThorpyFX",
@@ -29418,16 +29433,20 @@
   {
     "builder": "ThorpyFX",
     "pedal": "THE OLD TIMER — 3-in-1 pedal with drive section",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/the-old-timer-3-in-1-pedal-with-drive-section/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/THE OLD TIMER — 3-in-1 pedal with drive section.md"
+    "research_record": "./research/pedals/ThorpyFX/THE OLD TIMER — 3-in-1 pedal with drive section.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/PNGimage.png?v=1756231496&width=1920",
+    "image_source_page": "https://thorpyfx.com/products/the-old-timer"
   },
   {
     "builder": "ThorpyFX",
     "pedal": "Warthog",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/warthog/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Warthog.md"
+    "research_record": "./research/pedals/ThorpyFX/Warthog.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-03-03at15.30.35.png?v=1741015843&width=1920",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-warthog-distortion"
   },
   {
     "builder": "ThorpyFX",

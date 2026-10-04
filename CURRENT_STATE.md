@@ -25,13 +25,13 @@ The photo recovery extractor now permits exact-model article/review source pages
 
 The active production phase is **Photo Recovery & Production QA**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4096 pictured / 4096 complete / 0 surface-missing / 0 deep-research-pending / 104 researched-photo-pending**.
+Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4105 pictured / 4105 complete / 0 surface-missing / 0 deep-research-pending / 95 researched-photo-pending**.
 
 **Next deep-research target:** None. Research queue is complete.
 
-PRP1 closeout remains separate: 104 researched record(s) still lack an exact local photo.
+PRP1 closeout remains separate: 95 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-10-04T00:09:11.198558+00:00
+Last refreshed: 2026-10-04T00:17:10.735740+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## 100-builder advisory checkpoint - September 28, 2026
