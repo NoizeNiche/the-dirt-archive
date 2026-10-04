@@ -141,10 +141,12 @@
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/6degrees/eleven/hypercatalyst"
       ],
-      "image_source_page": "https://delicious-audio.com/6-degrees-fx-hyper-catalyst/",
+      "image_source_page": "https://reverb.com/item/56468602-6-degrees-fx-hyper-catalyst-eleven",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1000000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--YGlHUWqC--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/stfcyqsrqn56zx0o56iv.png",
+      "image": "./assets/pedals/6-degrees-fx/hyper-catalyst/primary.webp"
     },
     {
       "company": "6 Degrees FX",
@@ -184,7 +186,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1000000
+      "image_source_priority": 1000000,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/6degrees_sallydrive_001.jpg",
+      "image": "./assets/pedals/6-degrees-fx/sally-drive/primary.webp"
     },
     {
       "company": "A Sound Of Failure",
@@ -10211,7 +10215,8 @@
       "image_source_urls": [
         "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
       ],
-      "image": null
+      "image": "./assets/pedals/big-ear/woodcutter/primary.webp",
+      "image_source_url": "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
     },
     {
       "company": "Big Ear NYC",
@@ -13592,13 +13597,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/black-mass-electronics/the-first-herald/primary.webp",
       "source_page": "https://blackmasselectronics.com/collections/fuzz",
       "research_record": "./research/pedals/Black Mass Electronics/The First Herald.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://blackmasselectronics.com/products/the-first-herald-big-box",
-      "image_source_url": "https://blackmasselectronics.com/cdn/shop/files/blackmass_410x.png?v=1738535982"
+      "image_source_page": "https://www.chicagomusicexchange.com/products/black-mass-the-first-herald-fuzz-1862244",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/files/black-mass-effects-and-pedals-fuzz-black-mass-the-first-herald-fuzz-u5462064103-30617254330503.jpg?v=1694163525"
     },
     {
       "company": "Black Mass Electronics",
@@ -27214,7 +27219,7 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-      "image_source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up",
+      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -27223,7 +27228,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 566
+      "image_source_priority": 566,
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -33439,19 +33446,20 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/devi-ever-fx/mirro-safety-bag-fuzz/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/deviever",
       "research_record": "./research/pedals/Devi Ever FX/Mirro Safety Bag Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.gearaffe.com/brands/devi-ever",
+      "image_source_page": "https://reverb.com/p/devi-ever-fx-mirro-safety-bag",
       "image_source_priority": 1297,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/deviever",
         "https://www.gearaffe.com/brands/devi-ever"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--3EEV2pfl--/quality%3Dmedium-high,height%3D1600,width%3D1600,fit%3Dcontain/rpwoynisiziewnuoyuzl.jpg"
     },
     {
       "company": "Devi Ever FX",
@@ -34161,19 +34169,20 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/dinosaural/tube-bender/primary.webp",
       "source_page": "https://www.effectsdatabase.com/model/dinosaural",
       "research_record": "./research/pedals/Dinosaural/Tube Bender.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://ftp.amplifiedparts.com/pedal-guides/build-project-dinosaural-tubebender",
+      "image_source_page": "https://aionfx.com/news/tracing-journal-dinosaural-tube-bender/",
       "image_source_priority": 1310,
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/dinosaural",
         "https://ftp.amplifiedparts.com/pedal-guides/build-project-dinosaural-tubebender"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://aionfx.com/app/files/2020/08/dinosaural-tube-bender.jpg"
     },
     {
       "company": "Dirty Boy",
@@ -38503,13 +38512,13 @@
       "types": [
         "Fuzz"
       ],
-      "image": null,
+      "image": "./assets/pedals/fuzzrocious-pedals/blast-furnace/primary.webp",
       "source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
       "research_record": "./research/pedals/Fuzzrocious Pedals/Blast Furnace.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=blastfurnace",
-      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2017/01/blastfurnace_site-100x100.jpg"
+      "image_source_page": "https://www.chicagomusicexchange.com/products/fuzzrocious-blast-furnace-gated-fuzz-68817",
+      "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/fuzzrocious-pedals-effects-and-pedals-fuzz-fuzzrocious-blast-furnace-gated-fuzz-fuzzblast-28369452531847.jpg?v=1652661658"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -38666,7 +38675,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1470
+      "image_source_priority": 1470,
+      "image_source_url": "https://fuzzrociouspedals.com/wp-content/uploads/2015/11/kaedendrive_retired-450x355.jpg",
+      "image": "./assets/pedals/fuzzrocious-pedals/k-a-e-d-e-n-drive/primary.webp"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -52017,7 +52028,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1431
+      "image_source_priority": 1431,
+      "image_source_url": "https://phaezamplification.com/wp-content/uploads/2025/03/daisycutter-2-300x225.jpeg",
+      "image": "./assets/pedals/phaez-amplification/daisycutter/primary.webp"
     },
     {
       "company": "Phaez Amplification",
@@ -53209,7 +53222,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1429
+      "image_source_priority": 1429,
+      "image_source_url": "https://sbgo-effects.com/images/DarkBassAnger.png",
+      "image": "./assets/pedals/sbgo-effects/dark-bass-anger/primary.webp"
     },
     {
       "company": "SBGO Effects",
@@ -56242,7 +56257,9 @@
       "research_record": "./research/pedals/ThorpyFX/THE DANE — Dual Drive Boost.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/the-dane-dual-drive-boost/primary.webp",
+      "image_source_url": "https://www.musicbliss.com.my/cdn/shop/files/TRP-DaneMK2-2_525x700.jpg?v=1767069390",
+      "image_source_page": "https://www.musicbliss.com.my/products/thorpy-fx-the-dane-mk2-danish-pete-signature-guitar-effects-pedal"
     },
     {
       "company": "ThorpyFX",
@@ -56271,7 +56288,9 @@
       "research_record": "./research/pedals/ThorpyFX/The J.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/the-j/primary.webp",
+      "image_source_url": "https://thorpyfx.com/cdn/shop/files/Screenshot2025-09-24at12.47.11.png?v=1762257867&width=960",
+      "image_source_page": "https://thorpyfx.com/en-us/products/the-j-lazyj-thorpyfx-colab"
     },
     {
       "company": "ThorpyFX",
