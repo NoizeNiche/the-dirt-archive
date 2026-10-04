@@ -4779,14 +4779,16 @@ function imageBytesLookComplete(bytes, contentType = '') {
             alias.length >= 3 && resultHaystack.includes(alias)
           );
           const meaningfulBuilderTokens = builderTokens.filter(token => token.length >= 4);
-          const builderIdentityMatch =
-            exactBuilderPhrase.length >= 3 &&
-            (
-              resultHaystack.includes(exactBuilderPhrase) ||
-              builderAliasMatch ||
-              (meaningfulBuilderTokens.length >= 2 &&
-                meaningfulBuilderTokens.some(token => resultHaystack.includes(token)))
-            );
+          // Strong search acceptance must prove the actual builder, not a
+          // short acronym or a single generic token that can appear on an unrelated
+          // retailer page. Require the full normalized builder phrase when possible;
+          // for multi-word builders, require every meaningful builder token.
+          const strictBuilderIdentityMatch =
+            (exactBuilderPhrase.length >= 5 &&
+              resultHaystack.includes(exactBuilderPhrase)) ||
+            (meaningfulBuilderTokens.length >= 2 &&
+              meaningfulBuilderTokens.every(token => resultHaystack.includes(token)));
+          const builderIdentityMatch = strictBuilderIdentityMatch;
           const pedalIdentityMatch =
             exactPedalPhrase.length >= 3 &&
             (
