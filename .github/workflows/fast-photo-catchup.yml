@@ -100,9 +100,11 @@ jobs:
         run: timeout --kill-after=30s 900s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
+        if: ${{ always() }}
         run: python scripts/reset-photo-recovery-targets.py
 
       - name: Run recovered-photo content gate
+        if: ${{ always() }}
         run: |
           python scripts/audit-photo-content.py --mode changed --output /tmp/recovered-photo-content-audit.csv --fail-high-confidence
       - name: Package recovered sources as individually verifiable results
