@@ -2,11 +2,11 @@
 
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **1**
+- Local images retained/reorganized: **0**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **21**
-- Researched, photo pending: **21**
+- Remaining tracker photo backlog: **22**
+- Researched, photo pending: **22**
 - External source images awaiting localization: **0**
 
 ## Storage layout
