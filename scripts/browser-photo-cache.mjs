@@ -1549,7 +1549,7 @@ async function imageSearchCandidates(page, entry, deepReview = false) {
   return [...merged.values()];
 }
 
-async function effectsDatabaseFeedImageUrls(page, pageUrl) {
+async function effectsDatabaseFeedImageUrls(page, pageUrl, entry = null) {
   try {
     const feedLinks = await page.evaluate(() => {
       const out = [];
@@ -1560,6 +1560,65 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl) {
       }
       return [...new Set(out)];
     });
+
+    // Generic Effects Database category pages can still link to an exact
+    // /model/... record. Resolve that model link from the verified page's own
+    // card text before falling back to generic category images. This keeps a
+    // category page such as /type/octave/fuzz/1up useful without accepting a
+    // neighboring pedal's photo.
+    if (entry && /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
+      try {
+        const exactModelLinks = await page.evaluate(({ pedal, builder }) => {
+          const norm = value => String(value || '')
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, ' ')
+            .replace(/\s+/g, ' ')
+            .trim();
+          const pedalNorm = norm(pedal);
+          const builderNorm = norm(builder);
+          const pedalTokens = pedalNorm.split(' ').filter(Boolean);
+          const builderTokens = builderNorm.split(' ').filter(Boolean);
+          const out = [];
+          for (const el of document.querySelectorAll('a[href]')) {
+            const href = el.href || '';
+            if (!/https?:\\/\\/[^/]*effectsdatabase\\.com\\/model\\//i.test(href)) continue;
+            const card = el.closest('article, li, tr, td, div') || el.parentElement || el;
+            const hint = norm([
+              el.textContent || '',
+              el.getAttribute('title') || '',
+              card?.textContent || ''
+            ].join(' '));
+            const pedalHits = pedalTokens.filter(token => hint.includes(token)).length;
+            const builderHits = builderTokens.filter(token => hint.includes(token)).length;
+            const exactPedal = pedalTokens.length > 0 && pedalTokens.every(token => hint.includes(token));
+            const exactBuilder = builderTokens.length > 0 && builderTokens.every(token => hint.includes(token));
+            if (!exactPedal) continue;
+            let score = pedalHits * 50 + builderHits * 30;
+            if (exactPedal) score += 500;
+            if (exactBuilder) score += 400;
+            out.push({ href: href.split('#')[0], score });
+          }
+          return [...new Map(out.map(row => [row.href, row])).values()]
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 5);
+        }, {
+          pedal: String(entry.pedal || ''),
+          builder: String(entry.company || entry.builder || '')
+        });
+        for (const row of exactModelLinks || []) {
+          try {
+            const modelUrl = String(row.href || '').trim();
+            if (!modelUrl) continue;
+            const parsedModel = new URL(modelUrl);
+            const suffix = parsedModel.pathname.slice('/model/'.length).replace(/\\/+$/, '');
+            if (!suffix) continue;
+            for (const feedSuffix of ['', '/us/go', '/us/world/go']) {
+              feedLinks.push(parsedModel.origin + '/feed/model/' + suffix + feedSuffix);
+            }
+          } catch {}
+        }
+      } catch {}
+    }
 
     // Older Effects Database model pages do not always expose their legacy
     // image-feed link in the DOM. Derive the exact feed endpoint from the
@@ -2256,6 +2315,10 @@ async function curlVerifiedSourcePageImages(entry, pageUrl) {
 }
 
 async function recoverEntry(browser, entry, deepReview = false, recoveryDeadlineMs = RECOVERY_DEADLINE_MS) {
+  const isKnownCrossBuilderSearchHazard =
+    String(entry.company || '').trim() === 'Compulsive Audio' &&
+    String(entry.pedal || '').trim() === 'Jimi - Octave Fuzz';
+
   const diagnostic = {
     sourceHost: null,
     sourcePageLoaded: false,
@@ -2304,12 +2367,17 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
   try {
     const candidates = [];
     const pageUrl = preferredSourcePage(entry);
+    // Do not let generic search fill this specific identity until an exact
+    // model-level source is proven. The archive already records the known-bad
+    // Dunlop/Guitar Center collision in PHOTO_IDENTITY_QUARANTINE.csv.
+    const allowAutomaticSearchForEntry = !isKnownCrossBuilderSearchHazard;
     const deepSearchTokens = identityTokens(entry.pedal);
     const genericPedalOnly = deepSearchTokens.length === 0;
     // Keep exact source pages and image search in the same recovery pass. A
     // search engine can be empty or rate-limited while the known product page
     // still contains the exact photo, so neither route is exclusive.
     const imageSearchFirst = false;
+    const skipAutomaticFallbackSearch = !allowAutomaticSearchForEntry;
 
     // A curated/explicit image source page is already a stronger lead than a
     // fresh maker-search query, so give that page the first chance to resolve.
@@ -2337,7 +2405,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // maker-search query. Try every curated page in bounded order rather than
     // allowing one blocked/stale host to become a dead end.
     const hasExplicitSourcePage = Boolean(entry.image_source_page || (Array.isArray(entry.image_source_pages) && entry.image_source_pages.length));
-    if ((!pageUrls.length || !hostMatchesBuilder(pageUrls[0], entry.company)) && !hasExplicitSourcePage) {
+    if ((!pageUrls.length || !hostMatchesBuilder(pageUrls[0], entry.company)) && !hasExplicitSourcePage && !skipAutomaticFallbackSearch) {
       const makerCandidates = await makerWebCandidates(page, entry);
       candidates.push(...makerCandidates);
     }
@@ -2391,7 +2459,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         // successful page navigation.
         if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
           try {
-            const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl);
+            const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl, entry);
             for (const url of feedImages) {
               candidates.push({
                 url,
@@ -2512,7 +2580,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
         });
         const richImageData = await richSourceImageUrls(page, pageUrl);
         const legacyFeedImages = /([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)
-          ? await effectsDatabaseFeedImageUrls(page, pageUrl)
+          ? await effectsDatabaseFeedImageUrls(page, pageUrl, entry)
           : [];
         const safeLegacyFeedImages = legacyFeedImages.filter(url => !isLikelyNonPedalAssetUrl(url));
 
@@ -2647,7 +2715,7 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
               // model URL instead of abandoning the record.
               if (/([.]|^)effectsdatabase[.]com$/i.test(new URL(pageUrl).hostname)) {
                 try {
-                  const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl);
+                  const feedImages = await effectsDatabaseFeedImageUrls(page, pageUrl, entry);
                   for (const url of feedImages) {
                     candidates.push({
                       url,
@@ -4423,7 +4491,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
     // If an explicit source page was provided but yielded no usable image,
     // fall back to a fresh maker-site search. This preserves the curated-page
     // priority without letting a stale/broken source page become a dead end.
-    if (!selectedResult && hasExplicitSourcePage) {
+    if (!selectedResult && hasExplicitSourcePage && !skipAutomaticFallbackSearch) {
       try {
         diagnostic.makerFallbackTried = true;
         const makerCandidates = await makerWebCandidates(page, entry);
@@ -4591,7 +4659,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
     // Reverb's Sold Listings filter exposes previously sold listings, and Reverb
     // requires listing photos to show the exact item being sold. Verify the listing
     // identity first, then harvest its actual listing photos.
-    if (!selectedResult && IMAGE_SEARCH_ENABLED) {
+    if (!selectedResult && IMAGE_SEARCH_ENABLED && !skipAutomaticFallbackSearch) {
       const soldResults = await reverbSoldCandidates(page, entry, deepReview);
       diagnostic.soldCandidates = soldResults.length;
       const verifiedSold = [];
