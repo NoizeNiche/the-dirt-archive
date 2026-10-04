@@ -31,9 +31,7 @@ try:
 except Exception:
     sync_playwright = None
 
-_BROWSER_RUNTIME = None
-_BROWSER = None
-_BROWSER_LOCK = threading.Lock()
+_BROWSER_LOCAL = threading.local()
 
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
@@ -259,16 +257,16 @@ def fetch(url: str, source_page: str = "") -> bytes:
 
     # Final transport fallback for CDNs that reject HTTP clients/relays but
     # render the exact curator-supplied image normally in Chromium.
+    # Playwright sync objects are thread-affine, so each worker owns its own
+    # browser runtime instead of sharing a process-wide browser across threads.
     try:
-        with _BROWSER_LOCK:
-            return fetch_via_browser(url, source_page)
+        return fetch_via_browser(url, source_page)
     except Exception as exc:
         last_error = exc
 
     if source_page:
         try:
-            with _BROWSER_LOCK:
-                data, recovered_url = fetch_from_source_page(source_page)
+            data, recovered_url = fetch_from_source_page(source_page)
             print(f"Recovered exact image from source page: {source_page} -> {recovered_url}")
             return data
         except Exception as exc:
@@ -277,6 +275,18 @@ def fetch(url: str, source_page: str = "") -> bytes:
     raise RuntimeError(str(last_error or "image request failed"))
 
 
+def _browser_for_current_thread():
+    if sync_playwright is None:
+        raise RuntimeError("Playwright is not installed")
+    runtime = getattr(_BROWSER_LOCAL, "runtime", None)
+    browser = getattr(_BROWSER_LOCAL, "browser", None)
+    if browser is None:
+        runtime = sync_playwright().start()
+        browser = runtime.chromium.launch(headless=True)
+        _BROWSER_LOCAL.runtime = runtime
+        _BROWSER_LOCAL.browser = browser
+    return browser
+
 def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
     """Recover an image from the already-verified exact model page.
 
@@ -284,14 +294,8 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
     to the exact Builder + Pedal override, and the returned candidate still
     has to pass byte-level Pillow validation.
     """
-    global _BROWSER_RUNTIME, _BROWSER
-    if sync_playwright is None:
-        raise RuntimeError("Playwright is not installed")
-    if _BROWSER is None:
-        _BROWSER_RUNTIME = sync_playwright().start()
-        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
-
-    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+    browser = _browser_for_current_thread()
+    page = browser.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
     try:
         page.goto(source_page, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
         page.wait_for_timeout(600)
@@ -368,13 +372,8 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
 
 
 def fetch_via_browser(url: str, source_page: str = "") -> bytes:
-    global _BROWSER_RUNTIME, _BROWSER
-    if sync_playwright is None:
-        raise RuntimeError("Playwright is not installed")
-    if _BROWSER is None:
-        _BROWSER_RUNTIME = sync_playwright().start()
-        _BROWSER = _BROWSER_RUNTIME.chromium.launch(headless=True)
-    page = _BROWSER.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
+    browser = _browser_for_current_thread()
+    page = browser.new_page(viewport={"width": 1600, "height": 1200}, device_scale_factor=1)
     try:
         headers = {
             "Accept": "image/avif,image/webp,image/apng,image/jpeg,image/png,image/*,*/*;q=0.8",
@@ -426,13 +425,20 @@ def validate(data: bytes) -> tuple[int, int]:
 
 
 def shutdown_browser() -> None:
-    global _BROWSER_RUNTIME, _BROWSER
-    if _BROWSER is not None:
-        _BROWSER.close()
-        _BROWSER = None
-    if _BROWSER_RUNTIME is not None:
-        _BROWSER_RUNTIME.stop()
-        _BROWSER_RUNTIME = None
+    browser = getattr(_BROWSER_LOCAL, "browser", None)
+    runtime = getattr(_BROWSER_LOCAL, "runtime", None)
+    if browser is not None:
+        try:
+            browser.close()
+        except Exception:
+            pass
+    if runtime is not None:
+        try:
+            runtime.stop()
+        except Exception:
+            pass
+    _BROWSER_LOCAL.browser = None
+    _BROWSER_LOCAL.runtime = None
 
 
 def main() -> None:
@@ -579,6 +585,10 @@ def main() -> None:
             return {"status": "recovered", "result": result, "message": f"Staged exact direct photo: {k[0]} / {k[1]} ({width}x{height}) from {source_page}"}
         except Exception as exc:
             return {"status": "failed", "message": f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}"}
+        finally:
+            # A sync Playwright runtime is owned by this worker thread. Close it
+            # here so each direct-photo item leaves no Chromium process behind.
+            shutdown_browser()
 
     items = list(direct.items())
     with ThreadPoolExecutor(max_workers=min(DIRECT_CONCURRENCY, max(1, len(items)))) as executor:
