@@ -76,6 +76,7 @@ jobs:
       - name: Apply current source leads
         run: python scripts/apply-photo-source-overrides.py
       - name: Recover curated direct photos first
+        continue-on-error: true
         run: python scripts/cache-curated-direct-photos.py
 
       - name: Recover exact pedal photo batch
