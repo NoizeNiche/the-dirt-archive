@@ -27219,7 +27219,6 @@
       ],
       "source_page": null,
       "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
@@ -27228,9 +27227,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 566,
-      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
-      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
+      "image_source_priority": 566
     },
     {
       "company": "Compulsive Audio",
