@@ -88,16 +88,16 @@ jobs:
           PHOTO_BROWSER_CACHE_LIMIT: "64"
           PHOTO_BROWSER_CACHE_CONCURRENCY: "12"
           PHOTO_DIRECT_CONCURRENCY: "6"
-          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "9000"
-          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "7000"
-          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "7000"
+          PHOTO_BROWSER_PAGE_TIMEOUT_MS: "12000"
+          PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "10000"
+          PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "10000"
           PHOTO_BROWSER_CANDIDATE_LIMIT: "10"
           PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "12"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "55000"
-          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "55000"
-          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "12"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "75000"
+          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "16"
           PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "8"
-        run: timeout --kill-after=30s 900s node scripts/browser-photo-cache.mjs
+        run: timeout --kill-after=30s 1200s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
         if: ${{ always() }}
