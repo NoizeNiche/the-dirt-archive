@@ -140,10 +140,17 @@ def main():
                 approved = manual_verified.get(identity)
                 if approved:
                     approved_url, approved_page = approved
-                    if str(result.get("image_source_url") or "").strip() != approved_url:
+                    result_url = str(result.get("image_source_url") or "").strip()
+                    result_page = str(result.get("image_source_page") or "").strip()
+                    # A browser transport fallback can resolve the exact reviewed
+                    # image through a CDN or the verified model page and therefore
+                    # legitimately return a different final image URL. Preserve the
+                    # curator's exact source-page binding in that case.
+                    same_reviewed_page = bool(approved_page) and result_page == approved_page
+                    if result_url != approved_url and not same_reviewed_page:
                         ok = False
                         reason = "recovered image URL is not the manually verified primary image"
-                    elif approved_page and str(result.get("image_source_page") or "").strip() != approved_page:
+                    elif approved_page and result_page != approved_page:
                         ok = False
                         reason = "recovered source page does not match the manually verified primary source"
                 elif method in {"exact_source_page", "verified_source_page"} and v.get("identityVerified") is True:
@@ -191,7 +198,12 @@ def main():
                         # byte size and dimensions look superficially valid.
                         # Product photos have meaningful tonal/edge variation;
                         # generic background textures and empty canvases do not.
-                        if ok:
+                        # Manually verified primary photos have already been
+                        # curator-reviewed for exact identity and source. Do not let
+                        # the generic low-detail heuristic veto those approved leads,
+                        # since some legitimate product shots are white-background,
+                        # low-contrast studio photography.
+                        if ok and identity not in manual_verified:
                             with Image.open(candidate) as im:
                                 probe = im.convert("RGB")
                                 probe.thumbnail((120, 120), Image.Resampling.LANCZOS)
@@ -206,7 +218,7 @@ def main():
                                 elif edge_mean < 3 and variance < 30:
                                     ok = False
                                     reason = "recovered image has extremely low visual detail"
-                        if pytesseract is not None:
+                        if pytesseract is not None and ok:
                             with Image.open(candidate) as im:
                                 probe = im.convert("RGB")
                                 probe.thumbnail((1000, 1000), Image.Resampling.LANCZOS)
