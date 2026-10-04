@@ -26682,9 +26682,11 @@
   {
     "builder": "Organic Sounds",
     "pedal": "Organic Drive \"CHRONOS\"",
-    "image": "",
+    "image": "./assets/pedals/organic-sounds/organic-drive-chronos/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Organic Sounds/Organic Drive \"CHRONOS\".md"
+    "research_record": "./research/pedals/Organic Sounds/Organic Drive \"CHRONOS\".md",
+    "image_source_url": "https://organic-sounds.com/cdn/shop/files/DSC04093_900x.jpg?v=1739672132",
+    "image_source_page": "https://organic-sounds.com/en/products/organic-drive-chronos-zero"
   },
   {
     "builder": "Organic Sounds",
