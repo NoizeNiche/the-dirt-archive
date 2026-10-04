@@ -82,7 +82,10 @@
     "builder": "6 Degrees FX",
     "pedal": "Rodeo Drive",
     "source_page": "https://www.effectsdatabase.com/type/overdrive/pedal",
-    "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md"
+    "research_record": "./research/pedals/6 Degrees FX/Rodeo Drive.md",
+    "image_source_url": "https://cdn.rockboard.de/common/image_66006956-b627-4dcf-a0c8-509c22a7df94.webp",
+    "image_source_page": "https://www.rockboard.de/en/pedalPedia/6-Degrees-FX/Rodeo-Drive/68974279/",
+    "image": "./assets/pedals/6-degrees-fx/rodeo-drive/primary.webp"
   },
   {
     "builder": "6 Degrees FX",
@@ -2594,7 +2597,10 @@
     "builder": "Ashdown Engineering",
     "pedal": "AGM PRO-FX Retro Drive",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
-    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md"
+    "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Retro Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/ashdown_profx-retrodrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/ashdown/profx/retrodrive",
+    "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-retro-drive/primary.webp"
   },
   {
     "builder": "Ashdown Engineering",
@@ -3554,7 +3560,10 @@
     "builder": "Backbeat Electric",
     "pedal": "Blue Blender",
     "source_page": "https://www.effectsdatabase.com/model/backbeat",
-    "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md"
+    "research_record": "./research/pedals/Backbeat Electric/Blue Blender.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/backbeat_blueblender_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/backbeat/blueblender",
+    "image": "./assets/pedals/backbeat-electric/blue-blender/primary.webp"
   },
   {
     "builder": "Backbeat Electric",
@@ -3889,9 +3898,11 @@
   {
     "builder": "Baja Tech Custom",
     "pedal": "Da MOAF Deluxe",
-    "image": "",
+    "image": "./assets/pedals/baja-tech-custom/da-moaf-deluxe/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/bajatech",
-    "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md"
+    "research_record": "./research/pedals/Baja Tech Custom/DaMOAF Deluxe.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bajatech_damoaf_deluxe_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bajatech/damoaf/deluxe"
   },
   {
     "builder": "Baja Tech Custom",
@@ -6499,9 +6510,11 @@
   {
     "builder": "BJFE / BJF Electronics",
     "pedal": "Arctic Light Fuzz",
-    "image": null,
+    "image": "./assets/pedals/bjfe-bjf-electronics/arctic-light-fuzz/primary.webp",
     "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
-    "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md"
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Arctic Light Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/bjfe_arcticwhite_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/bjfe/fuzz/arcticwhite"
   },
   {
     "builder": "BJFE / BJF Electronics",
@@ -10761,9 +10774,11 @@
   {
     "builder": "Carlsbro",
     "pedal": "Suzz-Phase",
-    "image": "",
+    "image": "./assets/pedals/carlsbro/suzz-phase/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/carlsbro/alu",
-    "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md"
+    "research_record": "./research/pedals/Carlsbro/Suzz-Phase.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/carlsbro_suzzphase_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/carlsbro/alu/suzzphase"
   },
   {
     "builder": "Carlson",
@@ -17225,7 +17240,10 @@
     "builder": "Devi Ever FX",
     "pedal": "'90",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/'90.md"
+    "research_record": "./research/pedals/Devi Ever FX/'90.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_90_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/deviever/90",
+    "image": "./assets/pedals/devi-ever-fx/90/primary.webp"
   },
   {
     "builder": "Devi Ever FX",
@@ -17413,9 +17431,11 @@
   {
     "builder": "Devi Ever FX",
     "pedal": "God Zilla",
-    "image": "",
+    "image": "./assets/pedals/devi-ever-fx/god-zilla/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/God Zilla.md"
+    "research_record": "./research/pedals/Devi Ever FX/God Zilla.md",
+    "image_source_url": "https://www.musicriff.com/wp-content/uploads/2026/3/1773135313/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal-1773135323.webp",
+    "image_source_page": "https://www.musicriff.com/product/devi-ever-fx-gza-god-zilla-dual-mode-fuzz-guitar-effect-pedal/"
   },
   {
     "builder": "Devi Ever FX",
@@ -17557,7 +17577,10 @@
     "builder": "Devi Ever FX",
     "pedal": "PEEPlug",
     "source_page": "https://www.effectsdatabase.com/model/deviever",
-    "research_record": "./research/pedals/Devi Ever FX/PEEPlug.md"
+    "research_record": "./research/pedals/Devi Ever FX/PEEPlug.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_peep_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/deviever/peep",
+    "image": "./assets/pedals/devi-ever-fx/peeplug/primary.webp"
   },
   {
     "builder": "Devi Ever FX",
@@ -18336,9 +18359,11 @@
   {
     "builder": "Dwarfcraft Devices",
     "pedal": "Abaddon",
-    "image": "",
+    "image": "./assets/pedals/dwarfcraft-devices/abaddon/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Dwarfcraft Devices/Abaddon.md"
+    "research_record": "./research/pedals/Dwarfcraft Devices/Abaddon.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/dwarfcraft_abaddon_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/dwarfcraft/abaddon"
   },
   {
     "builder": "Dwarfcraft Devices",
@@ -20290,9 +20315,11 @@
   {
     "builder": "Fuzzrocious Pedals",
     "pedal": "Dark Driving",
-    "image": null,
+    "image": "./assets/pedals/fuzzrocious-pedals/dark-driving/primary.webp",
     "source_page": "https://fuzzrociouspedals.com/?product_cat=retired",
-    "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving.md"
+    "research_record": "./research/pedals/Fuzzrocious Pedals/Dark Driving.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/fuzzrocious_darkdriving_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/fuzzrocious/darkdriving"
   },
   {
     "builder": "Fuzzrocious Pedals",
@@ -20538,9 +20565,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "Peacemaker",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/peacemaker/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Peacemaker.md"
+    "research_record": "./research/pedals/Greer Amps/Peacemaker.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--Krl8B3by--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/xo2xpkvjpp7plvm8u9vm.jpg",
+    "image_source_page": "https://reverb.com/p/greer-peacemaker-overdrive"
   },
   {
     "builder": "Greer Amps",
@@ -20809,7 +20838,9 @@
     "pedal": "GRAMPS+",
     "image": null,
     "source_page": null,
-    "research_record": "./research/pedals/Himmelstrutz Elektro Art/GRAMPS+.md"
+    "research_record": "./research/pedals/Himmelstrutz Elektro Art/GRAMPS+.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg",
+    "image_source_page": "https://www.himmelstrutz.com/gramps/"
   },
   {
     "builder": "Himmelstrutz Elektro Art",
@@ -24325,7 +24356,9 @@
     "pedal": "RTO700",
     "source_page": null,
     "research_record": "./research/pedals/Maxon/RTO700.md",
-    "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/Maxon-RTO700-Real-Tube-Overdrive-Pedal/1QYP"
+    "image_source_page": "https://reverb.com/p/maxon-rto700-real-tube-overdrive",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--xyJ0inVx--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/imhnegpkkvsppya4kdvx.jpg",
+    "image": "./assets/pedals/maxon/rto700/primary.webp"
   },
   {
     "builder": "Maxon",
@@ -24627,16 +24660,20 @@
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "SM-9Pro Super Metal Pro+",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/sm-9pro-super-metal-pro/primary.webp",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SM-9Pro Super Metal Pro+.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/maxon_sm9proplus_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/maxon/9/sm9proplus"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
     "pedal": "SSD-9 Super Sonic Distortion",
-    "image": "",
+    "image": "./assets/pedals/maxon-nisshin-onpa/ssd-9-super-sonic-distortion/primary.webp",
     "source_page": "https://www.maxonfx.com/",
-    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md"
+    "research_record": "./research/pedals/Maxon / Nisshin Onpa/SSD-9 Super Sonic Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/maxon_ssd9_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/maxon/9/ssd9"
   },
   {
     "builder": "Maxon / Nisshin Onpa",
@@ -27561,7 +27598,10 @@
     "builder": "Radial Tonebone",
     "pedal": "Plexitube",
     "source_page": null,
-    "research_record": "./research/pedals/Radial Tonebone/Plexitube.md"
+    "research_record": "./research/pedals/Radial Tonebone/Plexitube.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/radial-tonebone_plexitube_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/radial/tonebone/plexitube",
+    "image": "./assets/pedals/radial-tonebone/plexitube/primary.webp"
   },
   {
     "builder": "Radial Tonebone",
@@ -27581,7 +27621,10 @@
     "builder": "Radial Tonebone",
     "pedal": "Trimode",
     "source_page": null,
-    "research_record": "./research/pedals/Radial Tonebone/Trimode.md"
+    "research_record": "./research/pedals/Radial Tonebone/Trimode.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/radial-tonebone_trimode_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/radial/tonebone/trimode",
+    "image": "./assets/pedals/radial-tonebone/trimode/primary.webp"
   },
   {
     "builder": "Rainger FX",
@@ -27742,7 +27785,10 @@
     "builder": "Roger Mayer",
     "pedal": "Mongoose",
     "source_page": null,
-    "research_record": "./research/pedals/Roger Mayer/Mongoose.md"
+    "research_record": "./research/pedals/Roger Mayer/Mongoose.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--FpbCPxDe--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/cfx0lfp7bp6xsisnegwb.jpg",
+    "image_source_page": "https://reverb.com/p/roger-mayer-mongoose-rocket-series-fuzz",
+    "image": "./assets/pedals/roger-mayer/mongoose/primary.webp"
   },
   {
     "builder": "Roger Mayer",
@@ -27883,7 +27929,10 @@
     "builder": "Sinvertek",
     "pedal": "N5+ Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Sinvertek/N5+ Distortion.md"
+    "research_record": "./research/pedals/Sinvertek/N5+ Distortion.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--jw26--uI--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rco2kexyxblixevlviyo.jpg",
+    "image_source_page": "https://reverb.com/item/92752377-sinvertek-drive-n5-rare-discontinued",
+    "image": "./assets/pedals/sinvertek/n5-distortion/primary.webp"
   },
   {
     "builder": "Sitek Guitar Electronics",
@@ -28406,7 +28455,10 @@
     "builder": "Stomp Under Foot",
     "pedal": "Astoria",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Astoria.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Astoria.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--qCTHjexJ--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eilwzwvyodiroa5xpkvs.jpg",
+    "image_source_page": "https://reverb.com/ca/p/stomp-under-foot-astoria",
+    "image": "./assets/pedals/stomp-under-foot/astoria/primary.webp"
   },
   {
     "builder": "Stomp Under Foot",
@@ -28591,9 +28643,11 @@
   {
     "builder": "Stomp Under Foot",
     "pedal": "Red Menace",
-    "image": "",
+    "image": "./assets/pedals/stomp-under-foot/red-menace/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Stomp Under Foot/Red Menace.md"
+    "research_record": "./research/pedals/Stomp Under Foot/Red Menace.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--VkPpXRqO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qojy1639agocfktfevwl.jpg",
+    "image_source_page": "https://reverb.com/item/457285-stomp-under-foot-red-menace-4-knob"
   },
   {
     "builder": "Stomp Under Foot",
@@ -29171,7 +29225,9 @@
     "pedal": "Richie Kotzen Signature OMG",
     "source_page": null,
     "research_record": "./research/pedals/Tech 21 NYC/Richie Kotzen Signature OMG.md",
-    "image_source_page": "https://www.facebook.com/tech21nyc/posts/richie-kotzen-signature-omg-overdrive-demo-just-posted-by-the-inimitable-brett-k/624463597590123/"
+    "image_source_page": "https://www.zozomusic.com/tech-21-omg-richie-kotzen-signature-overdrive-guitar-effects-pedal/",
+    "image_source_url": "https://cdn11.bigcommerce.com/s-97c0z6ew/images/stencil/600x600/products/4012/17572/OMG.1__26136.1541560648.jpg?c=2",
+    "image": "./assets/pedals/tech-21-nyc/richie-kotzen-signature-omg/primary.webp"
   },
   {
     "builder": "Tech 21 NYC",
@@ -29308,9 +29364,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Old Timer",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/old-timer/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Old Timer.md"
+    "research_record": "./research/pedals/ThorpyFX/Old Timer.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/PNGimage.png?v=1756231496",
+    "image_source_page": "https://thorpyfx.com/products/the-old-timer"
   },
   {
     "builder": "ThorpyFX",
@@ -29739,7 +29797,10 @@
     "builder": "Vemuram",
     "pedal": "Jan Ray for TF",
     "source_page": null,
-    "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md"
+    "research_record": "./research/pedals/Vemuram/Jan Ray for TF.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--P6azRD8x--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/4b9b345a-7883-4a01-82af-0c9efae2032d.jpeg",
+    "image_source_page": "https://reverb.com/item/97193712-vemuram-jan-ray-for-tf-tomo-fujita-mode",
+    "image": "./assets/pedals/vemuram/jan-ray-for-tf/primary.webp"
   },
   {
     "builder": "Vemuram",
@@ -30019,7 +30080,10 @@
     "builder": "VFE Pedals",
     "pedal": "Dragon Hound",
     "source_page": null,
-    "research_record": "./research/pedals/VFE Pedals/Dragon Hound.md"
+    "research_record": "./research/pedals/VFE Pedals/Dragon Hound.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--zGrlFfHV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bqpfwol17q0ar9igsazq.jpg",
+    "image_source_page": "https://reverb.com/p/vfe-dragon-hound",
+    "image": "./assets/pedals/vfe-pedals/dragon-hound/primary.webp"
   },
   {
     "builder": "VFE Pedals",
@@ -30148,7 +30212,10 @@
     "builder": "Visual Sound / Truetone",
     "pedal": "Drivetrain / GarageTone Drivetrain",
     "source_page": null,
-    "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md"
+    "research_record": "./research/pedals/Visual Sound / Truetone/Drivetrain / GarageTone Drivetrain.md",
+    "image_source_url": "https://hippoguitars.com/cdn/shop/files/IMG_28122.jpg?v=1744897309",
+    "image_source_page": "https://hippoguitars.com/products/pre-owned-visual-sound-garagetone-drivetrain-overdrive-pedal",
+    "image": "./assets/pedals/visual-sound-truetone/drivetrain-garagetone-drivetrain/primary.webp"
   },
   {
     "builder": "Visual Sound / Truetone",
@@ -30495,7 +30562,10 @@
     "builder": "Walrus Audio",
     "pedal": "Eras Five-State Distortion — Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md"
+    "research_record": "./research/pedals/Walrus Audio/Eras Five-State Distortion — Distortion.md",
+    "image_source_url": "https://www.walrusaudio.com/cdn/shop/files/Eras-front_900x.jpg?v=1748876094",
+    "image_source_page": "https://www.walrusaudio.com/products/eras-five-state-distortion",
+    "image": "./assets/pedals/walrus-audio/eras-five-state-distortion-distortion/primary.webp"
   },
   {
     "builder": "Walrus Audio",
@@ -30556,9 +30626,11 @@
   {
     "builder": "Walrus Audio",
     "pedal": "Kangra Filter Fuzz",
-    "image": "",
+    "image": "./assets/pedals/walrus-audio/kangra-filter-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Walrus Audio/Kangra Filter Fuzz.md"
+    "research_record": "./research/pedals/Walrus Audio/Kangra Filter Fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/walrus_kangra_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/walrus/kangra"
   },
   {
     "builder": "Walrus Audio",
@@ -30698,9 +30770,11 @@
   {
     "builder": "Wampler Pedals",
     "pedal": "cataPulp",
-    "image": "",
+    "image": "./assets/pedals/wampler-pedals/catapulp/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Wampler Pedals/cataPulp.md"
+    "research_record": "./research/pedals/Wampler Pedals/cataPulp.md",
+    "image_source_url": "https://www.guitariste.com/share/articles/2015/09/3898-big.jpg",
+    "image_source_page": "https://www.guitariste.com/articles/wampler-catapulp,3898,1.html"
   },
   {
     "builder": "Wampler Pedals",

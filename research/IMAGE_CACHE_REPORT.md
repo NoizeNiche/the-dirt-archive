@@ -2,11 +2,11 @@
 
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Local images retained/reorganized: **29**
 - Cleared stale/quarantined local image references: **0**
-- Download failures: **0**
-- Remaining tracker photo backlog: **64**
-- Researched, photo pending: **64**
+- Download failures: **1**
+- Remaining tracker photo backlog: **35**
+- Researched, photo pending: **35**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -15,4 +15,8 @@
 - Colorway/edition image: `assets/pedals/{builder}/{pedal}/variants/{variant}.webp`
 - Original source URL remains stored as `image_source_url`.
 
-All pictured pedal images are locally cached.
+## Still external / failed
+
+- Himmelstrutz Elektro Art - GRAMPS+: https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg: curl: (22) The requested URL returned error: 500 (`https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg`)
+
+These records remain externally referenced until a later cache run succeeds.
