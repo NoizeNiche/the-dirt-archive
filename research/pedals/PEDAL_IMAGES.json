@@ -26233,9 +26233,11 @@
   {
     "builder": "Mythos Pedals",
     "pedal": "The Victor Distortion",
-    "image": "",
+    "image": "./assets/pedals/mythos-pedals/the-victor-distortion/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md"
+    "research_record": "./research/pedals/Mythos Pedals/The Victor Distortion.md",
+    "image_source_url": "https://mythospedals.com/cdn/shop/files/the-victor_1100x.jpg?v=1764199105",
+    "image_source_page": "https://mythospedals.com/products/the-victor-distortion"
   },
   {
     "builder": "Mythos Pedals",
