@@ -2840,10 +2840,11 @@ function isLikelyNonPedalAssetUrl(value) {
     const basename = url.pathname.split('/').filter(Boolean).pop() || '';
     if (isBlockedByPhotoPolicy(value)) return true;
     if (/(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)/i.test(haystack)) return true;
-    if (/(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner|monogram)(?:[-_.]|$)/i.test(basename)) return true;
-    if (/(?:shop-brand-default|default(?:[-_.]|image)|default[-_](?:shop|brand))/i.test(haystack)) return true;
+    if (/(?:logo|logos|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner|monogram|wordmark|brandmark)(?:[-_.]|$)/i.test(basename)) return true;
+    if (/(?:shop-brand-default|default(?:[-_.]|image)|default[-_](?:shop|brand)|(?:^|[/_-])(?:collection|category|categories|shop-default|brand-default)(?:[/_.?-]|$))/i.test(haystack)) return true;
     if (/(?:^|\/)template\/default\/img\/cat\//i.test(url.pathname) || /(?:^|\/)cat\/[^/]+\.(?:png|jpe?g|webp|gif)$/i.test(url.pathname)) return true;
     if (/\/graphics\/(?:buymeacoffee|donate|support|sponsor|payment|banner|widget)/i.test(url.pathname)) return true;
+    if (/(?:\/media\/|\/uploads\/|\/assets\/)[^?]*\b(?:logo|monogram|wordmark|brandmark)\b/i.test(url.pathname)) return true;
     return false;
   } catch {
     return false;
