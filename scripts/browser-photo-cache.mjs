@@ -1581,7 +1581,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl, entry = null) {
           const out = [];
           for (const el of document.querySelectorAll('a[href]')) {
             const href = el.href || '';
-            if (!/https?:\\/\\/[^/]*effectsdatabase\\.com\\/model\\//i.test(href)) continue;
+            if (!/https?:\/\/[^/]*effectsdatabase\.com\/model\//i.test(href)) continue;
             const card = el.closest('article, li, tr, td, div') || el.parentElement || el;
             const hint = norm([
               el.textContent || '',
