@@ -4853,7 +4853,9 @@
       "research_record": "./research/pedals/Ashdown Engineering/AGM PRO-FX Vintage Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/ashdown-engineering/agm-pro-fx-vintage-fuzz/primary.webp",
+      "image_source_url": "https://www.stars-music.com/medias/ashdown/cropped-pro-fx-vintage-fuzz-197157.webp",
+      "image_source_page": "https://www.stars-music.com/ashdown-pro-fx-vintage-fuzz_197157.html"
     },
     {
       "company": "Ashdown Engineering",
@@ -12425,13 +12427,15 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Cliff Hanger.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D2261.html",
+      "image_source_page": "https://reverb.com/item/30152510-bjfe-cliff-hanger-ch-by-bjorn-juhl-bjf",
       "image_source_pages": [
         "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D2261.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1539
+      "image_source_priority": 1539,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--wm6R7C4c--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/eezwft0y1x7xkgn6unwv.jpg",
+      "image": "./assets/pedals/bjfe-bjf-electronics/cliff-hanger/primary.webp"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -27228,7 +27232,9 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 566,
-      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4"
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
+      "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -32830,7 +32836,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1518
+      "image_source_priority": 1518,
+      "image_source_url": "https://www.fuzzgoddess.com/img/trifuzz-batch-2003.webp?v=mt23ritd",
+      "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp"
     },
     {
       "company": "Devi Ever : FX",
@@ -33474,10 +33482,12 @@
         "https://reverb.com/item/1093229-devi-ever-effector-13-never-drive",
         "https://www.effectsdatabase.com/type/octave/fuzz/1up"
       ],
-      "image_source_page": "https://reverb.com/item/1093229-devi-ever-effector-13-never-drive",
+      "image_source_page": "https://www.effectsdatabase.com/model/deviever/neverdrive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1562
+      "image_source_priority": 1562,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/deviever_neverdrive_001.jpg",
+      "image": "./assets/pedals/devi-ever-fx/nd-never-drive/primary.webp"
     },
     {
       "company": "Devi Ever FX",
@@ -38757,13 +38767,15 @@
       "research_record": "./research/pedals/Fuzzrocious Pedals/Ram the Manparts.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://fuzzrociouspedals.com/?product=rtm",
+      "image_source_page": "https://www.effectsdatabase.com/reviews/fuzzrocious/ramthemanparts",
       "image_source_pages": [
         "https://fuzzrociouspedals.com/?product=rtm"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1472
+      "image_source_priority": 1472,
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/fuzzrocious_ramthenammparts_001.jpg",
+      "image": "./assets/pedals/fuzzrocious-pedals/ram-the-manparts/primary.webp"
     },
     {
       "company": "Fuzzrocious Pedals",
@@ -56773,10 +56785,12 @@
       "image_source_pages": [
         "https://fuzzboxes.org/features/astrotone"
       ],
-      "image_source_page": "https://fuzzboxes.org/features/astrotone",
+      "image_source_page": "https://reverb.com/item/74319191-rare-1967-astro-amp-astrotone-fuzz-pedal-universal-amplifier-corp",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1460
+      "image_source_priority": 1460,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--w9-Kdfv---/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/niwgh4wvqtzmihqrxsei.jpg",
+      "image": "./assets/pedals/universal-amplifier-corp/astrotone/primary.webp"
     },
     {
       "company": "Universal Amplifier Corp",
