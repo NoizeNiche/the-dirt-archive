@@ -1610,7 +1610,7 @@ async function effectsDatabaseFeedImageUrls(page, pageUrl, entry = null) {
             const modelUrl = String(row.href || '').trim();
             if (!modelUrl) continue;
             const parsedModel = new URL(modelUrl);
-            const suffix = parsedModel.pathname.slice('/model/'.length).replace(/\\/+$/, '');
+            const suffix = parsedModel.pathname.slice('/model/'.length).replace(/\/+$/, '');
             if (!suffix) continue;
             for (const feedSuffix of ['', '/us/go', '/us/world/go']) {
               feedLinks.push(parsedModel.origin + '/feed/model/' + suffix + feedSuffix);
