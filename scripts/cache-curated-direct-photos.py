@@ -19,6 +19,9 @@ import json
 import re
 import subprocess
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+import threading
 from urllib.parse import quote
 from pathlib import Path
 
@@ -30,6 +33,7 @@ except Exception:
 
 _BROWSER_RUNTIME = None
 _BROWSER = None
+_BROWSER_LOCK = threading.Lock()
 
 ROOT = Path(".")
 INDEX = ROOT / "research/PEDAL_INDEX.json"
@@ -46,6 +50,7 @@ USER_AGENT = (
 )
 TIMEOUT = 30
 MIN_BYTES = 3000
+DIRECT_CONCURRENCY = max(1, int(os.environ.get("PHOTO_DIRECT_CONCURRENCY", "6")))
 
 
 def load_blocklist() -> list[tuple[str,str]]:
@@ -255,13 +260,15 @@ def fetch(url: str, source_page: str = "") -> bytes:
     # Final transport fallback for CDNs that reject HTTP clients/relays but
     # render the exact curator-supplied image normally in Chromium.
     try:
-        return fetch_via_browser(url, source_page)
+        with _BROWSER_LOCK:
+            return fetch_via_browser(url, source_page)
     except Exception as exc:
         last_error = exc
 
     if source_page:
         try:
-            data, recovered_url = fetch_from_source_page(source_page)
+            with _BROWSER_LOCK:
+                data, recovered_url = fetch_from_source_page(source_page)
             print(f"Recovered exact image from source page: {source_page} -> {recovered_url}")
             return data
         except Exception as exc:
@@ -511,22 +518,18 @@ def main() -> None:
     failed = 0
     direct_results = []
 
-    for k, rows in direct.items():
+    def process_direct_item(item):
+        k, rows = item
         entry = catalog_by_key.get(k)
         if not entry:
-            failed += 1
-            print(f"Missing catalog identity for direct photo override: {k[0]} / {k[1]}")
-            continue
+            return {"status": "failed", "message": f"Missing catalog identity for direct photo override: {k[0]} / {k[1]}"}
 
         target = target_path(entry, manifest_owners)
         image_url, source_page, notes = rows[-1]
         if target.exists():
             try:
                 width, height = validate(target.read_bytes())
-                # A valid staged source may be the residue of a previous worker
-                # that reached download but not manifest publication. Treat it as
-                # a recoverable result instead of silently skipping it forever.
-                direct_results.append({
+                result = {
                     "builder": k[0],
                     "pedal": k[1],
                     "image": "./" + target.with_suffix(".webp").as_posix(),
@@ -540,30 +543,18 @@ def main() -> None:
                         "strongSearchIdentity": False,
                         "stagedResume": True,
                     },
-                })
-                skipped += 1
-                print(
-                    f"Reusing verified staged exact photo: {k[0]} / {k[1]} "
-                    f"({width}x{height}) from {source_page}"
-                )
-                continue
+                }
+                return {"status": "skipped", "result": result, "message": f"Reusing verified staged exact photo: {k[0]} / {k[1]} ({width}x{height}) from {source_page}"}
             except Exception:
-                # A stale/corrupt staged source must not permanently suppress
-                # recovery retries for an otherwise valid exact-image lead.
                 try:
                     target.unlink()
                 except Exception:
                     pass
 
-        # Do not let recency decide between competing exact-image leads.
-        # A key with multiple distinct image URLs must have an explicit
-        # PHOTO REVIEW: PRIMARY marker before the direct fast lane can publish it.
         unique_images = list(dict.fromkeys(image_url for image_url, _, _ in rows))
         reviewed = [row for row in rows if "photo review: primary" in row[2].lower()]
         if len(unique_images) > 1 and not reviewed:
-            skipped += 1
-            print(f"Direct photo held for manual review: {k[0]} / {k[1]} has {len(unique_images)} competing image URLs.")
-            continue
+            return {"status": "skipped", "message": f"Direct photo held for manual review: {k[0]} / {k[1]} has {len(unique_images)} competing image URLs."}
         primary = reviewed[-1] if reviewed else rows[-1]
         image_url, source_page = primary[0], primary[1]
         try:
@@ -571,7 +562,7 @@ def main() -> None:
             width, height = validate(data)
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(data)
-            direct_results.append({
+            result = {
                 "builder": k[0],
                 "pedal": k[1],
                 "image": "./" + target.with_suffix(".webp").as_posix(),
@@ -584,15 +575,27 @@ def main() -> None:
                     "sourceScore": 1400,
                     "strongSearchIdentity": False,
                 },
-            })
-            print(
-                f"Staged exact direct photo: {k[0]} / {k[1]} "
-                f"({width}x{height}) from {source_page}"
-            )
-            recovered += 1
+            }
+            return {"status": "recovered", "result": result, "message": f"Staged exact direct photo: {k[0]} / {k[1]} ({width}x{height}) from {source_page}"}
         except Exception as exc:
-            failed += 1
-            print(f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}")
+            return {"status": "failed", "message": f"Direct photo failed: {k[0]} / {k[1]} -> {image_url}: {exc}"}
+
+    items = list(direct.items())
+    with ThreadPoolExecutor(max_workers=min(DIRECT_CONCURRENCY, max(1, len(items)))) as executor:
+        futures = [executor.submit(process_direct_item, item) for item in items]
+        for future in as_completed(futures):
+            outcome = future.result()
+            status = outcome.get("status")
+            if status == "recovered":
+                recovered += 1
+            elif status == "skipped":
+                skipped += 1
+            else:
+                failed += 1
+            result = outcome.get("result")
+            if result:
+                direct_results.append(result)
+            print(outcome.get("message", ""))
 
     (ROOT / "photo-recovery-direct-results.json").write_text(
         json.dumps({"version": 1, "recovered": direct_results}, ensure_ascii=False, indent=2) + "\n",
