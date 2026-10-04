@@ -2841,6 +2841,8 @@ function isLikelyNonPedalAssetUrl(value) {
     if (isBlockedByPhotoPolicy(value)) return true;
     if (/(?:buymeacoffee|patreon|donate|donation|sponsor|payment|checkout|support(?:[-_]?us)?|tracking|pixel|analytics|consent)/i.test(haystack)) return true;
     if (/(?:logo|favicon|sprite|avatar|badge|icon|social|banner|widget|placeholder|spinner)(?:[-_.]|$)/i.test(basename)) return true;
+    if (/(?:shop-brand-default|default(?:[-_.]|image)|default[-_](?:shop|brand))/i.test(haystack)) return true;
+    if (/\/template\/default\/img\/cat\//i.test(url.pathname)) return true;
     if (/\/graphics\/(?:buymeacoffee|donate|support|sponsor|payment|banner|widget)/i.test(url.pathname)) return true;
     return false;
   } catch {
@@ -2879,7 +2881,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
 
     async function networkImageCandidate(list) {
       const ordered = [...list]
-        .filter(candidate => candidate?.url)
+        .filter(candidate => candidate?.url && !isLikelyNonPedalAssetUrl(candidate.url))
         .sort((a, b) => (Number(b.sourceScore) || 0) - (Number(a.sourceScore) || 0));
       for (const candidate of ordered.slice(0, 32)) {
         const keyUrl = String(candidate.url || '').split('#')[0];
