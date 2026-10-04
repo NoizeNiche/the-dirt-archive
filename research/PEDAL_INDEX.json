@@ -27232,7 +27232,9 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 566,
-      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4"
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
+      "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -32834,7 +32836,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1518
+      "image_source_priority": 1518,
+      "image_source_url": "https://www.fuzzgoddess.com/img/trifuzz-batch-2003.webp?v=mt23ritd",
+      "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp"
     },
     {
       "company": "Devi Ever : FX",

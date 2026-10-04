@@ -14224,7 +14224,10 @@
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
+    "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
+    "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
+    "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
   },
   {
     "builder": "Compulsive Audio",
@@ -17219,7 +17222,10 @@
     "builder": "Devi Ever : FX",
     "pedal": "Tri-Fuzz",
     "source_page": "https://www.fuzzgoddess.com/about/",
-    "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md"
+    "research_record": "./research/pedals/Devi Ever : FX/Tri-Fuzz.md",
+    "image_source_url": "https://www.fuzzgoddess.com/img/trifuzz-batch-2003.webp?v=mt23ritd",
+    "image_source_page": "https://www.fuzzgoddess.com/about/",
+    "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp"
   },
   {
     "builder": "Devi Ever : FX",
@@ -20839,7 +20845,8 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/GRAMPS+.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg",
+    "image_source_page": "https://www.himmelstrutz.com/gramps/"
   },
   {
     "builder": "Himmelstrutz Elektro Art",
