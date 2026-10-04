@@ -9462,9 +9462,11 @@
   {
     "builder": "Build Your Own Clone",
     "pedal": "Li'l Fuzz",
-    "image": "",
+    "image": "./assets/pedals/build-your-own-clone/li-l-fuzz/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md"
+    "research_record": "./research/pedals/PRP Batch 130/li-l-fuzz.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/byoc_lil_fuzz_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/byoc/lil/fuzz"
   },
   {
     "builder": "Build Your Own Clone",
@@ -12247,7 +12249,10 @@
     "builder": "Chaser",
     "pedal": "HM-3 Heavy Metal",
     "source_page": null,
-    "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md"
+    "research_record": "./research/pedals/Chaser/HM-3 Heavy Metal.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/chaser_hm3_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/chaser/hm3",
+    "image": "./assets/pedals/chaser/hm-3-heavy-metal/primary.webp"
   },
   {
     "builder": "CheeseBlocks Effects",
@@ -13701,21 +13706,28 @@
     "builder": "Collins",
     "pedal": "CDT-1 Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Collins/CDT-1 Distortion.md"
+    "research_record": "./research/pedals/Collins/CDT-1 Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/collins_cdt1_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1/cdt1",
+    "image": "./assets/pedals/collins/cdt-1-distortion/primary.webp"
   },
   {
     "builder": "Collins",
     "pedal": "COD-1 Pro Over Drive",
-    "image": "",
+    "image": "./assets/pedals/collins/cod-1-pro-over-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md"
+    "research_record": "./research/pedals/Collins/COD-1 Pro Over Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/collins_cod1_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1/cod1"
   },
   {
     "builder": "Collins",
     "pedal": "CSD-1 Pro Super Dust",
-    "image": "",
+    "image": "./assets/pedals/collins/csd-1-pro-super-dust/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md"
+    "research_record": "./research/pedals/Collins/CSD-1 Pro Super Dust.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/collins_csd1_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/collins/1pro/csd1"
   },
   {
     "builder": "Collision Devices",
@@ -14043,7 +14055,10 @@
     "builder": "ColorTone Fx / Pedal Tank",
     "pedal": "Gainer",
     "source_page": null,
-    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md"
+    "research_record": "./research/pedals/ColorTone Fx / Pedal Tank/Gainer.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/colortonefx_gainer_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/colortonefx/gainer",
+    "image": "./assets/pedals/colortone-fx-pedal-tank/gainer/primary.webp"
   },
   {
     "builder": "ColorTone Fx / Pedal Tank",
@@ -14079,9 +14094,11 @@
   {
     "builder": "Columbus",
     "pedal": "OVD-5 Overdrive",
-    "image": null,
+    "image": "./assets/pedals/columbus/ovd-5-overdrive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md"
+    "research_record": "./research/pedals/Columbus/OVD-5 Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/columbus_ovd5_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/columbus/ovd5"
   },
   {
     "builder": "Columbus",
@@ -14115,10 +14132,11 @@
   {
     "builder": "Commune",
     "pedal": "Senturion Preamp 500",
-    "image": "",
+    "image": "./assets/pedals/commune/senturion-preamp-500/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Commune/Senturion Preamp 500.md",
-    "image_source_url": "https://www.mobydick.asia/image/gif/mobydick2.gif"
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/commune_senturion_preamp500_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/commune/senturion/preamp500"
   },
   {
     "builder": "Commune/ECA (Empire Custom Amplification)",
@@ -14363,7 +14381,10 @@
     "builder": "Coolsound",
     "pedal": "A127 Dirty Bass",
     "source_page": null,
-    "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md"
+    "research_record": "./research/pedals/Coolsound/A127 Dirty Bass.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coolsound_a127_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/coolsound/a127",
+    "image": "./assets/pedals/coolsound/a127-dirty-bass/primary.webp"
   },
   {
     "builder": "Coopersonic",
@@ -14406,7 +14427,10 @@
     "builder": "Coopersonic",
     "pedal": "Mini Tube Overdrive",
     "source_page": null,
-    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md"
+    "research_record": "./research/pedals/Coopersonic/Mini Tube Overdrive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coopersonic_minitubeoverdrive_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/coopersonic",
+    "image": "./assets/pedals/coopersonic/mini-tube-overdrive/primary.webp"
   },
   {
     "builder": "Coopersonic",
@@ -14472,23 +14496,29 @@
   {
     "builder": "Copper Gear",
     "pedal": "Black Howler",
-    "image": "",
+    "image": "./assets/pedals/copper-gear/black-howler/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Copper Gear/Black Howler.md"
+    "research_record": "./research/pedals/Copper Gear/Black Howler.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coppergear_blackhowler_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/blackhowler"
   },
   {
     "builder": "Copper Gear",
     "pedal": "Brontide Device",
-    "image": "",
+    "image": "./assets/pedals/copper-gear/brontide-device/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Copper Gear/Brontide Device.md"
+    "research_record": "./research/pedals/Copper Gear/Brontide Device.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coppergear_brontide_device_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/brontide/device"
   },
   {
     "builder": "Copper Gear",
     "pedal": "Distorta Azura",
-    "image": "",
+    "image": "./assets/pedals/copper-gear/distorta-azura/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Copper Gear/Distorta Azura.md"
+    "research_record": "./research/pedals/Copper Gear/Distorta Azura.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/coppergear_distortaazura_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/coppergear/distortaazura"
   },
   {
     "builder": "Copper Gear",
@@ -14705,9 +14735,11 @@
   {
     "builder": "Coron",
     "pedal": "Coron Distortion 10",
-    "image": "",
+    "image": "./assets/pedals/coron/coron-distortion-10/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Coron/Coron Distortion 10.md"
+    "research_record": "./research/pedals/Coron/Coron Distortion 10.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--VlCU9fyR--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D350%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3024/2a38aa2c-329f-4983-be7d-d5bc8fb826cb.jpg",
+    "image_source_page": "https://reverb.com/item/96560756-coron-distortion-10"
   },
   {
     "builder": "Coron",
@@ -14911,7 +14943,10 @@
     "builder": "Cosmosound",
     "pedal": "CSE-14 Distortion/Volume",
     "source_page": null,
-    "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md"
+    "research_record": "./research/pedals/Cosmosound/CSE-14 Distortion-Volume.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/cosmosound_cse14_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/cosmosound/cse14",
+    "image": "./assets/pedals/cosmosound/cse-14-distortion-volume/primary.webp"
   },
   {
     "builder": "Cosmosound",
@@ -15070,9 +15105,11 @@
   {
     "builder": "Cranetortoise by Albit",
     "pedal": "DD-1B Dual Distortion for Bass",
-    "image": "",
+    "image": "./assets/pedals/cranetortoise-by-albit/dd-1b-dual-distortion-for-bass/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md"
+    "research_record": "./research/pedals/Cranetortoise by Albit/DD-1B Dual Distortion for Bass.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--h5gqAQIO--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/rzs1v2juk48pvwytogj6.jpg",
+    "image_source_page": "https://reverb.com/item/19973217-cranetortoise-dd-1b-dual-distortion-for-bass"
   },
   {
     "builder": "Cranetortoise by Albit",
@@ -15161,9 +15198,11 @@
   {
     "builder": "Crazy Rock'n'Roll Effecter",
     "pedal": "TONE BENDER M.K Ⅰ. Ⅴ",
-    "image": "",
+    "image": "./assets/pedals/crazy-rock-n-roll-effecter/tone-bender-m-k/primary.webp",
     "source_page": "https://www.c-r-effecter.com/tone-bender",
-    "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md"
+    "research_record": "./research/pedals/Crazy Rock'n'Roll Effecter/TONE BENDER M.K Ⅰ. Ⅴ.md",
+    "image_source_url": "https://static.wixstatic.com/media/30b225_4a8b7d73bab647e8811eb627edc939f3~mv2.png/v1/fill/w_271%2Ch_362%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/30b225_4a8b7d73bab647e8811eb627edc939f3~mv2.png",
+    "image_source_page": "https://www.c-r-effecter.com/tone-bender"
   },
   {
     "builder": "Crazy Tube Circuits",
@@ -15844,10 +15883,11 @@
   {
     "builder": "Crotronics",
     "pedal": "Firestarter",
-    "image": "",
+    "image": "./assets/pedals/crotronics/firestarter/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Crotronics/Firestarter.md",
-    "image_source_url": "https://eastsidemusicsupply.com/cdn/shop/files/02_Horizontal_EMS_Black_4x_88361139-351a-4293-88a4-9d513a57172e_300x.png?v=1772644546"
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/crotronics_firestarter_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/crotronics/firestarter"
   },
   {
     "builder": "Crotronics",
@@ -15882,14 +15922,19 @@
     "builder": "Crown",
     "pedal": "Fuzz and Treble Booster",
     "source_page": null,
-    "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md"
+    "research_record": "./research/pedals/Crown/Fuzz and Treble Booster.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/crown_fuzztreblebooster_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/crown/fuzztreblebooster",
+    "image": "./assets/pedals/crown/fuzz-and-treble-booster/primary.webp"
   },
   {
     "builder": "Crown",
     "pedal": "FW-3 Distortion Wah Volume",
-    "image": "",
+    "image": "./assets/pedals/crown/fw-3-distortion-wah-volume/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md"
+    "research_record": "./research/pedals/Crown/FW-3 Distortion Wah Volume.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/crown_fw3_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/crown/fw3"
   },
   {
     "builder": "Crown",
@@ -15955,13 +16000,18 @@
     "pedal": "Hudson Broadcast Clone",
     "source_page": null,
     "research_record": "./research/pedals/Crust Pedals/Hudson Broadcast Clone.md",
-    "image_source_page": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023"
+    "image_source_page": "https://reverb.com/item/77375685-crust-pedals-hudson-broadcast-clone-2023",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--bB8Z0kWV--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/klt6xyznjpfcttgupbp1.jpg",
+    "image": "./assets/pedals/crust-pedals/hudson-broadcast-clone/primary.webp"
   },
   {
     "builder": "Cruzer (by Crafter)",
     "pedal": "EF-DT Distortion",
     "source_page": null,
-    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md"
+    "research_record": "./research/pedals/Cruzer (by Crafter)/EF-DT Distortion.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/crafter_cruzer_distortion_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/crafter/cruzer/distortion",
+    "image": "./assets/pedals/cruzer-by-crafter/ef-dt-distortion/primary.webp"
   },
   {
     "builder": "Cruzer (by Crafter)",
@@ -20558,9 +20608,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "SOMA 63 Vintage Preamp",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/soma-63-vintage-preamp/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md"
+    "research_record": "./research/pedals/Greer Amps/SOMA 63 Vintage Preamp.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-soma-63-vintage-preamp-ga-soma-28118847422599.jpg?v=1646746696&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-soma-63-vintage-preamp-641130"
   },
   {
     "builder": "Greer Amps",
@@ -20629,9 +20681,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "Tomahawk Deluxe Drive",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/tomahawk-deluxe-drive/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Tomahawk Deluxe Drive.md"
+    "research_record": "./research/pedals/Greer Amps/Tomahawk Deluxe Drive.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/greer-amps-effects-and-pedals-overdrive-and-boost-greer-amps-tomahawk-deluxe-drive-gatoma-28127476187271.jpg?v=1646920580&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/greer-amps-tomahawk-deluxe-drive-287365"
   },
   {
     "builder": "Greer Amps",
@@ -27233,7 +27287,10 @@
     "builder": "Pigtronix",
     "pedal": "FAT Drive",
     "source_page": null,
-    "research_record": "./research/pedals/Pigtronix/FAT Drive.md"
+    "research_record": "./research/pedals/Pigtronix/FAT Drive.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--3klqMIly--/quality%3Dmedium-low%2Cheight%3D400%2Cwidth%3D400%2Cfit%3Dcover%2Cgravity%3Dbottom/hcrylbtm5tno3mahpow2.jpg",
+    "image_source_page": "https://reverb.com/en-pl/p/pigtronix-fat-drive-2012-white?ended_listing=94315634",
+    "image": "./assets/pedals/pigtronix/fat-drive/primary.webp"
   },
   {
     "builder": "Pigtronix",
@@ -27598,7 +27655,10 @@
     "builder": "Ramble FX",
     "pedal": "Twin Bender",
     "source_page": null,
-    "research_record": "./research/pedals/Ramble FX/Twin Bender.md"
+    "research_record": "./research/pedals/Ramble FX/Twin Bender.md",
+    "image_source_url": "https://www.chicagomusicexchange.com/cdn/shop/products/ramble-fx-effects-and-pedals-fuzz-ramble-fx-twin-bender-u4146911901-29863144259719.jpg?v=1665774307&width=1946",
+    "image_source_page": "https://www.chicagomusicexchange.com/products/ramble-fx-twin-bender-1610462",
+    "image": "./assets/pedals/ramble-fx/twin-bender/primary.webp"
   },
   {
     "builder": "Ratin Pedals",
@@ -31097,7 +31157,10 @@
     "builder": "Way Huge",
     "pedal": "Pork & Pickle",
     "source_page": null,
-    "research_record": "./research/pedals/Way Huge/Pork & Pickle.md"
+    "research_record": "./research/pedals/Way Huge/Pork & Pickle.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/L72631000000000-00-2000x2000.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Way-Huge-Electronics/Smalls-Pork-Pickle-Bass-Overdrive-Effects-Pedal-1500000314672.gc",
+    "image": "./assets/pedals/way-huge/pork-pickle/primary.webp"
   },
   {
     "builder": "Way Huge",
