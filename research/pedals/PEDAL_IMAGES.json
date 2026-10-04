@@ -24323,7 +24323,8 @@
     "builder": "Maxon",
     "pedal": "RTO700",
     "source_page": null,
-    "research_record": "./research/pedals/Maxon/RTO700.md"
+    "research_record": "./research/pedals/Maxon/RTO700.md",
+    "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/Maxon-RTO700-Real-Tube-Overdrive-Pedal/1QYP"
   },
   {
     "builder": "Maxon",
@@ -29311,9 +29312,11 @@
   {
     "builder": "ThorpyFX",
     "pedal": "Peacekeeper",
-    "image": "",
+    "image": "./assets/pedals/thorpyfx/peacekeeper/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/ThorpyFX/Peacekeeper.md"
+    "research_record": "./research/pedals/ThorpyFX/Peacekeeper.md",
+    "image_source_url": "https://thorpyfx.com/cdn/shop/files/PKPR1.jpg?v=1755776432&width=960",
+    "image_source_page": "https://thorpyfx.com/en-us/collections/thorpyfx-pedals/products/the-peacekeeper-low-gain-overdrive-copy"
   },
   {
     "builder": "ThorpyFX",
