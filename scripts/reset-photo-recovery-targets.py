@@ -82,7 +82,13 @@ def identity_quarantine_reasons(identity, values, quarantine):
 
 
 def load_fresh_recovery_keys():
-    """Return identities recovered by the browser in this exact workflow pass."""
+    """Return identities protected by this exact recovery pass.
+    
+    Both the browser manifest and the final Photo Foreman verdict matter here.
+    The merge job runs cleanup again after Foreman verification, and that second
+    cleanup must not erase a photo that has already passed the final acceptance
+    gate.
+    """
     keys = set()
     try:
         data = json.loads(PHOTO_RECOVERY_MANIFEST.read_text(encoding="utf-8"))
@@ -99,6 +105,22 @@ def load_fresh_recovery_keys():
                 keys.add((builder, pedal))
     except Exception:
         pass
+
+    # After artifact packaging, the browser manifest may be gone. The Foreman
+    # verdict is the authoritative surviving record of which recoveries passed
+    # identity, dimensions, provenance, and source-policy checks.
+    try:
+        verdict_path = Path("recovery-artifacts/photo-foreman-verdict.json")
+        verdict = json.loads(verdict_path.read_text(encoding="utf-8"))
+        for row in verdict.get("verdicts") or []:
+            if row.get("accepted") is True:
+                builder = str(row.get("builder") or "").strip()
+                pedal = str(row.get("pedal") or "").strip()
+                if builder and pedal:
+                    keys.add((builder, pedal))
+    except Exception:
+        pass
+
     return keys
 
 
