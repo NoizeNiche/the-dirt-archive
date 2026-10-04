@@ -153,6 +153,12 @@ def main():
                     elif approved_page and result_page != approved_page:
                         ok = False
                         reason = "recovered source page does not match the manually verified primary source"
+                elif method == "verified_image_search" and v.get("identityVerified") is True and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120:
+                    # A strong exact-model image search result with a verified source
+                    # page is already a dedicated recovery method in the browser lane.
+                    # Keep this acceptance path reachable instead of forcing every
+                    # search-derived recovery through manual-primary evidence.
+                    pass
                 elif method in {"exact_source_page", "verified_source_page"} and v.get("identityVerified") is True:
                     # A source page that passed the exact catalog identity gate may
                     # publish automatically when its URL is itself model-specific.
