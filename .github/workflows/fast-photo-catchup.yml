@@ -3,9 +3,9 @@ name: Fast photo catch-up
 on:
   workflow_dispatch:
   schedule:
-    # One scheduled safety pass per hour. Photo movement can self-dispatch the next
-    # bounded pass, so a 15-minute schedule only created contention.
-    - cron: "0 * * * *"
+    # Temporary closeout cadence: bounded recovery passes every 15 minutes.
+    # The newest-only concurrency lane prevents overlapping photo production.
+    - cron: "*/15 * * * *"
   push:
     paths:
       - research/PHOTO_FAST_KICK
