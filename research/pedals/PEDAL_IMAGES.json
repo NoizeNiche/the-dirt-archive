@@ -14222,7 +14222,10 @@
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
     "source_page": null,
-    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
+    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
+    "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
+    "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
+    "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
   },
   {
     "builder": "Compulsive Audio",
