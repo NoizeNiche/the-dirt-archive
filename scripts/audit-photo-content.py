@@ -77,21 +77,36 @@ def blocked_source(value: str, rules) -> str:
     return ""
 
 def known_bad_image_hashes(rules):
-    hashes = {}
-    for rule in rules:
-        if str(rule.get("type") or "") != "exact_url":
-            continue
-        url = str(rule.get("pattern") or "").strip()
-        if not re.match(r"^https?://", url, re.I):
-            continue
+    urls = [
+        str(rule.get("pattern") or "").strip()
+        for rule in rules
+        if str(rule.get("type") or "") == "exact_url"
+        and re.match(r"^https?://", str(rule.get("pattern") or "").strip(), re.I)
+    ]
+
+    def fetch_hash(url):
         try:
-            req = Request(url, headers={"User-Agent": "Mozilla/5.0 The Dirt Archive photo audit/1.0"})
+            req = Request(
+                url,
+                headers={"User-Agent": "Mozilla/5.0 The Dirt Archive photo audit/1.0"},
+            )
             with urlopen(req, timeout=8) as response:
                 data = response.read(5 * 1024 * 1024 + 1)
             if len(data) <= 5 * 1024 * 1024:
-                hashes[hashlib.sha256(data).hexdigest()] = url
+                return hashlib.sha256(data).hexdigest(), url
         except Exception:
-            pass
+            return None
+        return None
+
+    hashes = {}
+    # The blocklist can contain dozens of exact URLs. Hash them concurrently so
+    # the content gate remains bounded by network throughput rather than the
+    # slowest URL in a serial chain.
+    with ThreadPoolExecutor(max_workers=min(12, max(1, len(urls)))) as executor:
+        for result in executor.map(fetch_hash, urls):
+            if result:
+                digest, url = result
+                hashes[digest] = url
     return hashes
 
 def catalog_map():
