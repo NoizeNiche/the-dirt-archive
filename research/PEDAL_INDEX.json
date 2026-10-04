@@ -40022,14 +40022,16 @@
       "research_record": "./research/pedals/Ibanez/TK999OD.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/93736823-ibanez-tk999od-tube-king-overdrive-incl-box-adapter-and-ruby-12ax7ac5-tube-ecc82-currently-installed",
+      "image_source_page": "https://www.musiciansfriend.com/amplifiers-effects/ibanez-tk999od-tube-king-overdrive-guitar-effects-pedal",
       "image_source_pages": [
         "https://www.ibanez.com/usa/products/detail/tk999od_01.html",
         "https://reverb.com/item/93736823-ibanez-tk999od-tube-king-overdrive-incl-box-adapter-and-ruby-12ax7ac5-tube-ecc82-currently-installed"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1400
+      "image_source_priority": 1400,
+      "image_source_url": "https://media.musiciansfriend.com/is/image/MMGS7/TK999OD-Tube-King-Overdrive-Guitar-Effects-Pedal-White/423684000002000-00-500x500.jpg",
+      "image": "./assets/pedals/ibanez/tk999od/primary.webp"
     },
     {
       "company": "Ibanez",
