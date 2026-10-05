@@ -191,3 +191,11 @@ main{padding:22px 0 60px}
 .utilityLinks a:hover{text-decoration:underline}
 .utilityLinks a:focus-visible{outline:2px solid var(--acid);outline-offset:3px}
 .footerLink{margin-left:10px}
+
+
+/* Shared pedalboard skin */
+body{color:#f3f2ec;background:radial-gradient(circle at 50% -10%,rgba(223,255,56,.08),transparent 28%),linear-gradient(180deg,#20211f 0%,#0c0d0c 100%)}
+.methodHeader{border-bottom-color:#3e403b;background:linear-gradient(180deg,#1d1f1c,#131412)}
+.methodHeader h1{color:#f6f4ee}.eyebrow{color:#999b94}.lede{color:#a2a39c}
+main{padding-top:14px}.panel{border-color:#777a73;background:linear-gradient(180deg,#e9e9e3,#cacbc5);box-shadow:0 14px 28px rgba(0,0,0,.28),inset 0 1px 0 rgba(255,255,255,.55)}
+.panel.dark{border-color:#0a0b09;background:linear-gradient(180deg,#151614,#0c0d0b)}.panel h2{color:#151613}.panel p,.rows span,.ruleGrid span,.statusGrid p{color:#666861}.statusGrid>div{background:#e8e8e2;border-color:#9b9d97}.status{background:#d5d6cf;border-color:#9b9d97;color:#343630}.status.deep{background:#dfff38;border-color:#c5df45;color:#1c2200}.back{color:#d4d5ce}.utilityLinks a{color:#d4d5ce}.methodFooter{color:#9e9f98}
