@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 17 * * 0"
-  # Research is currently complete. Keep this lane event-driven so photo
-  # recovery and production QA are not competing with empty research cycles.
+  # Weekly research is an archive-growth lane. It remains bounded so research
+  # can grow continuously without blocking photo recovery or visual product work.
   push:
     paths:
       - 'research/RESEARCH_WORKER_KICK'
       - 'research/RESEARCH_SOURCE_OVERRIDES.csv'
       - 'research/PEDAL_IDENTITY_ALIASES.csv'
-  # Autonomous research resumed. Scheduled, source-change, and kick-triggered passes remain bounded.
+  # Manual, source-change, and weekly passes all use the same bounded research worker.
 
 permissions:
   contents: write
