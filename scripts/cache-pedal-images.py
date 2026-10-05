@@ -607,6 +607,23 @@ def cache_entry_prepare(entry):
     return ("download", entry, target, image)
 
 
+def reverb_image_fallbacks(url):
+    """Return unsigned/original Reverb CDN variants for a signed image URL."""
+    text_url = str(url or "").strip()
+    prefix = "https://rvb-img.reverb.com/image/upload/"
+    if not text_url.lower().startswith(prefix):
+        return []
+    path = text_url[len(prefix):]
+    variants = []
+    unsigned = re.sub(r"^s--[^/]+--/", "", path)
+    if unsigned != path:
+        variants.append(prefix + unsigned)
+    original_match = re.search(r"/(v\\d+/[^/]+)$", "/" + unsigned)
+    if original_match:
+        variants.append(prefix + original_match.group(1))
+    return list(dict.fromkeys(variants))
+
+
 def download_to_target(entry, target, source_url):
     # Curated direct-image overrides may contain several exact fallback URLs.
     # Try every explicit URL before falling back to images discovered from the
@@ -620,6 +637,7 @@ def download_to_target(entry, target, source_url):
             sources.append(value)
     if source_url and source_url.startswith(("http://", "https://")):
         sources.insert(0, source_url)
+        sources.extend(reverb_image_fallbacks(source_url))
 
     page_url = entry.get("image_source_page") or entry.get("source_page")
     if page_url and page_url.startswith(("http://", "https://")):
