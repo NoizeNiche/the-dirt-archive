@@ -6992,7 +6992,8 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1569,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--c8AW3lhG--/quality=medium-low,height=800,width=800,fit=contain/qlsnhje4y1lt7bzbac8j.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--c8AW3lhG--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/qlsnhje4y1lt7bzbac8j.jpg",
+      "image": "./assets/pedals/bad-penny-fx/littlebox-fuzz/primary.webp"
     },
     {
       "company": "Bad Penny FX",
@@ -7472,14 +7473,16 @@
       "research_record": "./research/pedals/BAE Audio/Tonestack Fuzz.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.effectsdatabase.com/model/bae/tonestack",
+      "image_source_page": "https://www.effectsdatabase.com/model/tonestack/fuzz",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
       "image_source_pages": [
         "https://www.effectsdatabase.com/model/bae/tonestack"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1489
+      "image_source_priority": 1489,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/tonestack_fuzz_001.jpg",
+      "image": "./assets/pedals/bae-audio/tonestack-fuzz/primary.webp"
     },
     {
       "company": "Baja Tech Custom",
@@ -27226,7 +27229,9 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
-      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc"
+      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc",
+      "image_source_url": "https://media.guitarcenter.com/is/image/MMGS7/151208000000000-00-600x600.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -32828,7 +32833,9 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1518
+      "image_source_priority": 1518,
+      "image_source_url": "https://www.fuzzgoddess.com/img/trifuzz-batch-2003.webp?v=mt23ritd",
+      "image": "./assets/pedals/devi-ever-fx/tri-fuzz/primary.webp"
     },
     {
       "company": "Devi Ever : FX",
@@ -33885,14 +33892,15 @@
       "research_record": "./research/pedals/Devi Ever FX/US.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://dirtboxlayouts.blogspot.com/2023/06/devi-ever-us-fuzz.html",
+      "image_source_page": "https://reverb.com/p/devi-ever-fx-us-fuzz",
       "image_source_pages": [
         "https://reverb.com/p/devi-ever-fx-us-fuzz"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1501,
-      "image_source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibV1zTXj0c4bjxaE1MF-rR9_JyukdfRbA8G9YPm7J3PDCwnCrLWUMsXsDDVCqt5odfaDhOtNiQqwLHhNmN7x45cA85qm-DTtWIM4u2Jmd4a1s0VkMhLoWO9dbovjG6TwcCj1ug_YKavcHIFT78uaB4lmdNTkMxF3SfCAIEhDWV6nydcPnKBlE25MmRGQ/w400-h400/DEvi%20Ever%20US%20Fuzzz.png"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--jc0BJ6oI--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/vouuddkxb2fjiy513vys.jpg",
+      "image": "./assets/pedals/devi-ever-fx/us/primary.webp"
     },
     {
       "company": "Devi Ever FX",
