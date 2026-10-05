@@ -142,17 +142,35 @@ def main():
                     approved_url, approved_page = approved
                     result_url = str(result.get("image_source_url") or "").strip()
                     result_page = str(result.get("image_source_page") or "").strip()
-                    # A browser transport fallback can resolve the exact reviewed
-                    # image through a CDN or the verified model page and therefore
-                    # legitimately return a different final image URL. Preserve the
-                    # curator's exact source-page binding in that case.
-                    same_reviewed_page = bool(approved_page) and result_page == approved_page
-                    if result_url != approved_url and not same_reviewed_page:
+                    # A browser transport fallback can resolve a different image
+                    # URL from the same curator-approved exact-model page. That is
+                    # safe because the page itself is the identity binding; keep the
+                    # stricter URL match only for results that came from nowhere in
+                    # the curated page set.
+                    norm_page = lambda value: str(value or "").strip().split("#", 1)[0].rstrip("/")
+                    same_reviewed_page = bool(approved_page) and norm_page(result_page) == norm_page(approved_page)
+                    entry = next(
+                        (
+                            catalog_entry for catalog_entry in json.loads(INDEX.read_text(encoding="utf-8")).get("pedals", [])
+                            if (
+                                str(catalog_entry.get("company") or catalog_entry.get("builder") or "").strip(),
+                                str(catalog_entry.get("pedal") or "").strip(),
+                            ) == identity
+                        ),
+                        None,
+                    )
+                    curated_pages = {
+                        norm_page(value)
+                        for value in ((entry or {}).get("image_source_pages") or [])
+                        if str(value or "").strip()
+                    }
+                    same_curated_page = bool(result_page) and norm_page(result_page) in curated_pages
+                    if result_url != approved_url and not (same_reviewed_page or same_curated_page):
                         ok = False
-                        reason = "recovered image URL is not the manually verified primary image"
-                    elif approved_page and result_page != approved_page:
+                        reason = "recovered image URL is not tied to a curator-approved exact-model source page"
+                    elif approved_page and not (same_reviewed_page or same_curated_page):
                         ok = False
-                        reason = "recovered source page does not match the manually verified primary source"
+                        reason = "recovered source page does not match an approved exact-model source"
                 elif method == "verified_image_search" and v.get("identityVerified") is True and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120:
                     # A strong exact-model image search result with a verified source
                     # page is already a dedicated recovery method in the browser lane.
