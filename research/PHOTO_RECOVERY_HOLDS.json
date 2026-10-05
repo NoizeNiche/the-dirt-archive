@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "policy": "manual-only-photo-recovery",
+  "entries": [
+    {
+      "builder": "Compulsive Audio",
+      "pedal": "Jimi - Octave Fuzz",
+      "reason": "Surviving indexed sources identify the catalog model, but recovered image candidates have resolved to unrelated Hendrix/MXR or other non-matching hardware."
+    },
+    {
+      "builder": "Bad Penny FX",
+      "pedal": "Lollygagger Overdrive",
+      "reason": "The surviving builder roundup confirms the model exists, but its available imagery is a multi-pedal builder collage rather than a verified Lollygagger product photograph."
+    },
+    {
+      "builder": "BJFE / BJF Electronics",
+      "pedal": "Sun Burst Fuzz",
+      "reason": "Historical repo imagery is a Photobucket-watermarked internal/gut-shot image, not a suitable verified exterior primary photograph."
+    },
+    {
+      "builder": "Captain FX",
+      "pedal": "War Pig",
+      "reason": "Historical repo imagery is a non-product Bing/UI capture, while current web results with the War Pig name include unrelated builders such as Mustard FX."
+    }
+  ]
+}
