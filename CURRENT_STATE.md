@@ -55,6 +55,8 @@ The research queue is generated from the canonical catalog and tracker; do not h
 Last refreshed: 2026-10-05T13:57:37.720805+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
+## Historical checkpoints
+
 ## 100-builder advisory checkpoint - September 28, 2026
 
 A synthetic 100-builder advisory council was added using 100 canonical builder identities already represented in the archive. The panel is grounded in publicly documented builder practices and is explicitly not presented as private interviews, votes, or endorsements.
