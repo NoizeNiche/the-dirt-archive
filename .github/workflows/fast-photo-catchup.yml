@@ -165,9 +165,42 @@ jobs:
               source_dest.parent.mkdir(parents=True, exist_ok=True)
               try:
                   if source_rel.suffix.lower() == ".source":
-                      with Image.open(source_path) as im:
-                          pil_image = im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
-                          pil_image.save(source_dest, "WEBP", quality=95, method=6)
+                      try:
+                          with Image.open(source_path) as im:
+                              pil_image = im.convert("RGBA") if "A" in im.getbands() else im.convert("RGB")
+                              pil_image.save(source_dest, "WEBP", quality=95, method=6)
+                      except Exception as pil_exc:
+                          # Some browser-captured formats are valid images but are
+                          # outside the Pillow build available on the runner
+                          # (for example AVIF). Try the runner's native image
+                          # converter before discarding a recovered candidate.
+                          import subprocess
+                          converter_ok = False
+                          for converter in ("magick", "convert", "ffmpeg"):
+                              try:
+                                  if converter == "ffmpeg":
+                                      cmd = [
+                                          converter, "-y", "-loglevel", "error",
+                                          "-i", str(source_path),
+                                          "-c:v", "libwebp", "-quality", "95",
+                                          str(source_dest),
+                                      ]
+                                  elif converter == "magick":
+                                      cmd = [converter, str(source_path), "-quality", "95", str(source_dest)]
+                                  else:
+                                      cmd = [converter, str(source_path), "-quality", "95", str(source_dest)]
+                                  subprocess.run(cmd, check=True, timeout=15, capture_output=True, text=True)
+                                  if source_dest.is_file() and source_dest.stat().st_size >= 3000:
+                                      converter_ok = True
+                                      print(
+                                          f"Recovered non-Pillow image via {converter}: "
+                                          f"{row.get('builder')} / {row.get('pedal')}"
+                                      )
+                                      break
+                              except Exception:
+                                  continue
+                          if not converter_ok:
+                              raise pil_exc
                   else:
                       shutil.copy2(source_path, source_dest)
               except Exception as exc:
