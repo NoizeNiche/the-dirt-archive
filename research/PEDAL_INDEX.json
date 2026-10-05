@@ -10222,8 +10222,7 @@
       "image_source_urls": [
         "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
       ],
-      "image": "./assets/pedals/big-ear/woodcutter/primary.webp",
-      "image_source_url": "https://static.wixstatic.com/media/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png/v1/fill/w_4465%2Ch_5599%2Cal_c%2Cq_95%2Cusm_0.66_1.00%2Cenc_avif%2Cquality_auto/8e3756_7908e413461f4fdb993bdc4460173265~mv2.png"
+      "image": null
     },
     {
       "company": "Big Ear NYC",
@@ -55941,7 +55940,7 @@
       "research_record": "./research/pedals/ThorpyFX/BUNKER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/bunker/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
@@ -56004,7 +56003,7 @@
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp"
+      "image": null
     },
     {
       "company": "ThorpyFX",
