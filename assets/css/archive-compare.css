@@ -29,3 +29,11 @@ main{padding:24px 0 70px}.panel{padding:18px;border:1px solid var(--line);border
 
 .compareRemove{padding:5px 7px!important;font-size:.52rem!important}
 .compareRemove:hover{background:#efede6}
+
+/* Shared pedalboard skin */
+body{color:#f3f2ec;background:radial-gradient(circle at 50% -10%,rgba(223,255,56,.08),transparent 28%),linear-gradient(180deg,#20211f 0%,#0c0d0c 100%)}
+header{border-bottom-color:#3e403b;background:linear-gradient(180deg,#1d1f1c,#131412)}
+h1{color:#f6f4ee}.sub,.crumb,.label{color:#999b94}
+main{padding-top:14px}.panel{border-color:#777a73;background:linear-gradient(180deg,#e9e9e3,#cacbc5);box-shadow:0 14px 28px rgba(0,0,0,.28),inset 0 1px 0 rgba(255,255,255,.55)}
+.action{background:#d8d9d3;border-color:#8a8d86}.action:hover{background:#ecece7}.action.primary{background:#dfff38;border-color:#dfff38}
+.tableWrap{border-color:#8a8d86}.comparison th{background:#c7c8c2;color:#555852}.comparison thead th:not(:first-child){background:#e8e8e2;color:#151613}.comparison td{color:#151613}.comparePhoto,.noPhoto{background:#bfc1bb}.compareMuted,.compareBuilder{color:#646861}.siteFooter{border-top-color:#3e403b;color:#9e9f98}.siteFooter a{color:#f3f2ec}
