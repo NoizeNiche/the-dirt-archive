@@ -35,6 +35,16 @@ const RECOVERY_DEADLINE_MS = Math.max(10000, Number(process.env.PHOTO_BROWSER_RE
 const MAX_RECOVERY_ATTEMPTS = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS || 12));
 const MAX_DEEP_REVIEW_CYCLES = Math.max(1, Number(process.env.PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES || 8));
 const REVISIT_PARKED = String(process.env.PHOTO_BROWSER_REVISIT_PARKED || 'false').toLowerCase() !== 'false';
+const PHOTO_RECOVERY_HOLDS = path.join(ROOT, 'research/PHOTO_RECOVERY_HOLDS.json');
+const ALLOW_MANUAL_HOLD_RETRY = String(process.env.PHOTO_BROWSER_REOPEN_MANUAL_HOLDS || 'false').toLowerCase() === 'true';
+let manualPhotoHoldKeys = new Set();
+try {
+  const holds = JSON.parse(fs.readFileSync(PHOTO_RECOVERY_HOLDS, 'utf8'));
+  for (const row of holds.entries || []) {
+    const identity = key(String(row.builder || '').trim(), String(row.pedal || '').trim());
+    if (identity) manualPhotoHoldKeys.add(identity);
+  }
+} catch {}
 let manifestOwnersByImage = new Map();
 
 let photoBlockRules = [];
@@ -5246,6 +5256,11 @@ function imageBytesLookComplete(bytes, contentType = '') {
       // The current run's curated direct-photo lane already produced an exact
       // image for this identity. Do not let the browser lane overwrite it.
       if (directRecoveryKeys.has(key(x.company, x.pedal))) return false;
+      // Known unresolved hard cases are kept out of bulk recovery once their
+      // evidence has been exhausted. Explicit targeted runs can still reopen
+      // them, so a future verified source can be admitted without changing the
+      // permanent hold policy.
+      if (!TARGET_BUILDER && !TARGET_PEDAL && manualPhotoHoldKeys.has(key(x.company, x.pedal)) && !ALLOW_MANUAL_HOLD_RETRY) return false;
       // Bulk recovery is exclusively for records whose tracker photo field is
       // still unresolved. Cleanup of already-complete records is handled only
       // through an explicit targeted run, so the backlog cannot be starved.
@@ -5305,6 +5320,7 @@ function imageBytesLookComplete(bytes, contentType = '') {
         .filter(entry => backlogKeys.has(key(entry.company, entry.pedal)))
         .filter(entry => !orderedKeys.has(key(entry.company, entry.pedal)))
         .filter(entry => !directRecoveryKeys.has(key(entry.company, entry.pedal)))
+        .filter(entry => !(manualPhotoHoldKeys.has(key(entry.company, entry.pedal)) && !ALLOW_MANUAL_HOLD_RETRY))
         .filter(entry => entry.research_record)
         .filter(entry => trackerMeta.get(key(entry.company, entry.pedal))?.pictureDone !== true)
         .sort((a, b) => {
