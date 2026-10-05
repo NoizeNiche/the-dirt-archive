@@ -2,6 +2,8 @@ name: Research worker team
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "17 17 * * 0"
   # Research is currently complete. Keep this lane event-driven so photo
   # recovery and production QA are not competing with empty research cycles.
   push:
@@ -16,7 +18,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: dirt-research-worker-v2
+  group: dirt-archive-write-v2
   # Queue research passes instead of cancelling a pass that is already gathering evidence.
   cancel-in-progress: false
 
@@ -258,7 +260,7 @@ jobs:
               ]
 
           letters=sorted(buckets)
-          while len(targets)<800 and any(buckets.values()):
+          while len(targets)<80 and any(buckets.values()):
               progressed=False
               for letter in letters:
                   if buckets[letter]:
@@ -266,7 +268,7 @@ jobs:
                       progressed=True
                       if len(targets)>=800: break
               if not progressed: break
-          TARGETS_PER_WORKER=40
+          TARGETS_PER_WORKER=20
           # An empty dynamic matrix is not a valid Actions matrix. Emit an empty
           # output instead so the gather job is skipped cleanly when the catalog
           # has no remaining deep-research targets.
@@ -285,10 +287,10 @@ jobs:
     if: ${{ needs.prepare.outputs.matrix != '' }}
     strategy:
       fail-fast: false
-      max-parallel: 20
+      max-parallel: 4
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     runs-on: ubuntu-latest
-    timeout-minutes: 14
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v7
       - name: Gather evidence for assigned targets
