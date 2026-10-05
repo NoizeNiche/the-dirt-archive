@@ -17,6 +17,7 @@ const PEDAL_IDENTITY_ALIASES = path.join(ROOT, 'research/PEDAL_IDENTITY_ALIASES.
 const PHOTO_SOURCE_BLOCKLIST = path.join(ROOT, 'research/PHOTO_SOURCE_BLOCKLIST.json');
 const PHOTO_MANUAL_REVIEW = path.join(ROOT, 'research/PHOTO_MANUAL_REVIEW.csv');
 const PHOTO_SOURCE_OVERRIDES = path.join(ROOT, 'research/PHOTO_SOURCE_OVERRIDES.csv');
+const PHOTO_IDENTITY_QUARANTINE = path.join(ROOT, 'research/PHOTO_IDENTITY_QUARANTINE.csv');
 const PHOTO_HASH_QUARANTINE = path.join(ROOT, 'research/PHOTO_HASH_QUARANTINE.csv');
 const LIMIT = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_LIMIT || 90));
 const CONCURRENCY = Math.max(1, Number(process.env.PHOTO_BROWSER_CACHE_CONCURRENCY || 8));
@@ -41,6 +42,32 @@ try {
   const policy = JSON.parse(fs.readFileSync(PHOTO_SOURCE_BLOCKLIST, 'utf8'));
   photoBlockRules = Array.isArray(policy.rules) ? policy.rules : [];
 } catch {}
+
+let identityQuarantinedSources = new Map();
+try {
+  const rows = csvRows(fs.readFileSync(PHOTO_IDENTITY_QUARANTINE, 'utf8'));
+  for (const row of rows) {
+    const builder = String(row.Builder || '').trim();
+    const pedal = String(row.Pedal || '').trim();
+    const blockedUrl = String(row['Blocked Image URL'] || '').trim().split('#')[0].toLowerCase();
+    if (!builder || !pedal || !blockedUrl) continue;
+    const identity = key(builder, pedal);
+    const bucket = identityQuarantinedSources.get(identity) || new Set();
+    bucket.add(blockedUrl);
+    identityQuarantinedSources.set(identity, bucket);
+  }
+} catch {}
+
+function isIdentityQuarantinedSource(entry, value) {
+  const identity = key(
+    String(entry?.company || entry?.builder || '').trim(),
+    String(entry?.pedal || '').trim()
+  );
+  const blocked = identityQuarantinedSources.get(identity);
+  if (!blocked || !blocked.size) return false;
+  const normalized = String(value || '').trim().split('#')[0].toLowerCase();
+  return Boolean(normalized && blocked.has(normalized));
+}
 
 let quarantinedPhotoHashes = new Set();
 try {
@@ -2386,7 +2413,9 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // blocked/stale pages consume the entire per-record recovery budget. Keep
     // enough room for the Reverb/image-search fallbacks that often rescue the
     // hardest records after the first few exact pages fail.
-    let pageUrls = preferredSourcePages(entry).slice(0, deepReview ? 5 : 4);
+    let pageUrls = preferredSourcePages(entry)
+      .filter(url => !isIdentityQuarantinedSource(entry, url))
+      .slice(0, deepReview ? 5 : 4);
     if (entry.company === 'CBC Pedals' && entry.pedal === 'Harmonic Percolator') {
       try {
         const legacyPages = await legacyCbcSourcePages(page, entry);
