@@ -504,24 +504,24 @@ def main():
     cache_workflow = (ROOT / ".github/workflows/cache-pedal-images.yml").read_text(encoding="utf-8")
 
     required_queue_hardening = (
-        ("dirt-research-workers-v5", research_workflow),
+        ("dirt-research-worker-v2", research_workflow),
         ("cancel-in-progress: false", research_workflow),
-        ("span=min(60,len(frontier))", research_workflow),
+        ("TARGETS_PER_WORKER=40", research_workflow),
         ("canonical_delta", research_workflow),
         ("No canonical research movement in this pass; stopping self-chain", research_workflow),
-        ("dirt-photo-publishing-v5", fast_photo_workflow),
+        ("dirt-photo-publishing-v6", fast_photo_workflow),
         ("cancel-in-progress: true", fast_photo_workflow),
-        ('PHOTO_BROWSER_CACHE_LIMIT: "60"', fast_photo_workflow),
-        ('PHOTO_BROWSER_CACHE_CONCURRENCY: "8"', fast_photo_workflow),
-        ("Production deployment verified", fast_photo_workflow),
+        ('PHOTO_BROWSER_CACHE_LIMIT: "32"', fast_photo_workflow),
+        ('PHOTO_BROWSER_CACHE_CONCURRENCY: "6"', fast_photo_workflow),
+        ("Photo Foreman accepted", fast_photo_workflow),
         ("Production deployment verified", parallel_photo_workflow),
         ("Deployment image audit scope:", deploy_text),
         ("imageAuditMode", deploy_text),
         ("researchAuditMode", deploy_text),
         ("changed/smoke researched parent pages", deploy_text),
-        ("dirt-image-cache", cache_workflow),
+        ("dirt-photo-publishing-v1", cache_workflow),
         ("cancel-in-progress: false", cache_workflow),
-        ("dirt-research-synthesis", synth_workflow),
+        ("dirt-archive-publisher-v1", synth_workflow),
         ("workflow_dispatch:", synth_workflow),
         ("timeout 30s env GIT_TERMINAL_PROMPT=0 git push", fast_photo_workflow),
         ("timeout 30s env GIT_TERMINAL_PROMPT=0 git push", cache_workflow),
@@ -565,8 +565,8 @@ def main():
         raise SystemExit("Home archive stylesheet is missing required UI selectors: " + ", ".join(missing_home_selectors))
     if 'PHOTO_BROWSER_CACHE_LIMIT: "120"' not in cache_workflow:
         raise SystemExit("Photo cache workflow batch limit is not the optimized 120-record window.")
-    if 'PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "75000"' not in cache_workflow:
-        raise SystemExit("Photo cache workflow recovery deadline is not the optimized 75-second window.")
+    if 'PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "120000"' not in cache_workflow:
+        raise SystemExit("Photo cache workflow recovery deadline is not the optimized 120-second window.")
     if "cache: 'no-cache'" not in CORE.read_text(encoding="utf-8"):
         raise SystemExit("Catalog/facet fetches are not using revalidating browser caches.")
     cache_script = (ROOT / "scripts/cache-pedal-images.py").read_text(encoding="utf-8")
