@@ -538,21 +538,3 @@ jobs:
 
           exit 1
 
-      - name: Continue bounded research lane
-        if: ${{ success() }}
-        env:
-          GH_TOKEN: ${{ github.token }}
-          DEEPENED_RESEARCH: ${{ steps.publish.outputs.deepened_research || '0' }}
-          CANONICAL_DELTA: ${{ steps.publish.outputs.canonical_delta || '0' }}
-        run: |
-          if [ "${DEEPENED_RESEARCH:-0}" -gt 0 ] || [ "${CANONICAL_DELTA:-0}" -gt 0 ]; then
-            echo "Research movement landed; queueing the next bounded research pass."
-            active="$(gh run list --workflow research-worker-team.yml --branch main --limit 10 --json status --jq '[.[] | select(.status != "completed")] | length')"
-            if [ "$active" -le 1 ]; then
-              gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
-            else
-              echo "Another research pass is already queued or active; no duplicate dispatch."
-            fi
-          else
-            echo "No canonical research movement in this pass; stopping self-chain to avoid retry thrash."
-          fi
