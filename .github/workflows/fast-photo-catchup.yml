@@ -2,10 +2,6 @@ name: Fast photo catch-up
 
 on:
   workflow_dispatch:
-  schedule:
-    # Temporary closeout cadence: bounded recovery passes every 15 minutes.
-    # The newest-only concurrency lane prevents overlapping photo production.
-    - cron: "*/15 * * * *"
   push:
     paths:
       - research/PHOTO_FAST_KICK
@@ -18,11 +14,11 @@ permissions:
 concurrency:
   # v6 clears stale queued v5 runs that can otherwise hold the single production
   # lane after a canceled recovery batch. Only one current v6 lane remains active.
-  group: dirt-photo-publishing-v6
+  group: dirt-archive-write-v2
   # Exactly one photo-production lane may run at a time. New kicks replace a
   # stale browser batch so improved recovery logic can take over promptly; every
   # publishing stage rehydrates main and re-verifies before writing canonical state.
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   recover:
