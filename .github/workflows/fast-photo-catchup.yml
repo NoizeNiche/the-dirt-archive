@@ -10,14 +10,10 @@ permissions:
   contents: write
   actions: write
 
-  # Refreshing this workflow file also forces the newest-only concurrency lock to replace stale runs.
 concurrency:
-  # v6 clears stale queued v5 runs that can otherwise hold the single production
-  # lane after a canceled recovery batch. Only one current v6 lane remains active.
   group: dirt-archive-write-v2
-  # Exactly one photo-production lane may run at a time. New kicks replace a
-  # stale browser batch so improved recovery logic can take over promptly; every
-  # publishing stage rehydrates main and re-verifies before writing canonical state.
+  # Exactly one archive write lane may run at a time. Recovery passes are explicit,
+  # bounded, resumable work units rather than an always-running queue.
   cancel-in-progress: false
 
 jobs:
