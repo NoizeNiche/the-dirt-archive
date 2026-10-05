@@ -3,6 +3,7 @@ name: Fast photo catch-up
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - research/PHOTO_FAST_KICK
 
