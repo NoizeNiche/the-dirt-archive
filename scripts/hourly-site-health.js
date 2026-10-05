@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 'use strict';
 
-// Push-triggered canary support: health fixes can be verified immediately.
-
 const fs = require('fs');
 const path = require('path');
 const cp = require('child_process');
@@ -204,7 +202,17 @@ async function changedFilesBetween(baseSha, headSha) {
 }
 
 async function waitForDeployment() {
-  const pages=await jsonFetch(SITE_API);
+  let pages;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      pages = await jsonFetch(SITE_API);
+      break;
+    } catch (error) {
+      if (attempt === 3) throw error;
+      console.warn(`Pages API attempt ${attempt} failed: ${error.message}. Retrying.`);
+      await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+    }
+  }
   const liveUrl=(pages.html_url||'').replace(/\/$/,'');
   if (!liveUrl) throw new Error('GitHub Pages API did not return a live URL');
 

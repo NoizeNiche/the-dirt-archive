@@ -1,25 +1,46 @@
-## Finish-line photo recovery checkpoint - October 3, 2026 (113 remaining)
-The canonical catalog is **4,200 records**, with **4,087 pictured / 4,087 complete** and **113 researched-photo-pending**. The research queue is complete. Exact-photo recovery and final production QA are the remaining launch gates.
-Recent recovery passes have published additional exact local photos while strict Builder + Pedal identity, version, provenance, quarantine, content, synchronization, and publication gates remain active. Newly verified primary-photo seeds for ThorpyFX, Walrus Audio, Xotic Effects, and other remaining records are queued for the next bounded recovery pass.
-## Photo recovery source-classifier checkpoint - October 3, 2026
+# Current Project State
 
-Exact discontinued-product pages under deeper `/legacy/<model>` routes are now eligible for photo recovery; only the bare `/legacy` landing route remains generic. This complements the existing exact-product exceptions for Reverb `/p/`, builder `/shop/` and `/store/`, and collection-product routes. The downstream Builder + Pedal identity gate remains unchanged.
+This file is the durable project checkpoint for The Dirt Archive.
 
-## Photo recovery extractor hardening checkpoint - October 3, 2026
+**Authoritative current counts:** the auto-generated phase block below. Any older dated checkpoint is historical context only.
 
-The photo recovery engine has been hardened without relaxing identity rules: exact Reverb `/p/` product records are now eligible alongside `/item/` listings; exact-model article/review pages can participate when builder + model identity is present in the URL; verified-page extraction now includes CSS background images plus legacy `itemprop=\"image\"`, `image_src`, and product-specific `data-*` image fields. The committed `browser-photo-cache.mjs` parses successfully after these changes. The bounded fast lane remains **60 targets / 12 workers / 900-second job deadline**.
+## Current production status
 
-## Photo raw-media extractor checkpoint - October 2, 2026
+The archive is in **Photo Recovery & Production QA**.
 
-The raw verified-page photo extractor now also harvests URLs from CSS `background` / `background-image` declarations and `data-background-image`, `data-background`, and `data-bg` attributes. These candidates still pass the existing blocked-asset filters, size/transport checks, and exact Builder + Pedal identity gates.
+- Canonical catalog: **4,200 records**
+- Research: **4,200 / 4,200 deep-researched**
+- Exact local photos: **4,196 / 4,200**
+- Exact-photo backlog: **4 records**
+- Research backlog: **0**
+- Remaining launch gates: **exact-photo recovery and final production QA**
 
-## Photo recovery budget-allocation checkpoint - October 2, 2026
+The four remaining photo gaps are tracked in `research/PHOTO_BACKLOG.csv`. An unresolved exact photo stays unresolved rather than being replaced with another pedal, version, clone, or guessed image.
 
-The browser photo recovery pass now bounds the initial curated-source loop to **4 pages for normal recovery and 5 for deep review**, reserving time within the per-record deadline for Reverb, image-search, and other indexed fallbacks. Exact source priority and downstream identity validation remain unchanged.
+## Source-of-truth recovery order
 
-## Photo recovery extractor checkpoint - October 2, 2026
+```
+Current generated phase block
+        ↓
+research/RESEARCH_QUEUE.json
+        ↓
+latest main commit
+        ↓
+owner file / script
+        ↓
+narrow validation
+```
 
-The photo recovery extractor now permits exact-model article/review source pages when the URL path itself contains matching pedal and builder identity. Generic article pages remain excluded, and downstream identity validation is unchanged. This allows model-specific historical reviews and launch pages to contribute image candidates without weakening the exact Builder + Pedal gate.
+Do not infer current state from chat history or old checkpoint prose.
+
+## Latest recovery result
+
+The most recent bounded fast photo pass completed successfully and left the exact-photo gate at four records. Photo recovery is intentionally finite and serialized. It does not recursively dispatch another recovery pass or a duplicate deployment.
+
+## Historical checkpoints
+
+All dated sections below are preserved for project history. They are not current-state declarations.
+
 <!-- AUTO:RESEARCH_PHASE_START -->
 ## Active phase checkpoint
 
