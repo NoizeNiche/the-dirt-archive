@@ -85,19 +85,19 @@ jobs:
           PHOTO_BROWSER_DEEP_REVIEW: "true"
           PHOTO_BROWSER_ALLOW_PARKED_RETRY: "true"
           PHOTO_BROWSER_REVISIT_PARKED: "true"
-          PHOTO_BROWSER_CACHE_LIMIT: "32"
-          PHOTO_BROWSER_CACHE_CONCURRENCY: "6"
-          PHOTO_DIRECT_CONCURRENCY: "3"
+          PHOTO_BROWSER_CACHE_LIMIT: "8"
+          PHOTO_BROWSER_CACHE_CONCURRENCY: "3"
+          PHOTO_DIRECT_CONCURRENCY: "2"
           PHOTO_BROWSER_PAGE_TIMEOUT_MS: "12000"
           PHOTO_BROWSER_SEARCH_TIMEOUT_MS: "10000"
           PHOTO_BROWSER_IMAGE_TIMEOUT_MS: "10000"
-          PHOTO_BROWSER_CANDIDATE_LIMIT: "6"
-          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "6"
-          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "40000"
-          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "40000"
-          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "8"
-          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "4"
-        run: timeout --kill-after=20s 600s node scripts/browser-photo-cache.mjs
+          PHOTO_BROWSER_CANDIDATE_LIMIT: "4"
+          PHOTO_BROWSER_SEARCH_VERIFY_LIMIT: "4"
+          PHOTO_BROWSER_RECOVERY_DEADLINE_MS: "20000"
+          PHOTO_BROWSER_FRESH_RECOVERY_DEADLINE_MS: "20000"
+          PHOTO_BROWSER_MAX_RECOVERY_ATTEMPTS: "4"
+          PHOTO_BROWSER_MAX_DEEP_REVIEW_CYCLES: "2"
+        run: timeout --kill-after=10s 240s node scripts/browser-photo-cache.mjs
 
       - name: Reset photo state discovered during browser recovery
         if: ${{ always() }}
