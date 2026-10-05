@@ -32293,7 +32293,7 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/deadastronautfx/easydriver/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "deep",
@@ -32306,7 +32306,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 828,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--kkKiQn1b--/a_0/f_auto%2Ct_large/v1699706749/upuzaowe808hv7yxhbmt.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/i/s--kkKiQn1b--/quality=medium-low,height=800,width=800,fit=contain/upuzaowe808hv7yxhbmt.jpg"
     },
     {
       "company": "DeadastronautFX",
@@ -38938,8 +38938,8 @@
       "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--DrTC8m0---/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1500811013/zj4cfto4lqswik9vhtjg.jpg",
+      "image": "./assets/pedals/greer-amps/ghetto-driver/primary.webp",
+      "image_source_url": "https://rvb-img.reverb.com/i/s--DrTC8m0---/quality=medium-low,height=800,width=800,fit=contain/zj4cfto4lqswik9vhtjg.jpg",
       "image_source_page": "https://reverb.com/item/6080665-greer-ghetto-driver"
     },
     {

@@ -16940,10 +16940,11 @@
   {
     "builder": "DeadastronautFX",
     "pedal": "EasyDriver",
-    "image": "",
+    "image": "./assets/pedals/deadastronautfx/easydriver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--kkKiQn1b--/a_0/f_auto%2Ct_large/v1699706749/upuzaowe808hv7yxhbmt.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--kkKiQn1b--/quality=medium-low,height=800,width=800,fit=contain/upuzaowe808hv7yxhbmt.jpg",
+    "image_source_page": "https://reverb.com/item/75743796-deadastronautfx-eazy-driver-dual-overdrive-pedal"
   },
   {
     "builder": "DeadastronautFX",
@@ -20490,10 +20491,11 @@
   {
     "builder": "Greer Amps",
     "pedal": "Ghetto Driver",
-    "image": "",
+    "image": "./assets/pedals/greer-amps/ghetto-driver/primary.webp",
     "source_page": null,
     "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
-    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--DrTC8m0---/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1500811013/zj4cfto4lqswik9vhtjg.jpg"
+    "image_source_url": "https://rvb-img.reverb.com/i/s--DrTC8m0---/quality=medium-low,height=800,width=800,fit=contain/zj4cfto4lqswik9vhtjg.jpg",
+    "image_source_page": "https://reverb.com/item/6080665-greer-ghetto-driver"
   },
   {
     "builder": "Greer Amps",
