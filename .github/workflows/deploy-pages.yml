@@ -138,8 +138,8 @@ jobs:
       - name: Browser audit for all researched pedal pages
         if: steps.freshness.outputs.current == 'true' && steps.browser_freshness.outputs.current == 'true'
         env:
-          DEPLOY_IMAGE_AUDIT_MODE: all
-          DEPLOY_IMAGE_AUDIT_WORKERS: 16
+          DEPLOY_IMAGE_AUDIT_MODE: changed
+          DEPLOY_IMAGE_AUDIT_WORKERS: 8
           # Deployment performs changed-page + bounded smoke research checks.
           # Exhaustive research-page QA belongs to exhaustive-quality-audit.yml.
           DEPLOY_RESEARCH_AUDIT_MODE: changed
