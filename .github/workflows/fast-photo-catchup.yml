@@ -293,6 +293,7 @@ jobs:
           with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
               fh.write(f"delta={delta}\n")
               fh.write(f"changed={changed}\n")
+              fh.write(f"accepted={accepted}\n")
           import json as _json
           import re as _re
           from collections import defaultdict as _defaultdict
@@ -374,7 +375,7 @@ jobs:
               )
 
       - name: Publish one synchronized batch
-        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0) || (steps.photo_gate.outputs.changed == '1')) }}
+        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) != 0) || (steps.photo_gate.outputs.accepted != '' && fromJSON(steps.photo_gate.outputs.accepted) > 0 && steps.photo_gate.outputs.changed == '1')) }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -419,7 +420,7 @@ jobs:
           exit 1
 
       - name: Continue finish-line photo lane
-        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0) || (steps.photo_gate.outputs.changed == '1')) }}
+        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) != 0) || (steps.photo_gate.outputs.accepted != '' && fromJSON(steps.photo_gate.outputs.accepted) > 0 && steps.photo_gate.outputs.changed == '1')) }}
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
