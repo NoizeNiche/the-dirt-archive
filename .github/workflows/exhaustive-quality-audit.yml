@@ -1,27 +1,9 @@
 name: Exhaustive detail and photo quality audit
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'pedal-detail.html'
-      - 'assets/css/archive-detail.css'
-      - 'assets/js/archive-detail.js'
-      - 'assets/js/archive-core.js'
-      - 'scripts/audit-detail-pages.js'
-      - 'scripts/audit-photo-content.py'
-      - 'scripts/audit-pictured-photo-hash-collisions.py'
-      - 'scripts/build-photo-hash-review.py'
-      - 'scripts/audit-photo-identity.py'
-      - 'scripts/audit-photo-revision-fidelity.py'
-      - 'scripts/audit-photo-provenance-quality.py'
-      - 'research/PHOTO_IDENTITY_KICK'
-      - 'research/pedals/**'
-      - 'scripts/verify-photo-manual-review-sync.py'
-      - '.github/workflows/exhaustive-quality-audit.yml'
   workflow_dispatch:
   schedule:
-    - cron: '17 4 * * *'
+    - cron: '17 4 * * 0'
 
 permissions:
   contents: read
