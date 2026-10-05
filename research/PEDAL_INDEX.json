@@ -27231,7 +27231,9 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
-      "image_source_page": "https://www.guitarcenter.com/Dunlop/Jimi-Hendrix-Octave-Fuzz-Pedal-1274228082241.gc"
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
+      "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
@@ -32341,14 +32343,16 @@
       "research_record": "./research/pedals/DeadastronautFX/X-Fuzz II.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal",
+      "image_source_page": "https://deadastronaut.wixsite.com/effects/pedals-for-sale",
       "image_source_pages": [
         "https://deadastronaut.wixsite.com/effects",
         "https://reverb.com/item/75744010-deadastronautfx-x-fuzz-ii-pedal"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1392
+      "image_source_priority": 1392,
+      "image_source_url": "https://static.wixstatic.com/media/ff4c6c_86ec380b03ab44b9baec8ef31f85a977~mv2.jpg",
+      "image": "./assets/pedals/deadastronautfx/x-fuzz-ii/primary.webp"
     },
     {
       "company": "Death By Audio",
