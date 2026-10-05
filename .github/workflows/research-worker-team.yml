@@ -7,6 +7,7 @@ on:
   # Weekly research is an archive-growth lane. It remains bounded so research
   # can grow continuously without blocking photo recovery or visual product work.
   push:
+    branches: [main]
     paths:
       - 'research/RESEARCH_WORKER_KICK'
       - 'research/RESEARCH_SOURCE_OVERRIDES.csv'

@@ -3,6 +3,7 @@ name: Normalize research content
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - research/CLEANUP_RESEARCH_KICK
       - scripts/clean-research-content.py
