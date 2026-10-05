@@ -165,10 +165,11 @@ def main():
                         if str(value or "").strip()
                     }
                     same_curated_page = bool(result_page) and norm_page(result_page) in curated_pages
-                    if result_url != approved_url and not (same_reviewed_page or same_curated_page):
+                    curated_recovery = v.get("curatedExactSourcePage") is True and v.get("identityVerified") is True
+                    if result_url != approved_url and not (same_reviewed_page or same_curated_page or curated_recovery):
                         ok = False
                         reason = "recovered image URL is not tied to a curator-approved exact-model source page"
-                    elif approved_page and not (same_reviewed_page or same_curated_page):
+                    elif approved_page and not (same_reviewed_page or same_curated_page or curated_recovery):
                         ok = False
                         reason = "recovered source page does not match an approved exact-model source"
                 elif method == "verified_image_search" and v.get("identityVerified") is True and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120:
