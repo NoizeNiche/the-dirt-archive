@@ -414,3 +414,4 @@ The deployment gate exposed six shared primary-photo paths across distinct ident
 The last completed exhaustive detail audit covered 4,199 researched parent pages and reported 32 failures. A fresh exhaustive audit is running with explicit per-record failure output so those pages can be corrected. A production deployment is not considered live until the validation and live browser audits pass.
 
 Visual/aesthetic redesign is intentionally deferred until these functional and data-quality gates are green.
+
