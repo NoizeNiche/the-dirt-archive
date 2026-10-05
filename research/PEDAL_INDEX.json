@@ -12693,13 +12693,15 @@
       "research_record": "./research/pedals/BJFE / BJF Electronics/Rebel Red Distortion.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+      "image_source_page": "https://www.2ndstreet.jp/goods/detail/goodsId/2342630028657/shopsId/31473",
       "image_source_pages": [
         "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1541
+      "image_source_priority": 1541,
+      "image_source_url": "https://cdn2.2ndstreet.jp/img/pc/goods/234263/00/28657/2.jpg",
+      "image": "./assets/pedals/bjfe-bjf-electronics/rebel-red-distortion/primary.webp"
     },
     {
       "company": "BJFE / BJF Electronics",
@@ -27231,7 +27233,9 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
-      "image_source_page": "https://www.gear4music.cz/cs/Kytara-baskytara/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4"
+      "image_source_page": "https://www.gear4music.cz/cs/Kytara-baskytara/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
+      "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
+      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
     },
     {
       "company": "Compulsive Audio",
