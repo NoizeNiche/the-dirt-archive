@@ -27216,9 +27216,7 @@
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 565,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--Pr3LLNGk--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain%2Ctrim.top%3D0%2Ctrim.left%3D0%2Ctrim.width%3D3024%2Ctrim.height%3D3024/duit0yyskhthfnxklild.jpg",
-      "image": "./assets/pedals/compulsive-audio/hair-band-distortion/primary.webp"
+      "image_source_priority": 565
     },
     {
       "company": "Compulsive Audio",
@@ -27231,9 +27229,7 @@
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
       "photo_recovery_note": "Previous image provenance was an Effects Database donation graphic, not a pedal photograph. Exact-photo recovery required.",
-      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4",
-      "image_source_url": "https://r2.gear4music.com/media/5/5608/1200/preview.jpg",
-      "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp"
+      "image_source_page": "https://www.gear4music.com/Guitar-and-Bass/DISCONTINUED-Jim-Dunlop-Jimi-Hendrix-Octave-Fuzz/5U4"
     },
     {
       "company": "Compulsive Audio",
