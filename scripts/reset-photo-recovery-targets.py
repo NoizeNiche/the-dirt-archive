@@ -472,6 +472,22 @@ def main():
             if asset.is_file():
                 continue
             identity = key(entry.get("company") or entry.get("builder"), entry.get("pedal"))
+            # Fresh recovery results may intentionally point at a temporary
+            # .source file whose final WebP is created by the packaging stage
+            # immediately after this cleanup. Do not erase that handoff before
+            # Photo Foreman can inspect it. Explicit identity quarantine still
+            # wins and remains eligible for cleanup.
+            quarantine_values = [
+                str(entry.get("image_source_url") or ""),
+                str(entry.get("image_source_page") or ""),
+            ]
+            quarantine_values.extend(str(value or "") for value in (entry.get("image_source_urls") or []))
+            quarantine_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
+            explicit_identity_quarantine = bool(
+                identity_quarantine_reasons(identity, quarantine_values, identity_quarantine)
+            )
+            if identity in fresh_recovery_keys and not explicit_identity_quarantine:
+                continue
             # A recovery manifest is not evidence that the physical asset still
             # exists. If the file is missing at reconciliation time, clear the
             # canonical pointer so downstream cache/sync cannot recreate a dangling
