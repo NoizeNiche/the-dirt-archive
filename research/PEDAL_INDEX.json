@@ -4821,7 +4821,9 @@
       "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1376
+      "image_source_priority": 1376,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--aP07gKRL--/a_0%2Cc_crop%2Ch_0.750%2Cw_1.000%2Cx_0.000%2Cy_0.102/f_auto%2Ct_large/v1683897193/pgtr9f8uvwl0fzdmzqe9.jpg",
+      "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-pro-drive/primary.webp"
     },
     {
       "company": "Ashdown Engineering",
@@ -39612,7 +39614,7 @@
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1574,
-      "image_source_url": "https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg"
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--yHQ-FIsQ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1478883758/yznbt2yrnvqrc2gf7veb.jpg"
     },
     {
       "company": "Himmelstrutz Elektro Art",
@@ -45388,13 +45390,15 @@
       "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.madebymike.co.uk/",
+      "image_source_page": "https://www.effectsdatabase.com/model/madebymike/dreambox",
       "image_source_pages": [
         "https://www.madebymike.co.uk/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 1430
+      "image_source_priority": 1430,
+      "image_source_url": "https://files.effectsdatabase.com/gear/pics/madebymike_dreambox_001.jpg",
+      "image": "./assets/pedals/madebymike/dual-drive/primary.webp"
     },
     {
       "company": "MadeByMike",
@@ -52106,19 +52110,20 @@
       "types": [
         "Overdrive"
       ],
-      "image": null,
+      "image": "./assets/pedals/pigdog-pedals/go/primary.webp",
       "source_page": null,
       "research_record": "./research/pedals/Pigdog Pedals/GO.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.guitarpedalx.com/news/gpx-blog/pigdogs-germanium-overdrive-delivers-a-beautifully-rich-and-harmonic-mid-gain-overdrive-profile-courtesy-of-its-vintage-rca-2n270-germanium-transistor-and-2-germanium-diodes",
+      "image_source_page": "https://reverb.com/en-ee/item/100773423-pigdog-germanium-overdrive-2026",
       "image_source_priority": 1330,
       "image_source_pages": [
         "https://www.pigdogpedals.com/shop/",
         "https://www.guitarpedalx.com/news/gpx-blog/pigdogs-germanium-overdrive-delivers-a-beautifully-rich-and-harmonic-mid-gain-overdrive-profile-courtesy-of-its-vintage-rca-2n270-germanium-transistor-and-2-germanium-diodes"
       ],
       "image_source_pages_verified": true,
-      "image_source_page_verified": true
+      "image_source_page_verified": true,
+      "image_source_url": "https://rvb-img.reverb.com/i/s--6G1cuUuN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bfb8e09b-c0ee-4e46-87b7-bf7d41d2e712.jpg"
     },
     {
       "company": "Pigtronix",

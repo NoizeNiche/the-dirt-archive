@@ -2592,9 +2592,11 @@
   {
     "builder": "Ashdown Engineering",
     "pedal": "ABM PRO-FX Pro Drive",
-    "image": null,
+    "image": "./assets/pedals/ashdown-engineering/abm-pro-fx-pro-drive/primary.webp",
     "source_page": "https://www.effectsdatabase.com/model/ashdown",
-    "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md"
+    "research_record": "./research/pedals/Ashdown Engineering/ABM PRO-FX Pro Drive.md",
+    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--aP07gKRL--/a_0%2Cc_crop%2Ch_0.750%2Cw_1.000%2Cx_0.000%2Cy_0.102/f_auto%2Ct_large/v1683897193/pgtr9f8uvwl0fzdmzqe9.jpg",
+    "image_source_page": "https://ashdownmusic.com/collections/last-chance/products/b-stock-abm-pro-fx-pro-drive"
   },
   {
     "builder": "Ashdown Engineering",
@@ -20844,7 +20846,7 @@
     "image": null,
     "source_page": null,
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/GRAMPS+.md",
-    "image_source_url": "https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg",
+    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--yHQ-FIsQ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1478883758/yznbt2yrnvqrc2gf7veb.jpg",
     "image_source_page": "https://www.himmelstrutz.com/gramps/"
   },
   {
@@ -23792,7 +23794,10 @@
     "builder": "MadeByMike",
     "pedal": "Dual Drive",
     "source_page": null,
-    "research_record": "./research/pedals/MadeByMike/Dual Drive.md"
+    "research_record": "./research/pedals/MadeByMike/Dual Drive.md",
+    "image_source_url": "https://files.effectsdatabase.com/gear/pics/madebymike_dreambox_001.jpg",
+    "image_source_page": "https://www.effectsdatabase.com/model/madebymike/dreambox",
+    "image": "./assets/pedals/madebymike/dual-drive/primary.webp"
   },
   {
     "builder": "MadeByMike",
@@ -27260,9 +27265,11 @@
   {
     "builder": "Pigdog Pedals",
     "pedal": "GO",
-    "image": "",
+    "image": "./assets/pedals/pigdog-pedals/go/primary.webp",
     "source_page": null,
-    "research_record": "./research/pedals/Pigdog Pedals/GO.md"
+    "research_record": "./research/pedals/Pigdog Pedals/GO.md",
+    "image_source_url": "https://rvb-img.reverb.com/i/s--6G1cuUuN--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/bfb8e09b-c0ee-4e46-87b7-bf7d41d2e712.jpg",
+    "image_source_page": "https://reverb.com/en-ee/item/100773423-pigdog-germanium-overdrive-2026"
   },
   {
     "builder": "Pigtronix",

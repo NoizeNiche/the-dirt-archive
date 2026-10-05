@@ -2,11 +2,11 @@
 
 - Cached in this run: **0**
 - Staged browser photos converted: **0**
-- Local images retained/reorganized: **0**
+- Local images retained/reorganized: **3**
 - Cleared stale/quarantined local image references: **0**
 - Download failures: **1**
-- Remaining tracker photo backlog: **13**
-- Researched, photo pending: **13**
+- Remaining tracker photo backlog: **10**
+- Researched, photo pending: **10**
 - External source images awaiting localization: **0**
 
 ## Storage layout
@@ -17,6 +17,6 @@
 
 ## Still external / failed
 
-- Himmelstrutz Elektro Art - GRAMPS+: https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg: curl: (22) The requested URL returned error: 500 (`https://rvb-img.reverb.com/i/s--a9OeI703--/quality%3Dmedium-low%2Cheight%3D800%2Cwidth%3D800%2Cfit%3Dcontain/adb9asgtpippaaxgvihy.jpg`)
+- Himmelstrutz Elektro Art - GRAMPS+: https://rvb-img.reverb.com/image/upload/s--yHQ-FIsQ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1478883758/yznbt2yrnvqrc2gf7veb.jpg: curl: (22) The requested URL returned error: 401 (`https://rvb-img.reverb.com/image/upload/s--yHQ-FIsQ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1478883758/yznbt2yrnvqrc2gf7veb.jpg`)
 
 These records remain externally referenced until a later cache run succeeds.
