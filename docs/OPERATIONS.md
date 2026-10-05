@@ -69,6 +69,8 @@ The current canonical production state has four exact-photo gaps:
 
 These stay photo-needed until an exact local asset passes the existing identity and content gates.
 
+The exact-image duplicate review is report-only and is tracked in `research/PHOTO_CROSS_BUILDER_AUDIT.md`. Cross-builder reuse is investigated by provenance before any replacement or deletion.
+
 ## Developer recovery
 
 When resuming work, trust the repository:
