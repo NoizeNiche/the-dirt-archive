@@ -2,9 +2,6 @@ name: Repair catalog metadata
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - research/CATALOG_METADATA_REPAIR_KICK
 
 permissions:
   contents: write

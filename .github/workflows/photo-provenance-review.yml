@@ -1,11 +1,6 @@
 name: Photo provenance review
 
 on:
-  push:
-    paths:
-      - 'research/PEDAL_INDEX.json'
-      - 'research/PEDAL_IMAGES.json'
-      - 'scripts/audit-photo-provenance.py'
   workflow_dispatch:
   schedule:
     - cron: "17 9 * * 6"

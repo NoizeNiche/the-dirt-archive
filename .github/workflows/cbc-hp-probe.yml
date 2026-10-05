@@ -1,9 +1,6 @@
 name: CBC Harmonic Percolator probe
 
 on:
-  push:
-    paths:
-      - .github/workflows/cbc-hp-probe.yml
   workflow_dispatch:
 
 permissions:

@@ -1,14 +1,6 @@
 name: Exhaustive photo identity audit
 
 on:
-  push:
-    paths:
-      - 'research/PHOTO_IDENTITY_KICK'
-      - 'research/PEDAL_INDEX.json'
-      - 'research/PRP_TRACKER.csv'
-      - 'research/pedals/PEDAL_IMAGES.json'
-      - 'scripts/audit-photo-identity.py'
-      - '.github/workflows/exhaustive-photo-identity.yml'
   workflow_dispatch:
 
 permissions:

@@ -1,12 +1,6 @@
 name: Research content audit
 
 on:
-  push:
-    paths:
-      - 'research/pedals/**'
-      - 'scripts/audit-research-content.py'
-      - 'scripts/clean-research-content.py'
-      - 'research/RESEARCH_CONTENT_CLEANUP_KICK'
   workflow_dispatch:
   schedule:
     - cron: "43 7 * * 0"
