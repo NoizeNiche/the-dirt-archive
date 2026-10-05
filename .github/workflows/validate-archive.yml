@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'index.html'
-      - 'pedal.html'
-      - 'pedal-detail.html'
+      - '*.html'
+      - 'assets/css/**'
+      - 'assets/js/**'
       - 'research/PEDAL_INDEX.json'
       - 'research/PRP_TRACKER.csv'
       - 'research/pedals/PEDAL_IMAGES.json'
