@@ -300,6 +300,49 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
         page.goto(source_page, wait_until="domcontentloaded", timeout=TIMEOUT * 1000)
         page.wait_for_timeout(600)
 
+        # Force common lazy-loaded product media to hydrate before harvesting.
+        # Boutique/marketplace pages often leave the visible <img> as a tiny
+        # placeholder while the real product image lives in data-src/srcset.
+        try:
+            page.evaluate("""
+                () => {
+                    for (const img of document.querySelectorAll('img')) {
+                        const src =
+                            img.getAttribute('data-full-src') ||
+                            img.getAttribute('data-large-image') ||
+                            img.getAttribute('data-zoom-image') ||
+                            img.getAttribute('data-original-src') ||
+                            img.getAttribute('data-image') ||
+                            img.getAttribute('data-image-url') ||
+                            img.getAttribute('data-src') ||
+                            img.getAttribute('data-lazy-src') ||
+                            '';
+                        const srcset =
+                            img.getAttribute('data-srcset') ||
+                            img.getAttribute('data-lazy-srcset') ||
+                            img.getAttribute('srcset') ||
+                            '';
+                        if (src && /^https?:/i.test(src)) {
+                            img.loading = 'eager';
+                            img.src = src;
+                        } else if (srcset) {
+                            img.loading = 'eager';
+                            img.setAttribute('srcset', srcset);
+                        }
+                    }
+                    for (const source of document.querySelectorAll('picture source')) {
+                        const srcset = source.getAttribute('data-srcset') || source.getAttribute('srcset') || '';
+                        if (srcset) source.setAttribute('srcset', srcset);
+                    }
+                    window.scrollTo(0, Math.min(document.body.scrollHeight || 0, 1400));
+                }
+            """)
+            page.wait_for_timeout(900)
+            page.evaluate("() => window.scrollTo(0, 0)")
+            page.wait_for_timeout(250)
+        except Exception:
+            pass
+
         candidates = []
         for selector, attr in (
             ('meta[property="og:image"]', "content"),
@@ -338,17 +381,16 @@ def fetch_from_source_page(source_page: str) -> tuple[bytes, str]:
             except Exception:
                 continue
 
-        # Last resort: capture the largest image that actually rendered on the
-        # exact source page. The resulting PNG is still Pillow-validated.
-        for row in image_rows[:8]:
-            candidate = str(row.get("src") or "").strip()
-            if not candidate:
-                continue
-            try:
-                image = page.locator("img").filter(has=page.locator('')).first
-            except Exception:
-                pass
-        ranked = page.locator("img").all()
+        # Last resort: capture rendered product media from the exact source page.
+        # Prefer obvious marketplace/product-gallery selectors before falling back
+        # to the largest rendered image.
+        ranked = page.locator(
+            'img[src*="rvb-img.reverb.com"], '
+            'img[src*="reverb-assets"], '
+            'img[src*="cdn.shopify.com"], '
+            'img[src*="shopifycdn.com"], '
+            'figure img, [data-testid*="image"] img, [data-testid*="gallery"] img, img'
+        ).all()
         ranked_with_size = []
         for image in ranked:
             try:
