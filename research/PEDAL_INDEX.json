@@ -32298,14 +32298,15 @@
       "research_record": "./research/pedals/DeadastronautFX/EasyDriver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://deadastronaut.wixsite.com/effects",
+      "image_source_page": "https://reverb.com/item/75743796-deadastronautfx-eazy-driver-dual-overdrive-pedal",
       "image_source_pages": [
         "https://deadastronaut.wixsite.com/effects/easydrivepcbdeadastronautfx",
         "https://deadastronaut.wixsite.com/effects"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
-      "image_source_priority": 828
+      "image_source_priority": 828,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--kkKiQn1b--/a_0/f_auto%2Ct_large/v1699706749/upuzaowe808hv7yxhbmt.jpg"
     },
     {
       "company": "DeadastronautFX",
@@ -39614,11 +39615,12 @@
       "image_source_pages": [
         "https://www.ebay.com/itm/389024216669"
       ],
-      "image_source_page": "https://reverb.com/item/3403463-himmelstrutz-gramps",
+      "image_source_page": "https://www.rockboard.de/en/pedalPedia/Himmelstrutz/Gramps/68979859/",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1574,
-      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--yHQ-FIsQ--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1478883758/yznbt2yrnvqrc2gf7veb.jpg"
+      "image_source_url": "https://cdn.rockboard.de/common/image_a5b053c1-cb8c-41d2-b462-568f28b2471b.webp",
+      "image": "./assets/pedals/himmelstrutz-elektro-art/gramps-plus/primary.webp"
     },
     {
       "company": "Himmelstrutz Elektro Art",
