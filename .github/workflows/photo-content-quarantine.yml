@@ -1,15 +1,7 @@
 name: Photo content quarantine
 
 on:
-  push:
-    paths:
-      - 'research/PHOTO_CONTENT_QUARANTINE_KICK'
-      - 'scripts/quarantine-photo-content.py'
-      - 'scripts/audit-photo-content.py'
-      - 'scripts/merge-photo-audit.py'
-      - 'research/PHOTO_SOURCE_BLOCKLIST.json'
   workflow_dispatch:
-
 permissions:
   contents: write
 

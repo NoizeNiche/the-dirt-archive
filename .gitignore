@@ -1,2 +1,30 @@
-# Local recovery handoff artifacts
-photo-recovery-results.json
+# macOS / editor noise
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Node / browser tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+playwright-report/
+test-results/
+
+# Local development output
+*.log
+/tmp/
+tmp/
+.cache/
+
+# Generated archive data and research assets are intentionally tracked.
