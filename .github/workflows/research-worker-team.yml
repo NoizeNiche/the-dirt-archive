@@ -511,7 +511,12 @@ jobs:
             if git push origin main; then
               published_sha="$(git rev-parse HEAD)"
               echo "Published bounded research batch: $published_sha"
-              echo "Deploy-on-main owns Pages publication; this research lane stops after its finite pass."
+              # GITHUB_TOKEN-originated pushes do not start a new workflow run.
+              # Keep one explicit Pages handoff, but never recursively queue research/photo work.
+              if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main; then
+                echo "Pages deployment dispatch was not accepted; the published research commit remains on main."
+              fi
+              echo "Pages deployment dispatched for $published_sha; research lane stops after this bounded pass."
               exit 0
             fi
 

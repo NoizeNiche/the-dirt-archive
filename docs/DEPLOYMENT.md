@@ -35,6 +35,7 @@ GitHub Actions already owns static publication through `.github/workflows/deploy
 The clean architecture is:
 
 - **GitHub Actions** validates and publishes.
+- **Publishing workflows** make one explicit Pages handoff when their `GITHUB_TOKEN` push would otherwise suppress a follow-on workflow.
 - **GitHub Pages** serves the canonical build.
 - **Cloudflare** handles custom-domain DNS and, when enabled, edge proxy/cache/security.
 

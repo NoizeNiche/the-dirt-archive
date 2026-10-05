@@ -8,7 +8,7 @@ The archive uses a two-speed model.
 
 Photo recovery is a bounded write lane. It is explicit, resumable and serialized against other canonical write jobs.
 
-A successful recovery batch commits verified assets and derived state to `main`. Deployment is handled by the normal filtered `main` deployment path. Recovery should not dispatch a second deployment or recursively queue another recovery run.
+A successful recovery batch commits verified assets and derived state to `main`. Because GitHub Actions pushes made with `GITHUB_TOKEN` do not trigger another workflow, the publishing writer performs one explicit Pages dispatch after a successful canonical push. Recovery never recursively queues another recovery run.
 
 ### Archive growth
 

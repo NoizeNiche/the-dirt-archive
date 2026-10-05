@@ -35,7 +35,7 @@ Do not infer current state from chat history or old checkpoint prose.
 
 ## Latest recovery result
 
-The most recent bounded fast photo pass completed successfully and left the exact-photo gate at four records. Photo recovery is intentionally finite and serialized. It does not recursively dispatch another recovery pass or a duplicate deployment.
+The most recent bounded fast photo pass completed successfully and left the exact-photo gate at four records. Photo recovery is intentionally finite and serialized. It does not recursively dispatch another recovery pass; its single Pages handoff is explicit because the publishing push uses `GITHUB_TOKEN`.
 
 ## Historical checkpoints
 
