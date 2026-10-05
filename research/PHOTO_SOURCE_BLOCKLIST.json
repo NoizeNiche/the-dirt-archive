@@ -393,6 +393,12 @@
       "pattern": "https://www.vintageandrare.com/img/twitter_login.png",
       "reason": "Vintage and Rare login-button artwork surfaced as a pedal image, not a product photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://pedaljungle.com/cdn/shop/files/mustard-fx-war-pig-mullard-oc44-treble-boost-fx-pedal-used-2673984.jpg?v=1754977931&width=480",
+      "reason": "Pedal Jungle image is a Mustard FX War Pig treble boost, not the Captain FX War Pig fuzz.",
+      "severity": "hard_block"
     }
   ]
 }
