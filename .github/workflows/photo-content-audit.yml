@@ -1,14 +1,6 @@
 name: Photo content audit
 
 on:
-  push:
-    paths:
-      - 'assets/pedals/**'
-      - 'research/PEDAL_INDEX.json'
-      - 'research/PHOTO_CONTENT_AUDIT_KICK'
-      - 'scripts/audit-photo-content.py'
-      - 'research/PHOTO_SOURCE_BLOCKLIST.json'
-      - '.github/workflows/photo-content-audit.yml'
   workflow_dispatch:
   schedule:
     - cron: "17 6 * * 0"

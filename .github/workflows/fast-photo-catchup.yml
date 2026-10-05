@@ -443,17 +443,3 @@ jobs:
             git commit -m "Archive parallel verified pedal photos"
           done
           exit 1
-
-      - name: Continue finish-line photo lane
-        if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) != 0) || (steps.photo_gate.outputs.accepted != '' && fromJSON(steps.photo_gate.outputs.accepted) > 0 && steps.photo_gate.outputs.changed == '1')) }}
-        env:
-          GH_TOKEN: ${{ github.token }}
-        shell: bash
-        run: |
-          active="$(gh run list --workflow fast-photo-catchup.yml --branch main --limit 10 --json status --jq '[.[] | select(.status != "completed")] | length')"
-          if [ "$active" -le 1 ]; then
-            echo "Photo movement landed; queueing the next bounded fast recovery pass."
-            gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/fast-photo-catchup.yml/dispatches" -f ref=main
-          else
-            echo "Another fast photo pass is already queued or active; no duplicate dispatch."
-          fi
