@@ -35,6 +35,7 @@ HARD_QUARANTINED_PHOTOS = set()
 RESEARCHED_PHOTO_PENDING_KEYS = set()
 PROTECTED_SHARED_ASSETS = set()
 CURRENT_RUN_ACCEPTED_PHOTOS = set()
+DIRECT_PRIMARY_PHOTOS = {}
 
 
 def load_photo_blocklist():
@@ -125,6 +126,40 @@ def blocked_photo_url(value):
 
 def key(builder, pedal):
     return f"{builder}\0{pedal}"
+
+def load_curated_direct_photos():
+    """Load the single curator-approved PRIMARY image/source pair for each identity."""
+    global DIRECT_PRIMARY_PHOTOS
+    DIRECT_PRIMARY_PHOTOS = {}
+    path = ROOT / "research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv"
+    if not path.exists():
+        return
+    primaries = {}
+    try:
+        with path.open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                builder = str(row.get("Builder") or "").strip()
+                pedal = str(row.get("Pedal") or "").strip()
+                image_url = str(row.get("Image URL") or "").strip()
+                source_page = str(row.get("Image Source Page") or row.get("Source Page") or "").strip()
+                notes = str(row.get("Notes") or "").strip().lower()
+                if (
+                    not builder or not pedal or not image_url or not source_page
+                    or not re.match(r"^https?://", image_url, re.I)
+                    or not re.match(r"^https?://", source_page, re.I)
+                    or "photo review: primary" not in notes
+                ):
+                    continue
+                bucket = primaries.setdefault(key(builder, pedal), set())
+                bucket.add((image_url, source_page))
+    except Exception:
+        return
+    DIRECT_PRIMARY_PHOTOS = {
+        identity: next(iter(pairs))
+        for identity, pairs in primaries.items()
+        if len(pairs) == 1
+    }
+
 
 def load_current_run_accepted_photos():
     """Honor Photo Foreman's final acceptance for this exact recovery pass.
@@ -497,13 +532,27 @@ def cache_entry_prepare(entry):
                 return ("retain", entry, rel_path(target), None)
 
     # Curated direct-image overrides are authoritative over any legacy
-    # external image URL still stored in the catalog. Prefer the verified
-    # provenance URL before considering the stale public image field.
+    # external image URL still stored in the catalog. Prefer the exact curator
+    # pair before considering stale catalog provenance.
+    curated_pair = DIRECT_PRIMARY_PHOTOS.get(entry_key)
+    if curated_pair:
+        curated_image_url, curated_source_page = curated_pair
+        if (
+            not blocked_photo_url(curated_image_url)
+            and not (
+                entry_key in HARD_QUARANTINED_PHOTOS
+                and entry_key not in CURRENT_RUN_ACCEPTED_PHOTOS
+            )
+        ):
+            entry["image_source_url"] = curated_image_url
+            entry["image_source_page"] = curated_source_page
+            return ("download", entry, target, curated_image_url)
+
     curated_source_url = str(entry.get("image_source_url") or "").strip()
     if (
         curated_source_url
         and entry.get("image_source_page_verified") is True
-        and key(entry.get("company") or entry.get("builder"), entry.get("pedal")) in MANUAL_VERIFIED_PHOTOS
+        and entry_key in MANUAL_VERIFIED_PHOTOS
         and re.match(r"^https?://", curated_source_url, re.I)
     ):
         return ("download", entry, target, curated_source_url)
@@ -650,6 +699,7 @@ def main():
 
     load_photo_blocklist()
     load_manual_verified_photos()
+    load_curated_direct_photos()
     load_current_run_accepted_photos()
     load_hard_quarantined_photos()
     normalized_existing = normalize_mislabelled_webp_assets()
