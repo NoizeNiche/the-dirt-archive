@@ -344,15 +344,23 @@ def main():
     reset = 0
     removed = []
     for target_key in sorted(targets):
-        # The browser recovery step immediately before this cleanup may have
-        # produced a fresh, identity-verified artifact for the same catalog key.
-        # Do not let stale quarantine state erase that new artifact before the
-        # Photo Foreman can verify it. The Foreman remains the final acceptance
-        # gate for dimensions, provenance, blocklists, and hash reuse.
-        if target_key in fresh_recovery_keys:
-            continue
+        # A fresh recovery artifact is normally protected until the Photo
+        # Foreman verifies it. An explicit identity-specific quarantine is the
+        # exception: quarantined source evidence must never survive merely because
+        # a browser worker accepted it during this pass.
         entry = catalog_map.get(target_key)
         if not entry:
+            continue
+        quarantine_values = [
+            str(entry.get("image_source_url") or ""),
+            str(entry.get("image_source_page") or ""),
+        ]
+        quarantine_values.extend(str(value or "") for value in (entry.get("image_source_urls") or []))
+        quarantine_values.extend(str(value or "") for value in (entry.get("image_source_pages") or []))
+        explicit_identity_quarantine = bool(
+            identity_quarantine_reasons(target_key, quarantine_values, identity_quarantine)
+        )
+        if target_key in fresh_recovery_keys and not explicit_identity_quarantine:
             continue
         tracker = next(
             (
