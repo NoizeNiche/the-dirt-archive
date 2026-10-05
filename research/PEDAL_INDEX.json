@@ -55940,7 +55940,7 @@
       "research_record": "./research/pedals/ThorpyFX/BUNKER.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/bunker/primary.webp"
     },
     {
       "company": "ThorpyFX",
@@ -56003,7 +56003,7 @@
       "research_record": "./research/pedals/ThorpyFX/ELECTRIC LIGHTNING.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": "./assets/pedals/thorpyfx/electric-lightning/primary.webp"
     },
     {
       "company": "ThorpyFX",
