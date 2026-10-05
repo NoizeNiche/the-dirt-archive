@@ -387,6 +387,12 @@
       "pattern": "https://organic-sounds.com/cdn/shop/t/2/assets/bg.jpg",
       "reason": "Organic Sounds generic site background asset, not an exact pedal photograph.",
       "severity": "hard_block"
+    },
+    {
+      "type": "exact_url",
+      "pattern": "https://www.vintageandrare.com/img/twitter_login.png",
+      "reason": "Vintage and Rare login-button artwork surfaced as a pedal image, not a product photograph.",
+      "severity": "hard_block"
     }
   ]
 }
