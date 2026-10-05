@@ -1,0 +1,22 @@
+# Keep source text normalized across platforms.
+* text=auto eol=lf
+
+# Binary archive assets.
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Machine-generated catalogs and reports are still text.
+*.json text
+*.csv text
+*.xml text
+*.txt text
+*.md text
+*.yml text
+*.yaml text
+*.html text
+*.css text
+*.js text
+*.mjs text
+*.py text
