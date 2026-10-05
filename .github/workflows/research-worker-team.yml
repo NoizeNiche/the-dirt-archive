@@ -343,15 +343,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add research/RESEARCH_INBOX
-          # Keep tracker state aligned with the canonical catalog even when this
-          # bounded pass finds no new evidence packets. This also repairs tracker
-          # drift after catalog growth without waiting for another research publish.
-          gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/sync-prp-tracker.yml/dispatches" -f ref=main
           # The worker can also recover older VERIFIED_EVIDENCE_STAGED packets that
           # were stranded in the inbox by an interrupted or older publication pass.
           stranded_staged=$(python -c 'import json,pathlib; p=pathlib.Path("research-evidence/foreman-summary.json"); print(int(json.loads(p.read_text(encoding="utf-8")).get("staged",0)) if p.exists() else 0)')
           if git diff --cached --quiet && [ "${stranded_staged:-0}" -eq 0 ]; then
-            echo "No new or stranded verified research evidence packets; tracker-sync dispatched."
+            echo "No new or stranded verified research evidence packets; stopping this bounded pass."
             exit 0
           fi
 
@@ -513,25 +509,15 @@ jobs:
 
           for attempt in 1 2 3 4 5; do
             if git push origin main; then
-              if git diff-tree --no-commit-id --name-only -r HEAD | grep -Eq '^(research/pedals/|research/PEDAL_INDEX\.json|research/PRP_TRACKER\.csv|research/PHOTO_BACKLOG\.csv|index\.html|pedal-detail\.html)'; then
-                echo "Canonical research/catalog state changed; dispatching photo recovery and Pages deployment."
-                published_sha="$(git rev-parse HEAD)"
-                if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/fast-photo-catchup.yml/dispatches" -f ref=main; then
-                  echo "Photo recovery dispatch was not accepted; the published research commit remains on main and the scheduled/photo-on-push lanes will continue."
-                fi
-                if ! gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/deploy-pages.yml/dispatches" -f ref=main; then
-                  echo "Pages deployment dispatch was not accepted; the published research commit remains on main and deploy-on-push will handle it."
-                fi
-                echo "Photo recovery and Pages deployments dispatched for $published_sha; research lane does not block on deployment."
-              fi
+              published_sha="$(git rev-parse HEAD)"
+              echo "Published bounded research batch: $published_sha"
+              echo "Deploy-on-main owns Pages publication; this research lane stops after its finite pass."
               exit 0
             fi
 
             echo "Research publication race; rebuilding from newest main (attempt $attempt/5)."
             git fetch origin main
             git reset --hard origin/main
-            # Preserve the downloaded worker artifacts across the race, then
-            # reconstruct the verified inbox from those artifacts before synthesis.
             python scripts/research-foreman.py
             synth_result="$(python scripts/synthesize-research-inbox.py --only research-evidence/foreman-summary.json)"
             created_records="$(python -c 'import json,sys; print(json.load(sys.stdin)["created"])' <<<"$synth_result")"
@@ -552,21 +538,3 @@ jobs:
 
           exit 1
 
-      - name: Continue bounded research lane
-        if: ${{ success() }}
-        env:
-          GH_TOKEN: ${{ github.token }}
-          DEEPENED_RESEARCH: ${{ steps.publish.outputs.deepened_research || '0' }}
-          CANONICAL_DELTA: ${{ steps.publish.outputs.canonical_delta || '0' }}
-        run: |
-          if [ "${DEEPENED_RESEARCH:-0}" -gt 0 ] || [ "${CANONICAL_DELTA:-0}" -gt 0 ]; then
-            echo "Research movement landed; queueing the next bounded research pass."
-            active="$(gh run list --workflow research-worker-team.yml --branch main --limit 10 --json status --jq '[.[] | select(.status != "completed")] | length')"
-            if [ "$active" -le 1 ]; then
-              gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/research-worker-team.yml/dispatches" -f ref=main
-            else
-              echo "Another research pass is already queued or active; no duplicate dispatch."
-            fi
-          else
-            echo "No canonical research movement in this pass; stopping self-chain to avoid retry thrash."
-          fi
