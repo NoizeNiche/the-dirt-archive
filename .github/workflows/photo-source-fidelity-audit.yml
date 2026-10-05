@@ -2,15 +2,6 @@ name: Photo source fidelity audit
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'research/PEDAL_INDEX.json'
-      - 'research/pedals/PEDAL_IMAGES.json'
-      - 'research/PHOTO_DIRECT_IMAGE_OVERRIDES.csv'
-      - 'research/PHOTO_MANUAL_REVIEW.csv'
-      - 'scripts/audit-photo-source-fidelity.js'
-      - '.github/workflows/photo-source-fidelity-audit.yml'
   schedule:
     - cron: "37 4 * * 0"
 
