@@ -348,7 +348,14 @@ jobs:
               values.extend(str(v or "").strip().lower() for v in (entry.get("image_source_urls") or []))
               values.extend(str(v or "").strip().lower() for v in (entry.get("image_source_pages") or []))
               blocked = identity_quarantine.get(k, set())
-              if blocked and any(v and v in blocked for v in values):
+              # A quarantined identity may legitimately lose its old photo while
+              # the bad source is being removed. Treat that exact cleanup as
+              # justified when no photo provenance remains, or when the remaining
+              # provenance is itself explicitly blocked for the same identity.
+              if blocked and (
+                  not any(values) or
+                  any(v and v in blocked for v in values)
+              ):
                   justified_regressions.append(k)
               else:
                   unexplained_regressions.append(k)
