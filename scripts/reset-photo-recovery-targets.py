@@ -100,8 +100,12 @@ def load_fresh_recovery_keys():
                 builder
                 and pedal
                 and str(row.get("imageFile") or "").strip()
-                and str(verification.get("identityVerified")).lower() != "false"
             ):
+                # Protect every recovery produced by the current browser/direct
+                # pass until Photo Foreman gets a chance to verify it. Identity
+                # verification belongs to the Foreman gate, not this pre-gate
+                # cleanup step. An explicit identity quarantine is still handled
+                # separately below and can block the candidate.
                 keys.add((builder, pedal))
     except Exception:
         pass
