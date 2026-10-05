@@ -15,7 +15,8 @@ concurrency:
   group: dirt-archive-write-v2
   # Exactly one archive write lane may run at a time. Recovery passes are explicit,
   # bounded, resumable work units rather than an always-running queue.
-  cancel-in-progress: false
+  # A newer main snapshot supersedes an older queued recovery pass.
+  cancel-in-progress: true
 
 jobs:
   recover:
