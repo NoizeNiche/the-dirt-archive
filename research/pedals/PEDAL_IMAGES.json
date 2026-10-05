@@ -20490,7 +20490,8 @@
     "pedal": "Ghetto Driver",
     "image": "",
     "source_page": null,
-    "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md"
+    "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
+    "image_source_url": "https://rvb-img.reverb.com/image/upload/s--nxhshnNI--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1449674012/rqpe8igqskpbtgcxciio.jpg"
   },
   {
     "builder": "Greer Amps",
@@ -20865,10 +20866,10 @@
   {
     "builder": "Himmelstrutz Elektro Art",
     "pedal": "Under Overdriver",
-    "image": "",
+    "image": "./assets/pedals/himmelstrutz-elektro-art/under-overdriver/primary.webp",
     "source_page": "https://himmelstrutz.com/download/",
     "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Overdriver.md",
-    "image_source_url": "http://www.guitartest.de/DIETSIDE BILDER/Himmelstzrutz Under Overdriver B1.JPG"
+    "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/himmelstrutz_underover_001.jpg"
   },
   {
     "builder": "Horizon Devices",

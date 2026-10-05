@@ -38935,7 +38935,9 @@
       "research_record": "./research/pedals/Greer Amps/Ghetto Driver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image": null
+      "image": null,
+      "image_source_url": "https://rvb-img.reverb.com/image/upload/s--nxhshnNI--/a_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_620%2Cq_90%2Cw_620/v1449674012/rqpe8igqskpbtgcxciio.jpg",
+      "image_source_page": "https://reverb.com/item/1423905-greer-ghetto-driver"
     },
     {
       "company": "Greer Amps",
@@ -39610,7 +39612,7 @@
       "image_source_pages": [
         "https://www.ebay.com/itm/389024216669"
       ],
-      "image_source_page": "https://www.himmelstrutz.com/gramps/",
+      "image_source_page": "https://reverb.com/item/3403463-himmelstrutz-gramps",
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1574,
@@ -39658,19 +39660,19 @@
       "types": [
         "Overdrive"
       ],
-      "image": "",
+      "image": "./assets/pedals/himmelstrutz-elektro-art/under-overdriver/primary.webp",
       "source_page": "https://himmelstrutz.com/download/",
       "research_record": "./research/pedals/Himmelstrutz Elektro Art/Under Overdriver.md",
       "research_level": "deep",
       "deep_research_status": "VERIFIED",
-      "image_source_page": "https://www.himmelstrutz.com/download/",
+      "image_source_page": "https://www.effectsdatabase.com/model/himmelstrutz/underover",
       "image_source_pages": [
         "https://www.himmelstrutz.com/download/"
       ],
       "image_source_pages_verified": true,
       "image_source_page_verified": true,
       "image_source_priority": 1079,
-      "image_source_url": "http://www.guitartest.de/DIETSIDE BILDER/Himmelstzrutz Under Overdriver B1.JPG"
+      "image_source_url": "https://files.effectsdatabase.com/gear/thumbs/himmelstrutz_underover_001.jpg"
     },
     {
       "company": "Horizon Devices",
