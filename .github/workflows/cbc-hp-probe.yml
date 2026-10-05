@@ -2,7 +2,6 @@ name: CBC Harmonic Percolator probe
 
 on:
   workflow_dispatch:
-
 permissions:
   contents: read
 

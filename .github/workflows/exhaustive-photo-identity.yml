@@ -2,7 +2,6 @@ name: Exhaustive photo identity audit
 
 on:
   workflow_dispatch:
-
 permissions:
   contents: read
 

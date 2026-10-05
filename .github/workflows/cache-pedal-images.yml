@@ -1,7 +1,6 @@
 name: Cache pedal images
 
 on:
-  # Manual fallback lane only. Fast photo catch-up is the primary recovery worker.
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +12,7 @@ concurrency:
   # behind obsolete queued image-cache runs.
   # Push/manual recovery runs may replace stale work. Scheduled hourly passes wait
   # rather than cancelling an active recovery batch.
-  cancel-in-progress: ${{ github.event_name != 'schedule' }}
+  cancel-in-progress: false
 
 jobs:
   cache:
