@@ -165,11 +165,31 @@ def main():
                         if str(value or "").strip()
                     }
                     same_curated_page = bool(result_page) and norm_page(result_page) in curated_pages
-                    curated_recovery = v.get("curatedExactSourcePage") is True and v.get("identityVerified") is True
-                    if result_url != approved_url and not (same_reviewed_page or same_curated_page or curated_recovery):
+                    approved_host = ""
+                    try:
+                        from urllib.parse import urlparse
+                        approved_host = (urlparse(approved_page).hostname or "").lower()
+                    except Exception:
+                        approved_host = ""
+                    result_source_host = str(v.get("sourceHost") or "").strip().lower()
+                    same_approved_host = bool(approved_host and result_source_host and result_source_host == approved_host)
+                    curated_recovery = (
+                        v.get("curatedExactSourcePage") is True and
+                        v.get("identityVerified") is True
+                    )
+                    # Marketplace/CDN image URLs are routinely rewritten while
+                    # serving the same exact listing. Bind alternate URLs to the
+                    # manually approved source host plus the existing identity gate,
+                    # instead of requiring byte-for-byte URL equality.
+                    host_bound_recovery = v.get("identityVerified") is True and same_approved_host
+                    if result_url != approved_url and not (
+                        same_reviewed_page or same_curated_page or curated_recovery or host_bound_recovery
+                    ):
                         ok = False
                         reason = "recovered image URL is not tied to a curator-approved exact-model source page"
-                    elif approved_page and not (same_reviewed_page or same_curated_page or curated_recovery):
+                    elif approved_page and not (
+                        same_reviewed_page or same_curated_page or curated_recovery or host_bound_recovery
+                    ):
                         ok = False
                         reason = "recovered source page does not match an approved exact-model source"
                 elif method == "verified_image_search" and v.get("identityVerified") is True and v.get("strongSearchIdentity") is True and float(v.get("sourceScore") or 0) >= 120:
