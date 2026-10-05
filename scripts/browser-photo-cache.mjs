@@ -689,10 +689,17 @@ function preferredSourcePages(entry) {
     : [];
   const preferred = preferredSourcePage(entry);
   const researchPages = researchRecordSourcePages(entry).filter(value => sourcePageEligible(entry, value));
+  // When a curated page from the actual builder domain exists, try it before
+  // older marketplace/CDN leads. This is particularly valuable for discontinued
+  // pedals whose Reverb image host now returns 401 while the maker still serves
+  // the exact product page.
+  const builderPages = pages.filter(value => hostMatchesBuilder(value, entry.company || entry.builder));
+  const otherPages = pages.filter(value => !builderPages.includes(value));
   const combined = [];
+  combined.push(...builderPages);
   if (preferred && sourcePageEligible(entry, preferred)) combined.push(preferred);
   combined.push(...researchPages);
-  combined.push(...pages);
+  combined.push(...otherPages);
   return [...new Set(combined)].slice(0, 8);
 }
 
@@ -2397,7 +2404,10 @@ async function recoverEntry(browser, entry, deepReview = false, recoveryDeadline
     // Do not let generic search fill this specific identity until an exact
     // model-level source is proven. The archive already records the known-bad
     // Dunlop/Guitar Center collision in PHOTO_IDENTITY_QUARANTINE.csv.
-    const allowAutomaticSearchForEntry = !isKnownCrossBuilderSearchHazard;
+    // Keep the known Dunlop collision quarantined at the source/candidate gates,
+    // but permit bounded exact web search here so an exact Compulsive Audio page
+    // can still be discovered. A search result is never accepted on title alone.
+    const allowAutomaticSearchForEntry = true;
     const deepSearchTokens = identityTokens(entry.pedal);
     const genericPedalOnly = deepSearchTokens.length === 0;
     // Keep exact source pages and image search in the same recovery pass. A
