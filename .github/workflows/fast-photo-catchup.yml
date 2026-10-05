@@ -293,10 +293,78 @@ jobs:
           with open(__import__("os").environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
               fh.write(f"delta={delta}\n")
               fh.write(f"changed={changed}\n")
+          import json as _json
+          import re as _re
+          from collections import defaultdict as _defaultdict
+          from urllib.parse import urlparse as _urlparse
+
+          head_tracker = _run = __import__("subprocess").run(
+              ["git", "show", "HEAD:research/PRP_TRACKER.csv"],
+              check=True, capture_output=True, text=True
+          ).stdout
+          before_rows = {(
+              r.get("Builder",""), r.get("Pedal","")
+          ): r for r in csv.DictReader(head_tracker.splitlines())}
+          after_rows = {}
+          with open("research/PRP_TRACKER.csv", newline="", encoding="utf-8") as fh:
+              after_rows = {(
+                  r.get("Builder",""), r.get("Pedal","")
+              ): r for r in csv.DictReader(fh)}
+
+          regressions = [
+              k for k, old_row in before_rows.items()
+              if old_row.get("Picture") == "DONE"
+              and after_rows.get(k, {}).get("Picture") != "DONE"
+          ]
+
+          identity_quarantine = {}
+          try:
+              with open("research/PHOTO_IDENTITY_QUARANTINE.csv", newline="", encoding="utf-8") as fh:
+                  for row in csv.DictReader(fh):
+                      k = (row.get("Builder",""), row.get("Pedal",""))
+                      blocked = str(row.get("Blocked Image URL") or "").strip().lower()
+                      if blocked:
+                          identity_quarantine.setdefault(k, set()).add(blocked)
+          except Exception:
+              pass
+
+          catalog = {}
+          try:
+              catalog = {
+                  (str(row.get("company") or row.get("builder") or "").strip(), str(row.get("pedal") or "").strip()): row
+                  for row in _json.loads(Path("research/PEDAL_INDEX.json").read_text(encoding="utf-8")).get("pedals", [])
+              }
+          except Exception:
+              catalog = {}
+
+          justified_regressions = []
+          unexplained_regressions = []
+          for k in regressions:
+              entry = catalog.get(k, {})
+              values = [
+                  str(entry.get("image_source_url") or "").strip().lower(),
+                  str(entry.get("image_source_page") or "").strip().lower(),
+              ]
+              values.extend(str(v or "").strip().lower() for v in (entry.get("image_source_urls") or []))
+              values.extend(str(v or "").strip().lower() for v in (entry.get("image_source_pages") or []))
+              blocked = identity_quarantine.get(k, set())
+              if blocked and any(v and v in blocked for v in values):
+                  justified_regressions.append(k)
+              else:
+                  unexplained_regressions.append(k)
+
+          print(
+              f"Photo Foreman accepted={accepted}; canonical pictured delta={delta} "
+              f"(before={before}, after={after}); publishable_state_change={changed}; "
+              f"photo_regressions={len(regressions)} justified_quarantine_cleanup={len(justified_regressions)}"
+          )
           if accepted > 0 and delta <= 0 and not changed:
               raise SystemExit("Accepted photo recoveries did not produce a canonical state change.")
-          if delta < 0:
-              raise SystemExit("Canonical pictured count regressed during photo publication.")
+          if unexplained_regressions:
+              raise SystemExit(
+                  "Canonical pictured count lost unexplained records: "
+                  + str(unexplained_regressions[:12])
+              )
 
       - name: Publish one synchronized batch
         if: ${{ success() && ((steps.photo_gate.outputs.delta != '' && fromJSON(steps.photo_gate.outputs.delta) > 0) || (steps.photo_gate.outputs.changed == '1')) }}
