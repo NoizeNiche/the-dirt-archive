@@ -424,6 +424,42 @@ function updateMetaDescription(item){
   }
 }
 
+
+function renderSpecimenReadout(item,facets){
+  const root=$('specimenReadout');
+  const grid=$('specimenReadoutGrid');
+  const note=$('specimenEvidenceNote');
+  if(!root||!grid)return;
+  const record=facets?.records?.[entryKey(item)]||{};
+  const techGroups=['transistor','clipping','power'].filter(group=>Array.isArray(record[group])&&record[group].length);
+  const value=(data,fallback='Not documented')=>{
+    if(Array.isArray(data))return data.length?data.join(' · '):fallback;
+    const text=String(data??'').trim();
+    return text||fallback;
+  };
+  const source=item.source_page?'<a href="'+esc(item.source_page)+'" target="_blank" rel="noopener noreferrer">Source ↗</a>':'Not recorded';
+  const fields=[
+    ['Dirt type',value(item.types?.join(' · ')),'identity'],
+    ['Version',value(item.version_label||((item.catalog_role||'model')==='model'?'Base record':item.catalog_role)),'identity'],
+    ['Transistor',value(record.transistor),'tech'],
+    ['Clipping',value(record.clipping),'tech'],
+    ['Power',value(record.power),'tech'],
+    ['Research',value(String(item.research_level||'').trim()+(item.deep_research_status?' · '+String(item.deep_research_status).trim():'')),'evidence'],
+    ['Exact photo',isLocalArchiveImage(item)?'Archived locally':'Photo needed','evidence'],
+    ['Demo',item.youtube_demo?.url?'Available':'Not documented','evidence']
+  ];
+  grid.innerHTML=fields.map(([label,text,kind])=>
+    '<div class="specimenReadoutCard '+kind+'"><span>'+esc(label)+'</span><strong>'+esc(text)+'</strong></div>'
+  ).join('')+
+  '<div class="specimenReadoutCard source evidence"><span>Primary source</span><strong>'+source+'</strong></div>';
+  if(note){
+    note.textContent=techGroups.length
+      ? techGroups.length+' structured technical '+(techGroups.length===1?'group':'groups')+' documented'
+      : 'Technical details remain undocumented';
+  }
+  root.hidden=false;
+}
+
 function renderCatalogBaseline(item){
   const typeLabel=(item.types||[]).filter(Boolean).join(', ')||'Not classified';
   const source=String(item.source_page||'').trim();
@@ -482,8 +518,8 @@ async function loadResearchMarkdown(path){
 restoreReturnLink();
 $('sharePedal')?.addEventListener('click',sharePedal);
 
-loadCatalog()
-.then(data=>{
+Promise.all([loadCatalog(),loadFacets()])
+.then(([data,facets])=>{
   const allItems=data.pedals||[];
   let requested=allItems.find(x=>x.company===wantedBuilder&&x.pedal===wantedPedal);
   if(!requested){
@@ -529,6 +565,7 @@ loadCatalog()
   $('types').innerHTML=(item.types||[]).map(t=>'<span class="chip">'+esc(t)+'</span>').join('');
   showPhoto(item);
   wireWorkbenchButtons(item);
+  renderSpecimenReadout(item,facets);
 
   const colorways=allItems.filter(x=>x.catalog_role==='variation'&&x.company===item.company&&x.parent_pedal===item.pedal);
 
