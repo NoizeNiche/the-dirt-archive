@@ -2405,3 +2405,87 @@ main{position:relative;padding:20px 0 72px}
     font-size:clamp(3.25rem,15vw,6.2rem)!important;
   }
 }
+
+
+/* ---------------------------------------------------------
+   SPECIMEN READOUT / structured facts at a glance
+   --------------------------------------------------------- */
+.specimenReadout{
+  margin:0 0 20px;
+  padding:14px;
+  border:1px solid rgba(231,233,225,.15);
+  border-radius:4px;
+  background:linear-gradient(180deg,#151914,#10130f);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.035),0 14px 32px rgba(0,0,0,.18);
+}
+.specimenReadoutHead{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:14px;
+  margin-bottom:10px;
+}
+.specimenReadoutHead h2{
+  margin:4px 0 0;
+  color:#edf1e9;
+  font-size:1.02rem;
+  line-height:1.05;
+  letter-spacing:-.025em;
+}
+.specimenReadoutHead>span{
+  color:#5d675b;
+  font:800 .45rem/1 var(--da-mono);
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  text-align:right;
+}
+.specimenReadoutGrid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:6px;
+}
+.specimenReadoutCard{
+  min-width:0;
+  padding:9px;
+  border:1px solid rgba(231,233,225,.11);
+  border-radius:3px;
+  background:#171b16;
+}
+.specimenReadoutCard>span{
+  display:block;
+  margin-bottom:4px;
+  color:#697369;
+  font:900 .43rem/1.1 var(--da-mono);
+  letter-spacing:.10em;
+  text-transform:uppercase;
+}
+.specimenReadoutCard>strong{
+  display:block;
+  min-height:1.1em;
+  color:#e7ebe4;
+  font-size:.65rem;
+  line-height:1.35;
+  font-weight:800;
+  overflow-wrap:anywhere;
+}
+.specimenReadoutCard.tech{
+  background:linear-gradient(145deg,#171d15,#1a2416);
+}
+.specimenReadoutCard.tech>span{color:#82916f}
+.specimenReadoutCard.evidence{background:#131713}
+.specimenReadoutCard.identity{background:#171a16}
+.specimenReadoutCard.source{grid-column:1/-1}
+.specimenReadoutCard.source a{
+  color:var(--da-acid);
+  text-decoration:none;
+  font-weight:900;
+}
+.specimenReadoutCard.source a:hover{text-decoration:underline}
+@media(max-width:760px){
+  .specimenReadoutHead{align-items:flex-start;flex-direction:column}
+  .specimenReadoutHead>span{text-align:left}
+  .specimenReadoutGrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:460px){
+  .specimenReadoutGrid{grid-template-columns:1fr}
+}
