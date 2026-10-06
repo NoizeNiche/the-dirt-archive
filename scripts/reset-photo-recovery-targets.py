@@ -128,6 +128,30 @@ def load_fresh_recovery_keys():
     return keys
 
 
+
+def load_user_provided_manual_evidence():
+    """Treat owner-confirmed exact user photos as manual identity evidence."""
+    verified = set()
+    try:
+        with Path("research/PHOTO_USER_PROVIDED.csv").open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                builder = str(row.get("Builder") or "").strip()
+                pedal = str(row.get("Pedal") or "").strip()
+                local_image = str(row.get("Local Image") or "").strip()
+                origin = str(row.get("Origin") or "").strip().lower()
+                confirmation = str(row.get("Identity Confirmation") or "").strip()
+                if (
+                    builder
+                    and pedal
+                    and local_image.startswith("./assets/pedals/")
+                    and "user-provided image" in origin
+                    and confirmation
+                ):
+                    verified.add(key(builder, pedal))
+    except Exception:
+        pass
+    return verified
+
 def load_hash_quarantine():
     # Only cross-builder byte collisions are hard quarantines. Same-builder
     # collisions remain review evidence because legitimate aliases, variants,
@@ -342,6 +366,10 @@ def main():
                 pass
     except Exception:
         pass
+
+    # Owner-confirmed conversation photos are manual identity evidence too.
+    manual_review.update(load_user_provided_manual_evidence())
+
     hash_quarantine = load_hash_quarantine()
     fresh_recovery_keys = load_fresh_recovery_keys()
     collision_keepers = build_collision_keepers(catalog, manual_review)
