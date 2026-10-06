@@ -3404,3 +3404,6 @@ main{
   .quickLookInfo{padding:13px;grid-template-columns:1fr}
   .quickLookActions{padding:0 13px 13px}
 }
+
+/* Final interaction polish: keep the oversized masthead out of the viewport while scrolling. */
+.siteHeader,.siteHeaderDetail,.methodHeader{position:relative;}
