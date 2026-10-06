@@ -162,6 +162,60 @@ function renderBuilderPagination(totalPages){
   });
 }
 
+
+function canonicalBuilderFacet(record,group){
+  const raw=Array.isArray(record?.[group])?record[group]:[];
+  const out=new Set();
+  for(const value of raw){
+    const text=String(value||'').toLowerCase();
+    if(group==='transistor'){
+      if(/germanium|\bgerm\b/.test(text))out.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text))out.add('Sili');
+      else if(/jfet|mosfet|op.?amp|integrated|\bic\b/.test(text))out.add('IC');
+    }else if(group==='clipping'){
+      if(/germanium|\bgerm\b/.test(text))out.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text))out.add('Sili');
+      else out.add('Other');
+    }
+  }
+  return [...out];
+}
+
+function renderBuilderSignal(facets){
+  const root=$('builderSignal'),grid=$('builderSignalGrid'),note=$('builderSignalNote');
+  if(!root||!grid)return;
+  const records=facets?.records||{};
+  const builderRecords=builderItems.map(item=>records[entryKey(item)]||{});
+  const countFacet=(group,value)=>builderRecords.filter(record=>canonicalBuilderFacet(record,group).includes(value)).length;
+  const dirtCounts={Overdrive:0,Distortion:0,Fuzz:0};
+  builderItems.forEach(item=>(item.types||[]).forEach(type=>{if(type in dirtCounts)dirtCounts[type]++}));
+  const deep=builderItems.filter(item=>String(item.research_level||'').toLowerCase()==='deep').length;
+  const pictured=builderItems.filter(isLocalArchiveImage).length;
+  const facetGroups=[
+    ['Transistor','transistor',['Germ','Sili','IC']],
+    ['Clipping','clipping',['Germ','Sili','Other']]
+  ];
+  const cards=[
+    '<article class="builderSignalCard"><span>Dirt mix</span><div class="builderSignalBars">'+
+      Object.entries(dirtCounts).map(([label,count])=>'<div><b>'+esc(label)+'</b><strong>'+count.toLocaleString()+'</strong></div>').join('')+
+    '</div></article>',
+    '<article class="builderSignalCard"><span>Research depth</span><strong class="signalBig">'+deep.toLocaleString()+' / '+builderItems.length.toLocaleString()+'</strong><small>deep-research records</small></article>',
+    '<article class="builderSignalCard"><span>Photo coverage</span><strong class="signalBig">'+(builderItems.length?(pictured/builderItems.length*100).toFixed(1):'0.0')+'%</strong><small>'+pictured.toLocaleString()+' exact archived photos</small></article>'
+  ];
+  for(const [label,group,values] of facetGroups){
+    cards.push('<article class="builderSignalCard tech"><span>'+label+' footprint</span><div class="signalFacetList">'+values.map(value=>'<div><b>'+esc(value)+'</b><strong>'+countFacet(group,value).toLocaleString()+'</strong></div>').join('')+'</div></article>');
+  }
+  const allTech=new Set();
+  builderRecords.forEach(record=>{
+    ['transistor','clipping'].forEach(group=>canonicalBuilderFacet(record,group).forEach(value=>allTech.add(group+':'+value)));
+  });
+  note.textContent=allTech.size
+    ? allTech.size.toLocaleString()+' structured technical classifications surfaced'
+    : 'Technical details remain largely undocumented';
+  grid.innerHTML=cards.join('');
+  root.hidden=false;
+}
+
 function renderBuilderStats(){
   const families=builderItems.filter(item=>!item.version_of);
   const versions=builderAll.filter(item=>isCatalogEntry(item)&&item.version_of&&item.company===requestedBuilder);
@@ -199,7 +253,7 @@ function renderNotFound(){
   document.querySelector('.builderControls')?.setAttribute('hidden','');
 }
 
-Promise.all([loadCatalog()]).then(([data])=>{
+Promise.all([loadCatalog(),loadFacets()]).then(([data,facets])=>{
   builderAll=data.pedals||[];
   builderItems=builderAll.filter(x=>isCatalogEntry(x)&&x.company===requestedBuilder);
   if(!requestedBuilder||!builderItems.length){renderNotFound();return}
@@ -211,6 +265,7 @@ Promise.all([loadCatalog()]).then(([data])=>{
   renderBuilderHeader();
   renderBuilderStats();
   renderBuilder();
+  renderBuilderSignal(facets);
   $('builderSearch').oninput=e=>{builderQuery=e.target.value.trim();builderPage=1;syncBuilderUrl();renderBuilder()};
   $('shareBuilder').onclick=builderShare;
 }).catch(error=>{
