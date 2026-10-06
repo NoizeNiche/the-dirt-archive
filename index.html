@@ -43,6 +43,39 @@
 
 <main id="mainContent" class="wrap" data-viewer-build="2026-09-30-launch-hardening">
   <div class="boardSurface">
+    <section class="archiveHero" aria-labelledby="archiveHeroTitle">
+      <div class="archiveHeroTopline"><span>THE DIRT ARCHIVE</span><span>FIELD INDEX / 2026</span></div>
+      <div class="archiveHeroGrid">
+        <div class="archiveHeroCopy">
+          <div class="archiveHeroKicker">THE SEARCHABLE CENSUS OF GUITAR DIRT</div>
+          <h2 id="archiveHeroTitle">Find the<br><em>sound</em> behind the box.</h2>
+          <p class="archiveHeroLead">4,200 overdrives, distortions, and fuzzes. Exact identities. Archived photography. Documented differences. No hype required.</p>
+          <div class="archiveSearchStage">
+            <div class="archiveSearchLabel"><span>QUERY</span><kbd>/</kbd></div>
+            <div class="searchWrap">
+              <span class="searchIcon">⌕</span>
+              <input id="search" class="search" type="search" placeholder="Search pedal, builder, version, circuit clue…" aria-label="Search pedal or builder" aria-autocomplete="list" aria-controls="searchSuggestions" aria-expanded="false"><div id="searchSuggestions" class="searchSuggestions" hidden role="listbox" aria-label="Search suggestions"></div>
+            </div>
+            <div class="archiveSearchHint">Try a model, a builder, “germanium,” “transparent,” a version name, or a documented technical clue.</div>
+          </div>
+          <div class="archiveHeroActions">
+            <button id="discoverPedal" class="heroAction primary" type="button">Surprise me <span>↗</span></button>
+            <a class="heroAction" href="./identify.html">Identify a pedal <span>↗</span></a>
+            <a class="heroAction" href="./builders.html">Enter builder archive <span>↗</span></a>
+          </div>
+        </div>
+        <div class="archiveHeroMark" aria-hidden="true">
+          <div class="archiveHeroDisc">D/A</div>
+          <div class="archiveHeroReadout"><span>BASELINE</span><strong>04·20·00</strong><small>SPECIMENS INDEXED</small></div>
+          <div class="archiveHeroPulse"></div>
+          <div class="archiveHeroCode">NOISE / MEMORY / IDENTITY / EVIDENCE</div>
+        </div>
+      </div>
+      <div class="archiveTicker" aria-label="Archive principles">
+        <span>EXACT IDENTITY</span><i></i><span>LOCAL PHOTO</span><i></i><span>VERSION LINEAGE</span><i></i><span>DOCUMENTED TECH</span><i></i><span>NO GUESSES</span>
+      </div>
+    </section>
+
   <div class="layout">
     <aside class="sidebar">
       <details class="filterDrawer" open>
@@ -52,11 +85,9 @@
         </summary>
         <div class="filterDrawerBody">
       <div class="sidebarTop">
-        <div class="sidebarEyebrow">Archive navigation</div>
-        <div class="searchWrap">
-          <span class="searchIcon">⌕</span>
-          <input id="search" class="search" type="search" placeholder="Search pedal or builder…" aria-label="Search pedal or builder" aria-autocomplete="list" aria-controls="searchSuggestions" aria-expanded="false"><div id="searchSuggestions" class="searchSuggestions" hidden role="listbox" aria-label="Search suggestions"></div><div class="searchHint">Search model, builder, version/colorway, or documented technical details.</div>
-        </div>
+        <div class="sidebarEyebrow">Archive console</div>
+        <div class="sidebarTag">NAV / FILTER / VERIFY</div>
+        <div class="consoleMeta"><span>LIVE CENSUS</span><strong>4,200</strong></div>
         <button id="clearFilters" class="clearFilters" type="button" hidden>Clear filters</button>
       </div>
 
@@ -124,14 +155,13 @@
 
     <section class="content">
       <div class="heroPanel">
-        <div class="heroRow">
-          <div>
-            <div class="heroEyebrow">Pedal index</div>
+        <div class="archiveContextBar">
+          <div class="contextTitle">
+            <div class="heroEyebrow">CURRENT VIEW</div>
             <h2 class="title" id="title">All Pedals</h2>
           </div>
-          <div class="heroTools">
-            <button id="discoverPedal" class="discoverButton" type="button">Discover</button><a class="discoverButton toolLink" href="./identify.html">Identify</a><a class="discoverButton toolLink" href="./builders.html">Builders</a>
-            <button id="copyViewLink" class="discoverButton" type="button">Copy view link</button>
+          <div class="contextTools">
+            <button id="copyViewLink" class="discoverButton" type="button">Copy view</button>
             <div class="viewToggle" role="group" aria-label="Archive view">
               <button id="gridViewButton" class="viewButton active" type="button" aria-pressed="true">Grid</button>
               <button id="tableViewButton" class="viewButton" type="button" aria-pressed="false">Table</button>
