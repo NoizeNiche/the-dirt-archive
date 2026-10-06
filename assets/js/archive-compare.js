@@ -42,6 +42,15 @@ function compareFacet(item,group){
   return compareText(record[group]);
 }
 
+function combineEvidence(primary,structured){
+  const first=String(primary||'').trim();
+  const second=String(structured||'').trim();
+  if(!first&&(!second||second===COMPARE_PLACEHOLDER))return '';
+  if(!second||second===COMPARE_PLACEHOLDER)return first;
+  if(!first||first===COMPARE_PLACEHOLDER)return second;
+  return first+'\\n\\nStructured archive value: '+second;
+}
+
 function comparePhoto(item){
   const image=isLocalArchiveImage(item)?item.image:'';
   return image
@@ -161,8 +170,12 @@ function buildResearchRows(item,research){
   const addGroup=label=>rows.push({group:label});
 
   addGroup('Identity');
+  add('Photo','',{kind:'photoImage'});
   add('Builder',item.company);
   add('Dirt type',compareText(item.types));
+  add('Catalog role',String(item.catalog_role||'model').trim());
+  add('Version label',String(item.version_label||'').trim());
+  add('Parent / base model',String(item.version_of||'').trim()||COMPARE_PLACEHOLDER);
   add('Catalog identity',findSection(sections,['prp identity']));
   add('What this pedal is',findSection(sections,['what this pedal is','verified description','description','overview']));
   add('Version / factory options',findSection(sections,['versions and factory options','versions and options','factory options']));
@@ -175,9 +188,9 @@ function buildResearchRows(item,research){
   const transistorFacet=compareFacet(item,'transistor');
   add('Transistor / device type',transistorFacet===COMPARE_PLACEHOLDER?technicalFallback(sections,'transistor'):transistorFacet);
   const clippingFacet=compareFacet(item,'clipping');
-  add('Clipping / diode',clippingFacet===COMPARE_PLACEHOLDER?technicalFallback(sections,'clipping'):clippingFacet);
+  add('Clipping / diode',combineEvidence(findSection(sections,['diode','clipping','rectifier']),clippingFacet));
   const powerFacet=compareFacet(item,'power');
-  add('Power',powerFacet===COMPARE_PLACEHOLDER?findSection(sections,['power','power supply','power requirements','power input','operating voltage']):powerFacet);
+  add('Power',combineEvidence(findSection(sections,['power','power supply','power requirements','power input','operating voltage']),powerFacet));
 
   addGroup('Tone & Use');
   add('Sound / character',findSection(sections,['sound','tone','sonic character','character']));
