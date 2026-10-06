@@ -355,7 +355,6 @@ function builderRows(){
   const map=new Map();
   for(const x of items){
     if(!typeMatches(x))continue;
-    if(!coverageMatches(x))continue;
     if(q&&!searchMatches(x))continue;
     if(!facetMatches(x))continue;
     map.set(x.company,(map.get(x.company)||0)+1);
@@ -415,7 +414,7 @@ function searchMatchReason(x){
 function filteredItems(){
   const result=items.filter(x=>
     typeMatches(x)&&
-    coverageMatches(x)&&
+    
     (!selectedBuilder||x.company===selectedBuilder)&&
     searchMatches(x)&&
     facetMatches(x)
@@ -432,7 +431,7 @@ function filteredItems(){
 
 function renderTypeMenu(){
   const typeContext=x=>
-    coverageMatches(x)&&
+    
     (!selectedBuilder||x.company===selectedBuilder)&&
     searchMatches(x)&&
     facetMatches(x);
@@ -466,7 +465,7 @@ function renderBuilders(){
   $('builderCount').textContent=rows.length+' builders';
   $('builderListCount').textContent=rows.length;
 
-  const allCount=items.filter(x=>typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x)).length;
+  const allCount=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x)).length;
   let html='<button class="builder allBuilder '+(!selectedBuilder?'active':'')+'" data-builder="" aria-pressed="'+(!selectedBuilder?'true':'false')+'"><span class="builderName">All builders</span><span class="builderCount">'+allCount+'</span></button>';
   html+=rows.map(([name,count])=>
     '<button class="builder '+(selectedBuilder===name?'active':'')+'" data-builder="'+esc(name)+'" aria-pressed="'+(selectedBuilder===name?'true':'false')+'">'+
@@ -485,7 +484,7 @@ function renderBuilders(){
 
 function render(){
   let normalized=false;
-  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x))){
+  if(selectedBuilder&&!items.some(x=>x.company===selectedBuilder&&typeMatches(x)&&searchMatches(x)&&facetMatches(x))){
     selectedBuilder='';
     normalized=true;
   }
@@ -507,7 +506,7 @@ function render(){
   const pageStart=(currentPage-1)*PAGE_SIZE;
   const pageItems=visible.slice(pageStart,pageStart+PAGE_SIZE);
 
-  const builderContext=items.filter(x=>typeMatches(x)&&coverageMatches(x)&&searchMatches(x)&&facetMatches(x));
+  const builderContext=items.filter(x=>typeMatches(x)&&searchMatches(x)&&facetMatches(x));
   const builderCount=new Set(builderContext.map(x=>x.company)).size;
 
   const titleParts=[];
