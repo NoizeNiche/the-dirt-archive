@@ -1701,3 +1701,55 @@ main{position:relative;padding:20px 0 72px}
   font-style:normal;
   letter-spacing:-.05em;
 }
+
+/* The Dirt Department logo system */
+.brandLogo{
+  display:block;
+  width:min(520px,70vw);
+  height:auto;
+  max-height:82px;
+  object-fit:contain;
+  object-position:left center;
+}
+.brandLink .brandLogo{
+  width:min(390px,58vw);
+  max-height:54px;
+}
+.archiveLogoPlate{
+  position:relative;
+  width:min(520px,100%);
+  padding:16px;
+  border:1px solid rgba(231,233,225,.15);
+  border-radius:4px;
+  background:
+    radial-gradient(circle at 72% 44%,rgba(220,255,57,.09),transparent 35%),
+    linear-gradient(145deg,#0d100d,#171c16 70%,#0a0c09);
+  box-shadow:0 22px 55px rgba(0,0,0,.34),inset 0 1px 0 rgba(255,255,255,.035);
+}
+.archiveLogoHero{
+  display:block;
+  width:100%;
+  height:auto;
+}
+.archiveHeroMark{
+  align-content:center;
+}
+.archiveHeroMark .archiveHeroPulse{
+  left:0;
+  height:72%;
+}
+.siteHeader .brandBlock{
+  max-width:58%;
+}
+.siteHeader .kicker{
+  margin-top:11px;
+}
+@media(max-width:960px){
+  .archiveLogoPlate{max-width:620px}
+}
+@media(max-width:760px){
+  .brandLogo{width:min(470px,94vw);max-height:68px}
+  .brandLink .brandLogo{width:min(350px,90vw);max-height:48px}
+  .siteHeader .brandBlock{max-width:100%}
+  .archiveLogoPlate{width:min(100%,520px);padding:10px}
+}
