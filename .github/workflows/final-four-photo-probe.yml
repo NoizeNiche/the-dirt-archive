@@ -1,0 +1,38 @@
+name: Final four photo probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - research/FINAL_FOUR_PROBE_KICK
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 20
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright@1.63.0
+          npx playwright install --with-deps chromium
+      - name: Probe exact source pages
+        run: node scripts/final-four-photo-probe.mjs
+      - name: Upload probe bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: final-four-photo-probe
+          path: final-four-probe/
+          retention-days: 1
+          if-no-files-found: error
