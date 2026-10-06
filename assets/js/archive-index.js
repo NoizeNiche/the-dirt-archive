@@ -126,6 +126,65 @@ function discoverPedal(){
 }
 
 
+function discoveryCandidates(mode,source){
+  const list=source.filter(isCatalogEntry);
+  if(mode==='deep'){
+    return list.filter(item=>String(item.research_level||'').toLowerCase()==='deep'&&isLocalArchiveImage(item));
+  }
+  if(mode==='lineage'){
+    const parentKeys=new Set(list.filter(item=>item.version_of).map(item=>item.version_of));
+    return list.filter(item=>item.version_of||parentKeys.has(entryKey(item)));
+  }
+  if(mode==='technical'){
+    return list.filter(item=>{
+      const record=facetRecords.get(entryKey(item))||{};
+      return (record.transistor?.length||0)+(record.clipping?.length||0)+(record.power?.length||0)>0;
+    });
+  }
+  if(mode==='photo'){
+    return list.filter(item=>!isLocalArchiveImage(item));
+  }
+  return list;
+}
+
+function discoveryPick(mode){
+  const visible=filteredItems();
+  const candidates=discoveryCandidates(mode,visible.length?visible:items);
+  if(!candidates.length)return;
+  const picked=candidates[Math.floor(Math.random()*candidates.length)];
+  location.href=slugParams(picked);
+}
+
+function renderDiscoveryLab(source){
+  const root=$('discoveryGrid');
+  if(!root)return;
+  const modes=[
+    ['deep','Deep dive','A researched record with an exact archive photo.'],
+    ['lineage','Version rabbit hole','A pedal connected to a documented version family.'],
+    ['technical','Circuit nerd mode','A record with structured electronics evidence.'],
+    ['photo','Photo hunt','A catalog record still waiting for an exact archive photograph.'],
+    ['random','Dealer’s choice','One completely unplanned specimen from the current archive view.']
+  ];
+  root.innerHTML=modes.map(([mode,title,description])=>{
+    const count=mode==='random'
+      ? source.filter(isCatalogEntry).length
+      : discoveryCandidates(mode,filteredItems().length?filteredItems():source).length;
+    const disabled=!count;
+    return '<button class="discoveryCard '+(disabled?'disabled':'')+'" type="button" data-discovery="'+mode+'" '+(disabled?'disabled':'')+'>'+
+      '<span class="discoveryIndex">'+String(['A','B','C','D','E'][modes.findIndex(row=>row[0]===mode)]||'X')+'</span>'+
+      '<span class="discoveryCopy"><strong>'+esc(title)+'</strong><small>'+esc(description)+'</small></span>'+
+      '<span class="discoveryCount">'+count.toLocaleString()+'</span>'+
+    '</button>';
+  }).join('');
+  root.querySelectorAll('[data-discovery]').forEach(button=>{
+    button.onclick=()=>{
+      const mode=button.dataset.discovery;
+      if(mode==='random'){discoverPedal();return}
+      discoveryPick(mode);
+    };
+  });
+}
+
 function renderTable(pageItems){
   const rows=pageItems.map(x=>{
     const facets=facetRecords.get(entryKey(x))||{};
@@ -567,6 +626,7 @@ function render(){
   renderPagination(totalPages);
   wireCardActions();
   renderWorkbench();
+  renderDiscoveryLab(allItems);
   const emptyAction=document.querySelector('[data-empty-action]');
   if(emptyAction)emptyAction.onclick=()=>emptyAction.dataset.emptyAction==='search'?clearSearch():clearFilters();
   renderSearchSuggestions();
