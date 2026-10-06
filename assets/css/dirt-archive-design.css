@@ -3250,3 +3250,157 @@ main{
   color:#e7ece4;
   font-weight:900;
 }
+
+
+/* ---------------------------------------------------------
+   QUICK LOOK / pedal card specimen preview
+   --------------------------------------------------------- */
+.quickLookDialog{
+  width:min(980px,94vw);
+  max-width:none;
+  padding:0;
+  border:1px solid #596256;
+  border-radius:8px;
+  background:#10140f;
+  color:#e9eee6;
+  box-shadow:0 42px 110px rgba(0,0,0,.68);
+}
+.quickLookDialog::backdrop{
+  background:rgba(2,3,2,.84);
+  backdrop-filter:blur(9px);
+}
+.quickLookHead{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:18px;
+  padding:18px;
+  border-bottom:1px solid #293027;
+}
+.quickLookHead h2{
+  margin:5px 0 3px;
+  color:#eef2eb;
+  font-size:clamp(1.7rem,4vw,2.8rem);
+  line-height:.96;
+  letter-spacing:-.04em;
+}
+.quickLookHead p{
+  margin:0;
+  color:#798277;
+  font:800 .56rem/1.2 var(--da-mono);
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+.quickLookClose{
+  border:1px solid #485145;
+  border-radius:3px;
+  background:#171b16;
+  color:#dce3d8;
+  padding:8px 10px;
+  font:900 .47rem/1 var(--da-mono);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  cursor:pointer;
+}
+.quickLookClose:hover{border-color:var(--da-acid);color:var(--da-acid)}
+.quickLookGrid{
+  display:grid;
+  grid-template-columns:minmax(280px,.9fr) minmax(0,1.1fr);
+  gap:0;
+}
+.quickLookMedia{
+  min-height:360px;
+  display:grid;
+  place-items:center;
+  padding:18px;
+  background:
+    radial-gradient(circle at 50% 30%,rgba(220,255,57,.12),transparent 35%),
+    linear-gradient(145deg,#0b0e0b,#20271f);
+  border-right:1px solid #293027;
+}
+.quickLookMedia img{
+  display:block;
+  width:100%;
+  height:100%;
+  max-height:430px;
+  object-fit:contain;
+}
+.quickLookNoPhoto{
+  padding:30px;
+  color:#6e786c;
+  font:900 .52rem/1.4 var(--da-mono);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  text-align:center;
+}
+.quickLookInfo{
+  padding:18px;
+  align-content:start;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:7px;
+}
+.quickLookField{
+  min-width:0;
+  padding:10px;
+  border:1px solid #293027;
+  border-radius:4px;
+  background:#151a14;
+}
+.quickLookField span,.quickLookResearch>span{
+  display:block;
+  color:#667067;
+  font:900 .43rem/1.1 var(--da-mono);
+  letter-spacing:.10em;
+  text-transform:uppercase;
+}
+.quickLookField strong{
+  display:block;
+  margin-top:6px;
+  color:#e5ebe2;
+  font-size:.67rem;
+  line-height:1.35;
+  font-weight:800;
+  overflow-wrap:anywhere;
+}
+.quickLookDivider{display:none}
+.quickLookResearch{
+  grid-column:1/-1;
+  margin-top:2px;
+  padding:11px;
+  border:1px solid #293027;
+  border-radius:4px;
+  background:#121611;
+}
+.quickLookResearch p{
+  margin:6px 0 0;
+  color:#aab2a7;
+  font-size:.63rem;
+  line-height:1.55;
+  font-weight:720;
+}
+.quickLookActions{
+  display:flex;
+  gap:6px;
+  flex-wrap:wrap;
+  padding:0 18px 18px;
+}
+.quickLookActions .action{
+  background:#171b16;
+  border-color:#3a4338;
+  color:#dce3d8;
+}
+.quickLookActions .action.primary{
+  background:var(--da-acid);
+  color:#11140f;
+  border-color:var(--da-acid);
+}
+@media(max-width:700px){
+  .quickLookGrid{grid-template-columns:1fr}
+  .quickLookMedia{min-height:260px;border-right:0;border-bottom:1px solid #293027}
+}
+@media(max-width:520px){
+  .quickLookHead{padding:13px}
+  .quickLookInfo{padding:13px;grid-template-columns:1fr}
+  .quickLookActions{padding:0 13px 13px}
+}
