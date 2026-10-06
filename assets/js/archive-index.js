@@ -9,6 +9,8 @@ let selectedView=initialParams.get('view')||'grid';let suggestionIndex=-1;let su
 if(!['grid','table'].includes(selectedView))selectedView='grid';
 let facetRecords=new Map();
 let facetOptions={transistor:['Germ','Sili','IC'],clipping:['Germ','Sili','Other']};
+selectedTransistors=new Set([...selectedTransistors].filter(value=>facetOptions.transistor.includes(value)));
+selectedClippings=new Set([...selectedClippings].filter(value=>facetOptions.clipping.includes(value)));
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
 function initializeFilterDrawer(){
