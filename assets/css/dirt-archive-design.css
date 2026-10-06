@@ -2717,3 +2717,408 @@ main{position:relative;padding:20px 0 72px}
 @media(max-width:440px){
   .discoveryGrid{grid-template-columns:1fr}
 }
+
+
+/* =========================================================
+   THE DIRT DEPARTMENT / REDESIGN 02
+   Industrial museum + research instrument.
+   Layout stays familiar; hierarchy, density and tactility rise.
+   ========================================================= */
+:root{
+  --da-display:"Helvetica Neue","Arial Narrow",Arial,sans-serif;
+  --da-radius:6px;
+  --da-acid:#dcff39;
+  --da-paper:#dfe2db;
+}
+body{
+  background:
+    radial-gradient(circle at 50% -8%,rgba(220,255,57,.11),transparent 24%),
+    radial-gradient(circle at 100% 32%,rgba(211,111,69,.055),transparent 20%),
+    linear-gradient(180deg,#11140f 0%,#090b09 70%,#060706 100%);
+}
+.siteHeader,.siteHeaderDetail,.methodHeader{
+  position:sticky;
+  top:0;
+  z-index:50;
+}
+.siteHeader .wrap,.siteHeaderDetail .wrap,.methodHeader .wrap{
+  position:relative;
+}
+.siteNav{
+  border-color:#434b40;
+  background:rgba(8,11,8,.93);
+  backdrop-filter:blur(18px);
+}
+.siteNav a{
+  min-height:30px;
+  padding:8px 10px;
+  font-size:.47rem;
+}
+.siteNav a.navActive{
+  color:#111!important;
+  background:var(--da-acid);
+}
+.brand{
+  font-size:clamp(3.25rem,8.4vw,8.3rem)!important;
+  line-height:.82!important;
+  letter-spacing:-.065em!important;
+}
+.headerNote{
+  font-size:.68rem;
+  line-height:1.55;
+}
+main{
+  padding-top:24px;
+}
+.boardSurface{
+  border-radius:9px;
+  background:
+    linear-gradient(180deg,#20251f 0%,#141813 100%);
+}
+.layout{
+  grid-template-columns:248px minmax(0,1fr);
+  gap:12px;
+}
+.sidebar{
+  top:12px;
+  padding:8px;
+  border-radius:5px;
+}
+.sidebar .navSection{
+  padding:10px 6px;
+}
+.typeGrid{
+  gap:4px;
+}
+.typeButton{
+  min-height:47px;
+  padding:8px 9px;
+}
+.builderList{
+  max-height:calc(100vh - 360px);
+  scrollbar-width:thin;
+}
+.builder{
+  min-height:33px;
+  padding:7px 8px;
+  font-size:.61rem;
+}
+.technicalPanel{
+  background:rgba(220,255,57,.02);
+}
+.content{
+  min-width:0;
+}
+.heroPanel{
+  padding:13px;
+}
+.archiveContextBar{
+  padding:6px 6px 13px;
+}
+.title{
+  font-size:clamp(2rem,4.6vw,4.9rem)!important;
+  letter-spacing:-.055em!important;
+}
+.title::before{
+  font-weight:500;
+}
+.contextTools{
+  gap:5px;
+}
+.discoverButton,.viewButton,.workbenchButton,.toolLink{
+  min-height:34px;
+}
+.archivePulse{
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:5px;
+}
+.pulseMetric{
+  min-height:68px;
+  padding:9px;
+}
+.pulseValue{
+  font-size:1.1rem;
+}
+.grid{
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:8px;
+}
+.card{
+  border-radius:5px;
+  background:#c9ccc5;
+}
+.card:hover{
+  transform:translateY(-5px);
+}
+.cardMedia{
+  aspect-ratio:1/1.0;
+}
+.cardImage{
+  padding:13px;
+}
+.cardBody{
+  padding:11px 11px 12px;
+}
+.name{
+  font-size:.75rem;
+  line-height:1.15;
+}
+.builderNameCard{
+  font-size:.50rem;
+}
+.cardPhotoStatus,.cardVersion,.chips{
+  margin-top:7px;
+}
+.workbench{
+  margin-bottom:11px;
+}
+.workbenchBlockHead strong{
+  font-size:.56rem;
+}
+.archiveTableWrap{
+  border-radius:5px;
+}
+.archiveTable th,.archiveTable td{
+  padding:11px;
+}
+.archiveTable th{
+  position:sticky;
+  top:0;
+  z-index:2;
+}
+.siteFooter{
+  padding-top:20px;
+  padding-bottom:32px;
+}
+
+/* detail pages */
+.siteHeaderDetail h1{
+  font-size:clamp(2.45rem,5.9vw,5.55rem)!important;
+  line-height:.92!important;
+  letter-spacing:-.055em!important;
+}
+.siteHeaderDetail .sub{
+  max-width:760px;
+  font-size:.72rem;
+  line-height:1.45;
+}
+.pageLayout{
+  gap:13px;
+}
+.pageSidebar{
+  border-radius:5px;
+}
+.pageMain .panel{
+  border-radius:7px;
+}
+.research h2{
+  color:#172018;
+  font-size:1.02rem;
+  line-height:1.15;
+}
+.research p,.research li{
+  font-size:.76rem;
+  line-height:1.65;
+}
+.research ul{
+  padding-left:19px;
+}
+.label{
+  font-size:.50rem;
+}
+.actions{
+  gap:6px;
+}
+.action{
+  min-height:34px;
+  padding:8px 11px;
+  font-size:.50rem;
+}
+
+/* builder / directory pages */
+.builderSurface,.buildersSurface,.identifySurface{
+  border-radius:8px;
+}
+.builderHero,.buildersHero,.identifyHero{
+  padding:16px 12px 20px;
+}
+.builderHero h1,.buildersHero h1,.identifyHero h1{
+  font-size:clamp(2.45rem,5.4vw,5rem)!important;
+  line-height:.93!important;
+  letter-spacing:-.05em!important;
+}
+.builderHero p,.buildersHero p,.identifyIntro{
+  max-width:860px;
+  font-size:.72rem;
+  line-height:1.6;
+}
+.builderStats{
+  gap:6px;
+  margin:12px 4px;
+}
+.builderStats>div{
+  border-radius:6px;
+  padding:11px;
+  background:#d2d4ce;
+}
+.builderStats strong{
+  font-size:1.25rem;
+}
+.builderGrid{
+  gap:8px;
+  margin:0 4px;
+}
+.builderCard{
+  border-radius:6px;
+}
+.builderCardMedia{
+  aspect-ratio:1.2/1;
+}
+.builderCardBody{
+  padding:10px;
+}
+.buildersGrid{
+  gap:8px;
+}
+.builderDirectoryCard{
+  border-radius:6px;
+  padding:13px;
+}
+
+/* identify / research workstation */
+.identifyGrid{
+  gap:8px;
+}
+.identifyPanel{
+  padding:12px;
+  border-radius:7px;
+  background:#d0d3cd;
+}
+.identifyPanelHead strong{
+  font-size:.59rem;
+}
+.identifyChoice{
+  border-radius:4px;
+  font-size:.53rem;
+  padding:8px 9px;
+}
+.identifyResultsPanel{
+  border-radius:7px;
+  background:#cfd2cc;
+}
+.identifyResultGrid{
+  gap:7px;
+}
+.identifyResult{
+  border-radius:6px;
+}
+.identifyResultName{
+  font-size:.66rem;
+}
+
+/* methodology / 404 */
+.methodHeader{
+  background:linear-gradient(180deg,#0e110d,#11140f);
+}
+.methodHeader h1,.notFoundTitle{
+  font-family:var(--da-display);
+  font-weight:800;
+  letter-spacing:-.055em;
+}
+.methodHeader h1{
+  font-size:clamp(2.7rem,6.8vw,6rem)!important;
+}
+.methodHeader .lede{
+  font-size:.82rem;
+}
+.notFoundPage{
+  min-height:calc(100vh - 160px);
+}
+.notFoundPanel{
+  width:min(860px,100%);
+  border-radius:8px;
+}
+.notFoundTitle{
+  font-size:clamp(2.7rem,6.5vw,5.8rem);
+}
+
+/* mobile: preserve information, not decoration */
+@media(max-width:1000px){
+  .siteHeader,.siteHeaderDetail,.methodHeader{
+    position:relative;
+  }
+  .siteNav{
+    position:relative;
+    top:auto;
+    right:auto;
+    margin-bottom:10px;
+    width:max-content;
+    max-width:100%;
+    overflow:auto;
+  }
+  .headerRow{
+    align-items:flex-start;
+    flex-direction:column;
+  }
+  .headerNote{
+    max-width:620px;
+    text-align:left;
+  }
+  .archivePulse{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+  .grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+}
+@media(max-width:760px){
+  .wrap{
+    width:min(100% - 20px,1480px);
+  }
+  .brand{
+    font-size:clamp(2.9rem,13vw,5.5rem)!important;
+  }
+  .archiveHero{
+    padding:18px 16px 0;
+  }
+  .archivePulse{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+  .grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+  .pulseMetric{
+    min-height:62px;
+  }
+  .layout{
+    grid-template-columns:1fr;
+  }
+  .sidebar{
+    position:relative;
+    top:auto;
+  }
+  .builderList{
+    max-height:320px;
+  }
+}
+@media(max-width:480px){
+  .siteNav{
+    width:100%;
+  }
+  .siteNav a{
+    flex:1 0 auto;
+  }
+  .archivePulse{
+    grid-template-columns:1fr 1fr;
+  }
+  .grid{
+    grid-template-columns:1fr 1fr;
+    gap:6px;
+  }
+  .cardBody{
+    padding:9px;
+  }
+  .name{
+    font-size:.67rem;
+  }
+}
