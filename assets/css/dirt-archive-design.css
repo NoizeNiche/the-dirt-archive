@@ -1687,3 +1687,17 @@ main{position:relative;padding:20px 0 72px}
   .brandLink{font-size:clamp(2rem,10vw,3.2rem)!important}
   .archiveHeroCopy h2{transform:none;width:100%}
 }
+
+/* DIG IN hero lockup */
+#archiveHeroTitle{
+  max-width:8ch!important;
+  width:auto!important;
+  transform:none!important;
+  letter-spacing:-.045em!important;
+}
+#archiveHeroTitle em{
+  display:inline-block;
+  color:var(--da-acid);
+  font-style:normal;
+  letter-spacing:-.05em;
+}
