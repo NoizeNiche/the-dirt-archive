@@ -48,7 +48,7 @@ function combineEvidence(primary,structured){
   if(!first&&(!second||second===COMPARE_PLACEHOLDER))return '';
   if(!second||second===COMPARE_PLACEHOLDER)return first;
   if(!first||first===COMPARE_PLACEHOLDER)return second;
-  return first+'\\n\\nStructured archive value: '+second;
+  return first+'\n\nStructured archive value: '+second;
 }
 
 function comparePhoto(item){
@@ -231,6 +231,7 @@ function buildResearchRows(item,research){
 }
 
 function renderCell(row,item){
+  if(row.kind==='photoImage')return comparePhoto(item);
   if(row.kind==='photo')return '<div class="compareValue compareStatus">'+esc(row.text||COMPARE_PLACEHOLDER)+'</div>';
   if(row.kind==='demo')return row.link?'<a class="action" href="'+esc(row.link)+'" target="_blank" rel="noopener">'+esc(row.text||'Watch demo')+'</a>':'<div class="compareMuted">'+COMPARE_PLACEHOLDER+'</div>';
   if(row.kind==='link')return row.link?'<a class="sourceLink" href="'+esc(row.link)+'" target="_blank" rel="noopener">'+esc(row.link)+'</a>':'<div class="compareMuted">'+COMPARE_PLACEHOLDER+'</div>';
