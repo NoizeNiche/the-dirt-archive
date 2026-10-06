@@ -29,6 +29,7 @@ LIVE_AUDIT = ROOT / "scripts/live-photo-audit.js"
 HOME = ROOT / "index.html"
 DETAIL = ROOT / "pedal-detail.html"
 COMPARE = ROOT / "compare.html"
+OBSERVATORY = ROOT / "observatory.html"
 PHOTO_CONTENT_AUDIT = ROOT / "scripts/audit-photo-content.py"
 PHOTO_CONTENT_WORKFLOW = ROOT / ".github/workflows/photo-content-audit.yml"
 PHOTO_SOURCE_BLOCKLIST = ROOT / "research/PHOTO_SOURCE_BLOCKLIST.json"
@@ -114,7 +115,7 @@ def forbidden_photo_provenance(value):
     return False
 
 def main():
-    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, BUILDER, BUILDERS, IDENTIFY, CORRECTIONS, LEGACY, PHOTO_CONTENT_AUDIT, ERROR_CSS, ERROR_JS, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, PHOTO_CONTENT_QUARANTINE, QUARANTINE_SCRIPT, QUARANTINE_WORKFLOW, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
+    required = (INDEX, MANIFEST, TRACKER, PHOTO_REVIEW_QUEUE, PHOTO_BACKLOG, PHOTO_SOURCE_OVERRIDES, PHOTO_DIRECT_IMAGE_OVERRIDES, RESEARCH_SOURCE_OVERRIDES, APPLY_PHOTO_SOURCE_OVERRIDES, CORE, INDEX_JS, DETAIL_JS, DEPLOY_AUDIT, LIVE_AUDIT, STATIC_SERVER, PHOTO_CACHE, FACET_BUILDER, HOME, DETAIL, COMPARE, OBSERVATORY, BUILDER, BUILDERS, IDENTIFY, CORRECTIONS, LEGACY, PHOTO_CONTENT_AUDIT, ERROR_CSS, ERROR_JS, PHOTO_CONTENT_WORKFLOW, PHOTO_SOURCE_BLOCKLIST, PHOTO_CONTENT_QUARANTINE, QUARANTINE_SCRIPT, QUARANTINE_WORKFLOW, DEPLOY, SITEMAP, ROBOTS, SITEMAP_BUILDER)
     missing = [p.relative_to(ROOT).as_posix() for p in required if not p.is_file()]
     if missing:
         raise SystemExit("Missing required archive files: " + ", ".join(missing))
@@ -136,6 +137,7 @@ def main():
         "https://noizeniche.github.io/the-dirt-archive/methodology.html",
         "https://noizeniche.github.io/the-dirt-archive/audit.html",
         "https://noizeniche.github.io/the-dirt-archive/compare.html",
+        "https://noizeniche.github.io/the-dirt-archive/observatory.html",
         "https://noizeniche.github.io/the-dirt-archive/builders.html",
         "https://noizeniche.github.io/the-dirt-archive/identify.html",
         "https://noizeniche.github.io/the-dirt-archive/corrections.html",
@@ -546,8 +548,10 @@ def main():
         ("photo-recovery-results.json", fast_photo_workflow),
         ("POWER_OPTIONS", facet_builder_text),
         ('"power": list(POWER_OPTIONS)', facet_builder_text),
-        ("selectedPowers", index_viewer_text),
-        ("powerFacetOptions", home_text),
+        ("selectedTransistors", index_viewer_text),
+        ("selectedClippings", index_viewer_text),
+        ("transistorFacetOptions", home_text),
+        ("clippingFacetOptions", home_text),
     ):
         if marker not in source:
             raise SystemExit(f"Viewer/recovery integration is incomplete: {marker}")
@@ -634,6 +638,9 @@ def main():
         raise SystemExit("Correction page is missing its stylesheet.")
     if "./assets/js/archive-identify.js" not in identify_text or "./assets/css/archive-identify.css" not in identify_text:
         raise SystemExit("Pedal identification page is missing its required runtime assets.")
+    observatory_text = OBSERVATORY.read_text(encoding="utf-8")
+    if "./assets/js/archive-observatory.js" not in observatory_text or "./assets/css/archive-observatory.css" not in observatory_text:
+        raise SystemExit("Archive Observatory page is missing its required runtime assets.")
     builders_text = (ROOT / "builders.html").read_text(encoding="utf-8")
     if "./assets/js/archive-builders.js" not in builders_text or "./assets/css/archive-builders.css" not in builders_text:
         raise SystemExit("Builder directory page is missing its required runtime assets.")
