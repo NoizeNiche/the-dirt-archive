@@ -1,4 +1,4 @@
-let builderDirectoryData=[];
+let builderDirectoryData=[]; let builderDirectoryFacets={};
 function builderDirectoryUrl(name){const u=new URL('./builder.html',location.href);u.searchParams.set('builder',name);return u.href}
 function renderBuilderDirectory(){
   const q=normalizeSearchText(document.getElementById('buildersSearch')?.value||'');
@@ -22,19 +22,28 @@ function renderBuilderDirectory(){
     row.items.forEach(item=>(item.types||[]).forEach(type=>{if(typeCounts[type]!==undefined)typeCounts[type]++}));
     const families=row.items.filter(item=>!item.version_of).length;
     const photos=row.items.filter(isLocalArchiveImage).length;
+    const deep=row.items.filter(item=>String(item.research_level||'').toLowerCase()==='deep').length;
+    const tech=row.items.filter(item=>{
+      const record=builderDirectoryFacets.records?.[entryKey(item)]||{};
+      return ['transistor','clipping'].some(group=>Array.isArray(record[group])&&record[group].length);
+    }).length;
+    const coverage=row.items.length?photos/row.items.length*100:0;
     return '<a class="builderDirectoryCard" href="'+esc(builderDirectoryUrl(row.name))+'">'+
-      '<span class="builderDirectoryName">'+esc(row.name)+'</span>'+
-      '<span class="builderDirectoryCounts">'+row.items.length.toLocaleString()+' records · '+families.toLocaleString()+' families · '+photos.toLocaleString()+' exact photos</span>'+
+      '<div class="builderDirectoryTop"><span class="builderDirectoryName">'+esc(row.name)+'</span><span class="builderDirectoryArrow">↗</span></div>'+
+      '<span class="builderDirectoryCounts">'+row.items.length.toLocaleString()+' records · '+families.toLocaleString()+' families</span>'+
+      '<div class="builderDirectoryBars"><span><i style="width:'+coverage.toFixed(1)+'%"></i></span><b>'+photos.toLocaleString()+' photos</b><span><i style="width:'+(row.items.length?deep/row.items.length*100:0).toFixed(1)+'%"></i></span><b>'+deep.toLocaleString()+' deep</b></div>'+
       '<span class="builderDirectoryTypes">'+
         (typeCounts.Overdrive?'OD '+typeCounts.Overdrive:'')+
         (typeCounts.Distortion?' · Dist '+typeCounts.Distortion:'')+
         (typeCounts.Fuzz?' · Fuzz '+typeCounts.Fuzz:'')+
+        (tech?' · Tech '+tech:'')+
       '</span>'+
     '</a>';
   }).join(''):'<div class="empty"><strong>No builders found</strong><p>Try another builder name.</p></div>';
 }
-loadCatalog().then(data=>{
+Promise.all([loadCatalog(),loadFacets()]).then(([data,facets])=>{
   builderDirectoryData=data.pedals||[];
+  builderDirectoryFacets=facets||{};
   renderBuilderDirectory();
   document.getElementById('buildersSearch').oninput=renderBuilderDirectory;
 }).catch(error=>{
