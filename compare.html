@@ -36,7 +36,7 @@
         <p id="compareMeta">Loading comparison…</p>
       </div>
       <div class="compareControls">
-        <button id="copyCompareLink" class="action" type="button">Copy comparison link</button>
+        <button id="copyCompareLink" class="action" type="button">Copy comparison link</button><button id="exportCompare" class="action" type="button">Export CSV</button>
         <button id="clearCompare" class="action" type="button">Clear comparison</button>
       </div>
     </div>
@@ -45,6 +45,7 @@
       <p>Return to the archive and choose up to four exact pedal records with Compare.</p>
       <a class="action primary" href="./index.html">Browse the archive</a>
     </div>
+    <section class="compareInsights" id="compareInsights" hidden aria-label="Comparison intelligence"><div class="compareInsightHead"><div><div class="label">Archive intelligence</div><h2>What the records actually agree on</h2></div><p>Shared facts, documented differences, and evidence gaps are generated directly from the selected records. No ranking, no guessing.</p></div><div class="compareEvidenceStrip" id="compareEvidenceStrip"></div><div class="compareInsightGrid" id="compareInsightGrid"></div></section>
     <div class="tableWrap" id="comparisonWrap" hidden>
       <table class="comparison" id="comparison">
         <thead id="comparisonHead"></thead>
