@@ -5,14 +5,10 @@ let pedalImages=new Map();let variationSearchText=new Map();
 let selectedType=initialParams.get('type')||'All';let selectedBuilder=initialParams.get('builder')||'';let q=initialParams.get('q')||'';
 let selectedTransistors=new Set((initialParams.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
 let selectedClippings=new Set((initialParams.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
-let selectedPowers=new Set((initialParams.get('power')||'').split(',').map(x=>x.trim()).filter(Boolean));
-let selectedResearch=initialParams.get('research')||'all';
-let selectedPhoto=initialParams.get('photo')||'all';
 let selectedView=initialParams.get('view')||'grid';let suggestionIndex=-1;let suggestionItems=[];
-if(!['all','deep','not-deep'].includes(selectedResearch))selectedResearch='all';
-if(!['all','archived','needed'].includes(selectedPhoto))selectedPhoto='all';
 if(!['grid','table'].includes(selectedView))selectedView='grid';
-let facetRecords=new Map();let facetOptions={transistor:[],clipping:[],power:[]};
+let facetRecords=new Map();
+let facetOptions={transistor:['Germ','Sili','IC'],clipping:['Germ','Sili','Other']};
 if(!['All','Overdrive','Distortion','Fuzz'].includes(selectedType))selectedType='All';
 
 function initializeFilterDrawer(){
@@ -23,7 +19,7 @@ function initializeFilterDrawer(){
 initializeFilterDrawer();
 
 function hasActiveFilters(){
-  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0||selectedResearch!=='all'||selectedPhoto!=='all';
+  return selectedType!=='All'||Boolean(selectedBuilder)||Boolean(q)||selectedTransistors.size>0||selectedClippings.size>0;
 }
 
 function renderFilterSummary(){
@@ -34,11 +30,6 @@ function renderFilterSummary(){
   if(selectedBuilder)parts.push(selectedBuilder);
   for(const value of selectedTransistors)parts.push(value+' transistor');
   for(const value of selectedClippings)parts.push(value+' clipping');
-  for(const value of selectedPowers)parts.push(value+' power');
-  if(selectedResearch==='deep')parts.push('Deep research');
-  if(selectedResearch==='not-deep')parts.push('Not deep');
-  if(selectedPhoto==='archived')parts.push('Exact photo');
-  if(selectedPhoto==='needed')parts.push('Photo needed');
   if(q)parts.push('Search: '+q);
   state.textContent=parts.length?parts.join(' · '):'All pedals';
 }
@@ -58,12 +49,7 @@ function clearFilters(){
   suggestionItems=[];
   selectedTransistors.clear();
   selectedClippings.clear();
-  selectedPowers.clear();
-  selectedResearch='all';
-  selectedPhoto='all';
   currentPage=1;
-  $('researchFilter').value='all';
-  $('photoFilter').value='all';
   $('search').value='';
   syncUrl(false);
   render();
@@ -239,9 +225,6 @@ function syncUrl(replace=true){
   if(selectedBuilder)p.set('builder',selectedBuilder);
   if(selectedTransistors.size)p.set('transistor',[...selectedTransistors].join(','));
   if(selectedClippings.size)p.set('clipping',[...selectedClippings].join(','));
-  if(selectedPowers.size)p.set('power',[...selectedPowers].join(','));
-  if(selectedResearch!=='all')p.set('research',selectedResearch);
-  if(selectedPhoto!=='all')p.set('photo',selectedPhoto);
   if(selectedView!=='grid')p.set('view',selectedView);
   if(q)p.set('q',q);
   if(currentPage>1)p.set('page',currentPage);
@@ -257,29 +240,14 @@ function readUrlState(){
   q=params.get('q')||'';
   selectedTransistors=new Set((params.get('transistor')||'').split(',').map(x=>x.trim()).filter(Boolean));
   selectedClippings=new Set((params.get('clipping')||'').split(',').map(x=>x.trim()).filter(Boolean));
-  selectedPowers=new Set((params.get('power')||'').split(',').map(x=>x.trim()).filter(Boolean));
-  selectedResearch=['all','deep','not-deep'].includes(params.get('research')||'')?(params.get('research')||'all'):'all';
-  selectedPhoto=['all','archived','needed'].includes(params.get('photo')||'')?(params.get('photo')||'all'):'all';
   currentPage=Math.max(1,parseInt(params.get('page')||'1',10)||1);
   $('search').value=q;
-  $('researchFilter').value=selectedResearch;
-  $('photoFilter').value=selectedPhoto;
 }
 
 function slugParams(x){ return detailUrl(x, null, selectedType); }
 
 function typeMatches(x){
   return selectedType==='All'||(x.types||[]).includes(selectedType);
-}
-
-function coverageMatches(x){
-  const research=String(x.research_level||'').toLowerCase();
-  if(selectedResearch==='deep'&&research!=='deep')return false;
-  if(selectedResearch==='not-deep'&&research==='deep')return false;
-  const hasPhoto=isLocalArchiveImage(x);
-  if(selectedPhoto==='archived'&&!hasPhoto)return false;
-  if(selectedPhoto==='needed'&&hasPhoto)return false;
-  return true;
 }
 
 function searchMatches(x){
@@ -295,7 +263,28 @@ function searchMatches(x){
 }
 
 function facetValues(x,group){
-  return facetRecords.get(entryKey(x))?.[group]||[];
+  const raw=facetRecords.get(entryKey(x))?.[group]||[];
+  if(group==='transistor'){
+    const normalized=new Set();
+    for(const value of raw){
+      const text=String(value||'').toLowerCase();
+      if(/germanium|\bgerm\b/.test(text)) normalized.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text)) normalized.add('Sili');
+      else if(/jfet|mosfet|op.?amp|integrated|\bic\b/.test(text)) normalized.add('IC');
+    }
+    return [...normalized];
+  }
+  if(group==='clipping'){
+    const normalized=new Set();
+    for(const value of raw){
+      const text=String(value||'').toLowerCase();
+      if(/germanium|\bgerm\b/.test(text)) normalized.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text)) normalized.add('Sili');
+      else normalized.add('Other');
+    }
+    return [...normalized];
+  }
+  return raw;
 }
 
 function hasSelectedFacet(x,group,selected){
@@ -305,14 +294,13 @@ function hasSelectedFacet(x,group,selected){
 }
 
 function facetMatches(x){
-  return hasSelectedFacet(x,'transistor',selectedTransistors)&&hasSelectedFacet(x,'clipping',selectedClippings)&&hasSelectedFacet(x,'power',selectedPowers);
+  return hasSelectedFacet(x,'transistor',selectedTransistors)&&hasSelectedFacet(x,'clipping',selectedClippings);
 }
 
 function matchesOtherFacets(x,exceptGroup){
-  return (!typeMatches(x)||!coverageMatches(x)||!(!selectedBuilder||x.company===selectedBuilder)||!searchMatches(x))?false:
+  return (!typeMatches(x)||!(!selectedBuilder||x.company===selectedBuilder)||!searchMatches(x))?false:
     (exceptGroup==='transistor'||hasSelectedFacet(x,'transistor',selectedTransistors))&&
-    (exceptGroup==='clipping'||hasSelectedFacet(x,'clipping',selectedClippings))&&
-    (exceptGroup==='power'||hasSelectedFacet(x,'power',selectedPowers));
+    (exceptGroup==='clipping'||hasSelectedFacet(x,'clipping',selectedClippings));
 }
 
 function facetCount(group,option){
@@ -333,16 +321,11 @@ function renderTechnicalFilters(){
 
   const groups=[
     ['transistor','Transistor',selectedTransistors],
-    ['clipping','Clipping',selectedClippings],
-    ['power','Power',selectedPowers]
+    ['clipping','Clipping',selectedClippings]
   ];
   for(const [group,label,selected] of groups){
     const target=$(
-      group==='transistor'
-        ? 'transistorFacetOptions'
-        : group==='clipping'
-          ? 'clippingFacetOptions'
-          : 'powerFacetOptions'
+      group==='transistor' ? 'transistorFacetOptions' : 'clippingFacetOptions'
     );
     if(!target)continue;
     const options=facetOptions[group]||[];
@@ -359,7 +342,7 @@ function renderTechnicalFilters(){
     button.onclick=()=>{
       const group=button.dataset.facetGroup;
       const value=button.dataset.facet;
-      const selected=group==='transistor'?selectedTransistors:group==='clipping'?selectedClippings:selectedPowers;
+      const selected=group==='transistor'?selectedTransistors:selectedClippings;
       if(selected.has(value))selected.delete(value);else selected.add(value);
       currentPage=1;
       syncUrl(false);
@@ -533,11 +516,6 @@ function render(){
   if(selectedType!=='All')titleParts.push(selectedType);
   for(const value of selectedTransistors)titleParts.push(value+' transistor');
   for(const value of selectedClippings)titleParts.push(value+' clipping');
-  if(selectedResearch==='deep')titleParts.push('Deep research');
-  if(selectedResearch==='not-deep')titleParts.push('Not deep');
-  if(selectedPhoto==='archived')titleParts.push('Exact photo');
-  if(selectedPhoto==='needed')titleParts.push('Photo needed');
-  for(const value of selectedPowers)titleParts.push(value+' power');
   $('title').textContent=titleParts.length?titleParts.join(' · '):'All Pedals';
 
   const rangeStart=visible.length?pageStart+1:0;
@@ -635,22 +613,7 @@ $('closeWorkbench').onclick=closeWorkbench;
 $('clearSaved').onclick=clearSaved;
 $('clearCompare').onclick=clearCompare;
 window.addEventListener('workbenchchange',()=>{renderWorkbench();wireCardActions();});
-$('researchFilter').onchange=e=>{
-  selectedResearch=e.target.value;
-  currentPage=1;
-  syncUrl(true);
-  render();
-};
-$('photoFilter').onchange=e=>{
-  selectedPhoto=e.target.value;
-  currentPage=1;
-  syncUrl(true);
-  render();
-};
-
 $('search').value=q;
-$('researchFilter').value=selectedResearch;
-$('photoFilter').value=selectedPhoto;
 $('search').oninput=e=>{
   q=e.target.value.trim();
   suggestionIndex=-1;
@@ -727,9 +690,8 @@ Promise.all([loadCatalog(),loadFacets()])
   items=allItems.filter(isCatalogEntry);
   facetRecords=new Map(Object.entries(facets?.records||{}));
   facetOptions={
-    transistor:Array.isArray(facets?.options?.transistor)?facets.options.transistor:[],
-    clipping:Array.isArray(facets?.options?.clipping)?facets.options.clipping:[],
-    power:Array.isArray(facets?.options?.power)?facets.options.power:[]
+    transistor:['Germ','Sili','IC'],
+    clipping:['Germ','Sili','Other']
   };
 
   pedalImages=new Map();
