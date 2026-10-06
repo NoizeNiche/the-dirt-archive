@@ -1,3 +1,4 @@
+let showDifferencesOnly=false;
 function encodeCompareKeys(keys){
   try{return btoa(encodeURIComponent(JSON.stringify(keys||[])))}catch{return ''}
 }
@@ -368,6 +369,20 @@ function exportComparisonCsv(items,researchResults){
   setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
 
+function rowHasDifference(row){
+  const values=row.values.map(v=>String(v||'').trim()||COMPARE_PLACEHOLDER);
+  const known=values.filter(v=>comparisonValueKey(v)!==comparisonValueKey(COMPARE_PLACEHOLDER));
+  if(known.length<2)return known.length>0 && known.length<values.length;
+  return known.length<values.length || new Set(known.map(comparisonValueKey)).size>1;
+}
+
+function rowCellClass(row,index){
+  const value=String(row.values[index]||'').trim();
+  const missing=!value||comparisonValueKey(value)===comparisonValueKey(COMPARE_PLACEHOLDER);
+  if(missing)return 'compareCellMissing';
+  return rowHasDifference(row)?'compareCellDiff':'compareCellSame';
+}
+
 function renderComparison(items,facets,researchResults){
   facetRecords=new Map(Object.entries(facets?.records||{}));
   const wrap=document.getElementById('comparisonWrap');
@@ -393,15 +408,19 @@ function renderComparison(items,facets,researchResults){
   });
 
   const matrix=buildComparisonMatrix(researchResults.map((result,index)=>Object.assign(items[index],{__research:result.research})));
+  const visibleRows=showDifferencesOnly?matrix.rows.filter(row=>rowHasDifference(row)):matrix.rows;
   let body='';
   let activeGroup='';
-  matrix.rows.forEach(row=>{
+  visibleRows.forEach(row=>{
     if(row.group!==activeGroup){
       activeGroup=row.group;
       body+='<tr class="compareGroup"><th scope="row" colspan="'+(items.length+1)+'">'+esc(activeGroup)+'</th></tr>';
     }
-    body+='<tr><th scope="row">'+esc(row.label)+'</th>'+items.map((item,index)=>'<td>'+renderCell({label:row.label,text:row.values[index]},item)+'</td>').join('')+'</tr>';
+    body+='<tr><th scope="row">'+esc(row.label)+'</th>'+items.map((item,index)=>'<td class="'+rowCellClass(row,index)+'">'+renderCell({label:row.label,text:row.values[index]},item)+'</td>').join('')+'</tr>';
   });
+  if(!visibleRows.length){
+    body='<tr><td class="compareNoDiff" colspan="'+(items.length+1)+'">No documented differences or documentation gaps were found across the current records.</td></tr>';
+  }
   document.getElementById('comparisonBody').innerHTML=body;
   renderCompareInsights(items,researchResults);
 }
@@ -464,4 +483,18 @@ window.addEventListener('workbenchchange',async()=>{
   }catch(error){
     console.error('Could not refresh comparison',error);
   }
+});
+
+document.getElementById('diffOnlyButton')?.addEventListener('click',async()=>{
+  showDifferencesOnly=!showDifferencesOnly;
+  const button=document.getElementById('diffOnlyButton');
+  if(button){
+    button.setAttribute('aria-pressed',String(showDifferencesOnly));
+    button.textContent=showDifferencesOnly?'All fields':'Differences only';
+  }
+  try{
+    const data=await loadCatalog();
+    const facets=await loadFacets();
+    await loadAndRenderComparison(data.pedals||[],facets);
+  }catch(error){console.error('Could not switch comparison field view',error);}
 });
