@@ -185,6 +185,45 @@ function renderDiscoveryLab(source){
   });
 }
 
+function quickLookSection(label,value){
+  return '<div class="quickLookField"><span>'+esc(label)+'</span><strong>'+esc(value||'Not documented')+'</strong></div>';
+}
+
+async function openQuickLook(item){
+  const dialog=$('quickLookDialog');
+  if(!dialog)return;
+  const facets=facetRecords.get(entryKey(item))||{};
+  const title=$('quickLookTitle'),builder=$('quickLookBuilder'),media=$('quickLookMedia'),info=$('quickLookInfo'),actions=$('quickLookActions');
+  title.textContent=item.pedal;
+  builder.textContent=item.company;
+  media.innerHTML=isLocalArchiveImage(item)
+    ? '<img src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal)+' pedal" decoding="async" referrerpolicy="no-referrer">'
+    : '<div class="quickLookNoPhoto">Exact photo not archived</div>';
+  const tech=[
+    ['Dirt type',(item.types||[]).join(' · ')],
+    ['Version',item.version_label||'Base record'],
+    ['Transistor',(facets.transistor||[]).join(' · ')],
+    ['Clipping',(facets.clipping||[]).join(' · ')],
+    ['Research',String(item.research_level||'').trim()+(item.deep_research_status?' · '+String(item.deep_research_status).trim():'')]
+  ];
+  info.innerHTML=tech.map(row=>quickLookSection(row[0],row[1])).join('<div class="quickLookDivider"></div>');
+  actions.innerHTML='<a class="action primary" href="'+esc(slugParams(item))+'">Open full record ↗</a>'+
+    (item.source_page?'<a class="action" href="'+esc(item.source_page)+'" target="_blank" rel="noopener">Source ↗</a>':'');
+  if(item.research_record){
+    info.insertAdjacentHTML('beforeend','<div class="quickLookResearch" id="quickLookResearch"><span>Research</span><p>Loading documented summary…</p></div>');
+    try{
+      const response=await fetch(new URL(item.research_record.replace(/^\.\//,''),location.href),{cache:'no-cache'});
+      const text=await response.text();
+      const match=text.match(/##\s+What this pedal is\s*\r?\n([\s\S]*?)(?=\r?\n##\s+|$)/i);
+      if(match&&match[1].trim())$('quickLookResearch').innerHTML='<span>What this pedal is</span><p>'+esc(match[1].replace(/^[-*]\s+/gm,'').replace(/\s+/g,' ').trim())+'</p>';
+      else $('quickLookResearch').innerHTML='<span>Research</span><p>Detailed research is available on the full record.</p>';
+    }catch{
+      const node=$('quickLookResearch');if(node)node.innerHTML='<span>Research</span><p>Detailed research is available on the full record.</p>';
+    }
+  }
+  dialog.showModal?.();
+}
+
 function renderTable(pageItems){
   const rows=pageItems.map(x=>{
     const facets=facetRecords.get(entryKey(x))||{};
@@ -216,6 +255,7 @@ function wireTableActions(){
       const item=items.find(x=>x.company===button.dataset.builder&&x.pedal===button.dataset.pedal);
       if(!item)return;
       if(button.dataset.action==='save')toggleSaved(item);
+      else if(button.dataset.action==='quick-look'){openQuickLook(item);return}
       else{const result=toggleCompare(item);if(result.reason==='limit')openWorkbench();}
     };
   });
@@ -607,6 +647,7 @@ function render(){
             '</span>'+
           '</a>'+
           '<div class="cardActions">'+
+            '<button class="cardAction quickLookAction" type="button" data-action="quick-look" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'">Peek</button>'+
             '<button class="cardAction saveAction" type="button" data-action="save" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'" aria-pressed="'+isSaved(x)+'">'+(isSaved(x)?'Saved':'Save')+'</button>'+
             '<button class="cardAction compareAction" type="button" data-action="compare" data-builder="'+esc(x.company)+'" data-pedal="'+esc(x.pedal)+'" aria-pressed="'+isInCompare(x)+'"'+(!isInCompare(x)&&compareState().length>=4?' disabled':'')+'>'+ (isInCompare(x)?'Comparing':'Compare')+'</button>'+
           '</div>'+
@@ -784,4 +825,8 @@ Promise.all([loadCatalog(),loadFacets()])
   $('meta').textContent='Catalog unavailable';
   $('grid').innerHTML='<div class="empty"><strong>Catalog unavailable</strong>The archive data could not be loaded.</div>';
   console.error(e);
+});
+$('quickLookClose')?.addEventListener('click',()=>$('quickLookDialog')?.close());
+$('quickLookDialog')?.addEventListener('click',event=>{
+  if(event.target===event.currentTarget)event.currentTarget.close();
 });
