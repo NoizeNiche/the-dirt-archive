@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">The Dirt Department</title>
+<desc id="desc">A distressed guitar effects pedal beside The Dirt Department wordmark.</desc>
+<defs>
+  <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="7" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="1.6"/></filter>
+</defs>
+<rect width="1200" height="420" fill="#0a0c09"/>
+<g filter="url(#rough)">
+  <path d="M74 50 Q75 34 91 32 H315 Q330 34 333 52 L349 319 Q350 340 330 346 H75 Q56 344 57 324 Z" fill="#11150f" stroke="#edf0e7" stroke-width="8"/>
+  <path d="M69 58 Q73 42 91 40 H313 Q326 42 329 58" fill="none" stroke="#cfd4cb" stroke-width="3"/>
+  <circle cx="131" cy="105" r="33" fill="#171b16" stroke="#e3e6de" stroke-width="4"/>
+  <circle cx="259" cy="105" r="33" fill="#171b16" stroke="#e3e6de" stroke-width="4"/>
+  <circle cx="131" cy="190" r="33" fill="#171b16" stroke="#e3e6de" stroke-width="4"/>
+  <circle cx="259" cy="190" r="33" fill="#171b16" stroke="#e3e6de" stroke-width="4"/>
+  <path d="M131 105 l0 -22 M259 105 l12 -18 M131 190 l18 -10 M259 190 l-2 -22" stroke="#f1f3ec" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="195" cy="147" r="8" fill="#dcff39" stroke="#10130e" stroke-width="3"/>
+  <path d="M60 235 C92 215 112 248 139 230 S190 208 218 236 S275 257 344 226" fill="none" stroke="#dcff39" stroke-width="7"/>
+  <circle cx="195" cy="294" r="26" fill="#141813" stroke="#e3e6de" stroke-width="5"/>
+  <circle cx="195" cy="294" r="13" fill="#252b23"/>
+  <path d="M48 140 h-16 M356 140 h-16 M48 280 h-16 M356 280 h-16" stroke="#edf0e7" stroke-width="6"/>
+  <text x="396" y="108" fill="#eef1e9" font-family="Impact, Haettenschweiler, Arial Narrow, sans-serif" font-size="62" font-weight="900" letter-spacing="2">THE</text>
+  <text x="394" y="212" fill="#dcff39" font-family="Impact, Haettenschweiler, Arial Narrow, sans-serif" font-size="136" font-weight="900" letter-spacing="-3">DIRT</text>
+  <text x="394" y="310" fill="#eef1e9" font-family="Impact, Haettenschweiler, Arial Narrow, sans-serif" font-size="104" font-weight="900" letter-spacing="-2">DEPARTMENT</text>
+  <path d="M396 332 H1147" stroke="#dcff39" stroke-width="5"/>
+  <text x="398" y="372" fill="#9ba398" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" font-weight="800" letter-spacing="4">A FAN-BASED LIBRARY OF DIRT PEDALS.</text>
+</g>
+</svg>
