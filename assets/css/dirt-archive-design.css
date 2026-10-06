@@ -1581,7 +1581,7 @@ main{position:relative;padding:20px 0 72px}
    WORDMARK + DISPLAY TYPE REFINEMENT
    --------------------------------------------------------- */
 :root{
-  --da-display-tight:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow","Helvetica Neue Condensed",sans-serif;
+  --da-display-tight:"Helvetica Neue","Arial Narrow",Arial,sans-serif;
 }
 .brand,
 .brandLink{
@@ -2316,4 +2316,92 @@ main{position:relative;padding:20px 0 72px}
 }
 @media(max-width:899px){
   .referenceHeroPoster{display:none}
+}
+
+
+/* ---------------------------------------------------------
+   READABILITY PASS / 2026-10-06
+   Keep the industrial archive language, but make major
+   typography immediately readable across every page.
+   --------------------------------------------------------- */
+.brand{
+  font-size:clamp(3.1rem,7.4vw,7.4rem);
+  font-weight:800;
+  letter-spacing:-.045em;
+  line-height:.84;
+}
+.brandLink{
+  font-weight:800;
+  letter-spacing:-.028em!important;
+}
+.brandMain{
+  font-weight:800;
+  letter-spacing:-.04em;
+}
+.archiveHeroCopy h2,
+.title,
+.siteHeaderDetail h1,
+.builderHero h1,
+.buildersHero h1,
+.identifyHero h1,
+.notFoundTitle,
+.methodHeader h1{
+  font-family:var(--da-display-tight);
+  font-weight:800;
+  letter-spacing:-.045em;
+}
+.siteHeaderDetail h1{
+  font-size:clamp(2.55rem,6.1vw,5.35rem);
+  line-height:.90;
+  letter-spacing:-.05em;
+}
+.builderHero h1,
+.buildersHero h1,
+.identifyHero h1{
+  font-size:clamp(2.25rem,5.1vw,4.65rem);
+  line-height:.93;
+}
+.methodHeader h1{
+  font-size:clamp(2.65rem,6.5vw,5.55rem)!important;
+  line-height:.90!important;
+  letter-spacing:-.055em!important;
+}
+.notFoundTitle{
+  font-size:clamp(2.55rem,6.2vw,5.15rem);
+  line-height:.90;
+  letter-spacing:-.055em;
+}
+#archiveHeroTitle{
+  font-size:clamp(3.8rem,9vw,8.2rem)!important;
+  line-height:.84!important;
+  letter-spacing:-.055em!important;
+}
+.archiveHeroCopy h2 em{
+  font-family:var(--da-display-tight);
+  font-weight:800;
+  letter-spacing:-.055em;
+}
+@media(max-width:760px){
+  .brand{
+    font-size:clamp(2.65rem,12vw,5rem);
+  }
+  .siteHeaderDetail h1{
+    font-size:clamp(2.35rem,11vw,4.5rem);
+    line-height:.92;
+  }
+  .builderHero h1,
+  .buildersHero h1,
+  .identifyHero h1{
+    font-size:clamp(2.2rem,9vw,4rem);
+    line-height:.95;
+  }
+  .methodHeader h1{
+    font-size:clamp(2.35rem,10vw,4.6rem)!important;
+  }
+  .notFoundTitle{
+    font-size:clamp(2.35rem,10vw,4.4rem);
+  }
+  #archiveHeroTitle{
+    font-size:clamp(3.25rem,15vw,6.2rem)!important;
+  }
 }
