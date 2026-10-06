@@ -3,7 +3,23 @@ let identifyItems=[],identifyFacets={},selectedIdentifyType=identifyParams.get('
 let selectedIdentifyTransistors=new Set((identifyParams.get('transistor')||'').split(',').filter(Boolean));
 let selectedIdentifyClippings=new Set((identifyParams.get('clipping')||'').split(',').filter(Boolean));
 
-function identifyFacet(item,group){return identifyFacets.records?.[entryKey(item)]?.[group]||[]}
+function identifyFacet(item,group){
+  const raw=identifyFacets.records?.[entryKey(item)]?.[group]||[];
+  const out=new Set();
+  for(const value of raw){
+    const text=String(value||'').toLowerCase();
+    if(group==='transistor'){
+      if(/germanium|\bgerm\b/.test(text))out.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text))out.add('Sili');
+      else if(/jfet|mosfet|op.?amp|integrated|\bic\b/.test(text))out.add('IC');
+    }else if(group==='clipping'){
+      if(/germanium|\bgerm\b/.test(text))out.add('Germ');
+      else if(/silicon|\bsili\b|\bsi\b/.test(text))out.add('Sili');
+      else out.add('Other');
+    }
+  }
+  return [...out];
+}
 function identifyMatches(item){
   if(selectedIdentifyType!=='All'&&!(item.types||[]).includes(selectedIdentifyType))return false;
   if(selectedIdentifyBuilder&&item.company!==selectedIdentifyBuilder)return false;
@@ -57,9 +73,10 @@ function renderTypes(){
   document.querySelectorAll('[data-identify-type]').forEach(b=>b.onclick=()=>{selectedIdentifyType=b.dataset.identifyType;syncIdentifyUrl();renderIdentify()});
 }
 function renderFacets(){
-  const opts=identifyFacets.options||{};
-  $('transistorChoices').innerHTML=choiceButtons(opts.transistor||[],selectedIdentifyTransistors,'transistor');
-  $('clippingChoices').innerHTML=choiceButtons(opts.clipping||[],selectedIdentifyClippings,'clipping');
+  const transistorOptions=['Germ','Sili','IC'];
+  const clippingOptions=['Germ','Sili','Other'];
+  $('transistorChoices').innerHTML=choiceButtons(transistorOptions,selectedIdentifyTransistors,'transistor');
+  $('clippingChoices').innerHTML=choiceButtons(clippingOptions,selectedIdentifyClippings,'clipping');
   document.querySelectorAll('[data-identify-transistor]').forEach(b=>b.onclick=()=>toggleIdentifySet(selectedIdentifyTransistors,b.dataset.identifyTransistor));
   document.querySelectorAll('[data-identify-clipping]').forEach(b=>b.onclick=()=>toggleIdentifySet(selectedIdentifyClippings,b.dataset.identifyClipping));
 }
