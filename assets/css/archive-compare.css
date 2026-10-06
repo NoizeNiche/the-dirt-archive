@@ -321,3 +321,27 @@ main{padding-top:14px}.panel{border-color:#777a73;background:linear-gradient(180
   .tableWrap{overflow:visible;border:1px solid #999}
   .comparison{min-width:0;width:100%}
 }
+
+
+.compareCellDiff{
+  background:rgba(220,255,57,.10);
+}
+.compareCellMissing{
+  background:rgba(0,0,0,.025);
+}
+.compareCellSame{
+  background:rgba(255,255,255,.10);
+}
+.compareNoDiff{
+  padding:22px!important;
+  text-align:center!important;
+  color:#61665e;
+  font-size:.67rem!important;
+  font-weight:800!important;
+  line-height:1.45;
+}
+#diffOnlyButton[aria-pressed="true"]{
+  background:var(--accent);
+  border-color:var(--accent);
+  color:#111;
+}
