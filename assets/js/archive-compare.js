@@ -253,7 +253,7 @@ function compactInsightValue(value,maxChars=180){
 function buildComparisonMatrix(items){
   const byLabel=new Map();
   const groups=[];
-  for(const item of items){
+  items.forEach((item,itemIndex)=>{
     const rows=buildResearchRows(item,item.__research||{sections:[]});
     let currentGroup='';
     for(const row of rows){
@@ -262,13 +262,10 @@ function buildComparisonMatrix(items){
         if(!groups.includes(currentGroup))groups.push(currentGroup);
         continue;
       }
-      if(!byLabel.has(row.label))byLabel.set(row.label,{label:row.label,group:currentGroup,values:[]});
-      byLabel.get(row.label).values.push(row.text||'');
+      if(!byLabel.has(row.label))byLabel.set(row.label,{label:row.label,group:currentGroup,values:new Array(items.length).fill('')});
+      byLabel.get(row.label).values[itemIndex]=row.text||'';
     }
-  }
-  for(const row of byLabel.values()){
-    while(row.values.length<items.length)row.values.push('');
-  }
+  });
   return {groups,rows:[...byLabel.values()]};
 }
 
