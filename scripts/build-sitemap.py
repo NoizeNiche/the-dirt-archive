@@ -60,6 +60,7 @@ def main() -> None:
         BASE + "photo-credits.html",
         BASE + "audit.html",
         BASE + "compare.html",
+        BASE + "observatory.html",
         *[builder_url(builder) for builder in builders],
         *[public_url(str(item["company"]).strip(), str(item["pedal"]).strip()) for item in pedals],
     ]
