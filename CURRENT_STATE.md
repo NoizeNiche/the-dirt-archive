@@ -6,7 +6,7 @@ This file is the durable project checkpoint for The Dirt Archive.
 
 ## Current production status
 
-The archive has **crossed the final production gate**.
+The archive has **crossed the final production gate** and the public brand is now **The Dirt Department**.
 
 - Canonical catalog: **4,200 records**
 - Research: **4,200 / 4,200 deep-researched**
@@ -18,6 +18,8 @@ The archive has **crossed the final production gate**.
 - Live pictured-pedal audit: **passed**
 
 The former four final photo gaps are closed. The latest main commit `18b42e73a6d20ec6368e5c9b25523f977b64c94c` passed the full deployment chain, including archive validation, photo-state verification, browser QA, changed-photo content QA, Pages deployment, and the live audit of every pictured pedal. `research/PHOTO_BACKLOG.csv` remains the authoritative empty exact-photo backlog.
+
+The public experience is now branded **The Dirt Department**, with the working tagline **A Fan-Based Library of Dirt Pedals**. The visual system uses a custom pedal-oriented department mark and the hero headline **DIG IN.**
 
 The archive is now in **post-launch product hardening**. New changes should be additive and evidence-driven, with the production baseline treated as a known-good state.
 
