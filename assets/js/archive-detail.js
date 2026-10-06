@@ -194,6 +194,22 @@ function renderMarkdown(md){
   return html;
 }
 
+function wirePhotoLightbox(image,label,item){
+  const dialog=$('photoLightbox'),zoom=$('photoLightboxImage'),caption=$('photoLightboxCaption');
+  if(!dialog||!zoom||!caption||!image)return;
+  image.classList.add('photoZoomable');
+  image.title='Open full-size photo';
+  image.addEventListener('click',()=>{
+    zoom.src=image.currentSrc||image.src;
+    zoom.alt=image.alt||'';
+    caption.innerHTML='<strong>'+esc(label||item?.pedal||'Pedal')+'</strong><span>'+esc(item?.company||'')+'</span>';
+    if(typeof dialog.showModal==='function')dialog.showModal();
+  });
+  dialog.addEventListener('click',event=>{
+    if(event.target===dialog)dialog.close();
+  });
+}
+
 function showPhoto(item,label){
   const box=$('photoBox');
   const identityName=label||item?.pedal||'Pedal';
@@ -204,6 +220,7 @@ function showPhoto(item,label){
     box.innerHTML='<img class="photoImage" src="'+esc(item.image)+'" alt="'+esc(item.company+' '+item.pedal+(label?' '+label:''))+'" decoding="async" referrerpolicy="no-referrer">'+fallbackMarkup;
     const image=box.querySelector('.photoImage');
     const fallback=box.querySelector('.photoFallback');
+    wirePhotoLightbox(image,label,item);
     fallback.hidden=true;
     image.addEventListener('error',()=>{
       image.hidden=true;
