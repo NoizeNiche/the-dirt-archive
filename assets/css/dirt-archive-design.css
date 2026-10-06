@@ -2489,3 +2489,117 @@ main{position:relative;padding:20px 0 72px}
 @media(max-width:460px){
   .specimenReadoutGrid{grid-template-columns:1fr}
 }
+
+
+/* ---------------------------------------------------------
+   BUILDER ARCHIVE FINGERPRINT
+   --------------------------------------------------------- */
+.builderSignal{
+  margin:0 6px 16px;
+  padding:14px;
+  border:1px solid rgba(231,233,225,.15);
+  border-radius:4px;
+  background:linear-gradient(180deg,#131712,#0f120e);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.035);
+}
+.builderSignalHead{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:14px;
+  margin-bottom:10px;
+}
+.builderSignalHead h2{
+  margin:4px 0 0;
+  color:#edf1e9;
+  font-size:1.02rem;
+  line-height:1.08;
+  letter-spacing:-.025em;
+}
+.builderSignalHead>span{
+  color:#5d675b;
+  font:800 .45rem/1 var(--da-mono);
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  text-align:right;
+}
+.builderSignalGrid{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:6px;
+}
+.builderSignalCard{
+  min-width:0;
+  padding:10px;
+  border:1px solid rgba(231,233,225,.10);
+  border-radius:3px;
+  background:#171b16;
+}
+.builderSignalCard>span{
+  display:block;
+  margin-bottom:7px;
+  color:#6c756a;
+  font:900 .43rem/1.1 var(--da-mono);
+  letter-spacing:.10em;
+  text-transform:uppercase;
+}
+.builderSignalCard .signalBig{
+  display:block;
+  color:#edf1e9;
+  font-size:1.18rem;
+  line-height:1;
+  font-weight:800;
+  letter-spacing:-.025em;
+}
+.builderSignalCard small{
+  display:block;
+  margin-top:6px;
+  color:#798176;
+  font-size:.52rem;
+  line-height:1.35;
+  font-weight:750;
+}
+.builderSignalBars,
+.signalFacetList{
+  display:grid;
+  gap:5px;
+}
+.builderSignalBars>div,
+.signalFacetList>div{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+}
+.builderSignalBars b,
+.signalFacetList b{
+  min-width:0;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  color:#dce2d8;
+  font-size:.56rem;
+  font-weight:800;
+}
+.builderSignalBars strong,
+.signalFacetList strong{
+  flex:0 0 auto;
+  color:var(--da-acid);
+  font:900 .56rem/1 var(--da-mono);
+}
+.builderSignalCard.tech{
+  background:linear-gradient(145deg,#171d15,#1a2317);
+}
+.builderSignalCard.tech>span{color:#82916f}
+@media(max-width:1050px){
+  .builderSignalGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:640px){
+  .builderSignal{margin-left:0;margin-right:0}
+  .builderSignalHead{align-items:flex-start;flex-direction:column}
+  .builderSignalHead>span{text-align:left}
+  .builderSignalGrid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:430px){
+  .builderSignalGrid{grid-template-columns:1fr}
+}
