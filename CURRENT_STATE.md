@@ -46,13 +46,13 @@ All dated sections below are preserved for project history. They are not current
 
 The active production phase is **Photo Recovery & Production QA**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4200 pictured / 4200 complete / 0 surface-missing / 0 deep-research-pending / 0 researched-photo-pending**.
+Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4198 pictured / 4198 complete / 0 surface-missing / 0 deep-research-pending / 2 researched-photo-pending**.
 
 **Next deep-research target:** None. Research queue is complete.
 
-PRP1 closeout photo gate is clear: all 4,200 researched records now have an exact local photo.
+PRP1 closeout remains separate: 2 researched record(s) still lack an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-10-05T18:15:00.000000+00:00
+Last refreshed: 2026-10-06T01:29:37.107661+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
