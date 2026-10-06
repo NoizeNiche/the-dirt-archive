@@ -13,7 +13,7 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 8
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -28,11 +28,11 @@ jobs:
           npm install --no-save playwright@1.63.0
           npx playwright install --with-deps chromium
       - name: Probe exact source pages
-        run: node scripts/final-four-photo-probe.mjs
+        run: node scripts/final-four-photo-probe-fast.mjs
       - name: Upload probe bundle
         uses: actions/upload-artifact@v4
         with:
           name: final-four-photo-probe
-          path: final-four-probe/
+          path: final-four-probe-fast/
           retention-days: 1
           if-no-files-found: error
