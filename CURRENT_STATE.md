@@ -6,16 +6,20 @@ This file is the durable project checkpoint for The Dirt Archive.
 
 ## Current production status
 
-The archive is in **Photo Recovery & Production QA**.
+The archive has **crossed the final production gate**.
 
 - Canonical catalog: **4,200 records**
 - Research: **4,200 / 4,200 deep-researched**
 - Exact local photos: **4,200 / 4,200**
 - Exact-photo backlog: **0 records**
 - Research backlog: **0**
-- Remaining launch gate: **final production QA**
+- Production validation: **passed**
+- Public Pages deployment: **passed**
+- Live pictured-pedal audit: **passed**
 
-The former four final photo gaps are now closed. `research/PHOTO_BACKLOG.csv` remains the authoritative empty exact-photo backlog. An unresolved exact photo stays unresolved rather than being replaced with another pedal, version, clone, or guessed image.
+The former four final photo gaps are closed. The latest main commit `18b42e73a6d20ec6368e5c9b25523f977b64c94c` passed the full deployment chain, including archive validation, photo-state verification, browser QA, changed-photo content QA, Pages deployment, and the live audit of every pictured pedal. `research/PHOTO_BACKLOG.csv` remains the authoritative empty exact-photo backlog.
+
+The archive is now in **post-launch product hardening**. New changes should be additive and evidence-driven, with the production baseline treated as a known-good state.
 
 ## Source-of-truth recovery order
 
