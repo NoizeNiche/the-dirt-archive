@@ -238,6 +238,139 @@ function renderCell(row,item){
   return compactCompareText(row.text);
 }
 
+
+function comparisonValueKey(value){
+  return String(value||'').replace(/\s+/g,' ').trim().toLowerCase();
+}
+
+function compactInsightValue(value,maxChars=180){
+  const clean=String(value||'').replace(/\s+/g,' ').trim();
+  if(!clean||clean===COMPARE_PLACEHOLDER.toLowerCase()||clean===COMPARE_PLACEHOLDER)return COMPARE_PLACEHOLDER;
+  if(clean.length<=maxChars)return clean;
+  return clean.slice(0,maxChars).replace(/\s+\S*$/,'').trim()+'…';
+}
+
+function buildComparisonMatrix(items){
+  const byLabel=new Map();
+  const groups=[];
+  for(const item of items){
+    const rows=buildResearchRows(item,item.__research||{sections:[]});
+    let currentGroup='';
+    for(const row of rows){
+      if(row.group){
+        currentGroup=row.group;
+        if(!groups.includes(currentGroup))groups.push(currentGroup);
+        continue;
+      }
+      if(!byLabel.has(row.label))byLabel.set(row.label,{label:row.label,group:currentGroup,values:[]});
+      byLabel.get(row.label).values.push(row.text||'');
+    }
+  }
+  for(const row of byLabel.values()){
+    while(row.values.length<items.length)row.values.push('');
+  }
+  return {groups,rows:[...byLabel.values()]};
+}
+
+function renderCompareInsights(items,researchResults){
+  const root=document.getElementById('compareInsights');
+  const strip=document.getElementById('compareEvidenceStrip');
+  const grid=document.getElementById('compareInsightGrid');
+  if(!root||!strip||!grid||!items.length){if(root)root.hidden=true;return;}
+
+  items.forEach((item,index)=>{item.__research=researchResults[index].research;});
+  const {rows}=buildComparisonMatrix(items);
+
+  const evidence=items.map((item,index)=>{
+    const research=researchResults[index].research;
+    const techKeys=['transistor','clipping','power'].filter(group=>{
+      const record=facetRecords.get(entryKey(item))||{};
+      return Array.isArray(record[group])&&record[group].length;
+    });
+    const status=String(item.research_level||'').trim()||'Not documented';
+    const verified=String(item.deep_research_status||'').trim();
+    return '<article class="compareEvidenceCard">'+
+      '<strong>'+esc(item.pedal)+'</strong>'+
+      '<span>'+esc(item.company)+'</span>'+
+      '<div class="compareEvidenceFacts">'+
+        '<span><b>'+esc(status)+'</b> research'+(verified?' · '+esc(verified):'')+'</span>'+
+        '<span><b>'+techKeys.length+'</b> structured tech groups</span>'+
+        '<span><b>'+(isLocalArchiveImage(item)?'YES':'NO')+'</b> exact photo</span>'+
+        '<span><b>'+(item.source_page?'YES':'NO')+'</b> source page</span>'+
+      '</div>'+
+    '</article>';
+  }).join('');
+  strip.innerHTML=evidence;
+
+  const meaningful=rows.filter(row=>{
+    const vals=row.values.map(v=>String(v||'').trim()).map(v=>v||COMPARE_PLACEHOLDER);
+    const keys=vals.map(comparisonValueKey).filter(v=>v!==comparisonValueKey(COMPARE_PLACEHOLDER));
+    return new Set(keys).size>0;
+  });
+
+  const shared=meaningful.filter(row=>{
+    const vals=row.values.map(v=>String(v||'').trim()||COMPARE_PLACEHOLDER);
+    const known=vals.filter(v=>comparisonValueKey(v)!==comparisonValueKey(COMPARE_PLACEHOLDER));
+    return known.length===items.length&&new Set(known.map(comparisonValueKey)).size===1;
+  }).slice(0,8);
+
+  const differences=meaningful.filter(row=>{
+    const vals=row.values.map(v=>String(v||'').trim()||COMPARE_PLACEHOLDER);
+    const known=vals.filter(v=>comparisonValueKey(v)!==comparisonValueKey(COMPARE_PLACEHOLDER));
+    return known.length>=2&&new Set(known.map(comparisonValueKey)).size>1;
+  }).slice(0,8);
+
+  const gaps=rows.filter(row=>{
+    const vals=row.values.map(v=>String(v||'').trim()||COMPARE_PLACEHOLDER);
+    const missing=vals.filter(v=>comparisonValueKey(v)===comparisonValueKey(COMPARE_PLACEHOLDER)).length;
+    return missing>0&&missing<items.length;
+  }).slice(0,8);
+
+  const card=(title,eyebrow,list,emptyText,kind)=>{
+    const body=list.length ? list.map(row=>{
+      const values=row.values.map((v,i)=>'<div class="insightItem"><span>'+esc(items[i].pedal)+'</span><p>'+esc(compactInsightValue(v))+'</p></div>').join('');
+      return '<article class="insightRow"><div class="insightLabel"><span class="insightKind '+kind+'"></span><strong>'+esc(row.label)+'</strong></div><div class="insightValues">'+values+'</div></article>';
+    }).join('') : '<div class="insightEmpty">'+esc(emptyText)+'</div>';
+    return '<section class="compareInsightCard"><div class="insightCardHead"><span class="label">'+esc(eyebrow)+'</span><h3>'+esc(title)+'</h3></div>'+body+'</section>';
+  };
+
+  grid.innerHTML=[
+    card('Shared evidence','COMMON GROUND',shared,'No fully shared documented fields surfaced yet.','shared'),
+    card('Where they differ','KEY DIFFERENCES',differences,'No documented field-level differences surfaced yet.','different'),
+    card('Where the archive is still quiet','DOCUMENTATION GAPS',gaps,'Both records are documented for the fields checked here.','gap')
+  ].join('');
+  root.hidden=false;
+}
+
+function csvEscape(value){
+  const text=String(value??'');
+  return '"'+text.replaceAll('"','""')+'"';
+}
+
+function exportComparisonCsv(items,researchResults){
+  if(!items.length)return;
+  const rowMap=new Map();
+  for(const [index,item] of items.entries()){
+    const rows=buildResearchRows(item,researchResults[index].research);
+    for(const row of rows){
+      if(row.group)continue;
+      if(!rowMap.has(row.label))rowMap.set(row.label,new Array(items.length).fill(''));
+      rowMap.get(row.label)[index]=row.text||'';
+    }
+  }
+  const lines=[['Field',...items.map(item=>item.pedal+' · '+item.company)].map(csvEscape).join(',')];
+  for(const [label,values] of rowMap)lines.push([label,...values].map(csvEscape).join(','));
+  const blob=new Blob([lines.join('\\r\\n')+'\\r\\n'],{type:'text/csv;charset=utf-8'});
+  const url=URL.createObjectURL(blob);
+  const link=document.createElement('a');
+  link.href=url;
+  link.download='dirt-department-comparison.csv';
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+
 function renderComparison(items,facets,researchResults){
   facetRecords=new Map(Object.entries(facets?.records||{}));
   const wrap=document.getElementById('comparisonWrap');
@@ -262,17 +395,18 @@ function renderComparison(items,facets,researchResults){
     };
   });
 
-  const rowTemplates=buildResearchRows(items[0],researchResults[0].research);
-  document.querySelectorAll('.compareMissingResearch').forEach(node=>node.remove());
+  const matrix=buildComparisonMatrix(researchResults.map((result,index)=>Object.assign(items[index],{__research:result.research})));
   let body='';
-  rowTemplates.forEach(row=>{
-    if(row.group){
-      body+='<tr class="compareGroup"><th scope="row" colspan="'+(items.length+1)+'">'+esc(row.group)+'</th></tr>';
-      return;
+  let activeGroup='';
+  matrix.rows.forEach(row=>{
+    if(row.group!==activeGroup){
+      activeGroup=row.group;
+      body+='<tr class="compareGroup"><th scope="row" colspan="'+(items.length+1)+'">'+esc(activeGroup)+'</th></tr>';
     }
-    body+='<tr><th scope="row">'+esc(row.label)+'</th>'+items.map((item,index)=>'<td>'+renderCell(row,item)+'</td>').join('')+'</tr>';
+    body+='<tr><th scope="row">'+esc(row.label)+'</th>'+items.map((item,index)=>'<td>'+renderCell({label:row.label,text:row.values[index]},item)+'</td>').join('')+'</tr>';
   });
   document.getElementById('comparisonBody').innerHTML=body;
+  renderCompareInsights(items,researchResults);
 }
 
 async function loadAndRenderComparison(allItems,facets){
@@ -299,6 +433,12 @@ Promise.all([loadCatalog(),loadFacets()])
     }
   }
   await loadAndRenderComparison(allItems,facets);
+  document.getElementById('exportCompare')?.addEventListener('click',async()=>{
+    const selected=readWorkbench().compare;
+    const compareItems=findWorkbenchEntries(allItems,selected).filter(isCatalogEntry);
+    const research=await Promise.all(compareItems.map(async item=>({item,research:await loadResearchRecord(item)})));
+    exportComparisonCsv(compareItems,research);
+  });
   document.getElementById('copyCompareLink')?.addEventListener('click',()=>{
     const currentSelection=readWorkbench().compare;
     const currentItems=findWorkbenchEntries(allItems,currentSelection).filter(isCatalogEntry);
@@ -315,6 +455,7 @@ document.getElementById('clearCompare')?.addEventListener('click',()=>{
   const empty=document.getElementById('empty');
   const wrap=document.getElementById('comparisonWrap');
   empty.hidden=false;wrap.hidden=true;
+  document.getElementById('compareInsights')?.setAttribute('hidden','');
   document.getElementById('compareMeta').textContent='0 exact records selected';
 });
 
