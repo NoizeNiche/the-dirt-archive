@@ -3222,9 +3222,7 @@
     "pedal": "Lollygagger Overdrive",
     "image": "./assets/pedals/bad-penny-fx/lollygagger-overdrive/primary.webp",
     "source_page": "https://www.guitarpedalx.com/news/best-of-british-pedal-builders-roundup---an-a-z-overview-in-105-parts",
-    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md",
-    "photo_source_type": "user_provided",
-    "photo_source_note": "Exact pedal photograph supplied by the archive owner and visually identified against the canonical Builder + Pedal record."
+    "research_record": "./research/pedals/Bad Penny FX/Lollygagger Overdrive.md"
   },
   {
     "builder": "Bad Penny FX",
@@ -5991,10 +5989,8 @@
     "builder": "BJFE / BJF Electronics",
     "pedal": "Sun Burst Fuzz",
     "image": "./assets/pedals/bjfe-bjf-electronics/sun-burst-fuzz/primary.webp",
-    "source_page": "https://bjornjuhl.com/forum/viewtopic.php?f=6&t=2261",
-    "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md",
-    "photo_source_type": "user_provided",
-    "photo_source_note": "Exact pedal photograph supplied by the archive owner and visually identified against the canonical Builder + Pedal record."
+    "source_page": "https://www.bjornjuhl.com/forum/viewtopic.php-f%3D6%26t%3D1555.html",
+    "research_record": "./research/pedals/BJFE / BJF Electronics/Sun Burst Fuzz.md"
   },
   {
     "builder": "Black Arts Toneworks",
@@ -9383,11 +9379,8 @@
   {
     "builder": "Captain FX",
     "pedal": "War Pig",
-    "source_page": "https://www.talkbass.com/threads/war-pig-a-great-looking-sounding-copy-of-90s-sovtek-big-muff.774007/",
-    "research_record": "./research/pedals/Captain FX/War Pig.md",
-    "image": "./assets/pedals/captain-fx/war-pig/primary.webp",
-    "photo_source_type": "user_provided",
-    "photo_source_note": "Exact pedal photograph supplied by the archive owner and visually identified against the canonical Builder + Pedal record."
+    "source_page": "https://github.com/NoizeNiche/the-dirt-archive/blob/main/research/SCRAPE_C_BLOCK_165_ADDENDUM.csv",
+    "research_record": "./research/pedals/Captain FX/War Pig.md"
   },
   {
     "builder": "Captain FX",
@@ -12836,11 +12829,8 @@
   {
     "builder": "Compulsive Audio",
     "pedal": "Jimi - Octave Fuzz",
-    "source_page": "https://www.effectsdatabase.com/type/octave/fuzz/1up",
-    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md",
-    "image": "./assets/pedals/compulsive-audio/jimi-octave-fuzz/primary.webp",
-    "photo_source_type": "user_provided",
-    "photo_source_note": "Exact pedal photograph supplied by the archive owner and visually identified against the canonical Builder + Pedal record."
+    "source_page": null,
+    "research_record": "./research/pedals/Compulsive Audio/Jimi - Octave Fuzz.md"
   },
   {
     "builder": "Compulsive Audio",
