@@ -1401,3 +1401,177 @@ main{position:relative;padding:20px 0 72px}
   .notFoundPanel{padding:26px!important}
   .notFoundSearchRow{flex-direction:column}
 }
+
+
+/* top-level navigation */
+.siteHeader .headerRow,.siteHeaderDetail .wrap{position:relative}
+.siteNav{
+  position:absolute;
+  top:-1px;
+  right:0;
+  z-index:5;
+  display:flex;
+  align-items:center;
+  gap:3px;
+  padding:3px;
+  border:1px solid #343b32;
+  border-radius:3px;
+  background:rgba(10,13,10,.86);
+  box-shadow:0 10px 28px rgba(0,0,0,.24);
+}
+.siteNav a{
+  display:inline-flex;
+  align-items:center;
+  min-height:27px;
+  padding:7px 9px;
+  border-radius:2px;
+  color:#80887c;
+  text-decoration:none;
+  font:900 .44rem/1 var(--da-mono);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.siteNav a:hover{color:#eef2e9;background:#1f261d}
+.siteNav a:first-child{color:var(--da-acid)}
+.siteNav a:focus-visible{outline:2px solid var(--da-acid);outline-offset:1px}
+
+/* the console is useful, but intentionally secondary */
+.layout{grid-template-columns:230px minmax(0,1fr)}
+.sidebar{top:16px}
+.sidebar .filterSummary{font-size:.48rem}
+.sidebar .navSection{padding-left:8px;padding-right:8px}
+.builderList{max-height:calc(100vh - 350px)}
+.menuFooter{color:#4e584c!important;font:700 .43rem/1.4 var(--da-mono)!important}
+
+/* table mode: turn the census into a field log */
+.archiveTableWrap{
+  overflow:auto;
+  border:1px solid #697267;
+  border-radius:3px;
+  background:#cdd1c8;
+  box-shadow:0 16px 36px rgba(0,0,0,.24);
+}
+.archiveTable{
+  width:100%;
+  min-width:940px;
+  border-collapse:collapse;
+  table-layout:fixed;
+  color:#171b15;
+}
+.archiveTable th,.archiveTable td{
+  padding:10px 9px;
+  border-right:1px solid #9fa69c;
+  border-bottom:1px solid #9fa69c;
+  vertical-align:top;
+  text-align:left;
+}
+.archiveTable th:last-child,.archiveTable td:last-child{border-right:0}
+.archiveTable thead th{
+  background:#aeb6aa;
+  color:#465044;
+  font:900 .42rem/1.25 var(--da-mono);
+  letter-spacing:.09em;
+  text-transform:uppercase;
+}
+.archiveTable tbody tr:nth-child(even){background:rgba(255,255,255,.22)}
+.archiveTable tbody tr:hover{background:rgba(220,255,57,.18)}
+.tablePedal{
+  display:block;
+  color:#141812;
+  text-decoration:none;
+  font-weight:950;
+  line-height:1.1;
+}
+.tablePedal:hover{text-decoration:underline}
+.tableBuilder{
+  display:block;
+  margin-top:4px;
+  color:#687166;
+  font:800 .43rem/1.2 var(--da-mono);
+}
+.tableMeta,.tableStatus{
+  color:#4e584d;
+  font:700 .44rem/1.35 var(--da-mono);
+}
+.tableStatus{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+}
+.tableStatus::before{
+  content:"";
+  width:5px;height:5px;border-radius:50%;
+  background:#6d7769;
+}
+.tableStatus:first-letter{}
+.tableActions{display:flex;gap:4px;flex-wrap:wrap}
+.tableAction{
+  border:1px solid #7a8477;
+  border-radius:2px;
+  background:#d9ddd5;
+  color:#31382f;
+  padding:6px 7px;
+  font:900 .40rem/1 var(--da-mono);
+  letter-spacing:.05em;
+  text-transform:uppercase;
+  cursor:pointer;
+}
+.tableAction:hover{background:#f0f2eb}
+.tableAction.active,.tableAction.compareActive{
+  border-color:#2d352a;
+  background:#2d352a;
+  color:var(--da-acid);
+}
+.tableAction:disabled{opacity:.4;cursor:default}
+
+/* motion makes the catalog feel alive without making it feel like a toy */
+@keyframes daSpecimenIn{
+  from{opacity:0;transform:translateY(10px) scale(.99)}
+  to{opacity:1;transform:none}
+}
+.card{
+  animation:daSpecimenIn .42s cubic-bezier(.22,.75,.26,1) both;
+}
+.card:nth-child(2){animation-delay:.02s}.card:nth-child(3){animation-delay:.04s}
+.card:nth-child(4){animation-delay:.06s}.card:nth-child(5){animation-delay:.08s}
+.card:nth-child(6){animation-delay:.10s}.card:nth-child(7){animation-delay:.12s}
+.card:nth-child(8){animation-delay:.14s}.card:nth-child(9){animation-delay:.16s}
+.archiveHeroDisc{
+  animation:daDiscGlow 5s ease-in-out infinite alternate;
+}
+@keyframes daDiscGlow{
+  from{box-shadow:0 0 65px rgba(220,255,57,.055),inset 0 0 70px rgba(0,0,0,.5)}
+  to{box-shadow:0 0 110px rgba(220,255,57,.11),inset 0 0 90px rgba(0,0,0,.55)}
+}
+
+/* controls that currently look like generic pills become hard-edged lab tools */
+.viewToggle{
+  display:flex!important;
+  gap:3px!important;
+  padding:3px!important;
+  border:1px solid #353c33!important;
+  border-radius:3px!important;
+  background:#111510!important;
+}
+.viewButton{
+  min-height:26px!important;
+  padding:6px 8px!important;
+  border:0!important;
+  border-radius:2px!important;
+  background:transparent!important;
+}
+.viewButton.active{background:var(--da-acid)!important;color:#10130e!important}
+
+@media(max-width:900px){
+  .siteNav{position:static;margin:0 0 10px;width:max-content}
+  .siteHeader .headerRow{display:flex;flex-wrap:wrap}
+  .siteHeader .siteNav{order:-1}
+}
+@media(max-width:620px){
+  .siteNav{max-width:100%;overflow:auto}
+  .siteNav a{padding-inline:7px}
+  .layout{grid-template-columns:1fr}
+}
+@media(prefers-reduced-motion:reduce){
+  .card,.archiveHeroDisc{animation:none!important}
+}
