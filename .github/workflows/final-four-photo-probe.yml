@@ -33,6 +33,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: final-four-photo-probe
-          path: final-four-probe-fast/
+          path: final-four-targeted/
           retention-days: 1
           if-no-files-found: error
