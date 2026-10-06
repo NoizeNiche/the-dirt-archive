@@ -1753,3 +1753,63 @@ main{position:relative;padding:20px 0 72px}
   .siteHeader .brandBlock{max-width:100%}
   .archiveLogoPlate{width:min(100%,520px);padding:10px}
 }
+
+
+/* Replace the generic ellipse field with an electronics / signal-trace field. */
+.archiveHero::before{
+  content:"";
+  position:absolute;
+  inset:5% 0 4% 47%;
+  border:0;
+  border-radius:0;
+  transform:none;
+  background-image:url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20900%20650%22%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%2523dcff39%22%20stroke-width%3D%222%22%20opacity%3D%22.45%22%3E%3Cpath%20d%3D%22M110%2042H350V120H530V210H770V330H610V440H820%22%2F%3E%3Cpath%20d%3D%22M40%20260H180V180H410V300H520V540H740%22%2F%3E%3Cpath%20d%3D%22M190%20600V480H310V390H470V90%22%2F%3E%3Cpath%20d%3D%22M520%2040V130H690V210%22%2F%3E%3Cpath%20d%3D%22M760%2070V190H840V250%22%2F%3E%3Cpath%20d%3D%22M120%20520H230V600%22%2F%3E%3Cpath%20d%3D%22M40%20350H150V420H270%22%2F%3E%3Cpath%20d%3D%22M600%20560V470H850V390%22%2F%3E%3C%2Fg%3E%3Cg%20fill%3D%22%2523eef1e9%22%20opacity%3D%22.62%22%3E%3Ccircle%20cx%3D%22110%22%20cy%3D%2242%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22350%22%20cy%3D%22120%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22530%22%20cy%3D%22210%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22770%22%20cy%3D%22330%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22610%22%20cy%3D%22440%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22820%22%20cy%3D%22440%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22180%22%20cy%3D%22180%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22410%22%20cy%3D%22300%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22520%22%20cy%3D%22540%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22740%22%20cy%3D%22540%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22310%22%20cy%3D%22390%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22470%22%20cy%3D%2290%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22690%22%20cy%3D%22130%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22840%22%20cy%3D%22250%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22230%22%20cy%3D%22600%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22150%22%20cy%3D%22420%22%20r%3D%225%22%2F%3E%3Ccircle%20cx%3D%22850%22%20cy%3D%22390%22%20r%3D%225%22%2F%3E%3C%2Fg%3E%3Cg%20fill%3D%22%2523dcff39%22%20opacity%3D%22.72%22%3E%3Ccircle%20cx%3D%22350%22%20cy%3D%22120%22%20r%3D%222%22%2F%3E%3Ccircle%20cx%3D%22530%22%20cy%3D%22210%22%20r%3D%222%22%2F%3E%3Ccircle%20cx%3D%22610%22%20cy%3D%22440%22%20r%3D%222%22%2F%3E%3Ccircle%20cx%3D%22410%22%20cy%3D%22300%22%20r%3D%222%22%2F%3E%3Ccircle%20cx%3D%22520%22%20cy%3D%22540%22%20r%3D%222%22%2F%3E%3Ccircle%20cx%3D%22310%22%20cy%3D%22390%22%20r%3D%222%22%2F%3E%3C%2Fg%3E%3Cpath%20d%3D%22M0%20326%20C60%20326%2062%20298%2091%20298%20S124%20365%20151%20365%20S185%20282%20214%20282%20S250%20347%20278%20347%20S315%20309%20342%20309%20S380%20350%20410%20350%20S445%20281%20474%20281%20S506%20328%20535%20328%20S568%20300%20595%20300%20S630%20367%20660%20367%20S700%20284%20730%20284%20S766%20337%20795%20337%20S835%20309%20900%20309%22%20fill%3D%22none%22%20stroke%3D%22%2523dcff39%22%20stroke-width%3D%224%22%20opacity%3D%22.68%22%2F%3E%3Cpath%20d%3D%22M10%20326H890%22%20stroke%3D%22%2523eef1e9%22%20stroke-width%3D%221%22%20opacity%3D%22.18%22%20stroke-dasharray%3D%222%2010%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+  opacity:.9;
+  filter:drop-shadow(0 0 10px rgba(220,255,57,.05));
+  box-shadow:none;
+  pointer-events:none;
+}
+.archiveHero::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:
+    linear-gradient(90deg,transparent 0 38%,rgba(220,255,57,.045) 38% 38.1%,transparent 38.1% 66%,rgba(231,233,225,.035) 66% 66.1%,transparent 66.1%),
+    linear-gradient(180deg,transparent 0 31%,rgba(231,233,225,.035) 31% 31.1%,transparent 31.1% 73%,rgba(220,255,57,.04) 73% 73.1%,transparent 73.1%),
+    repeating-linear-gradient(0deg,transparent 0 26px,rgba(231,233,225,.018) 26px 27px);
+  opacity:.7;
+}
+.archiveHeroMark::before{
+  content:"";
+  position:absolute;
+  inset:4% -4% 1% -8%;
+  z-index:-1;
+  background:
+    radial-gradient(circle at 50% 48%,rgba(220,255,57,.10),transparent 20%),
+    linear-gradient(90deg,transparent,rgba(220,255,57,.045),transparent);
+  pointer-events:none;
+}
+.archiveHeroMark::after{
+  content:"TRACE 01 / TRACE 02 / TRACE 03";
+  position:absolute;
+  right:-3%;
+  top:20%;
+  color:#4d574b;
+  font:900 .38rem/1 var(--da-mono);
+  letter-spacing:.16em;
+  writing-mode:vertical-rl;
+  text-transform:uppercase;
+  pointer-events:none;
+}
+.archiveHeroDisc{background:linear-gradient(145deg,#080b08,#141a12)!important}
+@media(max-width:960px){
+  .archiveHero::before{inset:8% 0 12% 28%;background-size:120% auto}
+}
+@media(max-width:620px){
+  .archiveHero::before{inset:8% -12% 12% 18%;opacity:.55}
+  .archiveHeroMark::after{display:none}
+}
