@@ -2603,3 +2603,117 @@ main{position:relative;padding:20px 0 72px}
 @media(max-width:430px){
   .builderSignalGrid{grid-template-columns:1fr}
 }
+
+
+/* ---------------------------------------------------------
+   DISCOVERY LAB / catalog-driven rabbit holes
+   --------------------------------------------------------- */
+.discoveryLab{
+  margin:0 0 16px;
+  padding:14px;
+  border:1px solid rgba(231,233,225,.14);
+  border-radius:4px;
+  background:linear-gradient(180deg,#11140f,#0d100c);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.03);
+}
+.discoveryLabHead{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:18px;
+  margin-bottom:10px;
+}
+.discoveryLabHead h3{
+  margin:4px 0 0;
+  color:#edf1e9;
+  font-size:1.08rem;
+  line-height:1;
+  letter-spacing:-.03em;
+}
+.discoveryLabHead p{
+  max-width:560px;
+  margin:0;
+  color:#727a70;
+  font:700 .56rem/1.5 var(--da-mono);
+}
+.discoveryGrid{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:6px;
+}
+.discoveryCard{
+  position:relative;
+  display:grid;
+  grid-template-columns:auto 1fr auto;
+  align-items:center;
+  gap:8px;
+  min-width:0;
+  min-height:74px;
+  padding:10px;
+  border:1px solid #313830;
+  border-radius:3px;
+  background:linear-gradient(145deg,#151915,#1a1f18);
+  color:#e5eae2;
+  text-align:left;
+  cursor:pointer;
+  transition:transform .14s ease,border-color .14s ease,background .14s ease;
+}
+.discoveryCard:hover{
+  transform:translateY(-2px);
+  border-color:#697463;
+  background:linear-gradient(145deg,#182017,#1e281a);
+}
+.discoveryCard:focus-visible{
+  outline:2px solid var(--da-acid);
+  outline-offset:2px;
+}
+.discoveryCard.disabled{
+  opacity:.48;
+  cursor:not-allowed;
+  transform:none;
+}
+.discoveryIndex{
+  display:grid;
+  place-items:center;
+  width:22px;
+  height:22px;
+  border:1px solid #485044;
+  border-radius:2px;
+  color:var(--da-acid);
+  font:900 .47rem/1 var(--da-mono);
+}
+.discoveryCopy{
+  min-width:0;
+}
+.discoveryCopy strong{
+  display:block;
+  overflow:hidden;
+  color:#e7ebe4;
+  font-size:.62rem;
+  line-height:1.15;
+  font-weight:900;
+  text-overflow:ellipsis;
+}
+.discoveryCopy small{
+  display:block;
+  margin-top:4px;
+  color:#747d72;
+  font-size:.49rem;
+  line-height:1.35;
+  font-weight:700;
+}
+.discoveryCount{
+  align-self:start;
+  color:var(--da-acid);
+  font:900 .55rem/1 var(--da-mono);
+}
+@media(max-width:1100px){
+  .discoveryGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:700px){
+  .discoveryLabHead{align-items:flex-start;flex-direction:column}
+  .discoveryGrid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:440px){
+  .discoveryGrid{grid-template-columns:1fr}
+}
