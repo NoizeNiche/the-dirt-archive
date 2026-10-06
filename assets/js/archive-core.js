@@ -8,6 +8,19 @@ const ARCHIVE_DIRT_TYPES = Object.freeze(['All', 'Overdrive', 'Distortion', 'Fuz
 
 const $ = id => document.getElementById(id);
 
+function markCurrentNavigation(){
+  const current=(location.pathname.split('/').pop()||'index.html').toLowerCase();
+  document.querySelectorAll('.siteNav a[href]').forEach(link=>{
+    try{
+      const target=(new URL(link.href,location.href).pathname.split('/').pop()||'index.html').toLowerCase();
+      const active=target===current;
+      link.classList.toggle('navActive',active);
+      if(active)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current');
+    }catch{}
+  });
+}
+markCurrentNavigation();
+
 function esc(value) {
   return String(value ?? '')
     .replaceAll('&', '&amp;')
