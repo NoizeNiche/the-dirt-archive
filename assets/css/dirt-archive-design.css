@@ -1575,3 +1575,115 @@ main{position:relative;padding:20px 0 72px}
 @media(prefers-reduced-motion:reduce){
   .card,.archiveHeroDisc{animation:none!important}
 }
+
+
+/* ---------------------------------------------------------
+   WORDMARK + DISPLAY TYPE REFINEMENT
+   --------------------------------------------------------- */
+:root{
+  --da-display-tight:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow","Helvetica Neue Condensed",sans-serif;
+}
+.brand,
+.brandLink{
+  display:flex;
+  align-items:baseline;
+  gap:.18em;
+  white-space:nowrap;
+  text-decoration:none;
+}
+.brand{
+  width:max-content;
+  max-width:100%;
+  margin-top:12px;
+  font-family:var(--da-display-tight);
+  font-weight:900;
+  letter-spacing:-.035em;
+  line-height:.82;
+  text-transform:uppercase;
+}
+.brandLink{
+  font-family:var(--da-display-tight);
+  font-weight:900;
+  letter-spacing:-.02em!important;
+  text-transform:uppercase;
+}
+.brandSmall{
+  color:#e6e9e2;
+  font-family:var(--da-mono);
+  font-size:.34em;
+  font-weight:900;
+  letter-spacing:.16em;
+  line-height:1;
+  transform:translateY(-.16em);
+}
+.brandMain{
+  color:var(--da-acid);
+  font-family:var(--da-display-tight);
+  font-size:1em;
+  font-weight:900;
+  letter-spacing:-.045em;
+  line-height:.8;
+}
+.brandSmall:last-child{color:#8a9185}
+.brand::after,
+.brandLink::after{
+  content:"";
+  width:2px;
+  height:.72em;
+  margin-left:.05em;
+  background:var(--da-acid);
+  align-self:center;
+  transform:skewX(-12deg);
+  box-shadow:0 0 12px rgba(220,255,57,.12);
+}
+.archiveHeroCopy h2,
+.title,
+.siteHeaderDetail h1,
+.builderHero h1,
+.buildersHero h1,
+.identifyHero h1,
+.notFoundTitle,
+.methodHeader h1{
+  font-family:var(--da-display-tight);
+  font-weight:900;
+}
+.archiveHeroCopy h2{
+  transform:scaleX(.90);
+  transform-origin:left center;
+  width:111%;
+  max-width:none;
+  letter-spacing:-.035em;
+}
+.archiveHeroCopy h2 em{
+  font-family:var(--da-display-tight);
+  letter-spacing:-.045em;
+}
+.archiveHeroDisc{
+  font-family:var(--da-display-tight);
+  font-weight:900;
+  letter-spacing:-.08em;
+}
+.archiveHeroDisc::before{
+  content:"";
+  position:absolute;
+  width:72%;
+  height:1px;
+  background:var(--da-acid);
+  transform:rotate(-5deg);
+  box-shadow:0 0 12px rgba(220,255,57,.18);
+}
+.archiveHeroDisc{position:relative}
+.archiveHeroDisc::after{
+  content:"D / A";
+  position:absolute;
+  inset:auto auto -26px -5px;
+  color:#5e6759;
+  font:900 .38rem/1 var(--da-mono);
+  letter-spacing:.16em;
+}
+.siteHeader .brandBlock{display:flex;align-items:flex-start}
+@media(max-width:760px){
+  .brand{font-size:clamp(2.7rem,13vw,5rem)}
+  .brandLink{font-size:clamp(2rem,10vw,3.2rem)!important}
+  .archiveHeroCopy h2{transform:none;width:100%}
+}
