@@ -3,6 +3,22 @@ let identifyItems=[],identifyFacets={},selectedIdentifyType=identifyParams.get('
 let selectedIdentifyTransistors=new Set((identifyParams.get('transistor')||'').split(',').filter(Boolean));
 let selectedIdentifyClippings=new Set((identifyParams.get('clipping')||'').split(',').filter(Boolean));
 
+function canonicalIdentifyValue(group,value){
+  const text=String(value||'').toLowerCase();
+  if(group==='transistor'){
+    if(/germanium|\bgerm\b/.test(text))return 'Germ';
+    if(/silicon|\bsili\b|\bsi\b/.test(text))return 'Sili';
+    if(/jfet|mosfet|op.?amp|integrated|\bic\b/.test(text))return 'IC';
+  }else if(group==='clipping'){
+    if(/germanium|\bgerm\b/.test(text))return 'Germ';
+    if(/silicon|\bsili\b|\bsi\b/.test(text))return 'Sili';
+    return 'Other';
+  }
+  return '';
+}
+selectedIdentifyTransistors=new Set([...selectedIdentifyTransistors].map(value=>canonicalIdentifyValue('transistor',value)).filter(Boolean));
+selectedIdentifyClippings=new Set([...selectedIdentifyClippings].map(value=>canonicalIdentifyValue('clipping',value)).filter(Boolean));
+
 function identifyFacet(item,group){
   const raw=identifyFacets.records?.[entryKey(item)]?.[group]||[];
   const out=new Set();
