@@ -1281,3 +1281,123 @@ main{position:relative;padding:20px 0 72px}
   .archiveTicker{gap:9px}
   .contextTools .meta{width:100%;margin-top:3px}
 }
+
+
+/* specimen plate + secondary tool surfaces */
+.specimenSurface{padding-top:48px}
+.specimenIndexMark{
+  position:absolute;
+  left:18px;
+  right:18px;
+  top:13px;
+  z-index:3;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:14px;
+  padding-bottom:7px;
+  border-bottom:1px solid rgba(231,233,225,.10);
+  color:#5c675a;
+  font:900 .40rem/1 var(--da-mono);
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.specimenIndexMark strong{color:var(--da-acid)}
+.specimenIndexMark b{color:#788274;font-weight:900}
+.specimenIndexMark span{opacity:.8}
+.pageMain .specimenIndexMark + .pageLayout{margin-top:0}
+
+.brandLink{
+  color:#f2f4ed!important;
+  font-size:clamp(1.8rem,4vw,3.2rem)!important;
+  letter-spacing:-.075em!important;
+}
+.brandLink::first-letter{color:var(--da-acid)}
+.utilityLinks a{
+  color:#788177;
+  font:900 .45rem/1 var(--da-mono);
+  letter-spacing:.10em;
+  text-transform:uppercase;
+}
+.utilityLinks a:hover{color:var(--da-acid)}
+.methodHeader{
+  position:relative;
+  padding:30px 0 22px!important;
+  border-bottom:1px solid rgba(231,233,225,.14)!important;
+  background:linear-gradient(180deg,#101310,#0b0d0b)!important;
+}
+.methodHeader .eyebrow{
+  color:var(--da-acid)!important;
+  font:900 .48rem/1 var(--da-mono)!important;
+  letter-spacing:.15em!important;
+  text-transform:uppercase;
+}
+.methodHeader h1{
+  color:#f3f5ee!important;
+  font-size:clamp(3rem,8vw,7rem)!important;
+  line-height:.8!important;
+  letter-spacing:-.09em!important;
+}
+.methodHeader .lede{
+  color:#868e83!important;
+  font:650 .74rem/1.65 var(--da-mono)!important;
+}
+.introGrid,.methodGrid,.rows,.introRows{
+  gap:8px!important;
+}
+.panel.dark{
+  border-color:rgba(231,233,225,.14)!important;
+  background:linear-gradient(180deg,#11150f,#0b0e0a)!important;
+  color:#dce2d8!important;
+}
+.panel.dark .label{color:#6f786b!important}
+.panel.dark h2,.panel.dark h3{color:#edf1e9!important}
+.action{
+  min-height:34px;
+  transition:transform .14s ease,filter .14s ease,border-color .14s ease,background .14s ease;
+}
+.action:hover{transform:translateY(-1px)}
+.notFoundPage{
+  min-height:100vh;
+  display:grid;
+  place-items:center;
+}
+.notFoundPanel{
+  max-width:900px;
+  margin:40px auto;
+  padding:42px!important;
+}
+.notFoundTitle{
+  margin:7px 0 12px;
+  color:#f3f5ee;
+  font-size:clamp(3rem,7vw,6rem);
+  line-height:.82;
+  letter-spacing:-.09em;
+}
+.notFoundPanel>p{
+  max-width:620px;
+  color:#858d82;
+  font:650 .74rem/1.65 var(--da-mono);
+}
+.notFoundSearch{
+  margin-top:28px;
+}
+.notFoundSearchRow{
+  display:flex;
+  gap:6px;
+}
+.notFoundSearchRow input{
+  flex:1;
+  min-width:0;
+  padding:11px 12px;
+  border:1px solid #475044;
+  border-radius:2px;
+  background:#141812;
+  color:#e8ede4;
+}
+@media(max-width:760px){
+  .specimenSurface{padding-top:44px}
+  .specimenIndexMark{left:10px;right:10px}
+  .notFoundPanel{padding:26px!important}
+  .notFoundSearchRow{flex-direction:column}
+}
