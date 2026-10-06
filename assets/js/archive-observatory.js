@@ -108,7 +108,17 @@ function renderObservatory(data,facets){
   $('familyStats').innerHTML='<div class="familyStatLead"><strong>'+families.toLocaleString()+'</strong><span>documented parent records with connected versions</span></div><div class="familyStatLead"><strong>'+totalFamilyRecords.toLocaleString()+'</strong><span>canonical records carrying version ancestry</span></div><div class="familyLeaderList">'+familyLeaders.map(([name,count])=>'<a href="./builder.html?builder='+encodeURIComponent(name)+'"><span>'+esc(name)+'</span><strong>'+count.toLocaleString()+'</strong></a>').join('')+'</div>';
 }
 
-Promise.all([loadCatalog(),loadFacets()]).then(([data,facets])=>renderObservatory(data,facets)).catch(error=>{
-  document.getElementById('observatoryMetrics').innerHTML='<div class="empty"><strong>Observatory unavailable</strong><p>The canonical archive could not be loaded.</p></div>';
-  console.error(error);
-});
+function bootObservatory(){
+  if(typeof loadCatalog!=='function'||typeof loadFacets!=='function'){
+    window.setTimeout(bootObservatory,25);
+    return;
+  }
+  Promise.all([loadCatalog(),loadFacets()])
+    .then(([data,facets])=>renderObservatory(data,facets))
+    .catch(error=>{
+      const target=document.getElementById('observatoryMetrics');
+      if(target)target.innerHTML='<div class="empty"><strong>Observatory unavailable</strong><p>The canonical archive could not be loaded.</p></div>';
+      console.error(error);
+    });
+}
+bootObservatory();
