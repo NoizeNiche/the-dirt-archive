@@ -2119,3 +2119,62 @@ main{position:relative;padding:20px 0 72px}
 @media(max-width:899px){
   .referenceHeroPoster{display:none}
 }
+
+
+/* Deterministic reference-hero hardening.
+   The poster is the sole visual hero on desktop; legacy hero markup remains
+   only as an invisible interaction layer for search/navigation hit areas. */
+@media(min-width:900px){
+  body.referenceHeroLoaded .archiveHero{
+    position:relative;
+    width:100%;
+    height:auto;
+    min-height:0;
+    aspect-ratio:1600/945;
+    padding:0;
+    overflow:hidden;
+    background:#090b09;
+    border:0;
+  }
+  body.referenceHeroLoaded .archiveHero::before,
+  body.referenceHeroLoaded .archiveHero::after{
+    display:none!important;
+  }
+  body.referenceHeroLoaded .referenceHeroPoster{
+    position:absolute;
+    inset:0;
+    z-index:1;
+    display:block!important;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    object-position:center top;
+  }
+  body.referenceHeroLoaded .archiveHeroGrid{
+    position:absolute!important;
+    inset:0!important;
+    z-index:5;
+    display:block!important;
+    min-height:0!important;
+  }
+  body.referenceHeroLoaded .archiveHeroCopy{
+    position:absolute!important;
+    inset:0!important;
+    z-index:6;
+    max-width:none;
+    pointer-events:none;
+  }
+  body.referenceHeroLoaded .archiveHeroKicker,
+  body.referenceHeroLoaded #archiveHeroTitle,
+  body.referenceHeroLoaded .archiveHeroLead,
+  body.referenceHeroLoaded .archiveSearchHint,
+  body.referenceHeroLoaded .archiveHeroTopline,
+  body.referenceHeroLoaded .archiveHeroMark,
+  body.referenceHeroLoaded .archiveTicker{
+    display:none!important;
+  }
+  body.referenceHeroLoaded .archiveSearchStage,
+  body.referenceHeroLoaded .archiveHeroActions{
+    pointer-events:auto;
+  }
+}
