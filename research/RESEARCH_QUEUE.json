@@ -7,13 +7,16 @@
   "counts": {
     "total": 4200,
     "researched": 4200,
-    "pictured": 4196,
-    "complete": 4196,
+    "pictured": 4200,
+    "complete": 4200,
     "research_pending": 0,
     "deep_research_pending": 0,
     "deep_researched": 4200,
-    "surface_ready": 4200
+    "surface_ready": 4200,
+    "researched_photo_pending": 0,
+    "photo_pending": 0
   },
   "next_target": null,
-  "working_set": []
+  "working_set": [],
+  "last_run_at": "2026-10-05T18:15:00+00:00"
 }

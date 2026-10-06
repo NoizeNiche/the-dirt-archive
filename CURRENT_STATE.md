@@ -10,10 +10,10 @@ The archive is in **Photo Recovery & Production QA**.
 
 - Canonical catalog: **4,200 records**
 - Research: **4,200 / 4,200 deep-researched**
-- Exact local photos: **4,196 / 4,200**
-- Exact-photo backlog: **4 records**
+- Exact local photos: **4,200 / 4,200**
+- Exact-photo backlog: **0 records**
 - Research backlog: **0**
-- Remaining launch gates: **exact-photo recovery and final production QA**
+- Remaining launch gate: **final production QA**
 
 The four remaining photo gaps are tracked in `research/PHOTO_BACKLOG.csv`. An unresolved exact photo stays unresolved rather than being replaced with another pedal, version, clone, or guessed image.
 
@@ -46,13 +46,13 @@ All dated sections below are preserved for project history. They are not current
 
 The active production phase is **Photo Recovery & Production QA**. PRP1 is retained only as a legacy publication/closeout mechanism.
 
-Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4196 pictured / 4196 complete / 0 surface-missing / 0 deep-research-pending / 4 researched-photo-pending**.
+Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 research-linked / 4200 pictured / 4200 complete / 0 surface-missing / 0 deep-research-pending / 0 researched-photo-pending**.
 
 **Next deep-research target:** None. Research queue is complete.
 
-PRP1 closeout remains separate: 4 researched record(s) still lack an exact local photo.
+PRP1 closeout photo gate is clear: all 4,200 researched records now have an exact local photo.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-10-05T13:57:37.720805+00:00
+Last refreshed: 2026-10-05T18:15:00.000000+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints

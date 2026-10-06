@@ -10,8 +10,8 @@ The repository is the source of truth for the archive. Canonical catalog data, r
 
 - **Canonical catalog:** 4,200 records
 - **Research:** 4,200 deep-researched records
-- **Exact local photos:** 4,196
-- **Current launch gate:** 4 exact-photo records remain unresolved
+- **Exact local photos:** 4,200
+- **Current launch gate:** exact-photo recovery is clear; final production QA remains
 - **Production origin:** GitHub Pages
 - **Planned edge layer:** Cloudflare in front of the Pages origin once a custom domain is configured
 
