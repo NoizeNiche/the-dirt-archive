@@ -48,6 +48,8 @@ jobs:
       - name: Clear known-invalid photo state
         run: python scripts/reset-photo-recovery-targets.py
 
+      - name: Reattach recovered local photo assets
+        run: python scripts/reconcile-local-photo-assets.py
 
       - name: Synchronize tracker from canonical catalog
         run: python scripts/sync-prp-tracker.py
