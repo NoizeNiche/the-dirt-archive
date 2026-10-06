@@ -203,6 +203,30 @@ def main():
             pedal = str(row.get("Pedal") or "").strip()
             if builder and pedal:
                 manual_verified_keys.add((builder, pedal))
+
+    # Owner-confirmed photos supplied directly to the archive are also manual
+    # identity evidence. This lets a known-good user photograph survive a
+    # byte-collision quarantine without weakening the quarantine for unreviewed
+    # photos.
+    try:
+        with (Path("research/PHOTO_USER_PROVIDED.csv")).open(newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                builder = str(row.get("Builder") or "").strip()
+                pedal = str(row.get("Pedal") or "").strip()
+                local_image = str(row.get("Local Image") or "").strip()
+                origin = str(row.get("Origin") or "").strip().lower()
+                confirmation = str(row.get("Identity Confirmation") or "").strip()
+                if (
+                    builder
+                    and pedal
+                    and local_image.startswith("./assets/pedals/")
+                    and "user-provided image" in origin
+                    and confirmation
+                ):
+                    manual_verified_keys.add((builder, pedal))
+    except Exception:
+        pass
+
     identity_quarantine = load_identity_quarantine()
     hash_quarantine = load_hash_quarantine()
     current_run_accepted_keys = load_current_run_accepted_keys()
