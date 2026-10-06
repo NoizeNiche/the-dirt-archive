@@ -1871,3 +1871,41 @@ main{position:relative;padding:20px 0 72px}
   .heroArtworkLabel{top:0;right:0}
   .archiveHeroCode{display:none}
 }
+
+/* Reference-match hero proportions and density */
+@media(min-width:1200px){
+  .archiveHero{
+    min-height:880px;
+    padding-left:58px;
+    padding-right:58px;
+  }
+  .archiveHeroGrid{
+    grid-template-columns:minmax(0,1.02fr) minmax(540px,.98fr);
+    gap:38px;
+    min-height:730px;
+  }
+  .archiveHeroCopy h2{
+    font-size:clamp(5rem,8.6vw,9.6rem);
+    line-height:.77;
+  }
+  .archiveHeroLead{
+    max-width:700px;
+    font-size:.78rem;
+  }
+  .archiveSearchStage{
+    max-width:930px;
+  }
+  .archiveHeroMark{
+    min-height:680px;
+    margin-right:-34px;
+  }
+  .heroPedalArtwork{
+    inset:-1% -10% -2% -13%;
+    width:124%;
+    height:104%;
+  }
+  .archiveHeroReadout{
+    right:0;
+    bottom:15%;
+  }
+}
