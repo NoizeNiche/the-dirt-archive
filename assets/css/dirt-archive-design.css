@@ -3185,3 +3185,68 @@ main{
   color:#a9b0a5!important;
   font-size:.47rem!important;
 }
+
+
+/* ---------------------------------------------------------
+   PHOTO VIEWER / museum-style inspection
+   --------------------------------------------------------- */
+.photoImage.photoZoomable{
+  cursor:zoom-in;
+}
+.photoLightbox{
+  width:min(94vw,1200px);
+  max-width:none;
+  padding:12px;
+  border:1px solid #566052;
+  border-radius:8px;
+  background:#0d100c;
+  color:#edf1e9;
+  box-shadow:0 40px 100px rgba(0,0,0,.65);
+}
+.photoLightbox::backdrop{
+  background:rgba(2,3,2,.88);
+  backdrop-filter:blur(8px);
+}
+.photoLightbox form{
+  display:flex;
+  justify-content:flex-end;
+  margin-bottom:6px;
+}
+.photoLightboxClose{
+  border:1px solid #4a5447;
+  border-radius:3px;
+  background:#171b16;
+  color:#dfe5dc;
+  padding:7px 10px;
+  font:900 .48rem/1 var(--da-mono);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  cursor:pointer;
+}
+.photoLightboxClose:hover{
+  border-color:var(--da-acid);
+  color:var(--da-acid);
+}
+.photoLightbox figure{
+  margin:0;
+}
+.photoLightbox img{
+  display:block;
+  width:100%;
+  max-height:78vh;
+  object-fit:contain;
+  border-radius:4px;
+  background:#171b16;
+}
+.photoLightbox figcaption{
+  display:flex;
+  align-items:baseline;
+  gap:9px;
+  margin-top:8px;
+  color:#9aa398;
+  font:700 .56rem/1.25 var(--da-mono);
+}
+.photoLightbox figcaption strong{
+  color:#e7ece4;
+  font-weight:900;
+}
