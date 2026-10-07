@@ -23,6 +23,12 @@ The public experience is now branded **The Dirt Department**, with the working t
 
 The archive is now in **post-launch product hardening**. New changes should be additive and evidence-driven, with the production baseline treated as a known-good state.
 
+## Post-launch Observatory pattern scanner - October 6, 2026
+
+The public Observatory has been extended with a catalog-derived **Pattern Scanner**. It surfaces three research leads without inventing unsupported relationships: repeated multi-facet technical fingerprints across builders, documented technical changes between version-linked parent/child records, and singleton multi-facet fingerprints worth opening as individual specimens. The scanner is descriptive only and explicitly does not claim circuit equivalence, cloning, or lineage from shared facet combinations.
+
+The production baseline remains **4,200 canonical records / 4,200 deep-researched / 4,200 exact local photos / 0 exact-photo backlog**, with new product work treated as additive post-launch hardening.
+
 ## Source-of-truth recovery order
 
 ```
