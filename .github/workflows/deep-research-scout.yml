@@ -109,6 +109,9 @@ jobs:
       - name: Admit packets
         run: python scripts/admit-deep-research-scout.py
 
+      - name: Validate durable deep-research state
+        run: python scripts/validate-deep-research.py
+
       - name: Checkpoint scout state
         shell: bash
         run: |
