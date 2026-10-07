@@ -41,6 +41,12 @@ The first second-generation forensic research pass is complete for **1981 Invent
 
 Key new findings include the June 2018 first public release/sellout, the documented 1985 Whiteface RAT starting point with fixed preamp and reduced gain, the two-circuit/preamp architecture, internal 18V operation from 9V input, relay/buffered-bypass details, the DRV -> DRV2 family relationship, and several unresolved component-level questions that remain explicitly qualified.
 
+## First two deep dossier checkpoints - October 6, 2026
+
+Second-generation forensic research has now been completed for the first two canonical records: **1981 Inventions - DRV** and **1981 Inventions - DRV MOD 1**. Their durable source packets live in `research/DEEP_RESEARCH_INBOX/1981_Inventions/`, their dossiers live in `research/dossiers/1981 Inventions/`, and their existing public research records have been enriched with the strongest verified historical and technical findings.
+
+The work is proceeding strictly in canonical order, one exact Builder + Pedal identity at a time. Component-level uncertainty remains explicitly qualified rather than filled by inference.
+
 ## Source-of-truth recovery order
 
 ```
