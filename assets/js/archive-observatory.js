@@ -121,7 +121,7 @@ function obsTechnicalGroups(item,records){
 function obsTechnicalSignature(item,records){
   const groups=obsTechnicalGroups(item,records);
   const ordered=['transistor','clipping','power'].filter(group=>groups[group]?.length);
-  if(!ordered.length)return null;
+  if(ordered.length<2)return null;
   const key=ordered.map(group=>group+'='+groups[group].map(v=>v.toLowerCase()).sort().join('|')).join('||');
   const label=ordered.map(group=>group[0].toUpperCase()+group.slice(1)+': '+groups[group].join(' · ')).join(' / ');
   return {key,label,groups};
