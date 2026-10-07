@@ -82,7 +82,7 @@ Live catalog: **4200 total / 4200 surface-ready / 4200 deep-researched / 4200 re
 
 PRP1 closeout has no researched-photo blockers.
 The research queue is generated from the canonical catalog and tracker; do not hand-edit the derived queue.
-Last refreshed: 2026-10-06T01:34:47.992158+00:00
+Last refreshed: 2026-10-07T00:36:19.904755+00:00
 <!-- AUTO:RESEARCH_PHASE_END -->
 
 ## Historical checkpoints
