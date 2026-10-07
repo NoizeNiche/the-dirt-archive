@@ -1,53 +1,55 @@
 # 1981 Inventions — DRV MOD 2 HYPERFADE
 
-## PRP identity
+## Research status
 
-- **Archive parent:** DRV MOD 2 HYPERFADE
-- **Builder:** 1981 Inventions
-- **Catalog type:** Distortion
-- **Identity:** 1981 Inventions DRV MOD 2 with the HYPERFADE presentation. [1]
+- Research phase: Variant classification note
+- Builder: 1981 Inventions
+- Pedal: DRV MOD 2 HYPERFADE
+- Canonical role: **COSMETIC VARIANT**
+- Parent model: **DRV MOD 2**
+- Variant type: **Colorway / graphic edition**
+- Research date: 2026-10-06
 
-## What this pedal is
+## Identity classification
 
-The DRV MOD 2 HYPERFADE is the MOD 2 version of the DRV circuit, presented in a black enclosure with HYPERFADE print. The builder describes MOD 2 as using a larger input capacitor and hybrid BAT41/LED clipping for a fuller, more aggressive response. [1]
+The evidence reviewed does not establish DRV MOD 2 HYPERFADE as a separate circuit or engineering revision. 1981 Inventions presents the underlying product as DRV MOD 2, and the available product descriptions define the MOD 2 modification by its larger input capacitor and BAT41/LED hybrid clipping. [1] A specialist dealer likewise describes the Hyperfade unit explicitly as **DRV Overdrive - MOD 2** with Hyperfade artwork. [2]
 
-## Colorways
+Accordingly, the archive displays HYPERFADE inside the **DRV MOD 2** page as a color/graphic variant while preserving the exact photograph and product provenance.
 
-- Black enclosure with **HYPERFADE** print is explicitly documented. [1]
+## What is documented
 
-## Circuit / architecture
-
+- Parent circuit: **DRV MOD 2**. [1]
 - Larger input capacitor for substantially more low-end content. [1]
-- Hybrid clipping with **BAT41** and **LED** devices. [1]
-- 9V or 18V operation is documented. [1]
-- Internal bypass switch is documented by the builder. [1]
+- Hybrid **BAT41 + LED** clipping. [1]
+- 9V or 18V operation. [1]
+- Internal switch for true-bypass selection. [1]
+- HYPERFADE refers to the graphic/enclosure presentation in the available descriptions. [1][2]
 
-## Versions and factory options
+## Hidden-difference check
 
-- HYPERFADE is a graphic/presentation of the MOD 2 circuit, not evidence of a separate circuit generation. [1]
-- The builder's current product page identifies the item as DRV MOD 2 in black with HYPERFADE print. [1]
+The variant was checked for the possibility that the Hyperfade edition might conceal a functional revision. No source located in this pass identifies a different control layout, clipping system, power architecture, PCB generation, or other engineering change specific to the Hyperfade presentation.
 
-## Version changes
-
-The HYPERFADE record inherits the MOD 2 circuit changes: the larger input capacitor and BAT41/LED hybrid clipping. The HYPERFADE designation itself is treated as an enclosure/graphic presentation rather than an independent circuit revision. [1]
-
-## Transistor
-
-- Exact production transistor/device part numbers: Unknown.
-
-## Diode
-
-- **BAT41** and **LED** clipping are explicitly documented for MOD 2. [1]
+That is not proof that every unit is identical at every component value. It is the evidence-based reason to classify the catalog entry as a cosmetic variant rather than a separate model.
 
 ## Sound
 
-1981 Inventions describes MOD 2 as huge, warm and aggressive, with strong low-end thump, punchy attack and increased midrange grit. It can produce a cleaner, barely clipping sound at low gain and become progressively more aggressive toward near-fuzz textures. Compared with the standard DRV, the low end is less tight on palm mutes. [1]
+The sound description belongs to the MOD 2 parent record: fuller low end, hybrid BAT41/LED clipping, greater aggression, substantial low-end thump, punchy attack, and increasingly aggressive behavior as gain rises. [1]
 
 ## Sources checked
 
-1. 1981 Inventions — DRV MOD 2 HYPERFADE: https://1981inventions.com/products/drv-mod-2-hyperfade
-2. Effects Database — 1981 Inventions DRV: https://www.effectsdatabase.com/model/1981inventions/drv
+1. **1981 Inventions — DRV MOD 2 HYPERFADE**  
+   https://1981inventions.com/products/drv-mod-2-hyperfade
+
+2. **Jack's Guitarcheology — 1981 Inventions DRV Overdrive MOD 2 (Black and Hyperfade)**  
+   https://www.jacksguitarcheology.com/shop/c/p/1981-Inventions-DRV-Overdrive---MOD-2-NEW-Black-and-Hyperfade-x104187571.htm
+
+3. **1981 Inventions — DRV MOD 2 TEAL**  
+   https://1981inventions.com/products/drv-mod-2
+
+## Conclusion
+
+**DRV MOD 2 HYPERFADE is retained as an exact visual/product-provenance record, but it is not treated as an independent research identity.** Its canonical parent is DRV MOD 2 and its variation type is colorway/graphic edition.
 
 ## Photo
 
-- **Archive status:** **Exact Photo Pending**
+- **Archive status:** Exact Photo Pending.
