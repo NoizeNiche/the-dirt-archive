@@ -14,6 +14,16 @@
 Document the exact model identity, aliases, product codes, naming variants, and any identity traps.
 
 State clearly when similarly named records are different models.
+## 1A. Identity classification gate
+
+- **Classification:** MODEL / VERSION / COSMETIC VARIANT / MATERIAL VARIANT / UNCERTAIN
+- **Parent model, when applicable:**
+- **Variant/edition name, when applicable:**
+- **Why this is or is not a separate research identity:**
+- **Evidence checked against sibling records:**
+
+A color, artwork, finish, retailer name, event edition, or knob treatment must not be promoted to a separate pedal identity without evidence of a material functional or historical distinction. Explicit V2/V3/Mk/revision language is treated as a distinct identity until investigated.
+
 
 ## 2. Chronology and versions
 
