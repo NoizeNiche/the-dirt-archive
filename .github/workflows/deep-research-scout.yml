@@ -1,0 +1,131 @@
+name: Deep research scout
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Number of pedals to scout (1-4)"
+        required: true
+        default: "4"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dirt-deep-research-scout
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    name: Select canonical research targets
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      matrix: ${{ steps.targets.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build durable deep-research tracker
+        run: python scripts/build-deep-research-tracker.py
+
+      - id: targets
+        shell: bash
+        env:
+          REQUESTED_COUNT: ${{ inputs.count }}
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import csv
+          import json
+          import os
+          from pathlib import Path
+
+          requested = int(os.environ.get("REQUESTED_COUNT", "4"))
+          count = max(1, min(4, requested))
+          with Path("research/DEEP_RESEARCH_TRACKER.csv").open(newline="", encoding="utf-8") as handle:
+              rows = list(csv.DictReader(handle))
+
+          selected = [
+              {"builder": row["Builder"], "pedal": row["Pedal"]}
+              for row in rows
+              if row.get("Status") in {"PENDING", "SCOUT_FAILED"}
+          ][:count]
+
+          matrix = {"include": [{"targets": [target]} for target in selected]}
+          print("matrix=" + json.dumps(matrix, ensure_ascii=False, separators=(",", ":")))
+          print(
+              "Selected",
+              len(selected),
+              "canonical deep-research target(s).",
+              file=os.sys.stderr,
+          )
+          PY
+
+  scout:
+    name: Scout pedal ${{ strategy.job-index }}
+    needs: prepare
+    if: ${{ needs.prepare.outputs.matrix != '' }}
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Gather bounded source packet
+        env:
+          RESEARCH_WORKER_INDEX: ${{ strategy.job-index }}
+          RESEARCH_WORKER_COUNT: "1"
+          RESEARCH_TARGETS_PER_WORKER: "1"
+          RESEARCH_TARGETS_JSON: ${{ toJSON(matrix.targets) }}
+          RESEARCH_REQUEST_TIMEOUT_MS: "7000"
+        run: node scripts/research-evidence-gather.mjs
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: deep-research-scout-${{ strategy.job-index }}
+          path: artifact/research-evidence.json
+          if-no-files-found: warn
+          retention-days: 3
+
+  admit:
+    name: Admit durable scout packets
+    needs: scout
+    if: ${{ needs.scout.result == 'success' || needs.scout.result == 'failure' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build durable deep-research tracker
+        run: python scripts/build-deep-research-tracker.py
+
+      - uses: actions/download-artifact@v8
+        with:
+          path: research-evidence
+
+      - name: Admit packets
+        run: python scripts/admit-deep-research-scout.py
+
+      - name: Checkpoint scout state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add research/DEEP_RESEARCH_TRACKER.csv research/DEEP_RESEARCH_INBOX
+          if git diff --cached --quiet; then
+            echo "No scout state changed."
+            exit 0
+          fi
+          git commit -m "Checkpoint deep research scout packets"
+
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin main; then
+              echo "Deep research scout checkpoint published."
+              exit 0
+            fi
+            echo "Scout checkpoint race; retrying."
+          done
+          exit 1
