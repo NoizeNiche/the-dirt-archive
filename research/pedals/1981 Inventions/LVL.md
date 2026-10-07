@@ -52,3 +52,24 @@ The LVL is aimed at low-gain, responsive drive and stacking. Its intended range 
 ## Photo
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
+
+
+## Deep research verification
+
+### Identity classification
+**LVL is a distinct model**, not a colorway of the DRV. 1981 Inventions described it as a “new circuit entirely” and its second official release after DRV. The launch was the culmination of a four-year development process with John Snyder of Electronic Audio Experiments. [1][2]
+
+### Controls and documented architecture
+The launch documentation establishes a two-control interface: LVL is the gain/level control and VOL is master output. The circuit combines light clipping with op-amp push, and the builder explicitly designed it as a low-gain, full-range overdrive for guitar, bass and other electronic instruments. [1]
+
+### Technical reconstruction
+A third-party Effects Layouts reconstruction describes a buffered front end, a 1458 op-amp stage, subsequent op-amp gain/tone-shaping stages using LM833 devices, and diodes acting as a limiter rather than ordinary clipping. This is a hobbyist reconstruction, not a factory schematic, so component details remain qualified accordingly. [3]
+
+### Editions
+The catalog contains a commemorative **Forget and Not Slow Down LVL** edition. First-party copy explicitly calls it the “LVL - Forget and Not Slow Down edition” and says the pedal uses LVL's existing circuit; its distinctions are artwork, enclosure treatment and included printed materials. [4] This should be treated as an LVL edition rather than a separate model.
+
+### Sources
+1. 1981 Inventions - LVL: https://1981inventions.com/products/forget-lvl
+2. Premier Guitar - 1981 Inventions Announces the LVL: https://www.premierguitar.com/news/1981-inventions-lvl
+3. Effects Layouts - 1981 Inventions LVL: https://effectslayouts.blogspot.com/2023/11/1981-inventions-lvl.html
+4. 1981 Inventions - Forget and Not Slow Down LVL: https://1981inventions.com/products/forget-lvl
