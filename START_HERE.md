@@ -31,6 +31,16 @@ When resuming after an interruption:
 
 **Recovery rule: the repository remembers; the chat does not.**
 
+## Deep research phase
+
+For second-generation pedal research, use `docs/DEEP_RESEARCH_PROTOCOL.md` and `research/DEEP_RESEARCH_TEMPLATE.md`.
+
+The bounded scout workflow is `.github/workflows/deep-research-scout.yml`. It selects the next 1–4 canonical records, scouts one pedal per worker, and checkpoints source packets into `research/DEEP_RESEARCH_INBOX`. It does not publish canonical research automatically.
+
+The durable tracker is `research/DEEP_RESEARCH_TRACKER.csv`. Use `scripts/validate-deep-research.py` before accepting a dossier as `COMPLETE`.
+
+The critical recovery rule is: **one pedal -> one dossier -> one checkpoint**.
+
 ## 3. Current mission
 
 The active production phase is **Photo Recovery & Production QA**. The canonical research queue is complete, and the remaining researched records are being pushed through exact-photo recovery.
