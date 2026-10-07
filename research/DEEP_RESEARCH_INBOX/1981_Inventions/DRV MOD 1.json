@@ -1,0 +1,42 @@
+{
+  "status": "SCOUTED",
+  "scoutedAt": "2026-10-06",
+  "builder": "1981 Inventions",
+  "pedal": "DRV MOD 1",
+  "catalogType": "Distortion",
+  "sourceCount": 5,
+  "distinctHostCount": 5,
+  "strongSourceCount": 4,
+  "sources": [
+    {
+      "url": "https://1981inventions.com/products/drv-mod-1",
+      "source_kind": "manufacturer",
+      "title": "DRV MOD 1 (WHITE) – 1981 Inventions",
+      "excerpt": "Manufacturer identifies the product as the original V1 circuit configuration, technically a prototype, with through-hole components on the original PCB, OPA2134 option, zero-gain mode, current hand assembly in Nashville and 9V standard power."
+    },
+    {
+      "url": "https://matthewhoopes.substack.com/p/drv-mod-1",
+      "source_kind": "designer",
+      "title": "DRV MOD 1",
+      "excerpt": "Matthew Hoopes documents the MOD 1 deep dive and approximately 100-unit final run, plus TL072, NE5532 and OPA2134 socketed op-amp choices and their described tonal differences."
+    },
+    {
+      "url": "https://blog.thepedalcollaborative.com/which-1981-inventions-drv-are-you/",
+      "source_kind": "independent_comparison",
+      "title": "Which 1981 Inventions DRV Are You??",
+      "excerpt": "Independent comparison distinguishes MOD 1 from OG DRV and other DRV variants; describes zero-gain mode as preamp-only operation."
+    },
+    {
+      "url": "https://reverb.com/item/95093530-1981-inventions-drv-overdrive-mod-1",
+      "source_kind": "secondary_product_record",
+      "title": "1981 Inventions DRV Overdrive MOD 1",
+      "excerpt": "Secondary listing reproduces three interchangeable op-amp choices and compares MOD 1 as darker, warmer and fatter than standard DRV."
+    },
+    {
+      "url": "https://forum.pedalpcb.com/threads/informant-drv-mod-1.24029/",
+      "source_kind": "technical_community",
+      "title": "informant / DRV MOD 1",
+      "excerpt": "Community technical analysis discusses the reduced-gain modification and reproduces the official op-amp options. Treated as supporting technical evidence, not primary production documentation."
+    }
+  ]
+}
