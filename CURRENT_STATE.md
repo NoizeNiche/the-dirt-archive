@@ -35,6 +35,12 @@ Second-generation pedal research now has its own timeout-safe workflow. `.github
 
 Final dossier writing is intentionally separate from scouting and remains one pedal at a time. `research/DEEP_RESEARCH_TRACKER.csv` stores durable state, `research/DEEP_RESEARCH_TEMPLATE.md` defines the dossier contract, and `scripts/validate-deep-research.py` verifies completed dossier structure. Scout evidence is never auto-promoted into a completed deep dossier.
 
+## First deep dossier checkpoint - October 6, 2026
+
+The first second-generation forensic research pass is complete for **1981 Inventions - DRV**. A durable source packet is stored at `research/DEEP_RESEARCH_INBOX/1981_Inventions/DRV.json`, the full dossier is at `research/dossiers/1981 Inventions/DRV.md`, and the existing public research record at `research/pedals/1981 Inventions/DRV.md` has been enriched with the verified historical, architectural, lineage, and source-reconciliation findings.
+
+Key new findings include the June 2018 first public release/sellout, the documented 1985 Whiteface RAT starting point with fixed preamp and reduced gain, the two-circuit/preamp architecture, internal 18V operation from 9V input, relay/buffered-bypass details, the DRV -> DRV2 family relationship, and several unresolved component-level questions that remain explicitly qualified.
+
 ## Source-of-truth recovery order
 
 ```
