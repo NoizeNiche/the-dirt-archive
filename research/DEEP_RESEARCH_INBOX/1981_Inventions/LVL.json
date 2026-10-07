@@ -1,0 +1,49 @@
+{
+  "status": "COMPLETE",
+  "researchedAt": "2026-10-06",
+  "builder": "1981 Inventions",
+  "pedal": "LVL",
+  "catalogRole": "model",
+  "identityClassification": "MODEL / VERSION",
+  "sourceCount": 6,
+  "strongSourceCount": 5,
+  "notes": [
+    "LVL is an original second official 1981 circuit, not a DRV colorway.",
+    "Four-year development with John Snyder of Electronic Audio Experiments.",
+    "Two-knob LVL/VOL interface; 9VDC, center-negative, approximately 45mA.",
+    "Technical reconstruction references 1458 and LM833 stages, but is retained as third-party reconstruction rather than factory BOM.",
+    "Forget and Not Slow Down LVL is explicitly an LVL edition and should be nested under LVL."
+  ],
+  "sources": [
+    {
+      "url": "https://1981inventions.com/products/forget-lvl",
+      "type": "first_party",
+      "establishes": "LVL circuit concept, full-range use, four-year development and Forget and Not Slow Down edition relationship"
+    },
+    {
+      "url": "https://www.premierguitar.com/news/1981-inventions-lvl",
+      "type": "specialist_press",
+      "establishes": "June 2023 launch, two controls, dimensions, 9VDC and current draw"
+    },
+    {
+      "url": "https://effectslayouts.blogspot.com/2023/11/1981-inventions-lvl.html",
+      "type": "technical_reconstruction",
+      "establishes": "buffer, 1458/LM833 stage references and limiter interpretation"
+    },
+    {
+      "url": "https://delicious-audio.com/1981-inventions-lvl/",
+      "type": "specialist_reference",
+      "establishes": "new circuit identity, two-knob format and builder notes"
+    },
+    {
+      "url": "https://www.spinmagazine.com/2022/06/relient-k-matt-hoopes-1981-inventions/",
+      "type": "interview",
+      "establishes": "Forget and Not Slow Down / LVL design motivation"
+    },
+    {
+      "url": "https://reverb.com/news/1981-inventions-launches-second-ever-pedal-lvl-full-range-overdriver",
+      "type": "specialist_press",
+      "establishes": "LVL as second official product and four-year development context"
+    }
+  ]
+}
