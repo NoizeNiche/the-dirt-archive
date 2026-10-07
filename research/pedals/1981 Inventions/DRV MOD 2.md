@@ -13,8 +13,9 @@ DRV MOD 2 is a modified DRV distortion circuit with a substantially larger input
 
 ## Colorways
 
-- The cited builder page documents this MOD 2 in black with bright teal print. [1]
-- Other MOD 2 artwork editions are preserved elsewhere in the archive and are not assumed to be identical cosmetic runs.
+- **Black / bright teal print:** documented by 1981 Inventions as DRV MOD 2 TEAL. [1]
+- **Black / HYPERFADE print:** documented as DRV MOD 2 HYPERFADE and treated as a color/graphic variant of MOD 2, not a separate circuit generation. [2]
+- Other MOD 2 artwork editions should be checked the same way before being promoted to separate models.
 
 ## Controls and architecture
 
@@ -24,9 +25,14 @@ DRV MOD 2 is a modified DRV distortion circuit with a substantially larger input
 - Internal switch can select true-bypass operation. [1]
 - 9V or 18V standard pedal power is documented for this version. [1]
 
+## Colorways & Editions
+
+- **DRV MOD 2 TEAL:** black enclosure with bright teal print. [1]
+- **DRV MOD 2 HYPERFADE:** black enclosure with HYPERFADE print. Available evidence does not identify a separate engineering change for the Hyperfade presentation. [2]
+
 ## Versions and factory options
 
-- **DRV MOD 2 TEAL** is a documented presentation of MOD 2. [1]
+- Teal and Hyperfade are treated as MOD 2 color/graphic variants unless future evidence documents a material functional change.
 - The MOD 2 circuit is positioned by the builder between the standard DRV circuit and its bass-oriented modification. [1]
 
 ## Version changes
@@ -49,6 +55,7 @@ The builder describes MOD 2 as huge, warm, loud and punchy, with more midrange g
 ## Sources checked
 
 1. 1981 Inventions — DRV MOD 2 TEAL: https://1981inventions.com/products/drv-mod-2
+2. 1981 Inventions — DRV MOD 2 HYPERFADE: https://1981inventions.com/products/drv-mod-2-hyperfade
 
 ## Photo
 
