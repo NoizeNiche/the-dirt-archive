@@ -29,6 +29,12 @@ The public Observatory has been extended with a catalog-derived **Pattern Scanne
 
 The production baseline remains **4,200 canonical records / 4,200 deep-researched / 4,200 exact local photos / 0 exact-photo backlog**, with new product work treated as additive post-launch hardening.
 
+## Deep research infrastructure checkpoint - October 6, 2026
+
+Second-generation pedal research now has its own timeout-safe workflow. `.github/workflows/deep-research-scout.yml` selects only the next 1–4 canonical records, runs one bounded evidence scout per pedal with at most two concurrent workers, and checkpoints source packets into `research/DEEP_RESEARCH_INBOX`.
+
+Final dossier writing is intentionally separate from scouting and remains one pedal at a time. `research/DEEP_RESEARCH_TRACKER.csv` stores durable state, `research/DEEP_RESEARCH_TEMPLATE.md` defines the dossier contract, and `scripts/validate-deep-research.py` verifies completed dossier structure. Scout evidence is never auto-promoted into a completed deep dossier.
+
 ## Source-of-truth recovery order
 
 ```
