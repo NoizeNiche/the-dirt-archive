@@ -1,3 +1,9 @@
+## Post-launch product hardening checkpoint - October 6, 2026
+
+The archive has crossed into post-launch product hardening. The Observatory now includes a **Pattern Scanner** built entirely from canonical catalog + structured facet data. It surfaces recurring multi-facet fingerprints across builders, fully documented technical drift between linked versions, and singleton multi-facet specimens. Shared facts are intentionally not presented as circuit-equivalence or clone claims.
+
+The launch baseline remains 4,200 canonical records, 4,200 deep-researched records, 4,200 exact local photos, and an empty exact-photo backlog.
+
 ## Finish-line photo recovery checkpoint - October 3, 2026 (113 remaining)
 The canonical catalog is **4,200 records**, with **4,087 pictured / 4,087 complete** and **113 researched-photo-pending**. The research queue is complete. Recent recovery batches have continued to publish exact local photos while strict identity and photo-integrity gates remain active.
 ## Finish-line photo recovery checkpoint - October 3, 2026
