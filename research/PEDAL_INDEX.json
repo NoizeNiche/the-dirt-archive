@@ -72,7 +72,11 @@
       "research_record": "./research/pedals/1981 Inventions/DRV MOD 2 HYPERFADE.md",
       "image_source_url": "https://1981inventions.com/cdn/shop/files/DSCF5535.jpg?v=1784417360&width=1946",
       "research_level": "deep",
-      "deep_research_status": "VERIFIED"
+      "deep_research_status": "VERIFIED",
+      "catalog_role": "variation",
+      "parent_pedal": "DRV MOD 2",
+      "variation_type": "colorway",
+      "variation_name": "Hyperfade"
     },
     {
       "company": "1981 Inventions",
