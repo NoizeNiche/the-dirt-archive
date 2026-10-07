@@ -56,9 +56,9 @@ The tracker is derived from the canonical catalog, but its status is durable wor
 Before opening a full dossier, perform an **identity-resolution pass** on nearby catalog records and known editions of the same product family.
 
 Classify the target as exactly one of:
-- **MODEL / VERSION** — a distinct pedal identity or materially different circuit generation
-- **COSMETIC VARIANT** — same documented underlying model/version with a different color, finish, artwork, retailer/event presentation, knob color, or similar non-circuit treatment
-- **MATERIAL VARIANT** — same family name but a documented component, control, power, switching, PCB, or other functional change that warrants separate archival treatment
+- **MODEL / VERSION** — a distinct public identity such as a documented V2/V3/Mk revision, redesigned circuit, or separately named model
+- **COSMETIC VARIANT** — same model/version with a different color, finish, artwork, retailer/event presentation, knob color, or similar non-circuit treatment
+- **FUNCTIONAL VARIANT / EDITION** — same parent model/version identity, but with a documented component, clipping, control, power, switching, PCB, or other functional difference that belongs on the parent page as a documented variant
 - **UNCERTAIN** — evidence is insufficient; preserve the ambiguity rather than guessing
 
 Use these tests before treating a record as a standalone research unit:
@@ -68,12 +68,14 @@ Use these tests before treating a record as a standalone research unit:
 4. Treat **V2, V3, Mk II, revised, redesigned, or similarly explicit revision language as a separate identity until evidence proves otherwise**, even when the artwork/color matches an older version.
 5. Treat a color or graphic name as cosmetic **only after checking that it does not hide a documented functional revision**.
 
-When a record is confirmed as a cosmetic variant:
-- do **not** create a separate full dossier
-- research enough to establish the variant relationship and any historical significance
-- attach it to the parent model as a colorway/edition in the canonical catalog
-- put any unique provenance, release context, or visual details in the parent record's **Colorways & Editions** section
+When a record is confirmed as a **COSMETIC VARIANT** or **FUNCTIONAL VARIANT / EDITION**:
+- do **not** create a separate full model dossier
+- research enough to establish the parent relationship and identify any meaningful difference
+- attach it to the parent model as a colorway/edition/functional variant in the canonical catalog
+- put unique provenance, release context, or variant-specific technical details in the parent record's **Colorways & Editions / Variants** section
 - keep a compact variant note/source trail when useful for archival provenance
+
+A functional variant may still remain a child of the parent page. Do not create a new top-level public model merely because a component changed. The question is whether the builder presents it as a distinct model/version or as a variant/edition of the same parent identity.
 
 This rule applies recursively throughout the catalog. A red, purple, white, black, Hyperfade, retailer edition, or event graphic is **not automatically a new pedal**. Conversely, a V2/V3 or other documented engineering revision is **not automatically the same pedal** merely because it shares the enclosure or colors.
 
