@@ -72,12 +72,14 @@ def main() -> None:
         record = packet_by_key.get(key)
         if not record or row.get("Status") == "COMPLETE":
             continue
-        row["Status"] = "SCOUTED"
+        source_count = int(record.get("sourceCount") or 0)
+        strong_count = int(record.get("strongSourceCount") or 0)
+        row["Status"] = "SCOUTED" if source_count > 0 else "SCOUT_FAILED"
         row["Last Updated"] = now
         row["Notes"] = (
-            f"Scout packet admitted; sources={int(record.get('sourceCount') or 0)}; "
+            f"Scout packet admitted; sources={source_count}; "
             f"hosts={int(record.get('distinctHostCount') or 0)}; "
-            f"strong={int(record.get('strongSourceCount') or 0)}"
+            f"strong={strong_count}"
         )
 
     with TRACKER.open("w", newline="", encoding="utf-8") as handle:
