@@ -1,0 +1,63 @@
+{
+  "status": "COMPLETE",
+  "researchedAt": "2026-10-06",
+  "builder": "1981 Inventions",
+  "pedal": "DRV2",
+  "catalogRole": "model",
+  "identityClassification": "MODEL / VERSION",
+  "sourceCount": 9,
+  "strongSourceCount": 6,
+  "notes": [
+    "Explicit V2 generation, not a cosmetic DRV finish.",
+    "SMT redesign by John Snyder of EAE.",
+    "9V/18V, reduced noise, revised CUT response and more low-end thump.",
+    "Variant audit found both cosmetic and functional DRV2 editions; Hyperfade naming alone is not sufficient to classify a variant."
+  ],
+  "sources": [
+    {
+      "url": "https://matthewhoopes.substack.com/p/drv2-super-secret-leak",
+      "type": "first_party",
+      "establishes": "July 2024 early DRV2 identity and V2 development history"
+    },
+    {
+      "url": "https://1981inventions.com/products/drv2-no3-clear-knob",
+      "type": "first_party",
+      "establishes": "Current DRV2 standard circuit and enclosure, bypass, power and sound description"
+    },
+    {
+      "url": "https://www.jacksguitarcheology.com/shop/Effects-And-Pedals/p/1981-Inventions-DRV-Overdrive-MMHMM-Anniversary-Signed-w-Box-USED-2024---White.htm",
+      "type": "secondary_manufacturer_copy",
+      "establishes": "2024 MMHMM edition used the redesigned V2 circuit and SMT platform"
+    },
+    {
+      "url": "https://www.russomusic.com/products/1981-inventions-drv2-no3-distortion-effect-pedal-white",
+      "type": "specialist_dealer",
+      "establishes": "Three-control interface, CUT behavior, 9V/18V and bypass"
+    },
+    {
+      "url": "https://matthew-hoopes.squarespace.com/items/drvhyperfade-wht",
+      "type": "first_party",
+      "establishes": "DRV2 Hyperfade White and explicit white LED change"
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/1981inventions/drv",
+      "type": "specialist_database",
+      "establishes": "Family of DRV/DRV2 named editions and variants"
+    },
+    {
+      "url": "https://www.edgeofbreakup.studio/?offset=1785125999568",
+      "type": "specialist_demo",
+      "establishes": "DRV2 Blackout white-LED clipping variant"
+    },
+    {
+      "url": "https://reverb.com/item/90224094-1981-pedals-drv2-gold-germanium",
+      "type": "dealer_listing",
+      "establishes": "DRV2 Gold germanium / NOS 1N34A functional variant"
+    },
+    {
+      "url": "https://matthew-hoopes.squarespace.com/",
+      "type": "first_party_catalog",
+      "establishes": "Current DRV2, LED and germanium variant descriptions"
+    }
+  ]
+}
