@@ -51,14 +51,18 @@ jobs:
               if row.get("Status") in {"PENDING", "SCOUT_FAILED"}
           ][:count]
 
-          matrix = {"include": [{"targets": [target]} for target in selected]}
-          print("matrix=" + json.dumps(matrix, ensure_ascii=False, separators=(",", ":")))
-          print(
-              "Selected",
-              len(selected),
-              "canonical deep-research target(s).",
-              file=os.sys.stderr,
-          )
+          if not selected:
+              print("matrix=")
+              print("No pending deep-research targets.", file=os.sys.stderr)
+          else:
+              matrix = {"include": [{"targets": [target]} for target in selected]}
+              print("matrix=" + json.dumps(matrix, ensure_ascii=False, separators=(",", ":")))
+              print(
+                  "Selected",
+                  len(selected),
+                  "canonical deep-research target(s).",
+                  file=os.sys.stderr,
+              )
           PY
 
   scout:
