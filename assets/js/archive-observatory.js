@@ -106,7 +106,6 @@ function renderObservatory(data,facets){
   const familyLeaders=[...familyByBuilder.entries()].sort((a,b)=>b[1]-a[1]).slice(0,8);
   const totalFamilyRecords=versioned;
   $('familyStats').innerHTML='<div class="familyStatLead"><strong>'+families.toLocaleString()+'</strong><span>documented parent records with connected versions</span></div><div class="familyStatLead"><strong>'+totalFamilyRecords.toLocaleString()+'</strong><span>canonical records carrying version ancestry</span></div><div class="familyLeaderList">'+familyLeaders.map(([name,count])=>'<a href="./builder.html?builder='+encodeURIComponent(name)+'"><span>'+esc(name)+'</span><strong>'+count.toLocaleString()+'</strong></a>').join('')+'</div>';
-}
 
   renderPatternScanner(items,records);
 }
