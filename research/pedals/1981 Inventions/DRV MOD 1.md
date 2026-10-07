@@ -5,13 +5,18 @@
 - **Archive parent:** DRV MOD 1
 - **Builder:** 1981 Inventions
 - **Catalog type:** Distortion
-- **Identity:** 1981 Inventions DRV MOD 1 (WHITE), an original V1 DRV configuration.
+- **Identity:** 1981 Inventions DRV MOD 1, the original V1 DRV configuration; White is a documented colorway of this model.
 
 ## What this pedal is
 
-The **DRV MOD 1 (WHITE)** is a deliberately limited version of the DRV built around the original **V1 DRV circuit configuration**. 1981 Inventions describes it as the original configuration for the circuit, technically a prototype, and says the current limited batch uses the original PCB and old-style through-hole construction.
+The **DRV MOD 1** is the original V1 DRV configuration. The currently documented **DRV MOD 1 (WHITE)** is a white-finish presentation of this same model, rather than evidence of a separate circuit generation. 1981 Inventions describes it as the original configuration for the circuit, technically a prototype, and says the current limited batch uses the original PCB and old-style through-hole construction.
 
 The major functional distinction is its **zero-gain mode**. At minimum DRV control, the distortion section is taken out of the signal path almost entirely, leaving the always-on preamp active. This gives the pedal a boost/preamp mode that is substantially different from ordinary DRV operation.
+
+## Colorways & Editions
+
+- **White:** documented by 1981 Inventions as DRV MOD 1 (WHITE). The finish is treated as a colorway, while the V1 circuit, through-hole construction, original PCB, zero-gain mode, and socketed op-amp system define the MOD 1 identity.
+- The current white release is a limited renewed batch and should be distinguished from earlier prototype-era units, but not treated as a separate circuit merely because it is white.
 
 ## History and production context
 
