@@ -445,3 +445,18 @@ The last completed exhaustive detail audit covered 4,199 researched parent pages
 
 Visual/aesthetic redesign is intentionally deferred until these functional and data-quality gates are green.
 
+
+
+## Identity-resolution checkpoint - October 6, 2026
+
+The deep-research pass now treats **identity classification as a required research gate**. A catalog name is not automatically a unique research subject: color, finish, artwork, retailer/event presentation and similar cosmetic treatments belong under the parent when the documented underlying model is unchanged. Explicit V2/V3/Mk/revised/redesigned identities remain separate until investigated, and functional editions can remain child variants when the builder presents them as variants.
+
+Applied to the opening 1981 Inventions records:
+- **DRV MOD 1 (WHITE)** is a colorway of **DRV MOD 1**.
+- **DRV MOD 2 HYPERFADE** is now a colorway of **DRV MOD 2** after no separate engineering change was found for the Hyperfade presentation.
+- **DRV2** is a separate V2 model/version, with explicit redesign evidence, SMT construction, John Snyder/EAE engineering, 9V/18V capability and documented sonic changes.
+- DRV2-family research also surfaced why every edition still needs checking: **DRV2 HYPERFADE WHT** includes an explicit white-LED change, so the name Hyperfade alone cannot be used as a cosmetic classification.
+
+The public detail renderer already resolves variation records back to their parent model and exposes the child under **Colorways & Editions**, so the corrected catalog relationships fit the existing site architecture.
+
+**Next top-level research target:** 1981 Inventions - **Forget and Not Slow Down LVL**.
