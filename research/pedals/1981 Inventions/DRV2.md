@@ -75,3 +75,24 @@ Color and graphic editions are not automatically separate models. The DRV2 famil
 1. Matthew Hoopes — DRV2 Super-Secret LEAK: https://matthewhoopes.substack.com/p/drv2-super-secret-leak
 2. 1981 Inventions — DRV2 No3: https://1981inventions.com/products/drv2-no3-clear-knob
 3. Matthew Hoopes / 1981 Inventions — DRV2 HYPERFADE WHT: https://matthew-hoopes.squarespace.com/items/drvhyperfade-wht
+
+
+## Deep research verification
+
+### Identity classification
+DRV2 is a **distinct V2 model/version**, not merely a finish of the original DRV. First-party material explicitly calls it V2 of the DRV, documents more than a year of redesign work, SMT construction, John Snyder/EAE engineering, 9V/18V capability and lower noise. [1][2]
+
+### Variant rule
+Color and graphic editions are not automatically separate models. The DRV2 family contains both cosmetic editions and functional variants. For example, the first DRV2 Hyperfade White release explicitly changed to a white LED, so the archive treats it as a **functional child variant** rather than assuming that Hyperfade is purely cosmetic. [3]
+
+### Additional verified facts
+- SMT PCB rather than the original through-hole V1 construction. [1]
+- 9V/18V operation and switchable true bypass. [2]
+- More low-end thump, deeper/thicker palm mutes, fatter overall response and a less-bright CUT sweep relative to the earlier V1 sound. [1]
+- Current DRV2 No3 is the builder's standard enclosure and circuit. [2]
+- Standard transistor/op-amp/clipping BOM remains incompletely documented in the reviewed sources.
+
+### Sources
+1. Matthew Hoopes - DRV2 Super-Secret LEAK: https://matthewhoopes.substack.com/p/drv2-super-secret-leak
+2. 1981 Inventions - DRV2 No3: https://1981inventions.com/products/drv2-no3-clear-knob
+3. Matthew Hoopes / 1981 Inventions - DRV2 HYPERFADE WHT: https://matthew-hoopes.squarespace.com/items/drvhyperfade-wht
