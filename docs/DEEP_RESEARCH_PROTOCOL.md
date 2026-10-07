@@ -51,6 +51,34 @@ Allowed states:
 
 The tracker is derived from the canonical catalog, but its status is durable workflow state. It must never replace the catalog as the identity source.
 
+## Identity gate: model, version, or cosmetic variant
+
+Before opening a full dossier, perform an **identity-resolution pass** on nearby catalog records and known editions of the same product family.
+
+Classify the target as exactly one of:
+- **MODEL / VERSION** — a distinct pedal identity or materially different circuit generation
+- **COSMETIC VARIANT** — same documented underlying model/version with a different color, finish, artwork, retailer/event presentation, knob color, or similar non-circuit treatment
+- **MATERIAL VARIANT** — same family name but a documented component, control, power, switching, PCB, or other functional change that warrants separate archival treatment
+- **UNCERTAIN** — evidence is insufficient; preserve the ambiguity rather than guessing
+
+Use these tests before treating a record as a standalone research unit:
+1. Compare exact builder/model naming, version labels, revision numbers, and first-party descriptions.
+2. Search the color/finish name together with the base model and look for explicit statements that it is the same circuit.
+3. Compare controls, power, clipping, op-amps/ICs, PCB/construction, switching, and stated sound where documented.
+4. Treat **V2, V3, Mk II, revised, redesigned, or similarly explicit revision language as a separate identity until evidence proves otherwise**, even when the artwork/color matches an older version.
+5. Treat a color or graphic name as cosmetic **only after checking that it does not hide a documented functional revision**.
+
+When a record is confirmed as a cosmetic variant:
+- do **not** create a separate full dossier
+- research enough to establish the variant relationship and any historical significance
+- attach it to the parent model as a colorway/edition in the canonical catalog
+- put any unique provenance, release context, or visual details in the parent record's **Colorways & Editions** section
+- keep a compact variant note/source trail when useful for archival provenance
+
+This rule applies recursively throughout the catalog. A red, purple, white, black, Hyperfade, retailer edition, or event graphic is **not automatically a new pedal**. Conversely, a V2/V3 or other documented engineering revision is **not automatically the same pedal** merely because it shares the enclosure or colors.
+
+The archive's goal is to represent **real product identities cleanly while preserving the visual and historical richness of the variants**.
+
 ## Scout rules
 
 The Scout should:
