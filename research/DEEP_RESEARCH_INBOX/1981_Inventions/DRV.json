@@ -1,0 +1,84 @@
+{
+  "status": "SCOUTED",
+  "scoutedAt": "2026-10-06",
+  "builder": "1981 Inventions",
+  "pedal": "DRV",
+  "catalogType": "Distortion",
+  "sourceCount": 10,
+  "distinctHostCount": 8,
+  "strongSourceCount": 6,
+  "sources": [
+    {
+      "url": "https://1981inventions.com/pages/about",
+      "source_kind": "manufacturer",
+      "title": "ABOUT – 1981 Inventions",
+      "excerpt": "1981 Inventions is a boutique guitar pedal company founded by Matthew Hoopes and co-run with Laura Hoopes; pedals are built in Nashville by Matthew Hoopes and Jack O'Shea. The DRV is described as the company's mainstay distortion pedal."
+    },
+    {
+      "url": "https://1981inventions.com/pages/faq",
+      "source_kind": "manufacturer",
+      "title": "FAQ – 1981 Inventions",
+      "excerpt": "Current FAQ states standard 9V DC center-negative power for the company's pedals and describes current production as hand assembled/tested in the USA."
+    },
+    {
+      "url": "https://guitar.com/features/interviews/interview-matthew-hoopes-of-1981-inventions/",
+      "source_kind": "interview",
+      "title": "Interview: Matthew Hoopes of 1981 Inventions",
+      "excerpt": "Hoopes says the first public DRV run was released late one night in June 2018 and sold out by morning. He describes the DRV as based on a 1985 Whiteface RAT, with a fixed always-on preamp, about one twentieth the gain of a traditional RAT, and changes to low end, midrange, filter sweep, level, switching, LED and filtering."
+    },
+    {
+      "url": "https://guitar.com/reviews/effects-pedal/review-1981-inventions-drv/",
+      "source_kind": "review",
+      "title": "Review: 1981 Inventions DRV",
+      "excerpt": "Review describes three controls labeled DRV, CUT and VOL, an on/off footswitch and LED, and identifies the 1985 Whiteface RAT as the initial jumping-off point."
+    },
+    {
+      "url": "https://www.effectsdatabase.com/model/1981inventions/drv",
+      "source_kind": "specialist",
+      "title": "1981 Inventions DRV – Effects Database",
+      "excerpt": "Manufacturer-derived description says the pedal has two circuits, one distortion and one preamp boost, running at 18V via an internal voltage regulator, in a steel enclosure with Switchcraft 11 jacks and a soft-touch relay switching system."
+    },
+    {
+      "url": "https://effectslayouts.blogspot.com/2019/06/1981-inventions-drv.html",
+      "source_kind": "technical_secondary",
+      "title": "Perf and PCB Effects Layouts: 1981 Inventions DRV",
+      "excerpt": "Third-party circuit/layout reconstruction identifies a tweaked RAT surrounded by two op-amp gain stages and buffered bypass, with the circuit run at 18V. Comments identify the shown clipping diodes as 1N4148 and the voltage doubler around an LT1054."
+    },
+    {
+      "url": "https://tagboardeffects.blogspot.com/2019/07/1981-inventions-drv.html",
+      "source_kind": "technical_secondary",
+      "title": "Guitar FX Layouts: 1981 Inventions DRV",
+      "excerpt": "Technical discussion describes RAT-like hard clipping and tone behavior but notes the DRV does not have the same slew-rate compensation as a RAT."
+    },
+    {
+      "url": "https://www.1981inventions.com/collections/drv",
+      "source_kind": "manufacturer_collection",
+      "title": "DRV – 1981 Inventions",
+      "excerpt": "Current DRV collection page is active but primarily surfaces later DRV-family products such as DRV2 and DRV MOD versions rather than a standalone original DRV product page."
+    },
+    {
+      "url": "https://1981inventions.com/products/drv2-no3-clear-knob",
+      "source_kind": "manufacturer",
+      "title": "DRV2 No3 – 1981 Inventions",
+      "excerpt": "Current manufacturer page distinguishes DRV2 from the original DRV circuit and says the original was engineered by Jon Ashley while the DRV2 was redesigned/engineered by John Snyder of Electronic Audio Experiments."
+    },
+    {
+      "url": "https://www.spinmagazine.com/2022/06/relient-k-matt-hoopes-1981-inventions/",
+      "source_kind": "interview",
+      "title": "Relient K's Matt Hoopes Found New Success in 1981 Guitar Pedals",
+      "excerpt": "Hoopes says he owns many Tube Screamers and that a 1981 Tube Screamer was personally important; he also identifies a 1985 RAT as monumental to finishing the DRV. The article says the DRV sold out immediately."
+    }
+  ],
+  "research_focus": [
+    "exact identity",
+    "release chronology",
+    "designer/build history",
+    "RAT lineage",
+    "preamp architecture",
+    "18V internal rail from 9V input",
+    "controls",
+    "bypass/switching",
+    "technical reconstruction",
+    "source conflicts"
+  ]
+}
