@@ -53,7 +53,6 @@ The LVL is aimed at low-gain, responsive drive and stacking. Its intended range 
 
 - **Archive status:** Photo recovery is handled separately; no local photo is created by this research cleanup.
 
-
 ## Deep research verification
 
 ### Identity classification

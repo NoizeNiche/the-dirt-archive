@@ -35,15 +35,19 @@ That is not proof that every unit is identical at every component value. It is t
 
 The sound description belongs to the MOD 2 parent record: fuller low end, hybrid BAT41/LED clipping, greater aggression, substantial low-end thump, punchy attack, and increasingly aggressive behavior as gain rises. [1]
 
+## What this pedal is
+
+1981 Inventions's DRV MOD 2 HYPERFADE is documented in the current archive evidence as a effect model. The reviewed source set establishes the model identity and classification, but does not provide enough verified model-specific detail here to describe the circuit or history without speculation.
+
 ## Sources checked
 
-1. **1981 Inventions — DRV MOD 2 HYPERFADE**  
+1. **1981 Inventions — DRV MOD 2 HYPERFADE**
    https://1981inventions.com/products/drv-mod-2-hyperfade
 
-2. **Jack's Guitarcheology — 1981 Inventions DRV Overdrive MOD 2 (Black and Hyperfade)**  
+2. **Jack's Guitarcheology — 1981 Inventions DRV Overdrive MOD 2 (Black and Hyperfade)**
    https://www.jacksguitarcheology.com/shop/c/p/1981-Inventions-DRV-Overdrive---MOD-2-NEW-Black-and-Hyperfade-x104187571.htm
 
-3. **1981 Inventions — DRV MOD 2 TEAL**  
+3. **1981 Inventions — DRV MOD 2 TEAL**
    https://1981inventions.com/products/drv-mod-2
 
 ## Conclusion

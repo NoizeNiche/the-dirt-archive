@@ -137,24 +137,24 @@ This makes MOD 1 a useful bridge record between the original DRV development sto
 
 ### Sources checked
 
-1. **1981 Inventions — DRV MOD 1 (WHITE)**  
-   https://1981inventions.com/products/drv-mod-1  
+1. **1981 Inventions — DRV MOD 1 (WHITE)**
+   https://1981inventions.com/products/drv-mod-1
    Primary source for V1/prototype status, original PCB/through-hole construction, zero-gain mode, OPA2134, power and current-batch construction.
 
-2. **Matthew Hoopes — DRV MOD 1**  
-   https://matthewhoopes.substack.com/p/drv-mod-1  
+2. **Matthew Hoopes — DRV MOD 1**
+   https://matthewhoopes.substack.com/p/drv-mod-1
    Primary first-person source for the three op-amp options and their described tonal differences; states the final run would be around 100 units.
 
-3. **The Pedal Collaborative — Which 1981 Inventions DRV Are You??**  
-   https://blog.thepedalcollaborative.com/which-1981-inventions-drv-are-you/  
+3. **The Pedal Collaborative — Which 1981 Inventions DRV Are You??**
+   https://blog.thepedalcollaborative.com/which-1981-inventions-drv-are-you/
    Independent 2025 comparison of multiple DRV-family configurations, including the OG DRV, MOD 1, White LED and Professional DRV; useful for differentiating the configurations.
 
-4. **Reverb — 1981 Inventions DRV Overdrive MOD 1**  
-   https://reverb.com/item/95093530-1981-inventions-drv-overdrive-mod-1  
+4. **Reverb — 1981 Inventions DRV Overdrive MOD 1**
+   https://reverb.com/item/95093530-1981-inventions-drv-overdrive-mod-1
    Secondary source reproducing the three op-amp options and comparing MOD 1 with standard DRV.
 
-5. **PedalPCB Community — informant / DRV MOD 1**  
-   https://forum.pedalpcb.com/threads/informant-drv-mod-1.24029/  
+5. **PedalPCB Community — informant / DRV MOD 1**
+   https://forum.pedalpcb.com/threads/informant-drv-mod-1.24029/
    Community technical discussion identifying the reduced-gain modification and discussing the relationship of MOD 1 to the DRV-derived circuit. It is useful corroboration but not treated as primary production documentation.
 
 ### Qualifications
